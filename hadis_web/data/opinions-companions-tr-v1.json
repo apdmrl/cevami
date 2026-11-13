@@ -1,0 +1,1460 @@
+{
+  "revision": "companion-opinions-tr-v1",
+  "reviewed_on": "2026-11-01",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "inventory_sha256": "5d3b52ebafaf1f73cfd4bc3d44f3b5eab5691371a78e2e6299737a896255da1c",
+  "policy": "50görüş tek tek Arapçadan aktarıldı;46dil karşılaştırması4eksik kapsam/kesik metin sorunu. Türkçe biyografi tam söz/atıf desteği değildir; yayımlanmış birebir çeviri veya uzman onayı yok.",
+  "sources": {
+    "person1427": {
+      "url": "https://islamansiklopedisi.org.tr/zubeyr-b-avvam",
+      "title": "TDV İslâm Ansiklopedisi: Zübeyr b. Avvâm",
+      "locator": "Başlık; anne Safiyye/baba Avvâm/halası Hatice; hicret/havâri; çocukları ve Cemel sonrası ölüm bölümleri. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person1733": {
+      "url": "https://islamansiklopedisi.org.tr/numan-b-besir",
+      "title": "TDV İslâm Ansiklopedisi: Nu‘mân b. Beşîr",
+      "locator": "Başlık; Amre ve Abdullah b. Revâha; oğul Muhammed; Kûfe/Humus valiliği ve Dımaşk kadılığı/ikamet; Bîrîn ölümü. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person2069": {
+      "url": "https://islamansiklopedisi.org.tr/cabir-b-abdullah",
+      "title": "TDV İslâm Ansiklopedisi: Câbir b. Abdullah",
+      "locator": "Başlık/ilk hayat paragrafı; Ebû Abdurrahman/Ebû Muhammed künyeleri; Hazrec/Benî Selime; Medine’de vefat. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person2650": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-eyyub-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Eyyûb el-Ensârî",
+      "locator": "Başlık Hâlid–Zeyd–Küleyb; ilk hayat paragrafı Hind/Zehrâ bint Sa‘d; Hazrec/Neccâr, Bedir ve Medine; İstanbul seferi/ölüm. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person3142": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-talha-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Talha el-Ensârî",
+      "locator": "Başlık Zeyd–Sehl–Esved; Hazrec/Neccâr ve Ümmü Süleym; Medine, Dımaşk ve denizde ölüm alternatifleri. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person3260": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-said-el-hudri",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Saîd el-Hudrî",
+      "locator": "Başlık Sa‘d–Mâlik–Sinân; Hazrec/Hudre; anne Üneyse bint Ebû Hârise; oğullar Âmir/Abdurrahman ve Medine’de ölüm. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person4018": {
+      "url": "https://islamansiklopedisi.org.tr/talha-b-ubeydullah",
+      "title": "TDV İslâm Ansiklopedisi: Talha b. Ubeydullah",
+      "locator": "Başlık Teymî/Kureşî ve Ebû Muhammed; ilk hayat/hicret; son hayat paragrafında hayr/feyyâz/cûd nitelemeleri. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person4697": {
+      "url": "https://islamansiklopedisi.org.tr/abdullah-b-zubeyr-b-avvam",
+      "title": "TDV İslâm Ansiklopedisi: Abdullah b. Zübeyr b. Avvâm",
+      "locator": "Başlık/ilk hayat, anne Esmâ/teyze Âişe; Medine ve Mekke; oğullar Abbâd/Âmir, Urve ve yeğen Hişâm;73ölümü. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person4840": {
+      "url": "https://islamansiklopedisi.org.tr/abdullah-b-selam",
+      "title": "TDV İslâm Ansiklopedisi: Abdullah b. Selâm",
+      "locator": "Başlık üçlü ad/Ebû Yûsuf; Benî Kaynukā‘/İsrâiloğulları kökeni ve âlimliği; oğullar Muhammed/Yûsuf, Medine’de vefat. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person4980": {
+      "url": "https://islamansiklopedisi.org.tr/abdullah-b-amr-b-as",
+      "title": "TDV İslâm Ansiklopedisi: Abdullah b. Amr b. Âs",
+      "locator": "Başlık/ilk hayat/kunye; Medine, Mısır ve ölüm yeri rivayetleri; torun Şuayb b. Muhammed. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "person5021": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-musa-el-esari",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Mûsâ el-Eş‘arî",
+      "locator": "Başlık/ilk hayat ve anne Zabye; Zebîd/Aden görevi/Kûfe/Basra idareciliği ve Dımaşk çevresi inzivası; ölüm alternatifleri/çocuklar. Web metni okundu; yeni PDF görüntü doğrulaması yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "takrib": {
+      "url": "https://shamela.org/gen/5e84b15d979ad791fc88d6a960d84bea_gen.pdf",
+      "title": "İbn Hacer — Takrîbü’t-Tehzîb, Arapça dijital metin",
+      "locator": "3319Abdullah b. Zübeyr: بالمدينة من المهاجرين sınırı GK kısa özetinde yok. Web PDF metni okundu, sayfa görüntüsü kontrol edilmedi.",
+      "accessed_on": "2026-11-01"
+    },
+    "isaf": {
+      "url": "https://mail.taghrib.org/ar/library/print/1886/14",
+      "title": "Süyûtî — İs‘âfü’l-mübetta’ bi-ricâli’l-Muvatta’, Arapça dijital metin",
+      "locator": "Abdullah b. Zübeyr/yirmi ay ve Medine’de ilk çocuk; Abdullah b. Selâm/İslâm’a giriş, âyetler ve Beytülmakdis/Câbiye bölümleri. Türkçe kitap çevirisi değil.",
+      "accessed_on": "2026-11-01"
+    },
+    "isaf_all": {
+      "url": "https://www.arabic-keyboard.info/books/ar/read-book/إسعاف-المبطأ-برجال-الموطأ",
+      "title": "Süyûtî — İs‘âfü’l-mübetta’ bi-ricâli’l-Muvatta’, tam Arapça dijital metin",
+      "locator": "Abdullah b. Amr: ابنه محمد بخلف ve sonunda Hârre geceleri63/73yaş. GK alıntısı مات ile kesilir; eksik bölüm Türkçe alıntıya eklenmedi.",
+      "accessed_on": "2026-11-01"
+    },
+    "sikat": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/BF/BF859B150659B8A2EB9AB5BE381DCDE1_vol3.pdf",
+      "title": "İbn Hibbân — es-Sikāt3, Arapça dijital metin",
+      "locator": "726Abdullah b. Kays: dört kardeş Ebû Mûsâ/Ebû Âmir/Ebû Bürde/Ebû Ruhm, Kays oğulları. Web PDF metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "checked_sources": [
+    "person1427",
+    "person1733",
+    "person2069",
+    "person2650",
+    "person3142",
+    "person3260",
+    "person4018",
+    "person4697",
+    "person4840",
+    "person4980",
+    "person5021",
+    "takrib",
+    "isaf",
+    "isaf_all",
+    "sikat"
+  ],
+  "inaccessible_candidates": [],
+  "narrators": [
+    {
+      "id": 1427,
+      "expected_opinion_count": 4,
+      "opinions": [
+        {
+          "key": "1427:1011:79e97ce61edc1a596a1e60afcce8d181099154c32b7b3a5af6aaf6e5c0c96e33",
+          "expected_source": {
+            "narrator_id": 1427,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي أحد العشرة ، حواري النبي صلى الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a55a5813eefd93e5b43363436e076bb927497fbecb1020bfacdccfa2a01c9b25",
+          "text": "Takrîb’de: Sahâbî, cennetle müjdelenen on kişiden biri ve Hz. Peygamber’in —Allah’ın salât ve selâmı onun üzerine olsun— havârisidir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1427": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç niteleme ve dua korundu. TDV şahıs/havâri bağlamını destekler; bütün Takrîb atfının Türkçe karşılığı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üç niteleme ve dua korundu. TDV şahıs/havâri bağlamını destekler; bütün Takrîb atfının Türkçe karşılığı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "1427:1125:28c601f90263ce4e90e520a7c7fb23d567fb4dea377e9d2e7558ed9d59a4a5e2",
+          "expected_source": {
+            "narrator_id": 1427,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "شهد بدرا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2d223e9fe1320e6ecb0810c6ddb4d1e10b7e120c63c43d1df6e8baa4df66b110",
+          "text": "Bedir’e katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1427": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe biyografide Bedir açık; Buhârî atfının tamamı ayrıca doğrulanmış sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe biyografide Bedir açık; Buhârî atfının tamamı ayrıca doğrulanmış sayılmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "1427:1385:aa13d9595034bfae4a3cfa95b9644e9db38fff24ea84ad8beb7115fcc0986b90",
+          "expected_source": {
+            "narrator_id": 1427,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "صاحب رسول الله صلى الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "c304aae2f27a3cd0005f49d0dbce2647dd246b2dfc5135d7cbe3b8f845e2ea9c",
+          "text": "Allah’ın elçisinin —Allah’ın salât ve selâmı onun üzerine olsun— sahâbîsidir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1427": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik Türkçe başlıkta desteklenir; Mizzî atfının tam çeviri kaynağı olduğu iddia edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik Türkçe başlıkta desteklenir; Mizzî atfının tam çeviri kaynağı olduğu iddia edilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "1427:286:7c2f68a241667763b2cfa533dbe47a27042b6be2b3c2cb75e6e4b96b1d9be462",
+          "expected_source": {
+            "narrator_id": 1427,
+            "alem_id": "286",
+            "critic": "علي بن حسن بن هبة الله بن عبد الله بن حسين",
+            "opinion": "صحابي ، أحد العشرة المبشرين بالجنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3b3187ac90b32f813959ff8d7b264b820f3c23bf4e89e05a5c7e2da30942aaf5",
+          "text": "Sahâbîdir; cennetle müjdelenen on kişiden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1427": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki niteleme desteklenir; İbn Asâkir’in bu sözünün atfı bütünüyle teyit edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki niteleme desteklenir; İbn Asâkir’in bu sözünün atfı bütünüyle teyit edilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 1733,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "1733:1011:7acb949aa3a6e5a1567965df353084653af289d56cd6624b510b27b7e19f5aff",
+          "expected_source": {
+            "narrator_id": 1733,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a2a0c534e53ef3d08dea7bad07b95203e53e8db5a3b3ac2e84d5e5fc4fd6e93d",
+          "text": "Takrîb’de: Sahâbîdir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1733": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik biyografi başlığında var; tam Takrîb alıntısı bulunmuş sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik biyografi başlığında var; tam Takrîb alıntısı bulunmuş sayılmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "1733:1385:aa13d9595034bfae4a3cfa95b9644e9db38fff24ea84ad8beb7115fcc0986b90",
+          "expected_source": {
+            "narrator_id": 1733,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "صاحب رسول الله صلى الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "087cfc80eb1d829716f7759b17bedce353cdf2d02f4bc385ab81a4a42ce7eba7",
+          "text": "Allah’ın elçisinin —Allah’ın salât ve selâmı onun üzerine olsun— sahâbîsidir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1733": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik ve dua korundu; Mizzî atfı biyografiyle tam teyit edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik ve dua korundu; Mizzî atfı biyografiyle tam teyit edilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "1733:2821:b6eb94e3c9b3b8c1a323eb0e94462e91577142fdae80383463c9d8353933fad2",
+          "expected_source": {
+            "narrator_id": 1733,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "أهل المدينة يقولون : لم يسمع من النبي وأهل العراق يصححون سماعه منه ، وليس يقول سمعت من رسول الله إلا في حديث الشعبي إن في الجسد مضغة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5f4f7aad58c73ad04b37b1b412c1625106bb832c7edde068b4bed566d02de011",
+          "text": "Medineliler onun Hz. Peygamber’den işitmediğini söyler; Iraklılar ise ondan işitmesini sahih kabul eder. Şa‘bî’nin “Bedende bir et parçası vardır” hadisi dışında, “Allah’ın elçisinden işittim” demez.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1733": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Medine/Irak görüşleri ve tek hadis istisnası korundu. TDV küçük yaş/semâ ve helâl-haram hadisi bağlamını anlatır; iki tarafın görüşü uygulamanın yeni kesin semâ hükmüne dönüşmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Medine/Irak görüşleri ve tek hadis istisnası korundu. TDV küçük yaş/semâ ve helâl-haram hadisi bağlamını anlatır; iki tarafın görüşü uygulamanın yeni kesin semâ hükmüne dönüşmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "1733:429:0c5a2321c83bfd779610c5bac839fc1c4cc50897316fa097f52094cde4bbfd8f",
+          "expected_source": {
+            "narrator_id": 1733,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6f4d240d4dd9c609d9f3149d43c14fbdc2497e8359aef17f23e4d86e3dbeff31",
+          "text": "Sahâbîliği vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1733": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik desteklenir; Ebû Hâtim429oğlu924ile birleştirilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik desteklenir; Ebû Hâtim429oğlu924ile birleştirilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "1733:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 1733,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e9780ec990339d93aacb807a57debf0e02853f18e91fd24e563a8adef9d9c71d",
+          "text": "Onu es-Sikāt’ta anmıştır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person1733": {
+              "support_scope": "identity_only",
+              "evidence_note": "Eserde anma kaydıdır; ilgili anma eyleminin tam Türkçe karşılığı okunan biyografi bölümünde bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Eserde anma kaydıdır; ilgili anma eyleminin tam Türkçe karşılığı okunan biyografi bölümünde bulunmadı. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 2069,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "2069:1011:7acb949aa3a6e5a1567965df353084653af289d56cd6624b510b27b7e19f5aff",
+          "expected_source": {
+            "narrator_id": 2069,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e342ed7dedeefd1e1696d5bc4479f496166e25a68bf4f014e7e562b9b8094d20",
+          "text": "Takrîb’de: Sahâbîdir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2069": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik başlıkta vardır; İbn Hacer atfının bütünü teyit edilmiş sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik başlıkta vardır; İbn Hacer atfının bütünü teyit edilmiş sayılmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2069:1290:98c6361a9d0361f23b7e33d7c54acc4214a085ee08f7cbe2599a81ce3079ca71",
+          "expected_source": {
+            "narrator_id": 2069,
+            "alem_id": "1290",
+            "critic": "عبد الرحمن بن أبي بكر بن محمد بن سابق الدين بن عثمان بن محمد بن خضر بن أيوب بن محمد بن همام الدين",
+            "opinion": "غزا مع النبي صلى الله عليه وسلم تسع عشرة غزوة ولم يشهد بدرا ولا أحدا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ae9133ebb38c8da7eac0bffd85c7ec17ac01af4bf4e6c9d86214b54753e08e65",
+          "text": "Hz. Peygamber —Allah’ın salât ve selâmı onun üzerine olsun— ile on dokuz gazveye katıldı; Bedir’e ve Uhud’a katılmadı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2069": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "On dokuz sayısı ve iki olumsuz istisna korundu; TDV ilgili gazveleri anlatır, bütün Süyûtî atfı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "On dokuz sayısı ve iki olumsuz istisna korundu; TDV ilgili gazveleri anlatır, bütün Süyûtî atfı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2069:1385:16969485a4495539dd21d1b216c9ddc8a4d7020c583c82fd87e98261e5c1df2c",
+          "expected_source": {
+            "narrator_id": 2069,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "صاحب رسول الله صلي الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "4ced4f1504e79daf99dd9cac1cea4787be68a5387840736c26ad6590b3c4308f",
+          "text": "Allah’ın elçisinin —Allah’ın salât ve selâmı onun üzerine olsun— sahâbîsidir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2069": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Arapçadaki dua çevrildi; genel sahâbîlik desteği Mizzî atfının tamamı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Arapçadaki dua çevrildi; genel sahâbîlik desteği Mizzî atfının tamamı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2069:431:6e5224bf822f8b7db39d6b0f0214f9a3f0ede3c105ba76992490d8dd228302e7",
+          "expected_source": {
+            "narrator_id": 2069,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "شهد العقبة مع أبيه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0b0527daea8e43d9c0abb4a6a938ea8015fdd0ff5cad4613624b6d025d29f852",
+          "text": "Babasıyla birlikte Akabe’ye katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2069": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV ikinci Akabe biatında babasıyla bulunduğunu söyler; kaynak kısa cümlesinde yazılmayan ikinci kelimesi Türkçeye eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV ikinci Akabe biatında babasıyla bulunduğunu söyler; kaynak kısa cümlesinde yazılmayan ikinci kelimesi Türkçeye eklenmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2069:924:0c5a2321c83bfd779610c5bac839fc1c4cc50897316fa097f52094cde4bbfd8f",
+          "expected_source": {
+            "narrator_id": 2069,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "dcd0cbeb5904b16b245693bbe1324128235aab86590113ef9c111b5e0f571d30",
+          "text": "Sahâbîliği vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2069": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik biyografide desteklenir;924adı babası429ile birleştirilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik biyografide desteklenir;924adı babası429ile birleştirilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 2650,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "2650:1011:7acb949aa3a6e5a1567965df353084653af289d56cd6624b510b27b7e19f5aff",
+          "expected_source": {
+            "narrator_id": 2650,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1beed0b254f5ebc2d9d5dd36adbfe1453947919c049490ed0fcfbd6471ed77e8",
+          "text": "Takrîb’de: Sahâbîdir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2650": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik Türkçe başlıkta vardır; Takrîb atfının tamamı olarak sunulmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik Türkçe başlıkta vardır; Takrîb atfının tamamı olarak sunulmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2650:1125:af453ec13e3cf6e4f18d5de9aab3cdd535f31c81ba4d1a646841bd194cb4e1f8",
+          "expected_source": {
+            "narrator_id": 2650,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "شهد بدرا مع النبي صلى الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0476b75039ef14b7736107d4a10472ae05092bad0f4f241130dd19a1c7fdb9a9",
+          "text": "Hz. Peygamber —Allah’ın salât ve selâmı onun üzerine olsun— ile Bedir’e katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2650": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Bedir katılımı Türkçe biyografide desteklenir; dua ve kişi sınırı korunur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Bedir katılımı Türkçe biyografide desteklenir; dua ve kişi sınırı korunur. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2650:1260:510c9291050a0fac422b42f06eede0ed4cd5dfacf1b6ad09349a9d65babe57c1",
+          "expected_source": {
+            "narrator_id": 2650,
+            "alem_id": "1260",
+            "critic": "أحمد بن علي بن ثابت بن أحمد بن مهدي",
+            "opinion": "شهد بدرا وأحدا والمشاهد كلها ، مات بالروم غازيا في خلافة معاوية سنة اثنتين وخمسين وقبره في أصل سور القسطنطينية",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "83d1f860420d6b59f5f9d3260eb63140cd8f364f00f3a37f1194f9765442f232",
+          "text": "Bedir’e, Uhud’a ve bütün savaşlara katıldı. Muâviye’nin halifeliğinde, elli iki yılında, Rum bölgesinde seferdeyken öldü; kabri Konstantiniyye surunun dibindedir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2650": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "1260Hatîb el-Bağdâdî kaydıdır.52tarihi, sefer/bölge ve sur dibi cümlesi kaynak görüşü olarak korunur. TDV başka tarih rivayetleri de verir; tek takvim tercihi yeni kesin sonuca dönüştürülmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "1260Hatîb el-Bağdâdî kaydıdır.52tarihi, sefer/bölge ve sur dibi cümlesi kaynak görüşü olarak korunur. TDV başka tarih rivayetleri de verir; tek takvim tercihi yeni kesin sonuca dönüştürülmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2650:429:dbdf1509978fb1d8dd2ee8506c8501ef36b83aa7a221bac91ba66f00d0cf1b7e",
+          "expected_source": {
+            "narrator_id": 2650,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "بدري له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9342c3a43fe158124344873c5549907be4aa0e82299baeb0aaee13458f53e05f",
+          "text": "Bedir’e katılmıştır; sahâbîliği vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2650": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki niteleme birlikte aktarıldı; biyografi kısmi bağlam desteğidir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki niteleme birlikte aktarıldı; biyografi kısmi bağlam desteğidir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "2650:431:916baeb9934f1a0d434ddb0b1229d55c462c68159d5c08106c997018a10d6c23",
+          "expected_source": {
+            "narrator_id": 2650,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "نزل عليه النبي صلى الله عليه وسلم حيث قدم المدينة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "112515969fe44b8918d34ed7d282d9005b4f693f8914166cb9532c2149c756d5",
+          "text": "Hz. Peygamber —Allah’ın salât ve selâmı onun üzerine olsun— Medine’ye geldiğinde onun evine misafir oldu.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2650": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Misafir olanın Hz. Peygamber olduğu açık; yön ters çevrilmedi. Türkçe biyografi misafirlik bağlamını destekler."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Misafir olanın Hz. Peygamber olduğu açık; yön ters çevrilmedi. Türkçe biyografi misafirlik bağlamını destekler. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 3142,
+      "expected_opinion_count": 3,
+      "opinions": [
+        {
+          "key": "3142:1011:94961e0f89538ecf4e6b29ee532a777f41059d28e8fc566782e6eec284a16768",
+          "expected_source": {
+            "narrator_id": 3142,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "من كبار الصحابة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "464ac3e32490800ea7c5164a8ef02a79c2d58cb2a94112b22aa19627be36418d",
+          "text": "Önde gelen sahâbîlerdendir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3142": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Büyük/önde gelen nitelemesi yaşı belirtilmiş bir sayı veya yeni tabaka derecesi olmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Büyük/önde gelen nitelemesi yaşı belirtilmiş bir sayı veya yeni tabaka derecesi olmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "3142:1125:28c601f90263ce4e90e520a7c7fb23d567fb4dea377e9d2e7558ed9d59a4a5e2",
+          "expected_source": {
+            "narrator_id": 3142,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "شهد بدرا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b42a7fe2fdcb6b1692a29b6dbc67858c6334ef66f19b9b6d1a60eafab855b154",
+          "text": "Bedir’e katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3142": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe biyografide Bedir açık; bu Buhârî atfının bütünü teyit edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe biyografide Bedir açık; bu Buhârî atfının bütünü teyit edilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "3142:431:28c601f90263ce4e90e520a7c7fb23d567fb4dea377e9d2e7558ed9d59a4a5e2",
+          "expected_source": {
+            "narrator_id": 3142,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "شهد بدرا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3628ee76e89546d95e7d862228979517e9793f5931dfae239445dbb5d497795e",
+          "text": "Bedir’e katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3142": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Aynı metin farklı görüş sahibi431kimliğinde ayrı tutulur;1125ile birleştirilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Aynı metin farklı görüş sahibi431kimliğinde ayrı tutulur;1125ile birleştirilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 3260,
+      "expected_opinion_count": 3,
+      "opinions": [
+        {
+          "key": "3260:1011:f0f67c47857dc5fd7d0fccf8421c793541579d6b9d5fd1c8d060479e100b710c",
+          "expected_source": {
+            "narrator_id": 3260,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي استصغر بأحد ثم شهد ما بعدها",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7c889d691184f7825fa1a526cac39176dfb74c0b7d18a30f2448b3d09e608737",
+          "text": "Takrîb’de: Sahâbîdir. Uhud’da yaşı küçük bulundu; daha sonraki savaşlara katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3260": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Yaşının küçük bulunmasıyla savaşa alınmaması bağlamı korunur; Türkçe kaynak on üç yaşı verir fakat sayı kısa Arapça cümleye eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Yaşının küçük bulunmasıyla savaşa alınmaması bağlamı korunur; Türkçe kaynak on üç yaşı verir fakat sayı kısa Arapça cümleye eklenmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "3260:429:0c5a2321c83bfd779610c5bac839fc1c4cc50897316fa097f52094cde4bbfd8f",
+          "expected_source": {
+            "narrator_id": 3260,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "52160adb1f78be1ecfb3c167ef7e80498158edfdd9dac03140685c7c75fba44f",
+          "text": "Sahâbîliği vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3260": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik Türkçe biyografide var; Ebû Hâtim atfının tam Türkçe karşılığı bulunmuş sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik Türkçe biyografide var; Ebû Hâtim atfının tam Türkçe karşılığı bulunmuş sayılmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "3260:431:6435d9be720c06f95760403b54e8648c3f1480cb478b3fef9e0e596194552902",
+          "expected_source": {
+            "narrator_id": 3260,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الصحابة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "016b807b305802b710f5c4435461c67a7b06062375b649cca3685f01ff36f4bc",
+          "text": "Onu sahâbîler arasında anmıştır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3260": {
+              "support_scope": "identity_only",
+              "evidence_note": "Anma eylemi açık; kitap adı kaynak cümlede olmadığı için es-Sikāt sözcüğü tahminle metne eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Anma eylemi açık; kitap adı kaynak cümlede olmadığı için es-Sikāt sözcüğü tahminle metne eklenmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 4018,
+      "expected_opinion_count": 6,
+      "opinions": [
+        {
+          "key": "4018:1011:7ed7e851fe3604351a53af07b907bdaf5f377ce45cf9cb3c3fb7ba72b68c3b57",
+          "expected_source": {
+            "narrator_id": 4018,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي مشهور أحد العشرة مشهور استشهد يوم الجمل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "aef755e4a58a64c8a922b05195730941f2e26134e640d1bffc8e7e166d2772ef",
+          "text": "Takrîb’de: Meşhur bir sahâbî, cennetle müjdelenen on kişiden biridir; tanınmıştır. Cemel günü şehid edildi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4018": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kaynakta meşhur nitelemesi iki kez vardır; Cemel ölümü korunur. Genel biyografi bu Takrîb sözünün tam atfı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kaynakta meşhur nitelemesi iki kez vardır; Cemel ölümü korunur. Genel biyografi bu Takrîb sözünün tam atfı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4018:1268:9f5392e61719ed6338e36f8a61f134c7bd66763ae141a5e28c62af242c956034",
+          "expected_source": {
+            "narrator_id": 4018,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "قال في التذهيب : أحد العشرة ، أحد الثمانية السابقين إلى الإسلام ، أحد الستة أصحاب الشورى",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e39b72eb151f25bb35102cfa5a029c372f6b25968390376c9d315ec0a5166f9d",
+          "text": "et-Tezhîb’de: Cennetle müjdelenen on kişiden, İslâm’a ilk giren sekiz kişiden ve şûranın altı üyesinden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4018": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "On/sekiz/altı üç ayrı topluluk ve sıfat korunur; Tezhîb başlığı başka Tehzîb eserine çevrilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "On/sekiz/altı üç ayrı topluluk ve sıfat korunur; Tezhîb başlığı başka Tehzîb eserine çevrilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4018:1290:9c13454eff5896dae7ac15eeaf0cb3b7753a3883e7ede474ea1e3301dea4f9a2",
+          "expected_source": {
+            "narrator_id": 4018,
+            "alem_id": "1290",
+            "critic": "عبد الرحمن بن أبي بكر بن محمد بن سابق الدين بن عثمان بن محمد بن خضر بن أيوب بن محمد بن همام الدين",
+            "opinion": "أحد العشرة المشهود لهم بالجنة شهد أحدا وسائر المشاهد بعدها ، وارى رسول الله صلى الله عليه وسلم بيده يوم أحد",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "792bd32bc03030fe5ecffd13becbebd694e94dab6c5f0f5d34f677820246c9c5",
+          "text": "Cennetle müjdelenen on kişiden biridir. Uhud’a ve ondan sonraki bütün savaşlara katıldı. Uhud günü Allah’ın elçisini —Allah’ın salât ve selâmı onun üzerine olsun— eliyle korudu.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4018": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "وارى koruyup siper olma bağlamıyla çevrildi; defnetti anlamı verilmedi. Türkçe biyografi Uhud ve faziletler için kısmi destek verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "وارى koruyup siper olma bağlamıyla çevrildi; defnetti anlamı verilmedi. Türkçe biyografi Uhud ve faziletler için kısmi destek verir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4018:1385:b29678781c651865ce02226ee684ecf9d499f3ebb71e1b21e6c27d26721aab76",
+          "expected_source": {
+            "narrator_id": 4018,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "أحد العشرة المشهود لهم بالجنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "bcb06d232f370f5633d139110f6ed5b9b22e290ccca98d7e06f862dceb63c249",
+          "text": "Cennetle müjdelendiğine şahitlik edilen on kişiden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4018": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kaynak nitelemesinin aktarımı; Mizzî atfının bütünü teyit edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kaynak nitelemesinin aktarımı; Mizzî atfının bütünü teyit edilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4018:429:0c5a2321c83bfd779610c5bac839fc1c4cc50897316fa097f52094cde4bbfd8f",
+          "expected_source": {
+            "narrator_id": 4018,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "508000a6b47b37c4680d151265bc4cd2239ed70bc9f0ac121c05e1aeb96847d2",
+          "text": "Sahâbîliği vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4018": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe biyografi sahâbîlik için destek; bu Ebû Hâtim sözünün tam Türkçe kaynağı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe biyografi sahâbîlik için destek; bu Ebû Hâtim sözünün tam Türkçe kaynağı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4018:936:12a5c16b357480689dae511c92f253b1c87c47fc4f3f14931e64b02876d1c45a",
+          "expected_source": {
+            "narrator_id": 4018,
+            "alem_id": "936",
+            "critic": "مبارك بن محمد بن محمد بن عبد الكريم بن عبد الواحد",
+            "opinion": "من السابقين الأولين إلى الإسلام",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "abff7d1a2732f09924e3e2f85feaf03a57ca8c00abbc1ac8f0692d5671086960",
+          "text": "İslâm’a ilk giren öncülerdendir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4018": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "936Mecdüddin kaydı korunur; bu cümlede eser adı olmadığından kardeşi İzzeddin’e tahminen taşınmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "936Mecdüddin kaydı korunur; bu cümlede eser adı olmadığından kardeşi İzzeddin’e tahminen taşınmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 4697,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "4697:1011:4070f6f10cad846fd3d32e1d2b4b36bf3cbe465dd90de190c487e9003888ce6a",
+          "expected_source": {
+            "narrator_id": 4697,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي أول مولود في الإسلام ، وقال في الإصابة : شهد ابن زبير اليرموك ، وفتح إفريقية ، ثم شهد الجمل مع عائشة وكان على الرجالة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "fbaa47944a5d5a1d1181828df321b646f8c8433fef40c039d11abf1173ea760a",
+          "text": "Takrîb’de: Sahâbîdir; İslâm’da doğan ilk çocuktur. el-İsâbe’de: İbn Zübeyr Yermük’e ve İfrîkıye’nin fethine katıldı; ardından Âişe ile Cemel’e katıldı ve piyadelerin başındaydı, demiştir.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "person4697": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Takrîb3319dijital metninde Medine’de muhacirler arasında sınırı vardır; GK kısa özette bu sınır yoktur. Özgün ilk çocuk ifadesi sessizce tamamlanmadı; tarihsel genelleme onaylanmaz. İki eser ve piyade görevi korunur."
+            },
+            "takrib": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Takrîb3319dijital metninde Medine’de muhacirler arasında sınırı vardır; GK kısa özette bu sınır yoktur. Özgün ilk çocuk ifadesi sessizce tamamlanmadı; tarihsel genelleme onaylanmaz. İki eser ve piyade görevi korunur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Takrîb3319dijital metninde Medine’de muhacirler arasında sınırı vardır; GK kısa özette bu sınır yoktur. Özgün ilk çocuk ifadesi sessizce tamamlanmadı; tarihsel genelleme onaylanmaz. İki eser ve piyade görevi korunur. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Kaynak kesintisi/kapsam sorunu çözülmüş sayılmaz. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4697:1268:06915c5afedcd8205fb9930cd44c85801d87cb772db93124e6759b14350c9da8",
+          "expected_source": {
+            "narrator_id": 4697,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "ذكره في الكاشف ، وقال : أمير المؤمنين روى عنه أخوه عروة وابنه عامر وخلق وكان نهاية في الشجاعة غاية في العبادة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9d54e6aa89bfe91937b6e51b86eb0f6f05bbd1bfa667d34f4efbcd9916bc894e",
+          "text": "Onu el-Kâşif’te anmış ve şöyle demiştir: Emîrü’l-mü’minîndir. Ondan kardeşi Urve, oğlu Âmir ve pek çok kişi rivayet etmiştir. Cesarette son derece ileri, ibadette de en üst düzeydeydi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4697": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kardeş/oğul ayrımı ve iki üstünlük korunur; unvan kaynak kişiye ait olup uygulamanın yeni siyasî hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kardeş/oğul ayrımı ve iki üstünlük korunur; unvan kaynak kişiye ait olup uygulamanın yeni siyasî hükmü değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4697:1290:67f671caecfe87a374f828d8bc0fe104148b3e2e352e1d71898c30f21433eaf1",
+          "expected_source": {
+            "narrator_id": 4697,
+            "alem_id": "1290",
+            "critic": "عبد الرحمن بن أبي بكر بن محمد بن سابق الدين بن عثمان بن محمد بن خضر بن أيوب بن محمد بن همام الدين",
+            "opinion": "ذكره في إسعاف المبطأ برجال الموطأ ، وقال : أمه أسماء بنت أبي بكر الصديق هاجرت به حملا فولدته بعد الهجرة بعشرين شهرا وهو أول مولود ولد بالمدينة بعد الهجرة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "302d45ffc3b053406f63145bfab90d0afdffb16963cd81c92eb95f6626d393dd",
+          "text": "Onu İs‘âfü’l-mübetta’ bi-ricâli’l-Muvatta’da anmış ve şöyle demiştir: Annesi Esmâ bint Ebû Bekir es-Sıddîk’tır; ona hamileyken hicret etmiş, onu hicretten yirmi ay sonra doğurmuştur. Hicretten sonra Medine’de doğan ilk çocuktur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4697": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Arapça İs‘âf’ta da yirmi ay ve hamileyken hicret ifadeleri bulunur;20yerine başka tarih tahmin edilmedi. Medine/hicret sınırı korundu; farklı doğum kronolojileri tek kesin tarih olarak çözülmez."
+            },
+            "isaf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Arapça İs‘âf’ta da yirmi ay ve hamileyken hicret ifadeleri bulunur;20yerine başka tarih tahmin edilmedi. Medine/hicret sınırı korundu; farklı doğum kronolojileri tek kesin tarih olarak çözülmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Arapça İs‘âf’ta da yirmi ay ve hamileyken hicret ifadeleri bulunur;20yerine başka tarih tahmin edilmedi. Medine/hicret sınırı korundu; farklı doğum kronolojileri tek kesin tarih olarak çözülmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4697:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 4697,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "08fcfd480cf27c5106137edb15207cd76efadbcda9abab7d084d5d2de66546b8",
+          "text": "Onu es-Sikāt’ta anmıştır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4697": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kitapta anma eyleminin tam Türkçe karşılığı ilgili biyografi bölümünde bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kitapta anma eyleminin tam Türkçe karşılığı ilgili biyografi bölümünde bulunmadı. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4697:924:72725263f64d8a669d450b24d91de926ed2d8936d687ecbbd36869a37f8a798e",
+          "expected_source": {
+            "narrator_id": 4697,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ذكره في الجرح والتعديل ، وقال : سمع من النبي صلى الله عليه وسلم وهو أول مولود ولد في الإسلام",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e78af1b61383364cf1a4b72ac680c86e5835c2f1ffe6d33536a741f15479b3be",
+          "text": "Onu el-Cerh ve’t-ta‘dîl’de anmış ve şöyle demiştir: Hz. Peygamber’den —Allah’ın salât ve selâmı onun üzerine olsun— işitti; İslâm’da doğan ilk çocuktur.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "person4697": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Semâ cümlesi korundu. TDV ilk doğan sözünü Medine’de muhacir çocukları bağlamında sınırlar; GK kısa cümlesinde bu kapsam yoktur. Eksik kapsam tarihsel genelleme olarak onaylanmadı."
+            },
+            "takrib": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Semâ cümlesi korundu. TDV ilk doğan sözünü Medine’de muhacir çocukları bağlamında sınırlar; GK kısa cümlesinde bu kapsam yoktur. Eksik kapsam tarihsel genelleme olarak onaylanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Semâ cümlesi korundu. TDV ilk doğan sözünü Medine’de muhacir çocukları bağlamında sınırlar; GK kısa cümlesinde bu kapsam yoktur. Eksik kapsam tarihsel genelleme olarak onaylanmadı. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Kaynak kesintisi/kapsam sorunu çözülmüş sayılmaz. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 4840,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "4840:1011:d0ba62ee721e31589a6b87b2d2a1e711637f247b8df35444b5d4a89c0175d2a8",
+          "expected_source": {
+            "narrator_id": 4840,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي مشهور",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a959f22b4ecbe4ea2b6e1eae08181a8c368e67440004957a3c72f3c6c0ccd8fb",
+          "text": "Takrîb’de: Meşhur bir sahâbîdir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4840": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik ve tanınmışlık bağlamı desteklenir; tam İbn Hacer atfı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik ve tanınmışlık bağlamı desteklenir; tam İbn Hacer atfı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4840:1268:c9dc9c59f7ab0827a5d864a5925c97695b55da09a69de7ca60f4c79d16b13fd6",
+          "expected_source": {
+            "narrator_id": 4840,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "ذكره في الكاشف ، وقال : شهد له النبي صلى الله عليه وسلم بالجنة ، عنه ولده يوسف وأبو سلمة بن عبد الرحمن وأبو بردة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8f9d4842b88d0b144db3490473236306cf8591a76f6d641ac03cf3a9acb7d2fb",
+          "text": "Onu el-Kâşif’te anmış ve şöyle demiştir: Hz. Peygamber —Allah’ın salât ve selâmı onun üzerine olsun— onun cennetlik olduğuna şahitlik etti. Ondan oğlu Yûsuf, Ebû Seleme b. Abdurrahman ve Ebû Bürde rivayet etti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4840": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç öğrenci ve cennet müjdesi korunur; kaynakta ismi tamamlanmayan Ebû Bürde’ye yeni baba kimliği eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üç öğrenci ve cennet müjdesi korunur; kaynakta ismi tamamlanmayan Ebû Bürde’ye yeni baba kimliği eklenmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4840:1290:bace357ccd805f674cbe4de9df0ff8f24bf71ef9871f0ff0aead342238010d2e",
+          "expected_source": {
+            "narrator_id": 4840,
+            "alem_id": "1290",
+            "critic": "عبد الرحمن بن أبي بكر بن محمد بن سابق الدين بن عثمان بن محمد بن خضر بن أيوب بن محمد بن همام الدين",
+            "opinion": "ذكره في إسعاف المبطأ برجال الموطأ ، وقال : أسلم عند قدوم النبي صلى الله عليه وسلم المدينة ، وشهد له النبي صلى الله عليه وسلم بالجنة ، وأنزل الله فيه قرآن ، وشهد مع عمر بن الخطاب فتح بيت المقدس والجابية",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2962597fa84a00f5285df0badbeddd60e6b8393dfa483715fb355488f9abf67f",
+          "text": "Onu İs‘âfü’l-mübetta’ bi-ricâli’l-Muvatta’da anmış ve şöyle demiştir: Hz. Peygamber’in —Allah’ın salât ve selâmı onun üzerine olsun— Medine’ye gelişi sırasında Müslüman oldu. Hz. Peygamber —Allah’ın salât ve selâmı onun üzerine olsun— onun cennetlik olduğuna şahitlik etti; Allah onun hakkında Kur’an indirdi. Ömer b. Hattâb ile Beytülmakdis’in fethine ve Câbiye’ye katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4840": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İs‘âf Arapça bölümünde ilgili iki âyetin zikri vardır; GK kısa kaydında sadece Kur’an ifadesi bulunur, tam âyet eklenmedi. Câbiye için kaynakta olmayan ayrı fetih eylemi üretilmedi."
+            },
+            "isaf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İs‘âf Arapça bölümünde ilgili iki âyetin zikri vardır; GK kısa kaydında sadece Kur’an ifadesi bulunur, tam âyet eklenmedi. Câbiye için kaynakta olmayan ayrı fetih eylemi üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İs‘âf Arapça bölümünde ilgili iki âyetin zikri vardır; GK kısa kaydında sadece Kur’an ifadesi bulunur, tam âyet eklenmedi. Câbiye için kaynakta olmayan ayrı fetih eylemi üretilmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4840:431:e896eeeb4025721ea37c1b175673a0e179604b41ae13d26239cb03e085aedf80",
+          "expected_source": {
+            "narrator_id": 4840,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات ، وقال : من بنى قينقاع ، كان اسمه الحصين فسماه النبي صلى الله عليه وسلم عبد الله ، وكان حبرا قبل أن يسلم ، وأضاف في مشاهير علماء الأمصار ، وقال : وكان من فقهاء الصحابة وعلمائهم بالكتب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a396a604f70e5f02155215a64a70d36aed660dd0bb6d5cbc09bcaf03af5373c9",
+          "text": "Onu es-Sikāt’ta anmış ve şöyle demiştir: Benî Kaynukā‘dandır. Adı Husayn iken Hz. Peygamber —Allah’ın salât ve selâmı onun üzerine olsun— ona Abdullah adını verdi. Müslüman olmadan önce din bilginiydi. Meşâhîru ulemâi’l-emsâr’da da şunu eklemiştir: Sahâbenin fakihlerinden ve kitapları bilen âlimlerindendi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4840": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki eser, önceki Husayn adı ve din bilgini bağlamı korunur; habr kelimesi haham/kitap bilgini bağlamında aktarıldı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki eser, önceki Husayn adı ve din bilgini bağlamı korunur; habr kelimesi haham/kitap bilgini bağlamında aktarıldı. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4840:924:2f2c6657e2a3e164ca3dea350d4a8cb013bba8b7879d2513505a6cd4e6001421",
+          "expected_source": {
+            "narrator_id": 4840,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ذكره في الجرح والتعديل ، وقال : روى عنه أبو هريرة وابناه يوسف ومحمد وابن أخيه وأبو سلمة بن عبد الرحمن وزرارة بن أوفى وبشر بن شغاف وخرشة بن الحر وعبادة بن نسي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d8152b4564c530038ba4ae84393d0bfe7a73f06c43a51112fe46ba38dd1ce048",
+          "text": "Onu el-Cerh ve’t-ta‘dîl’de anmış ve şöyle demiştir: Ondan Ebû Hüreyre, iki oğlu Yûsuf ve Muhammed, erkek kardeşinin oğlu, Ebû Seleme b. Abdurrahman, Zürâre b. Evfâ, Bişr b. Şegāf, Hareşe b. Hür ve Ubâde b. Nüseyy rivayet etmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4840": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Adsız erkek kardeş oğlu ve iki oğul ayrımı korundu; uzun öğrenci listesinin tamamı aynı Türkçe biyografide tespit edilmiş sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Adsız erkek kardeş oğlu ve iki oğul ayrımı korundu; uzun öğrenci listesinin tamamı aynı Türkçe biyografide tespit edilmiş sayılmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 4980,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "4980:1011:3ad2e7f6075dc695d0a6c413783c71e01b55065b86e60726c34b1adc796425ba",
+          "expected_source": {
+            "narrator_id": 4980,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي أحد السابقين المكثرين من الصحابة وأحد العبادلة الفقهاء",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "c951254f6fe57b72eabe627de715c75746099eba004f415778272adbbcf00f58",
+          "text": "Takrîb’de: Sahâbîdir; öncülerden, çok rivayet eden sahâbîlerden ve fakih Abâdile’den biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4980": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Öncü/çok rivayet/fakih Abdullahlar üç niteliği korunur; Abâdile sözcüğü bütün sahâbe veya tüm Abdullahlar diye genişletilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Öncü/çok rivayet/fakih Abdullahlar üç niteliği korunur; Abâdile sözcüğü bütün sahâbe veya tüm Abdullahlar diye genişletilmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4980:1268:7d40cdb1af480f610cb07f2b05e1a6d834e6518462234de0c33381cb773d603d",
+          "expected_source": {
+            "narrator_id": 4980,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "ذكره في الكاشف ، وقال : أسلم قبيل أبيه ، وكان من العلماء العباد",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f0a437f2e5732cf000571c67d30c2342510b8c16ae57215ffcc118624112fa01",
+          "text": "Onu el-Kâşif’te anmış ve şöyle demiştir: Babasından az önce Müslüman oldu; âlim ve ibadete düşkün kimselerdendi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4980": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "قبيل az önce sınırı korundu; babasından önce ifadesi Türkçe biyografide vardır, tam kaynak atfı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "قبيل az önce sınırı korundu; babasından önce ifadesi Türkçe biyografide vardır, tam kaynak atfı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4980:1290:18c2a044cd950972127cae948d6794915d2684e07c0cb62fc15937c008abc1cf",
+          "expected_source": {
+            "narrator_id": 4980,
+            "alem_id": "1290",
+            "critic": "عبد الرحمن بن أبي بكر بن محمد بن سابق الدين بن عثمان بن محمد بن خضر بن أيوب بن محمد بن همام الدين",
+            "opinion": "ذكره في إسعاف المبطأ برجال الموطأ ، وقال : روى عنه ابنه محمد بخلف ، وحفيده شعيب بن محمد ، وجبير بن نفير ، وسعيد بن المسيب ، وعروة ، وطاوس وخلق مات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d1d43d0f49c6b4ea97fcba1e3d81414f6d72545927f37b5048cb4f77c39845af",
+          "text": "Onu İs‘âfü’l-mübetta’ bi-ricâli’l-Muvatta’da anmış ve şöyle demiştir: Ondan oğlu Muhammed —bu rivayet konusunda ihtilaf vardır—, torunu Şuayb b. Muhammed, Cübeyr b. Nüfeyr, Saîd b. Müseyyeb, Urve, Tâvûs ve pek çok kişi rivayet etmiştir. Vefat etti…",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "person4980": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK cümlesi مات ile kesilir. Arapça İs‘âf’ın okunan devamında Hârre geceleri/63ve73yaş yer alır; bunlar GK alıntısına sessizce eklenmedi. بخلف sözü rivayete ilişkin ihtilaf kaydı olarak tutuldu, yeni kişi adı değildir."
+            },
+            "isaf_all": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK cümlesi مات ile kesilir. Arapça İs‘âf’ın okunan devamında Hârre geceleri/63ve73yaş yer alır; bunlar GK alıntısına sessizce eklenmedi. بخلف sözü rivayete ilişkin ihtilaf kaydı olarak tutuldu, yeni kişi adı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "GK cümlesi مات ile kesilir. Arapça İs‘âf’ın okunan devamında Hârre geceleri/63ve73yaş yer alır; bunlar GK alıntısına sessizce eklenmedi. بخلف sözü rivayete ilişkin ihtilaf kaydı olarak tutuldu, yeni kişi adı değildir. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Kaynak kesintisi/kapsam sorunu çözülmüş sayılmaz. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4980:431:ddcdde364a7db4eb611654df5480ac1d7665c59da227bd79c290385083170ec2",
+          "expected_source": {
+            "narrator_id": 4980,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات ، وقال : ، وذكره في مشاهير علماء الأمصار ، وقال : أسلم قبل أبيه ، وكان بينه وبين أبيه ثلاث عشرة سنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "4511d967ad9d901f0ebf76909e4e03baaef11fafb937c2abc715854c52d86e7f",
+          "text": "Onu es-Sikāt’ta anmış ve şöyle demiştir: … Meşâhîru ulemâi’l-emsâr’da da anmış ve şöyle demiştir: Babasından önce Müslüman oldu; babasıyla arasında on üç yaş vardı.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "person4980": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "es-Sikāt sonrası وقال ile virgül arasında görüş metni yoktur; üç nokta bu kayıt boşluğunu gösterir.13yaş korunur; TDV’deki11/12ile birleştirilip kesin tek sayı üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "es-Sikāt sonrası وقال ile virgül arasında görüş metni yoktur; üç nokta bu kayıt boşluğunu gösterir.13yaş korunur; TDV’deki11/12ile birleştirilip kesin tek sayı üretilmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Kaynak kesintisi/kapsam sorunu çözülmüş sayılmaz. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "4980:924:bae37d57cf7d57089a4bdc1e490eadd775cda93f19e0e93e16265c12cfbb748f",
+          "expected_source": {
+            "narrator_id": 4980,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ذكره في الجرح والتعديل ، وقال : له صحبة روى عنه سعيد بن المسيب ، وأبو سلمة بن عبد الرحمن ، وعطاء ، ومجاهد ، وشعيب بن محمد بن عبد الله",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8fd87f99b70b29155af180d1dffc27911456f936196179128a357de9538a3fae",
+          "text": "Onu el-Cerh ve’t-ta‘dîl’de anmış ve şöyle demiştir: Sahâbîliği vardır. Ondan Saîd b. Müseyyeb, Ebû Seleme b. Abdurrahman, Atâ, Mücâhid ve Şuayb b. Muhammed b. Abdullah rivayet etmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4980": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Beş ravi ve son kişinin üç halkalı adı korundu; torunluk başka kayıttan buraya eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Beş ravi ve son kişinin üç halkalı adı korundu; torunluk başka kayıttan buraya eklenmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 5021,
+      "expected_opinion_count": 4,
+      "opinions": [
+        {
+          "key": "5021:1011:7868cb97b805c75398c9260c569b26f8967438db61e012e9a25b072146645d81",
+          "expected_source": {
+            "narrator_id": 5021,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي مشهور أمره عمر ثم عثمان ، وأحد الحكمين بصفين",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d74caacf29b3a2ca1c911e7feaca876d5ec6cb70ae29fb983f1f62ffa105290d",
+          "text": "Takrîb’de: Meşhur bir sahâbîdir; Ömer, ardından Osman onu emir/idareci tayin etti. Sıffîn’deki iki hakemden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person5021": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki tayinin sırası ve iki hakem kaydı korunur; kimliği kaynak sözünden yeni tarihsel hükme dönüştürülmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki tayinin sırası ve iki hakem kaydı korunur; kimliği kaynak sözünden yeni tarihsel hükme dönüştürülmez. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "5021:1268:ae21d0bbe39202329cf942fe871af98893dba1feeb7e1aa03528156fbfa1641c",
+          "expected_source": {
+            "narrator_id": 5021,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "ذكره في الكاشف",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "133e36db88a2bcbfb9a514958e46cfaa6e033cd14e30541933a759fd87578e21",
+          "text": "Onu el-Kâşif’te anmıştır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person5021": {
+              "support_scope": "identity_only",
+              "evidence_note": "Sadece eserde anma eylemidir; kaynakta bulunmayan yeni ravi derecesi eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Sadece eserde anma eylemidir; kaynakta bulunmayan yeni ravi derecesi eklenmedi. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "5021:431:5827ec4743d91f37f8e7f3c48f9c17a34b0376f6e411fd63ca378bd49a9a970e",
+          "expected_source": {
+            "narrator_id": 5021,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات ، وقال : هم أخوة أربع أبو موسى وأبو عامر وأبو بردة وأبو رهم بنو قيس أسلموا كلهم في موضع واحد",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9e383074074033b767406bcc093313f80f8bc4b534315b9deedbfa7be7ae0e07",
+          "text": "Onu es-Sikāt’ta anmış ve şöyle demiştir: Onlar dört kardeştir: Ebû Mûsâ, Ebû Âmir, Ebû Bürde ve Ebû Ruhm; hepsi Kays’ın oğullarıdır ve aynı yerde Müslüman olmuşlardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person5021": {
+              "support_scope": "identity_only",
+              "evidence_note": "es-Sikāt726Arapça metninde dört kardeş ve Kays oğulları açıkça vardır. Diğer bağlamdaki amca veya oğul Ebû Âmir/Ebû Bürde ile aynı künye yüzünden birleştirilmez; aile alanının tüm kimlik sorunu ayrıca durur."
+            },
+            "sikat": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "es-Sikāt726Arapça metninde dört kardeş ve Kays oğulları açıkça vardır. Diğer bağlamdaki amca veya oğul Ebû Âmir/Ebû Bürde ile aynı künye yüzünden birleştirilmez; aile alanının tüm kimlik sorunu ayrıca durur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "es-Sikāt726Arapça metninde dört kardeş ve Kays oğulları açıkça vardır. Diğer bağlamdaki amca veya oğul Ebû Âmir/Ebû Bürde ile aynı künye yüzünden birleştirilmez; aile alanının tüm kimlik sorunu ayrıca durur. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        },
+        {
+          "key": "5021:924:2dc025a6c208882ffdbff1565a3d777e445a3a02ed0d61159f83577b47eb191b",
+          "expected_source": {
+            "narrator_id": 5021,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ذكره في الجرح والتعديل ، وقال : له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0ee51114528c81f6dd5f3324f3648a3bff54d75b004327a19aa9ed50de0eda02",
+          "text": "Onu el-Cerh ve’t-ta‘dîl’de anmış ve sahâbîliği bulunduğunu söylemiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person5021": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik Türkçe biyografide var; İbn Ebû Hâtim’in kitap atfı tam olarak doğrulanmış sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sahâbîlik Türkçe biyografide var; İbn Ebû Hâtim’in kitap atfı tam olarak doğrulanmış sayılmaz. Bütün Arapça cümleler ve atıf sınırları tek tek karşılaştırıldı. Okunan Türkçe biyografi bu atıflı sözün tamamına tam kaynak değildir; eksik kısım asistanın Arapçadan aktarımıdır. Bütün Türkçe literatürde yokluk iddia edilmez. Yeni hadis hükmü veya uzman onayı değildir."
+        }
+      ]
+    }
+  ]
+}

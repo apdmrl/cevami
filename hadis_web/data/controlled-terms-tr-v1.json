@@ -1,0 +1,244 @@
+{
+  "revision": "controlled-terms-tr-v2-ravi-scope",
+  "reviewed_on": "2026-10-31",
+  "language": "tr",
+  "policy": "Tam alan eşleşmesine bağlı ortak sözcük aktarımı. Yeni kişi/ravi hükmü değildir; kaynak biyografisinin Türkçe kitaptan doğrulandığı anlamına gelmez. Alt dize veya bileşik alan için parça eşleştirme yapılmaz. Makbul terimi koşulsuz sahih diye yorumlanmaz. Meçhul özel bir alt tür diye değiştirilmez.",
+  "sources": {
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Arapça/Türkçe madde başlığı ve terim tanımı",
+      "accessed_on": "2026-10-31"
+    },
+    "mechul": {
+      "url": "https://islamansiklopedisi.org.tr/mechul",
+      "title": "TDV İslâm Ansiklopedisi: Meçhul",
+      "locator": "Arapça/Türkçe madde başlığı ve terim tanımı",
+      "accessed_on": "2026-10-31"
+    },
+    "makbul": {
+      "url": "https://islamansiklopedisi.org.tr/makbul",
+      "title": "TDV İslâm Ansiklopedisi: Makbul",
+      "locator": "Arapça/Türkçe madde başlığı ve terim tanımı",
+      "accessed_on": "2026-10-31"
+    },
+    "saduk": {
+      "url": "https://islamansiklopedisi.org.tr/saduk",
+      "title": "TDV İslâm Ansiklopedisi: Sadûk",
+      "locator": "Arapça/Türkçe madde başlığı ve terim tanımı",
+      "accessed_on": "2026-10-31"
+    },
+    "sahabe": {
+      "url": "https://islamansiklopedisi.org.tr/sahabe",
+      "title": "TDV İslâm Ansiklopedisi: Sahâbe",
+      "locator": "Arapça/Türkçe madde başlığı ve terim tanımı",
+      "accessed_on": "2026-10-31"
+    },
+    "zayif": {
+      "url": "https://islamansiklopedisi.org.tr/zayif",
+      "title": "TDV İslâm Ansiklopedisi: Zayıf",
+      "locator": "Arapça/Türkçe madde başlığı ve terim tanımı",
+      "accessed_on": "2026-10-31"
+    },
+    "metruk--hadis": {
+      "url": "https://islamansiklopedisi.org.tr/metruk--hadis",
+      "title": "TDV İslâm Ansiklopedisi: Metrûk (hadis)",
+      "locator": "Arapça/Türkçe madde başlığı ve terim tanımı",
+      "accessed_on": "2026-10-31"
+    },
+    "bagdat": {
+      "url": "https://islamansiklopedisi.org.tr/bagdat",
+      "title": "TDV İslâm Ansiklopedisi: Bağdat",
+      "locator": "Türkçe başlık ve Arapça yer adı",
+      "accessed_on": "2026-10-31"
+    },
+    "basra": {
+      "url": "https://islamansiklopedisi.org.tr/basra",
+      "title": "TDV İslâm Ansiklopedisi: Basra",
+      "locator": "Türkçe başlık ve Arapça yer adı",
+      "accessed_on": "2026-10-31"
+    },
+    "kufe": {
+      "url": "https://islamansiklopedisi.org.tr/kufe",
+      "title": "TDV İslâm Ansiklopedisi: Kûfe",
+      "locator": "Türkçe başlık ve Arapça yer adı",
+      "accessed_on": "2026-10-31"
+    },
+    "medine": {
+      "url": "https://islamansiklopedisi.org.tr/medine",
+      "title": "TDV İslâm Ansiklopedisi: Medine",
+      "locator": "Türkçe başlık ve Arapça yer adı",
+      "accessed_on": "2026-10-31"
+    },
+    "mukaribul-hadis": {
+      "url": "https://islamansiklopedisi.org.tr/mukaribul-hadis",
+      "title": "Emin Âşıkkutlu, TDV İslâm Ansiklopedisi: Mukāribü’l-hadîs",
+      "locator": "Hasenü’l-hadîsin ravi ta‘dîl lafızları arasında açıkça sayıldığı paragraf",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "terms": [
+    {
+      "key": "rank.sika",
+      "value": "ثقة",
+      "text": "Sika (güvenilir).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "sika"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "rank.unknown_state",
+      "value": "مجهول الحال",
+      "text": "Meçhûlü’l-hâl (güvenilirlik durumu bilinmeyen).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "mechul"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "rank.maqbul",
+      "value": "مقبول",
+      "text": "Makbul (kaynakta geçen terim).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "makbul"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "rank.saduq_hasan",
+      "value": "صدوق حسن الحديث",
+      "text": "Sadûk; hasenü’l-hadîs (kaynakta geçen ravi nitelemeleri).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "needs_review",
+      "sources": [
+        "saduk",
+        "mukaribul-hadis"
+      ],
+      "rationale": "İki ifade kaynakta kişiyi niteleyen ta‘dîl lafızlarıdır. Bunlardan belirli bir hadisin derecesi çıkarılmaz. Türkçe kısa karşılık, kişinin bütün rivayetlerinin incelendiği anlamına gelmez; needs_review kalır."
+    },
+    {
+      "key": "rank.companion",
+      "value": "صحابي",
+      "text": "Sahâbî (kaynak nitelemesi).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "sahabe"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "rank.unknown",
+      "value": "مجهول",
+      "text": "Meçhul (kimliği veya durumu yeterince bilinmeyen).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "mechul"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "rank.weak",
+      "value": "ضعيف الحديث",
+      "text": "Hadis rivayetinde zayıf (kaynak değerlendirmesi).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "zayif"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "rank.abandoned",
+      "value": "متروك الحديث",
+      "text": "Metrûkü’l-hadîs (rivayeti terk edilen).",
+      "allowed_fields": [
+        "wasf_rotba"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "metruk--hadis"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "place.baghdad",
+      "value": "بغداد",
+      "text": "Bağdat.",
+      "allowed_fields": [
+        "baladekama",
+        "baladwafa"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "bagdat"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "place.basra",
+      "value": "البصرة",
+      "text": "Basra.",
+      "allowed_fields": [
+        "baladekama",
+        "baladwafa"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "basra"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "place.kufa",
+      "value": "الكوفة",
+      "text": "Kûfe.",
+      "allowed_fields": [
+        "baladekama",
+        "baladwafa"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "kufe"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    },
+    {
+      "key": "place.medina",
+      "value": "المدينة",
+      "text": "Medine.",
+      "allowed_fields": [
+        "baladekama",
+        "baladwafa"
+      ],
+      "status": "source_compared",
+      "sources": [
+        "medine"
+      ],
+      "rationale": "Kaynak terimi/yer adının Türkçe karşılığıdır. Belirli kişinin niteliği, yaşadığı veya öldüğü yer Türkçe biyografiden doğrulanmış sayılmaz."
+    }
+  ],
+  "previous_research_file": "controlled-terms-tr-v1-research.json"
+}

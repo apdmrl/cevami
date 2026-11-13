@@ -1,0 +1,1070 @@
+{
+  "revision": "assistant-person-field-review-v8-pilot-corrections",
+  "reviewed_on": "2026-11-01",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "İlk yedi ravide30alan için yeni inceleme sürümü;25dil karşılaştırması/5açık kaynak sorunu. Önceki pilot ve yedi seed değişmez. Dil aktarımı, Türkçe bilgi desteği, bağımsız tarihsel teyit ve uzman onayı ayrıdır.",
+  "sources": {
+    "bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-11-01",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-11-01",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-11-01",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-11-01",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "alkame": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-11-01",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "omer": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-11-01",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "kirtil": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-11-01",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-11-01"
+    },
+    "mevali": {
+      "url": "https://islamansiklopedisi.org.tr/mevali",
+      "title": "TDV İslâm Ansiklopedisi: Mevâlî",
+      "locator": "Mevlâ/velâ ilişkisinin farklı bağlamları; terim desteğidir, kişisel kölelik veya âzat olayını kanıtlamaz.",
+      "accessed_on": "2026-11-01"
+    },
+    "evgin": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/52614",
+      "title": "A. Kadir Evgin — Süfyan b. Uyeyne (107–198/725–813) ve Hadis Cüz’ü, 2003",
+      "locator": "Basılı s.71 / PDF s.3: tam ad ve Kûfe/Mekke bağlamı. Web PDF metni okundu; bu dilimde yeni görsel kontrol yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "samani_firyabi": {
+      "url": "https://ablibrary.net/book_content/b/14246/219?lang=ar",
+      "title": "Sem‘ânî — el-Ensâb, Dâiretü’l-maârifi’l-Osmâniyye neşri (Arapça dijital metin)",
+      "locator": "Cilt10/s.205, kayıt3043 Firyâbî; kıyıdaki Kaysâriye, Buhârî’nin Humus yolu. Basılı sayfa görüntüsü görülmedi.",
+      "accessed_on": "2026-11-01"
+    },
+    "mizzy_yahya": {
+      "url": "https://sunnah.com/narrator/8272",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Yahyâ b. Saîd (Sunnah.com Arapça dijital aktarımı)",
+      "locator": "Tehzîbü’l-Kemâl başlıklı bölüm: uzun ad/alternatif قهد, ولا يصح ve Hâşimiye/Bağdat kadılığı itirazı. Aynı kaynak veri ailesiyle bağımsızlık ayrıca kanıtlanmadı; basılı sayfa görüntüsü görülmedi.",
+      "accessed_on": "2026-11-01"
+    },
+    "siyar_muhammed": {
+      "url": "https://islamweb.net/ar/library/content/60/846/محمد-بن-إبراهيم",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Muhammed b. İbrâhim (Islamweb Arapça dijital metni)",
+      "locator": "Cilt5/s.294–296; dede Hâris’in soy dizisi/Abû Bekir’e amcaoğulluğu, oğul Mûsâ,119/120/121 yıl nakilleri. Dijital metin okundu; basılı sayfa görüntüsü görülmedi.",
+      "accessed_on": "2026-11-01"
+    },
+    "yek_omer": {
+      "url": "https://ekitap.yek.gov.tr/Uploads/ProductsFiles/52430be8-57c0-4fe7-9339-28defe1b2700.pdf",
+      "title": "Belâzürî — Ensâbü’l-Eşrâf / İslam Tarihinde Öncü Şahsiyetler, cilt5; çev. Musa K. Yılmaz, ed. Adnan Demircan; YEK, İstanbul, Mayıs2025",
+      "locator": "Basılı s.286: Ömer’in on halkalı adı ve annesi Hanteme bt. Hâşim b. Muğîre. ISBN978-975-17-6190-3. Yayıncının web PDF metni okundu; yerel indirme/görsel kontrol yapılamadı.",
+      "accessed_on": "2026-11-01"
+    },
+    "yek_muhammed": {
+      "url": "https://ekitap.yek.gov.tr/Uploads/ProductsFiles/52430be8-57c0-4fe7-9339-28defe1b2700.pdf",
+      "title": "Belâzürî — Ensâbü’l-Eşrâf / İslam Tarihinde Öncü Şahsiyetler, cilt5; çev. Musa K. Yılmaz, ed. Adnan Demircan; YEK, İstanbul, Mayıs2025",
+      "locator": "Basılı s.171–173: Hâris b. Hâlid ve Muhammed b. İbrâhim ile oğlu Mûsâ. Çeviride Amr, GK/Siyer’de Âmir farkı korunur. Web PDF metni okundu; yerel indirme/görsel kontrol yapılamadı.",
+      "accessed_on": "2026-11-01"
+    },
+    "sufyan_candidate": {
+      "url": "https://acikerisim.uludag.edu.tr/server/api/core/bitstreams/277c8c56-9ebb-487e-9cfc-3cbee775685e/content",
+      "title": "Önceki Türkçe tez adayı — tam metni doğrulanmış kitap çevirisi değildir",
+      "locator": "Önceki alan karşılığı araştırması;31.10.2026 kontrolünde tam metin403. Bu dilimde yeniden erişim iddia edilmez.",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "people": [
+    {
+      "id": 6817,
+      "expected_record_sha256": "4e51cb671eb07378723335b53dfd0f549b226c7a3d41adc25291aa06867b1939",
+      "expected_source": {
+        "id": 6817,
+        "new_id": 36959,
+        "name": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+        "shohra": "محمد بن إسماعيل البخاري",
+        "badeel": "أبو عبد الله البخاري",
+        "konya": "أبو عبد الله",
+        "lakab": "الإمام البخاري",
+        "san3a": "الفقيه",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "البخاري،الجعفي",
+        "rotba": 2,
+        "wasf_rotba": "جبل الحفظ وإمام الدنيا في فقه الحديث",
+        "tabaka": 10,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "194",
+        "death_year": "256",
+        "age": 62,
+        "baladekama": "بخارى ، مكة ، المدينة ، مصر ، الحجاز ، الشام ، الري ، خراسان ، العراق ، نيسابور ، البصرة ، الكوفة ، بلخ ، مرو ، واسط ، دمشق ، قيسارية ، عسقلان ، حمص ، ما وراء النهر ، بغداد",
+        "baladwafa": "خرتنك",
+        "mawaaly": "مولى الجعفيين",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 0,
+        "marweyaat": 3013
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+          "supersedes_id": "4e5176c1-913c-54be-9899-d5dd1870bc58",
+          "text": "Muhammed b. İsmâil b. İbrâhim b. Mugīre b. Bezdizbe",
+          "rendering_kind": "transliteration",
+          "status": "problem_detected",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "bukhari": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kaynak son atayı بذدزبة yazar; TDV Berdizbeh biçimini verir. İlk halkalar örtüşür, son yazımın özdeşliği kesinleştirilmedi. GK harfleri veya kişi kimliği değiştirilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Kaynak son atayı بذدزبة yazar; TDV Berdizbeh biçimini verir. İlk halkalar örtüşür, son yazımın özdeşliği kesinleştirilmedi. GK harfleri veya kişi kimliği değiştirilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "جبل الحفظ وإمام الدنيا في فقه الحديث",
+          "supersedes_id": "be499a8d-bc7d-5b54-a4db-fb27074184fc",
+          "text": "Hıfzda bir dağ; hadis fıkhında dünyanın imamı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "bukhari": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "جبل dağ mecazı ve إمام الدنيا ifadesinin bütün dünya kapsamı korunur; önceki taslaktaki önde gelen biçimi üstünlük derecesini eksiltiyordu. Bu, kaynağın övgü ifadesinin aktarımıdır, uygulamanın yeni hadis/ravi hükmü değildir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "جبل dağ mecazı ve إمام الدنيا ifadesinin bütün dünya kapsamı korunur; önceki taslaktaki önde gelen biçimi üstünlük derecesini eksiltiyordu. Bu, kaynağın övgü ifadesinin aktarımıdır, uygulamanın yeni hadis/ravi hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. جبل dağ mecazı ve إمام الدنيا ifadesinin bütün dünya kapsamı korunur; önceki taslaktaki önde gelen biçimi üstünlük derecesini eksiltiyordu. Bu, kaynağın övgü ifadesinin aktarımıdır, uygulamanın yeni hadis/ravi hükmü değildir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "بخارى ، مكة ، المدينة ، مصر ، الحجاز ، الشام ، الري ، خراسان ، العراق ، نيسابور ، البصرة ، الكوفة ، بلخ ، مرو ، واسط ، دمشق ، قيسارية ، عسقلان ، حمص ، ما وراء النهر ، بغداد",
+          "supersedes_id": "cbf96f96-5300-57b3-8738-f4afb68218ac",
+          "text": "Buhara, Mekke, Medine, Mısır, Hicaz, Şam bölgesi, Rey, Horasan, Irak, Nîşâbur, Basra, Kûfe, Belh, Merv, Vâsıt, Dımaşk, Kaysâriye, Askalân, Humus, Mâverâünnehir, Bağdat",
+          "rendering_kind": "transliteration",
+          "status": "problem_detected",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "bukhari": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kaynak alanın yirmi bir yer adı ve sırası korunur. TDV seyahatlerin bir kısmını doğrular; liste kalıcı ikamet veya kronolojik güzergâh değildir. Sem‘ânî Firyâbî maddesi kıyıdaki Kaysâriye ve Buhârî’nin Humus yolunu anlatır; bu dar bağlam bütün GK yer alanının veya modern şehir kimliğinin kesin teyidi sayılmaz. Kaysâriye Kayseri ile sessizce özdeşlenmez; yer kimliği araştırması açık kalır."
+            },
+            "samani_firyabi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Kaynak alanın yirmi bir yer adı ve sırası korunur. TDV seyahatlerin bir kısmını doğrular; liste kalıcı ikamet veya kronolojik güzergâh değildir. Sem‘ânî Firyâbî maddesi kıyıdaki Kaysâriye ve Buhârî’nin Humus yolunu anlatır; bu dar bağlam bütün GK yer alanının veya modern şehir kimliğinin kesin teyidi sayılmaz. Kaysâriye Kayseri ile sessizce özdeşlenmez; yer kimliği araştırması açık kalır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Kaynak alanın yirmi bir yer adı ve sırası korunur. TDV seyahatlerin bir kısmını doğrular; liste kalıcı ikamet veya kronolojik güzergâh değildir. Sem‘ânî Firyâbî maddesi kıyıdaki Kaysâriye ve Buhârî’nin Humus yolunu anlatır; bu dar bağlam bütün GK yer alanının veya modern şehir kimliğinin kesin teyidi sayılmaz. Kaysâriye Kayseri ile sessizce özdeşlenmez; yer kimliği araştırması açık kalır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى الجعفيين",
+          "supersedes_id": "1577dbd1-ed49-580e-8e28-80b45a4d6bad",
+          "text": "Cu‘fîlerin mevlâsı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "bukhari": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "مولى الجعفيين doğrudan dil yönünden karşılaştırıldı. TDV, Mugīre’nin Cu‘feli Yemân aracılığıyla müslüman olmasını ve Cu‘fî nisbesini açıklar; birebir mevlâ alanı çevirisi değildir. Kişisel kölelik veya âzat edilme olayı eklenmez."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "مولى الجعفيين doğrudan dil yönünden karşılaştırıldı. TDV, Mugīre’nin Cu‘feli Yemân aracılığıyla müslüman olmasını ve Cu‘fî nisbesini açıklar; birebir mevlâ alanı çevirisi değildir. Kişisel kölelik veya âzat edilme olayı eklenmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. مولى الجعفيين doğrudan dil yönünden karşılaştırıldı. TDV, Mugīre’nin Cu‘feli Yemân aracılığıyla müslüman olmasını ve Cu‘fî nisbesini açıklar; birebir mevlâ alanı çevirisi değildir. Kişisel kölelik veya âzat edilme olayı eklenmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        }
+      ]
+    },
+    {
+      "id": 4698,
+      "expected_record_sha256": "6adb6f04decb16025d59fafcd061aab19b6e2aefa2f49b1ae290b28efc00a7ad",
+      "expected_source": {
+        "id": 4698,
+        "new_id": 24042,
+        "name": "عبد الله بن الزبير بن عيسى بن عبيد الله بن أسامة بن عبد الله بن حميد بن زهير بن الحارث بن أسد بن عبد العزى",
+        "shohra": "الحميدي عبد الله بن الزبير",
+        "badeel": "عبد الله بن الزبير الحميدي",
+        "konya": "أبو بكر",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،الحميدي،الأسدي،المكي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة حافظ أجل أصحاب ابن عيينة",
+        "tabaka": 10,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "219",
+        "age": null,
+        "baladekama": "مكة",
+        "baladwafa": "مكة",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 0,
+        "marweyaat": 1207
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبد الله بن الزبير بن عيسى بن عبيد الله بن أسامة بن عبد الله بن حميد بن زهير بن الحارث بن أسد بن عبد العزى",
+          "supersedes_id": "5e161c5b-a027-584d-9769-c77f5a72ef6d",
+          "text": "Abdullah b. Zübeyr b. Îsâ b. Ubeydullah b. Üsâme b. Abdullah b. Humeyd b. Züheyr b. Hâris b. Esed b. Abdüluzzâ",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "humaydi": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Uzun Arapça adın bütün halkaları sırayla çevriyazıldı. TDV yalnız Abdullah–Zübeyr–Îsâ kısmını verir; kalan halkaların Türkçe karşılığı GK üzerinden asistan çevriyazısıdır, bütün soy bağının bağımsız teyidi değildir. Sahâbî Abdullah b. Zübeyr b. Avvâm ile birleştirilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Uzun Arapça adın bütün halkaları sırayla çevriyazıldı. TDV yalnız Abdullah–Zübeyr–Îsâ kısmını verir; kalan halkaların Türkçe karşılığı GK üzerinden asistan çevriyazısıdır, bütün soy bağının bağımsız teyidi değildir. Sahâbî Abdullah b. Zübeyr b. Avvâm ile birleştirilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،الحميدي،الأسدي،المكي",
+          "supersedes_id": "0522f1db-585d-5f0b-b129-10255c6899aa",
+          "text": "Kureşî, Humeydî, Esedî, Mekkî",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "humaydi": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dört nisbe aynı sırayla aktarılır. TDV Kureşî/Humeydî/Mekkî biçimlerini destekler; Esedî burada Arapça alanın çevriyazısıdır, ayrı bir soy iddiası üretilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Dört nisbe aynı sırayla aktarılır. TDV Kureşî/Humeydî/Mekkî biçimlerini destekler; Esedî burada Arapça alanın çevriyazısıdır, ayrı bir soy iddiası üretilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة حافظ أجل أصحاب ابن عيينة",
+          "supersedes_id": "e32fb982-435b-5c44-ad01-3b9aa399700e",
+          "text": "Sika ve hâfız; İbn Uyeyne’nin ashabının en önde geleni.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "humaydi": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "أجل أصحاب üstünlüğü en önde geleni biçiminde korundu; önceki en seçkinlerinden aktarımındaki derece eksikliği giderildi. TDV ilişki ve ravi nitelemelerini destekler, bütün üstünlük cümlesinin Türkçe kitap çevirisi değildir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "أجل أصحاب üstünlüğü en önde geleni biçiminde korundu; önceki en seçkinlerinden aktarımındaki derece eksikliği giderildi. TDV ilişki ve ravi nitelemelerini destekler, bütün üstünlük cümlesinin Türkçe kitap çevirisi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. أجل أصحاب üstünlüğü en önde geleni biçiminde korundu; önceki en seçkinlerinden aktarımındaki derece eksikliği giderildi. TDV ilişki ve ravi nitelemelerini destekler, bütün üstünlük cümlesinin Türkçe kitap çevirisi değildir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        }
+      ]
+    },
+    {
+      "id": 3443,
+      "expected_record_sha256": "c67570a3f1f0828286fb92b88b7d286f47dd0bc6290d836fd1cc22289ef58b9d",
+      "expected_source": {
+        "id": 3443,
+        "new_id": 17788,
+        "name": "سفيان بن عيينة بن ميمون",
+        "shohra": "سفيان بن عيينة الهلالي",
+        "badeel": "سفيان بن عيينة بن أبي عمران الكوفي",
+        "konya": "أبو محمد",
+        "lakab": "ابن عيينة ، ابن أبي عمران",
+        "san3a": "",
+        "wasf": "الأعور",
+        "mazhab": "",
+        "nasab": "الهلالي،الكوفي،المكي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة حافظ حجة",
+        "tabaka": 8,
+        "e5telat": 1,
+        "tadleese": 0,
+        "date_of_birth": "107",
+        "death_year": "198",
+        "age": 91,
+        "baladekama": "الكوفة ، مكة ، الشام",
+        "baladwafa": "مكة",
+        "mawaaly": "مولى محمد بن مزاحم أخي الضحاك بن مزاحم",
+        "karaba": "أخو محمد بن عيينة ، أخو آدم بن عيينة ، أخو عمران بن عيينة ، أخو إبراهيم بن عيينة",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 2299
+      },
+      "fields": [
+        {
+          "field": "badeel",
+          "expected_arabic": "سفيان بن عيينة بن أبي عمران الكوفي",
+          "supersedes_id": "c74d431e-a7dc-50c1-bd80-77091e72fd35",
+          "text": "Süfyân b. Uyeyne b. Ebî İmrân el-Kûfî",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "evgin": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Evgin’in basılı71/PDF3 sayfasındaki tam ad biçimi bu halkaları içerir. Kaynaktaki alternatif ad aynen çevriyazılır; TDV’deki Meymûn halkası burada Arapça alana eklenmez."
+            },
+            "sufyan": {
+              "support_scope": "identity_only",
+              "evidence_note": "Evgin’in basılı71/PDF3 sayfasındaki tam ad biçimi bu halkaları içerir. Kaynaktaki alternatif ad aynen çevriyazılır; TDV’deki Meymûn halkası burada Arapça alana eklenmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Evgin’in basılı71/PDF3 sayfasındaki tam ad biçimi bu halkaları içerir. Kaynaktaki alternatif ad aynen çevriyazılır; TDV’deki Meymûn halkası burada Arapça alana eklenmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "ابن عيينة ، ابن أبي عمران",
+          "supersedes_id": "6d342c50-18f3-5699-82ab-00974d790f60",
+          "text": "İbn Uyeyne, İbn Ebî İmrân",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "evgin": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki ad biçimi ayrı korunur. Türkçe metinler İbn Uyeyne’yi ve Ebî İmrân halkasını içerir; ikinci kısaltmanın bu alan biçiminde tam karşılığı kontrol edilen paragraflarda bulunmadı."
+            },
+            "sufyan": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki ad biçimi ayrı korunur. Türkçe metinler İbn Uyeyne’yi ve Ebî İmrân halkasını içerir; ikinci kısaltmanın bu alan biçiminde tam karşılığı kontrol edilen paragraflarda bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. İki ad biçimi ayrı korunur. Türkçe metinler İbn Uyeyne’yi ve Ebî İmrân halkasını içerir; ikinci kısaltmanın bu alan biçiminde tam karşılığı kontrol edilen paragraflarda bulunmadı. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الهلالي،الكوفي،المكي",
+          "supersedes_id": "33f1515d-cbfa-541a-b854-79ba8f341c86",
+          "text": "Hilâlî, Kûfî, Mekkî",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "evgin": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç nisbe aynı sırayla çevriyazılır. Türkçe biyografi Kûfe/Mekke bağını ve Hilâlî nisbesini verir; bütün nisbe dizisi aynı cümleyle aktarıldı sayılmaz."
+            },
+            "sufyan": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç nisbe aynı sırayla çevriyazılır. Türkçe biyografi Kûfe/Mekke bağını ve Hilâlî nisbesini verir; bütün nisbe dizisi aynı cümleyle aktarıldı sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Üç nisbe aynı sırayla çevriyazılır. Türkçe biyografi Kûfe/Mekke bağını ve Hilâlî nisbesini verir; bütün nisbe dizisi aynı cümleyle aktarıldı sayılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة ، مكة ، الشام",
+          "supersedes_id": "429685cf-b262-5309-b60d-75c52ef49374",
+          "text": "Kûfe, Mekke, Şam bölgesi",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sufyan": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Yer adları doğrudan karşılaştırıldı. Türkçe biyografiler Kûfe/Mekke’yi destekler; Şam bölgesi bu kapsamda bağımsız ikamet teyidi değildir. Şam tek modern şehre daraltılmaz ve ikamet kronolojisi kurulmaz."
+            },
+            "evgin": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Yer adları doğrudan karşılaştırıldı. Türkçe biyografiler Kûfe/Mekke’yi destekler; Şam bölgesi bu kapsamda bağımsız ikamet teyidi değildir. Şam tek modern şehre daraltılmaz ve ikamet kronolojisi kurulmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Yer adları doğrudan karşılaştırıldı. Türkçe biyografiler Kûfe/Mekke’yi destekler; Şam bölgesi bu kapsamda bağımsız ikamet teyidi değildir. Şam tek modern şehre daraltılmaz ve ikamet kronolojisi kurulmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى محمد بن مزاحم أخي الضحاك بن مزاحم",
+          "supersedes_id": "25c6911e-8bbe-5007-9ae6-59afa61643ef",
+          "text": "Dahhâk b. Müzâhim’in kardeşi Muhammed b. Müzâhim’in mevlâsı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sufyan": {
+              "support_scope": "identity_only",
+              "evidence_note": "أخي الضحاك ifadesi Muhammed b. Müzâhim’i nitelemektedir; Süfyân Dahhâk’ın kardeşi yapılmadı. Mevlâ kelimesinden yeni kişisel kölelik/âzat olayı çıkarılmaz. Önceki Türkçe tez adayı 31.10.2026 kontrolünde403 vermişti; bu turda erişildiği veya hiçbir Türkçe çevirinin bulunmadığı iddia edilmez. Sonuç yalnız Arapça alanın dil aktarımı karşılaştırmasıdır, erişilemeyen kitabın doğrulaması değildir."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "أخي الضحاك ifadesi Muhammed b. Müzâhim’i nitelemektedir; Süfyân Dahhâk’ın kardeşi yapılmadı. Mevlâ kelimesinden yeni kişisel kölelik/âzat olayı çıkarılmaz. Önceki Türkçe tez adayı 31.10.2026 kontrolünde403 vermişti; bu turda erişildiği veya hiçbir Türkçe çevirinin bulunmadığı iddia edilmez. Sonuç yalnız Arapça alanın dil aktarımı karşılaştırmasıdır, erişilemeyen kitabın doğrulaması değildir."
+            },
+            "sufyan_candidate": {
+              "support_scope": "candidate_not_verified",
+              "evidence_note": "أخي الضحاك ifadesi Muhammed b. Müzâhim’i nitelemektedir; Süfyân Dahhâk’ın kardeşi yapılmadı. Mevlâ kelimesinden yeni kişisel kölelik/âzat olayı çıkarılmaz. Önceki Türkçe tez adayı 31.10.2026 kontrolünde403 vermişti; bu turda erişildiği veya hiçbir Türkçe çevirinin bulunmadığı iddia edilmez. Sonuç yalnız Arapça alanın dil aktarımı karşılaştırmasıdır, erişilemeyen kitabın doğrulaması değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "candidate_inaccessible"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. أخي الضحاك ifadesi Muhammed b. Müzâhim’i nitelemektedir; Süfyân Dahhâk’ın kardeşi yapılmadı. Mevlâ kelimesinden yeni kişisel kölelik/âzat olayı çıkarılmaz. Önceki Türkçe tez adayı 31.10.2026 kontrolünde403 vermişti; bu turda erişildiği veya hiçbir Türkçe çevirinin bulunmadığı iddia edilmez. Sonuç yalnız Arapça alanın dil aktarımı karşılaştırmasıdır, erişilemeyen kitabın doğrulaması değildir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        }
+      ]
+    },
+    {
+      "id": 8272,
+      "expected_record_sha256": "81d350498502c1206e0f9760b3912e1c18001a18cc9c9ccd52378f619719d899",
+      "expected_source": {
+        "id": 8272,
+        "new_id": 48293,
+        "name": "يحيى بن سعيد بن قيس بن عمرو بن سهل بن ثعلبة بن الحارث بن زيد بن ثعلبة بن غنم بن مالك بن النجار",
+        "shohra": "يحيى بن سعيد الأنصاري",
+        "badeel": "يحيى بن سعيد بن قيس بن قهد المدني",
+        "konya": "أبو سعيد",
+        "lakab": "",
+        "san3a": "القاضي : قاضي المدينة ، قاضي العراق",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الأنصاري،المديني،البغدادي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 6,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "143",
+        "age": null,
+        "baladekama": "الأنبار ، المدينة ، بغداد",
+        "baladwafa": "الهاشمية",
+        "mawaaly": "",
+        "karaba": "أخو عبد ربه",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 761
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "يحيى بن سعيد بن قيس بن عمرو بن سهل بن ثعلبة بن الحارث بن زيد بن ثعلبة بن غنم بن مالك بن النجار",
+          "supersedes_id": "db91f1fe-3e3f-5ad8-bb01-51861bcfc853",
+          "text": "Yahyâ b. Saîd b. Kays b. Amr b. Sehl b. Sa‘lebe b. Hâris b. Zeyd b. Sa‘lebe b. Ganm b. Mâlik b. Neccâr",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "On iki ad halkası, tekrarlanan Sa‘lebe de korunarak çevriyazıldı. TDV ilk halkaları destekler. Sunnah.com’da Mizzî’ye bağlı dijital Arapça aktarım aynı uzun diziyi verir; kaynak veri ailesinin bağımsız olduğu veya bütün soy bağının tarihsel teyidi iddia edilmez."
+            },
+            "mizzy_yahya": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "On iki ad halkası, tekrarlanan Sa‘lebe de korunarak çevriyazıldı. TDV ilk halkaları destekler. Sunnah.com’da Mizzî’ye bağlı dijital Arapça aktarım aynı uzun diziyi verir; kaynak veri ailesinin bağımsız olduğu veya bütün soy bağının tarihsel teyidi iddia edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. On iki ad halkası, tekrarlanan Sa‘lebe de korunarak çevriyazıldı. TDV ilk halkaları destekler. Sunnah.com’da Mizzî’ye bağlı dijital Arapça aktarım aynı uzun diziyi verir; kaynak veri ailesinin bağımsız olduğu veya bütün soy bağının tarihsel teyidi iddia edilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "يحيى بن سعيد بن قيس بن قهد المدني",
+          "supersedes_id": "bbe3e24f-129a-5d71-aeab-d0b76e61233e",
+          "text": "Yahyâ b. Saîd b. Kays b. Kahd el-Medenî",
+          "rendering_kind": "transliteration",
+          "status": "problem_detected",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK alternatif alanı قهد biçimini korur. Mizzî dijital metni iki biçimi aktarır; Buhârî’den nakledilen ولا يصح itirazı da vardır. TDV Amr b. Sehl dizisini verir. Kahd/Amr ilişkisi tek kesin soy dizisine çevrilmedi; ihtilaf açık kalır."
+            },
+            "mizzy_yahya": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK alternatif alanı قهد biçimini korur. Mizzî dijital metni iki biçimi aktarır; Buhârî’den nakledilen ولا يصح itirazı da vardır. TDV Amr b. Sehl dizisini verir. Kahd/Amr ilişkisi tek kesin soy dizisine çevrilmedi; ihtilaf açık kalır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. GK alternatif alanı قهد biçimini korur. Mizzî dijital metni iki biçimi aktarır; Buhârî’den nakledilen ولا يصح itirazı da vardır. TDV Amr b. Sehl dizisini verir. Kahd/Amr ilişkisi tek kesin soy dizisine çevrilmedi; ihtilaf açık kalır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الأنصاري،المديني،البغدادي",
+          "supersedes_id": "f5c163e1-e80d-5fad-9e9a-ed114f5ee130",
+          "text": "Ensârî, Medînî, Bağdâdî",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "المديني kelimesi bu alanda Medînî diye çevriyazıldı; önceki Medenî biçimi, farklı yazılan المدني ile aynılaştırılıyordu. TDV Medine ve Bağdat bağlamını aktarır. Mizzî’de Bağdat kadılığına itiraz da vardır; Bağdâdî nisbesinden kesin kadılık görevi veya yeni ikamet tarihi çıkarılmaz."
+            },
+            "mizzy_yahya": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "المديني kelimesi bu alanda Medînî diye çevriyazıldı; önceki Medenî biçimi, farklı yazılan المدني ile aynılaştırılıyordu. TDV Medine ve Bağdat bağlamını aktarır. Mizzî’de Bağdat kadılığına itiraz da vardır; Bağdâdî nisbesinden kesin kadılık görevi veya yeni ikamet tarihi çıkarılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. المديني kelimesi bu alanda Medînî diye çevriyazıldı; önceki Medenî biçimi, farklı yazılan المدني ile aynılaştırılıyordu. TDV Medine ve Bağdat bağlamını aktarır. Mizzî’de Bağdat kadılığına itiraz da vardır; Bağdâdî nisbesinden kesin kadılık görevi veya yeni ikamet tarihi çıkarılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الأنبار ، المدينة ، بغداد",
+          "supersedes_id": "c22831ed-0a30-51c7-9bd7-207618316c8e",
+          "text": "Enbâr, Medine, Bağdat",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç yer adı ve sırası korunur. TDV Medine/Bağdat bağlamını verir; Enbâr ve tam ikamet dizisi bağımsız teyit edilmiş sayılmaz. Hâşimiye/Enbâr/Bağdat sessizce aynı şehre çevrilmez, Mizzî’deki kadılık itirazı ikamet kronolojisi yerine geçmez."
+            },
+            "mizzy_yahya": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üç yer adı ve sırası korunur. TDV Medine/Bağdat bağlamını verir; Enbâr ve tam ikamet dizisi bağımsız teyit edilmiş sayılmaz. Hâşimiye/Enbâr/Bağdat sessizce aynı şehre çevrilmez, Mizzî’deki kadılık itirazı ikamet kronolojisi yerine geçmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Üç yer adı ve sırası korunur. TDV Medine/Bağdat bağlamını verir; Enbâr ve tam ikamet dizisi bağımsız teyit edilmiş sayılmaz. Hâşimiye/Enbâr/Bağdat sessizce aynı şehre çevrilmez, Mizzî’deki kadılık itirazı ikamet kronolojisi yerine geçmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "أخو عبد ربه",
+          "supersedes_id": "603c5b94-5089-5b41-8ca4-4c17c0386f72",
+          "text": "Abdürabbih’in kardeşi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "yahya": {
+              "support_scope": "identity_only",
+              "evidence_note": "أخو عبد ربه kardeşlik yönü ve özel ad korunarak aktarıldı. Bu alana baba, oğul veya ek soy halkası eklenmez. Okunan Türkçe Yahyâ paragrafında tam karşılık bulunmadı; akrabalığın bağımsız teyidi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. أخو عبد ربه kardeşlik yönü ve özel ad korunarak aktarıldı. Bu alana baba, oğul veya ek soy halkası eklenmez. Okunan Türkçe Yahyâ paragrafında tam karşılık bulunmadı; akrabalığın bağımsız teyidi değildir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        }
+      ]
+    },
+    {
+      "id": 6796,
+      "expected_record_sha256": "707d133843b47d662eb32fd7c096791385b905ef14080bc4c5385bba7aef5347",
+      "expected_source": {
+        "id": 6796,
+        "new_id": 35379,
+        "name": "محمد بن إبراهيم بن الحارث بن خالد بن صخر بن عامر بن كعب بن سعد بن تيم بن مرة",
+        "shohra": "محمد بن إبراهيم القرشي",
+        "badeel": "محمد بن إبراهيم التيمي",
+        "konya": "أبو عبد الله",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،التيمي،المدني",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 5,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "45",
+        "death_year": "119",
+        "age": 74,
+        "baladekama": "المدينة",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "والد موسى بن محمد إبراهيم ، ابن عم أبي بكر الصديق ، حفيد الحارث بن خالد",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 293
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "محمد بن إبراهيم بن الحارث بن خالد بن صخر بن عامر بن كعب بن سعد بن تيم بن مرة",
+          "supersedes_id": "332609ad-8705-5215-b82e-3fb1da611396",
+          "text": "Muhammed b. İbrâhim b. Hâris b. Hâlid b. Sahr b. Âmir b. Kâ‘b b. Sa‘d b. Teym b. Mürre",
+          "rendering_kind": "transliteration",
+          "status": "problem_detected",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK عامر (Âmir) yazar; Zehebî Siyer5/294 dijital Arapça dizisi de bu biçimi destekler. YEK Belâzürî çevirisi5/173 aynı kişi ve oğlu Mûsâ bağlamında Amr biçimini verir ve Mürre halkasını vermez. Türkçe kaynaktaki fark GK’ye taşınmadı; bu soy yazımı ihtilafı açık kaldı.119/120 ölüm yılına bu alan üzerinden müdahale edilmez."
+            },
+            "yek_muhammed": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK عامر (Âmir) yazar; Zehebî Siyer5/294 dijital Arapça dizisi de bu biçimi destekler. YEK Belâzürî çevirisi5/173 aynı kişi ve oğlu Mûsâ bağlamında Amr biçimini verir ve Mürre halkasını vermez. Türkçe kaynaktaki fark GK’ye taşınmadı; bu soy yazımı ihtilafı açık kaldı.119/120 ölüm yılına bu alan üzerinden müdahale edilmez."
+            },
+            "siyar_muhammed": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK عامر (Âmir) yazar; Zehebî Siyer5/294 dijital Arapça dizisi de bu biçimi destekler. YEK Belâzürî çevirisi5/173 aynı kişi ve oğlu Mûsâ bağlamında Amr biçimini verir ve Mürre halkasını vermez. Türkçe kaynaktaki fark GK’ye taşınmadı; bu soy yazımı ihtilafı açık kaldı.119/120 ölüm yılına bu alan üzerinden müdahale edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. GK عامر (Âmir) yazar; Zehebî Siyer5/294 dijital Arapça dizisi de bu biçimi destekler. YEK Belâzürî çevirisi5/173 aynı kişi ve oğlu Mûsâ bağlamında Amr biçimini verir ve Mürre halkasını vermez. Türkçe kaynaktaki fark GK’ye taşınmadı; bu soy yazımı ihtilafı açık kaldı.119/120 ölüm yılına bu alan üzerinden müdahale edilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "supersedes_id": "5257eced-2635-5847-90bd-dfc2cb120fb3",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "المدينة yer adının Türkçe karşılığı karşılaştırıldı. Türkçe kaynakta Medenî nisbesi, Arapça Siyer’de Medine âlimleri bağlamı vardır; bunlar ayrı bir kalıcı ikamet tarihi veya bütün hayatın yer tespiti değildir."
+            },
+            "siyar_muhammed": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "المدينة yer adının Türkçe karşılığı karşılaştırıldı. Türkçe kaynakta Medenî nisbesi, Arapça Siyer’de Medine âlimleri bağlamı vardır; bunlar ayrı bir kalıcı ikamet tarihi veya bütün hayatın yer tespiti değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. المدينة yer adının Türkçe karşılığı karşılaştırıldı. Türkçe kaynakta Medenî nisbesi, Arapça Siyer’de Medine âlimleri bağlamı vardır; bunlar ayrı bir kalıcı ikamet tarihi veya bütün hayatın yer tespiti değildir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "المدينة",
+          "supersedes_id": "a054bca9-06d4-5605-884b-3d1e83a8c837",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK vefat yeri alanı doğrudan çevrildi. Medenî nisbesi vefat yeri kanıtı diye sunulmaz; okunan Türkçe paragraflarda tam yer karşılığı bulunmadı. Arapça alan birincil dayanak olarak görünür, yeni tarihsel teyit iddia edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. GK vefat yeri alanı doğrudan çevrildi. Medenî nisbesi vefat yeri kanıtı diye sunulmaz; okunan Türkçe paragraflarda tam yer karşılığı bulunmadı. Arapça alan birincil dayanak olarak görünür, yeni tarihsel teyit iddia edilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد موسى بن محمد إبراهيم ، ابن عم أبي بكر الصديق ، حفيد الحارث بن خالد",
+          "supersedes_id": "700f9c5d-1977-5d34-957c-200fde0f6ad6",
+          "text": "Mûsâ b. Muhammed [b.] İbrâhim’in babası; kaynak alanda ayrıca “Ebû Bekir es-Sıddîk’ın amcaoğlu” ve “Hâris b. Hâlid’in torunu” ifadeleri yer alır.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "yek_muhammed": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK ilk isim dizisinde Muhammed ile İbrâhim arasında بن yoktur; köşeli [b.] açıklaması bu eksikliği görünür kılar. YEK5/173 Mûsâ b. Muhammed b. İbrâhim oğulluk ilişkisini destekler. Siyer5/294’te Ebû Bekir’e amcaoğlu diye nitelenen kişi dedesi Hâris b. Hâlid’dir. GK birleşik alanında özne/nesil ayrımı bulunmadığından Muhammed doğrudan Ebû Bekir’in amcaoğlu yapılmaz. Dil aktarımı açıklandı fakat kaynak alan sorunu çözülmüş sayılmaz."
+            },
+            "siyar_muhammed": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK ilk isim dizisinde Muhammed ile İbrâhim arasında بن yoktur; köşeli [b.] açıklaması bu eksikliği görünür kılar. YEK5/173 Mûsâ b. Muhammed b. İbrâhim oğulluk ilişkisini destekler. Siyer5/294’te Ebû Bekir’e amcaoğlu diye nitelenen kişi dedesi Hâris b. Hâlid’dir. GK birleşik alanında özne/nesil ayrımı bulunmadığından Muhammed doğrudan Ebû Bekir’in amcaoğlu yapılmaz. Dil aktarımı açıklandı fakat kaynak alan sorunu çözülmüş sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_source_corrected_rendering",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. GK ilk isim dizisinde Muhammed ile İbrâhim arasında بن yoktur; köşeli [b.] açıklaması bu eksikliği görünür kılar. YEK5/173 Mûsâ b. Muhammed b. İbrâhim oğulluk ilişkisini destekler. Siyer5/294’te Ebû Bekir’e amcaoğlu diye nitelenen kişi dedesi Hâris b. Hâlid’dir. GK birleşik alanında özne/nesil ayrımı bulunmadığından Muhammed doğrudan Ebû Bekir’in amcaoğlu yapılmaz. Dil aktarımı açıklandı fakat kaynak alan sorunu çözülmüş sayılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        }
+      ]
+    },
+    {
+      "id": 5719,
+      "expected_record_sha256": "7f1c9725c887bef532669fc1592b9f7b535fc466c4f01bdc682c313e0e26aa1f",
+      "expected_source": {
+        "id": 5719,
+        "new_id": 28837,
+        "name": "علقمة بن وقاص بن محصن بن كلدة بن عبد ياليل",
+        "shohra": "علقمة بن وقاص العتواري",
+        "badeel": "أبو يحيى المدني",
+        "konya": "أبو يحيى",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الليثي،العتواري،المدني",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 2,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "",
+        "age": null,
+        "baladekama": "المدينة",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "والد عمرو بن علقمة بن وقاص ، والد عبد الله بن علقمة بن وقاص ، جد محمد بن عمرو بن علقمة",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 52
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "علقمة بن وقاص بن محصن بن كلدة بن عبد ياليل",
+          "supersedes_id": "b02ee412-7317-515f-b360-cad0bb3b15dd",
+          "text": "Alkame b. Vakkās b. Mihsan b. Kelede b. Abdüyâlîl",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "alkame": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV محصن halkası için Mihsan biçimini verir; önceki Muhsin çevriyazısı bununla değiştirildi. Kelede ve Abdüyâlîl halkaları GK üzerinden çevriyazıdır; bütün uzun soyun Türkçe kaynakta bulunduğu veya bağımsız teyit edildiği ileri sürülmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. TDV محصن halkası için Mihsan biçimini verir; önceki Muhsin çevriyazısı bununla değiştirildi. Kelede ve Abdüyâlîl halkaları GK üzerinden çevriyazıdır; bütün uzun soyun Türkçe kaynakta bulunduğu veya bağımsız teyit edildiği ileri sürülmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو يحيى المدني",
+          "supersedes_id": "c48ed89f-03f2-58e2-b21d-1e80849000e5",
+          "text": "Ebû Yahyâ el-Medenî",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "alkame": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Künye ve nisbe Arapça alandan karşılaştırıldı. TDV Medenî nisbesiyle kısmen destek olur; Ebû Yahyâ bu paragrafta yer almaz. Önceki tutarsız web adayının kitabı doğruladığı kabul edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Künye ve nisbe Arapça alandan karşılaştırıldı. TDV Medenî nisbesiyle kısmen destek olur; Ebû Yahyâ bu paragrafta yer almaz. Önceki tutarsız web adayının kitabı doğruladığı kabul edilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو يحيى",
+          "supersedes_id": "4931ae11-475c-5872-af4e-4164ee85a9ab",
+          "text": "Ebû Yahyâ",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "alkame": {
+              "support_scope": "identity_only",
+              "evidence_note": "أبو يحيى künyesi doğrudan çevriyazıldı. Okunan TDV paragrafında bu künyenin tam karşılığı bulunmadı; bu bilgi kaynağı GK’dır, ikinci bağımsız kişi teyidi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. أبو يحيى künyesi doğrudan çevriyazıldı. Okunan TDV paragrafında bu künyenin tam karşılığı bulunmadı; bu bilgi kaynağı GK’dır, ikinci bağımsız kişi teyidi değildir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "supersedes_id": "ee40b601-0604-598b-925c-6d7002cca004",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "alkame": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Yer adı karşılaştırıldı; TDV’deki Medenî nisbesi ilişki desteğidir, tek başına bütün ikamet alanını tarihsel doğrulama saydırmaz. Yeni tarih veya modern adres eklenmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Yer adı karşılaştırıldı; TDV’deki Medenî nisbesi ilişki desteğidir, tek başına bütün ikamet alanını tarihsel doğrulama saydırmaz. Yeni tarih veya modern adres eklenmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "المدينة",
+          "supersedes_id": "0c0d6dc9-8d32-55c2-9a75-f357436fa4c6",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "alkame": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kaynak vefat yeri çevrildi. TDV ölüm tarihi için belirsizlik bildirir fakat bu paragrafta tam yer karşılığı yoktur; Medenî nisbesi ölüm yeri kanıtı sayılmaz. Boş GK ölüm yılı ayrıca doldurulmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Kaynak vefat yeri çevrildi. TDV ölüm tarihi için belirsizlik bildirir fakat bu paragrafta tam yer karşılığı yoktur; Medenî nisbesi ölüm yeri kanıtı sayılmaz. Boş GK ölüm yılı ayrıca doldurulmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد عمرو بن علقمة بن وقاص ، والد عبد الله بن علقمة بن وقاص ، جد محمد بن عمرو بن علقمة",
+          "supersedes_id": "c33ccec6-6c63-56d4-865e-4ae36198d6ca",
+          "text": "Amr b. Alkame b. Vakkās ile Abdullah b. Alkame b. Vakkās’ın babası; Muhammed b. Amr b. Alkame’nin dedesi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "alkame": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki oğul ile torun ilişkisi ve nesillerin yönü Arapçayla karşılaştırıldı. TDV Amr ve Abdullah’ı oğulları olarak destekler; torun bu paragrafta yer almadığından bütün alanın tam Türkçe karşılığı sayılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. İki oğul ile torun ilişkisi ve nesillerin yönü Arapçayla karşılaştırıldı. TDV Amr ve Abdullah’ı oğulları olarak destekler; torun bu paragrafta yer almadığından bütün alanın tam Türkçe karşılığı sayılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        }
+      ]
+    },
+    {
+      "id": 5913,
+      "expected_record_sha256": "aacce85ad5b5b47ae340e820199c9bbdc87132db02c8d53e4cb7afa6d020665e",
+      "expected_source": {
+        "id": 5913,
+        "new_id": 31296,
+        "name": "عمر بن الخطاب بن نفيل بن عبد العزى بن رياح بن عبد الله بن قرط بن رزاح بن عدي بن كعب",
+        "shohra": "عمر بن الخطاب العدوي",
+        "badeel": "أبو حفص الفاروق",
+        "konya": "أبو حفص",
+        "lakab": "الفاروق",
+        "san3a": "أمير المؤمنين",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،العدوي،المدني",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "23",
+        "age": 63,
+        "baladekama": "المدينة",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "ابن حنتمة بنت هاشم بن المغيرة",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1044
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عمر بن الخطاب بن نفيل بن عبد العزى بن رياح بن عبد الله بن قرط بن رزاح بن عدي بن كعب",
+          "supersedes_id": "376f9048-e30f-5b7f-9e93-e7ceabd77d3e",
+          "text": "Ömer b. Hattâb b. Nüfeyl b. Abdüluzzâ b. Riyâh b. Abdullah b. Kurt b. Rezâh b. Adî b. Kâ‘b",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "yek_omer": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "YEK’in yayımladığı Belâzürî5/286 çevirisinde aynı on halkalı soy dizisi vardır. Adların sırası ve Rezâh/Kurt biçimleri karşılaştırıldı; önceki taslak metni aynıdır. Kaynaktaki ilave Ebû Hafs künyesi bu ad alanına eklenmez."
+            },
+            "omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "YEK’in yayımladığı Belâzürî5/286 çevirisinde aynı on halkalı soy dizisi vardır. Adların sırası ve Rezâh/Kurt biçimleri karşılaştırıldı; önceki taslak metni aynıdır. Kaynaktaki ilave Ebû Hafs künyesi bu ad alanına eklenmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. YEK’in yayımladığı Belâzürî5/286 çevirisinde aynı on halkalı soy dizisi vardır. Adların sırası ve Rezâh/Kurt biçimleri karşılaştırıldı; önceki taslak metni aynıdır. Kaynaktaki ilave Ebû Hafs künyesi bu ad alanına eklenmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،العدوي،المدني",
+          "supersedes_id": "8eb7644b-0f9f-5e4a-8133-8ad0fa4ff4b5",
+          "text": "Kureşî, Adevî, Medenî",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç nisbe doğrudan çevriyazıldı. TDV Kureşî/Adevî ve Medine hayatını destekler; tam üçlü nisbe dizisi birebir Türkçe kitap alıntısı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. Üç nisbe doğrudan çevriyazıldı. TDV Kureşî/Adevî ve Medine hayatını destekler; tam üçlü nisbe dizisi birebir Türkçe kitap alıntısı değildir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "ابن حنتمة بنت هاشم بن المغيرة",
+          "supersedes_id": "860a565e-7cce-56fc-b1ea-7f802b41edd9",
+          "text": "Hanteme bint Hâşim b. Mugīre’nin oğlu.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "yek_omer": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "YEK Belâzürî5/286 Ömer’in annesini Hanteme bt. Hâşim b. Muğîre olarak verir; üçüncü halkaya da Türkçe kaynak desteği sağlandı. Annesinin kaynakta devam eden soy dizisi bu kısa alana eklenmez."
+            },
+            "omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "YEK Belâzürî5/286 Ömer’in annesini Hanteme bt. Hâşim b. Muğîre olarak verir; üçüncü halkaya da Türkçe kaynak desteği sağlandı. Annesinin kaynakta devam eden soy dizisi bu kısa alana eklenmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam kaynak kişi kaydı ve bu Arapça alan, önceki Türkçe taslakla ayrı ayrı karşılaştırıldı. YEK Belâzürî5/286 Ömer’in annesini Hanteme bt. Hâşim b. Muğîre olarak verir; üçüncü halkaya da Türkçe kaynak desteği sağlandı. Annesinin kaynakta devam eden soy dizisi bu kısa alana eklenmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir. Tam Türkçe karşılığı kontrol edilen paragraflarda bulunmayan kısım asistan aktarımıdır; bütün literatürde yokluk ileri sürülmez. Dil karşılaştırması bütün biyografinin tarihsel teyidi değildir."
+        }
+      ]
+    }
+  ]
+}

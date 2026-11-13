@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": "GK4.5/GK4.5/Data/Books.zip",
+      "bytes": 410941996,
+      "sha256": "131fcab8b9322436b70fb1909b1e9ec78c4244a56d8de14fe428f3a332deff95"
+    },
+    {
+      "path": "postgres/working-export.json",
+      "bytes": 632,
+      "sha256": "4846a2f3bed40e6c96c0c21bdbbb25be7daad861f9643c96cd1ff4a9c276106b"
+    },
+    {
+      "path": "postgres/working.dump",
+      "bytes": 51302720,
+      "sha256": "ad36031dae8c4718c64e76fc70cd49e5f98d99b4fa2d8cf8a5fd4607538184d9"
+    },
+    {
+      "path": "references/datasets/jawami3_alkalem/jawami.db",
+      "bytes": 4595408896,
+      "sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae"
+    },
+    {
+      "path": "references/datasets/jawami3_alkalem/verification.json",
+      "bytes": 1544,
+      "sha256": "df7275e9e3bb308140da9bbfcf4bcbe8be1e20189dc2883ff451c8b330579b64"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/eng-abudawud.json",
+      "bytes": 4311308,
+      "sha256": "f6bcf73ad96d2f28296232e201e12963e7b3dd5325572fb88365edbbfb0ecd40"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/eng-bukhari.json",
+      "bytes": 5181725,
+      "sha256": "b3a10b8d50949e86cec82b0d323ce0eae3e2f713fa2f3daa5361638feb795988"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/eng-ibnmajah.json",
+      "bytes": 3241088,
+      "sha256": "5e9479efd403e935ddcf746a709b2727d535a41fe1f496deadc8a43f1d103cd7"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/eng-malik.json",
+      "bytes": 1614960,
+      "sha256": "fb02a0ae16ebba1a658b107da3b93e72ecb59c2acd871819e2b1f3bd2e90d27b"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/eng-muslim.json",
+      "bytes": 4296152,
+      "sha256": "2ef51a2a1980fb91e395fbf1580cc9c9413297f54bb8cad271e1499417299488"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/eng-nasai.json",
+      "bytes": 4033923,
+      "sha256": "4f2aaca4229b96210fdaa887915c69ba99dda8726816856cc8660e996b6b3a1f"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/eng-tirmidhi.json",
+      "bytes": 3124797,
+      "sha256": "f64f1a5e6f2614e164e3b10138412af322d3959011bf84d67f428f79b3858afb"
+    },
+    {
+      "path": "references/search/fawazahmed0-20261104/manifest.json",
+      "bytes": 6202,
+      "sha256": "f6a1094670ec2c26380cebc62fe1a2c462d160a32971c7468e99a2c989c12038"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/README.md",
+      "bytes": 4739,
+      "sha256": "5ffde2406be81c56c12312cb15e4ffce11ed39512c2f598b554b7f2fd68b59a2"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-abudawud.json",
+      "bytes": 7345422,
+      "sha256": "216139c5f40a8147e700d62ffa3b5b2fe45d0e034f86941a193c598c10056189"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-bukhari.json",
+      "bytes": 9770083,
+      "sha256": "e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-ibnmajah.json",
+      "bytes": 5583102,
+      "sha256": "b406e6be81588ab0ec1ddbed32f5fd95bbcdda242c460d88331e82eb5c2bc0aa"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-malik.json",
+      "bytes": 2150337,
+      "sha256": "088b1f354e110211da006d47e37dd8f8837368f318ed683271f0fdb0f09a3ab5"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-muslim.json",
+      "bytes": 8685140,
+      "sha256": "194073b24090c5368e4d14a3f55c9e0ef144c7437bd7e5aa83aa4d2bc54a8ea0"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-nasai.json",
+      "bytes": 7152291,
+      "sha256": "c705983c19bb089c87cd6531aff609bd94d862183ed0859115b0ff991826a956"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-nawawi.json",
+      "bytes": 49340,
+      "sha256": "91f559b90422005b768bb449426d87d2e6fabbb43ac3a31e5c24c50ca77465e6"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/ara-tirmidhi.json",
+      "bytes": 7120806,
+      "sha256": "408028cd56329ed78edbe3ad443beb96b58e16c3e5bd49f9bc7b0eac77c8820f"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/coverage.json",
+      "bytes": 5320,
+      "sha256": "af22866e0dcd101896a9a5e7cd48b9408621d29ce9dba057d12834b2ffc38863"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/editions.json",
+      "bytes": 30390,
+      "sha256": "ef6eaefd10c348c500624091846d7bd7968056bea9bb15875a427d2cc2b2b3bf"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/selected-editions.json",
+      "bytes": 3516,
+      "sha256": "3d9c66b06871279eccf68326aad025d93a7ff898d5b52e8cab1afb31c19bd552"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-abudawud.json",
+      "bytes": 4945471,
+      "sha256": "7ce0518f387a585e64d85fda644135341a4b2b7df5a8138601fb848ad268d5d5"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-bukhari.json",
+      "bytes": 10528373,
+      "sha256": "b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-ibnmajah.json",
+      "bytes": 5164419,
+      "sha256": "50b5afbcac685133674fe9472fe74a14524233c319391a5bae9e2e6fce7cb2db"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-malik.json",
+      "bytes": 1054639,
+      "sha256": "7c157046569ea83eebe59b742c10dafc91b9e03a958d21703f55e77e0a66a28b"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-muslim.json",
+      "bytes": 7114569,
+      "sha256": "7744f5f7b969e05d7ecaeabdac20aaf093d3b82adafd0614c3f952a4f2acfec7"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-nasai.json",
+      "bytes": 2279748,
+      "sha256": "7ca24f251d86de25696a7704a3fa7ea598576afb5a0ea6487d7d693d39860f1d"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-nawawi.json",
+      "bytes": 26639,
+      "sha256": "c79cdfa73ea45ecaed2bc86eb900e01edb18f4f6227bbb2e620d97a8fd16c5dc"
+    },
+    {
+      "path": "references/turkish/fawazahmed0/tur-tirmidhi.json",
+      "bytes": 4132392,
+      "sha256": "4339f0f641d8cad4ee80cf950df409ef67c74b0f162e5d1dfded59066612df8e"
+    },
+    {
+      "path": "references/turkish/hadeethenc-20261104/ar.sqlite",
+      "bytes": 21651456,
+      "sha256": "0eaec8283524c4d2bf9fb8cf1d0c0a77c753d472ac962cb51413a2c3cd8da70a"
+    },
+    {
+      "path": "references/turkish/hadeethenc-20261104/download-manifest.json",
+      "bytes": 775,
+      "sha256": "d73f7e4487b01bd044fa0747265a4c9424692ecb0733ad087a5d3fefc541bb0a"
+    },
+    {
+      "path": "references/turkish/hadeethenc-20261104/pair-audit.json",
+      "bytes": 345,
+      "sha256": "c472469899277aab0764692f3da72435887b7e11b5a4d6484ec26d03ade1de3a"
+    },
+    {
+      "path": "references/turkish/hadeethenc-20261104/schema-manifest.json",
+      "bytes": 3520,
+      "sha256": "97b3249ed8b28a47b454f9168b66c1caa68f161101faa47f2efbf7c60bbcf734"
+    },
+    {
+      "path": "references/turkish/hadeethenc-20261104/tr.sqlite",
+      "bytes": 7901184,
+      "sha256": "65f9dd08bfd2c04ab8a797d8b09662f6615e604698cca545b86b215478109091"
+    },
+    {
+      "path": "research/turkish-sources/translation-research.sqlite",
+      "bytes": 190304256,
+      "sha256": "e95cdf887afa940798b2c1744beeb64ed2983574211c3efee83e35078b1320bf"
+    },
+    {
+      "path": "search/search.sqlite",
+      "bytes": 71163904,
+      "sha256": "9bcc7d355ad72d192191693611bc6e470c552ee525a9927cfe7c2ae8df5338d6"
+    }
+  ],
+  "archive": {
+    "format": "tar+gzip",
+    "bytes": 1587605827,
+    "sha256": "aeda660107f2456e7752de3a69f8a32c2b5dcb9060342df66c9a1ce05dd7b887",
+    "parts": [
+      {
+        "name": "workspace.tar.gz.part001",
+        "bytes": 1073741824,
+        "sha256": "750fee0ba9bf753fc68c127d984f6f200fb775e240f6a910adcb95a927756bc1"
+      },
+      {
+        "name": "workspace.tar.gz.part002",
+        "bytes": 513864003,
+        "sha256": "43c22166a9c8b9a5e50ae5d528df9f2bf558c46cf46226382b7a0ce0017f5754"
+      }
+    ]
+  },
+  "database": {
+    "schema": "hadis",
+    "tables": {
+      "alignment_cases": 17766,
+      "alignment_members": 53298,
+      "alignment_revisions": 17766,
+      "comparison_evidence": 17766,
+      "hadith_component_sets": 51,
+      "localization_claims": 1980,
+      "narrator_records": 1634,
+      "review_events": 15,
+      "sanad_members": 54456,
+      "sanad_records": 8795,
+      "source_snapshots": 19,
+      "text_segments": 0,
+      "text_units": 105554,
+      "text_versions": 105554
+    },
+    "postgres_version": 180006,
+    "format": "pg-custom",
+    "bytes": 51302720,
+    "sha256": "ad36031dae8c4718c64e76fc70cd49e5f98d99b4fa2d8cf8a5fd4607538184d9"
+  }
+}

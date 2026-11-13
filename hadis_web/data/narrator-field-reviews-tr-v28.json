@@ -1,0 +1,279 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "sahyar": {
+      "url": "https://akdemyayinlari.com/wp-content/uploads/2026/01/kutubi-sitte-2-baski.pdf",
+      "title": "Ataullah Şahyar — Kütüb-i Sitte Musannifleri ve Müşterek Hocaları, Akdem, 2. baskı, İstanbul 2025, s. 161",
+      "locator": "Yayınevinin paylaştığı PDF: gerçek kapak, izleyici 3 / basılı 2 künye ve izleyici 162 / basılı 161, Hammâd b. Üsâme alt bölümünün tamamı ve 703–709 dipnotları metinle okundu ve görüntüsü görüldü. Üç parçalı ad, künye, Kureşî/Kûfî, sika-sebt, Kûfe’de ölüm. Bütün 195 sayfa veya fiziksel nüsha doğrulanmadı. Yaklaşık 120 doğumu, ham 121 kaydını değiştirmedi; tek tek bütün münekkit atıflarına tam Türkçe dayanak sayılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "hidir": {
+      "url": "https://acikerisim.bartin.edu.tr/bitstream/handle/11772/16484/Eymen%20h%C4%B1d%C4%B1r.pdf?isAllowed=y&sequence=1",
+      "title": "Eymen Hıdır — İkrime rivayetlerinin değerlendirilmesi, Bartın Üniversitesi YL tezi, 2024, s. 70, §3.1.2.13",
+      "locator": "Mevcut arşiv PDF’sinin gerçek kapağı ve izleyici 93 / basılı 70, Ebû Usâme bölümünün tamamı ile 198–199 dipnotları metinle okundu ve görüntüsü görüldü. Kısa ad, Kûfî, Benî Hâşim mevlâlığı ve farklı Hasan b. Sa‘d bağlantısı; 201/80. Ahmed sözündeki kesin hata yokluğu ifadesi Arapça لا يكاد يخطئ yerine birebir kabul edilmedi. Bölüm bazı cümleleri kısaltır; bütün 192 sayfa veya bütün özel hükümler doğrulanmış sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/1563/حماد-بن-أسامة-بن-زيد-القرشي-أبو-أسامة-الكوفي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Hammâd b. Üsâme, dijital 7/217–224, nr. 1471",
+      "locator": "Tam harekesiz dijital kişi girişi ve uzun hoca-talebe listeleri okundu. Ahmed’in üç ayrı nitelemesi, Abdullah’ın nakli, hata yapmanın neredeyse hiç olmaması, kitap doğruluğu ve zekâ ayrıdır. Şevval/Zilkade ölüm raporları ve mevlâlık varyantları çözülmüş tek tarih/soy yapılmadı. Fiziksel baskı tasdiki yok.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/1519/أبو-أسامة",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Ebû Üsâme, dijital 9/277–279",
+      "locator": "Tam harekesiz kişi girişi, hoca-talebe listeleri ve eklenen hadis okundu. Ahmed’in olumlu değerlendirmeleri, Kûfeliler hakkında bilgi ve kitap/hıfz bağlamı karşılaştırıldı. Bütün diğer kitapların özgün girişleri veya fiziksel baskı doğrulanmadı.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "references/turkish/academic/sahyar-2025-kutubi-sitte-2b.pdf",
+      "sha256": "2724c2bfdb396e4dcf51717e4414abdebdab3d7d0ed074006adc5422c1ea5dcb"
+    },
+    {
+      "path": "references/turkish/academic/sahyar-2025-kutubi-sitte-2b.json",
+      "sha256": "89a8c8fe7d588ddf6469b7f98847c54c5d6f0cb8dc7fba5c6b00df22cdf68559"
+    },
+    {
+      "path": "references/turkish/academic/hidir-2024-ikrime-rivayetleri.pdf",
+      "sha256": "454dcda1a4273933cf02dd3a29ed444ae1f3b369234daf1307e33d6768391bc0"
+    },
+    {
+      "path": "references/turkish/academic/hidir-2024-ikrime-rivayetleri.json",
+      "sha256": "e59200f02d0942e4c8484b642b3ad2e9e5707663c92fd4fb790e86dc19be447e"
+    }
+  ],
+  "revision": "assistant-person-field-review-v28",
+  "policy": "9 alanın dil karşılaştırması; Türkçe destek 8 tam / 1 kısmî; ham tarihler ve senedler korunur.",
+  "people": [
+    {
+      "id": 2484,
+      "expected_source": {
+        "id": 2484,
+        "new_id": 13894,
+        "name": "حماد بن أسامة بن زيد",
+        "shohra": "حماد بن أسامة القرشي",
+        "badeel": "أبو أسامة الكوفي",
+        "konya": "أبو أسامة",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،الكوفي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "121",
+        "death_year": "201",
+        "age": 80,
+        "baladekama": "الكوفة",
+        "baladwafa": "الكوفة",
+        "mawaaly": "مولى بني هاشم",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1089
+      },
+      "expected_record_sha256": "1e78c169e5895393633deace1e891eee72928d50a9bd0bab1ab9540dedc22670",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "حماد بن أسامة بن زيد",
+          "text": "Hammâd b. Üsâme b. Zeyd.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Şahyar üç ad halkasını açık verir; Zeyd, başka metindeki Yezîd yazımıyla değiştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Şahyar üç ad halkasını açık verir; Zeyd, başka metindeki Yezîd yazımıyla değiştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "حماد بن أسامة القرشي",
+          "text": "Hammâd b. Üsâme el-Kureşî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Şahyar kısa ad ve Kureşî nisbesini birlikte verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Şahyar kısa ad ve Kureşî nisbesini birlikte verir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو أسامة الكوفي",
+          "text": "Ebû Üsâme el-Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Şahyar ile Hıdır künye ve Kûfî biçimini açık verir. Başka Üsâme veya Hammâd adlı kişiyle birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Şahyar ile Hıdır künye ve Kûfî biçimini açık verir. Başka Üsâme veya Hammâd adlı kişiyle birleştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو أسامة",
+          "text": "Ebû Üsâme.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "İki Türkçe bölümde künye açık. Künyeden yeni çocuk ilişkisi türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "İki Türkçe bölümde künye açık. Künyeden yeni çocuk ilişkisi türetilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،الكوفي",
+          "text": "Kureşî; Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Şahyar iki nisbenin tamamını verir. Mevlâlık kaydı biyolojik soy olarak yorumlanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Şahyar iki nisbenin tamamını verir. Mevlâlık kaydı biyolojik soy olarak yorumlanmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika, sebt (güvenilir; rivayetinde sağlam).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Şahyar iki teknik terimi birlikte nakleder. Bu kaynak nitelemesi, her hadisin derecesi veya tedlîs yapmadığına dair uygulama hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Şahyar iki teknik terimi birlikte nakleder. Bu kaynak nitelemesi, her hadisin derecesi veya tedlîs yapmadığına dair uygulama hükmü değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe bölümlerde Kûfî nisbesi ve Kûfe’de ölüm açık; bağımsız ikamet alanının tam kaydı aynı biçimde verilmez. Arapça biyografi bağlamı karşılaştırıldı; nisbe tek başına yeni ikamet kenarına dönüştürülmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Türkçe bölümlerde Kûfî nisbesi ve Kûfe’de ölüm açık; bağımsız ikamet alanının tam kaydı aynı biçimde verilmez. Arapça biyografi bağlamı karşılaştırıldı; nisbe tek başına yeni ikamet kenarına dönüştürülmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe bölümlerde Kûfî nisbesi ve Kûfe’de ölüm açık; bağımsız ikamet alanının tam kaydı aynı biçimde verilmez. Arapça biyografi bağlamı karşılaştırıldı; nisbe tek başına yeni ikamet kenarına dönüştürülmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sahyar": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Şahyar Kûfe’de ölümü açık verir. Şevval/Zilkade ay varyantları çözülmedi; ham ölüm 201 ve diğer 121/80 değerleri değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Şahyar Kûfe’de ölümü açık verir. Şevval/Zilkade ay varyantları çözülmedi; ham ölüm 201 ve diğer 121/80 değerleri değişmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى بني هاشم",
+          "text": "Benî Hâşim’in mevlâsı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "hidir": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Hıdır Benî Hâşim mevlâlığını açık verir. Mizzî ve Siyer’de Zeyd b. Ali ile Hasan b. Sa‘d üzerinden farklı bağlantılar ayrıca nakledilir; bunlardan tek kesin velâ zinciri veya biyolojik akrabalık grafiği çıkarılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Hıdır Benî Hâşim mevlâlığını açık verir. Mizzî ve Siyer’de Zeyd b. Ali ile Hasan b. Sa‘d üzerinden farklı bağlantılar ayrıca nakledilir; bunlardan tek kesin velâ zinciri veya biyolojik akrabalık grafiği çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Hıdır Benî Hâşim mevlâlığını açık verir. Mizzî ve Siyer’de Zeyd b. Ali ile Hasan b. Sa‘d üzerinden farklı bağlantılar ayrıca nakledilir; bunlardan tek kesin velâ zinciri veya biyolojik akrabalık grafiği çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıfların tasdiki, yeni hadis hükmü veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

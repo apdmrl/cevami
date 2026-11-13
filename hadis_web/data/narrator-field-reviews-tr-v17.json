@@ -1,0 +1,477 @@
+{
+  "revision": "assistant-person-field-review-v17",
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tebuzeki": {
+      "url": "https://islamansiklopedisi.org.tr/tebuzeki",
+      "title": "Abdullah Karahan — Tebûzekî, TDV İslâm Ansiklopedisi40(2011),227",
+      "locator": "Başlık, tam kişi metni, kaynakça ve matbu künye okundu. Benî Minkar velâsı, Basra ikamet/ölüm ve kısa kimlik doğrudan. Nisbenin açıklamaları alternatiflerdir; kesin meslek veya köken seçilmedi. Sika/sebt lafzının yalnız güvenilirlik parçasına Türkçe destek.",
+      "accessed_on": "2026-11-02"
+    },
+    "kandirali": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/8D/5dfa1b45aea43.pdf",
+      "title": "Yakup Kandıralı — Ukbe b. Âmir el-Cühenî’nin Hayatı ve Rivâyetleri, Marmara Üniversitesi,YL2019",
+      "locator": "Hadis33/Sened ve Râviler,3.Ukayl b.Hâlid el-Eylî: basılı98–99tam kişi paragrafı/dipnotları webPDFmetninden okundu. Sayfa altı98/99ile kontrol edildi; araştırma taslağındaki97/98kullanılmadı. PDF sayfa indeksi doğrulanmadı; yerelPDF/hash/görüntü incelemesi iddiası yok. Kapak gerçek eser adını verir, arama başlığı MÜTÂBEAT kullanılmadı.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    }
+  ],
+  "policy": "19alan:16tam1kısmi2okunan Türkçe bölümde bulunamadı; tümü yalnız dil karşılaştırması. Görüşler bu dilimde çevrilmedi. Boş/sayısal alanlar ve kaynak Arapçası değişmedi.",
+  "people": [
+    {
+      "id": 7721,
+      "expected_source": {
+        "id": 7721,
+        "new_id": 45665,
+        "name": "موسى بن إسماعيل",
+        "shohra": "موسى بن إسماعيل التبوذكي",
+        "badeel": "أبو سلمة البصري",
+        "konya": "أبو سلمة",
+        "lakab": "",
+        "san3a": "التبوذكي",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "المنقري،البصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "223",
+        "age": null,
+        "baladekama": "البصرة",
+        "baladwafa": "البصرة",
+        "mawaaly": "مولى بني منقر",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1299
+      },
+      "expected_record_sha256": "612e54d34d116931f9dc5805b0a1a39a9829e2e8af3dff142ec859f16b76d876",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "موسى بن إسماعيل",
+          "text": "Mûsâ b. İsmâîl.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığı tam kısa adı verir; aynı adlı başka kişiyle birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığı tam kısa adı verir; aynı adlı başka kişiyle birleştirilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "موسى بن إسماعيل التبوذكي",
+          "text": "Mûsâ b. İsmâîl et-Tebûzekî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığı bu ad ve nisbe bileşenlerini verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığı bu ad ve nisbe bileşenlerini verir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو سلمة البصري",
+          "text": "Ebû Seleme el-Basrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığı aynı kişinin künyesini ve Basrî nisbesini açıkça verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığı aynı kişinin künyesini ve Basrî nisbesini açıkça verir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو سلمة",
+          "text": "Ebû Seleme.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığındaki künye; künyeden oğul ismi türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığındaki künye; künyeden oğul ismi türetilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "التبوذكي",
+          "text": "Tebûzekî (nisbe).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Kaynak alanı san3a olsa da değeri nisbedir. TDV farklı açıklamaları rivayetler halinde sunar; kesin meslek tayin edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Kaynak alanı san3a olsa da değeri nisbedir. TDV farklı açıklamaları rivayetler halinde sunar; kesin meslek tayin edilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "المنقري،البصري",
+          "text": "Minkarî; Basrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Minkarî nisbesini velâ ile, Basrî biçimini başlıkta verir. Nisbeden yeni kan bağı çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Minkarî nisbesini velâ ile, Basrî biçimini başlıkta verir. Nisbeden yeni kan bağı çıkarılmadı. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika, sebt (güvenilir, rivayetinde sağlam).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV genel güvenilirliği ve çeşitli münekkitlerin olumlu hükümlerini destekler; sebt lafzının bu bütün teknik terkibi aynı biçimde verilmez. GK alanının dil aktarımıdır, yeni genel hüküm değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV genel güvenilirliği ve çeşitli münekkitlerin olumlu hükümlerini destekler; sebt lafzının bu bütün teknik terkibi aynı biçimde verilmez. GK alanının dil aktarımıdır, yeni genel hüküm değildir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Basra’da yaşadığını açık söyler; ikamet süresi eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Basra’da yaşadığını açık söyler; ikamet süresi eklenmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Basra’da vefatını açık verir. Ölüm tarihi bu metin alanına ilave edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Basra’da vefatını açık verir. Ölüm tarihi bu metin alanına ilave edilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى بني منقر",
+          "text": "Benî Minkar’ın mevlâsı (velâ bağıyla bağlı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tebuzeki": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Benî Minkar velâsını açık verir. Velâ kan bağı veya güncel kölelik statüsü diye genişletilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Benî Minkar velâsını açık verir. Velâ kan bağı veya güncel kölelik statüsü diye genişletilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        }
+      ]
+    },
+    {
+      "id": 5688,
+      "expected_source": {
+        "id": 5688,
+        "new_id": 28663,
+        "name": "عقيل بن خالد بن عقيل",
+        "shohra": "عقيل بن خالد الأيلي",
+        "badeel": "أبو خالد الأموي",
+        "konya": "أبو خالد",
+        "lakab": "صاحب الزهري",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الإيلي،الأموي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 6,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "144",
+        "age": null,
+        "baladekama": "",
+        "baladwafa": "مصر",
+        "mawaaly": "مولى عثمان بن عفان",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 480
+      },
+      "expected_record_sha256": "0b4deb06e3806bd9360105d393458feba90d3a42aae98e6729ec461586c9ada5",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عقيل بن خالد بن عقيل",
+          "text": "Ukayl b. Hâlid b. Ukayl.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez kişi paragrafı tam üçlü adı verir. Önceki Selâme ve sonraki Zührî paragrafı bu kişiye taşınmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez kişi paragrafı tam üçlü adı verir. Önceki Selâme ve sonraki Zührî paragrafı bu kişiye taşınmadı. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عقيل بن خالد الأيلي",
+          "text": "Ukayl b. Hâlid el-Eylî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezde kişi başlığı bu ad ve nisbedir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezde kişi başlığı bu ad ve nisbedir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو خالد الأموي",
+          "text": "Ebû Hâlid el-Ümevî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez aynı kişi için Ebû Hâlid künyesi ve Ümevî nisbesini açıkça verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez aynı kişi için Ebû Hâlid künyesi ve Ümevî nisbesini açıkça verir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو خالد",
+          "text": "Ebû Hâlid.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezdeki açık künye; künyeden akrabalık alanı üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezdeki açık künye; künyeden akrabalık alanı üretilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "صاحب الزهري",
+          "text": "Sâhibü’z-Zührî (Zührî’nin yakın talebesi).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "identity_only",
+              "evidence_note": "صاحب الزهري lakabı GK’den aktarılır. Tez Zührî’den ilim aldığını verir, fakat aynı lakabı açıkça kullanmaz; talebelik bu lafzın tam Türkçe teyidi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "صاحب الزهري lakabı GK’den aktarılır. Tez Zührî’den ilim aldığını verir, fakat aynı lakabı açıkça kullanmaz; talebelik bu lafzın tam Türkçe teyidi değildir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الإيلي،الأموي",
+          "text": "Eylî; Ümevî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez iki nisbe biçimini açıkça verir; Ümevî nisbesinden soy, Eylî nisbesinden yeni ikamet bilgisi çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez iki nisbe biçimini açıkça verir; Ümevî nisbesinden soy, Eylî nisbesinden yeni ikamet bilgisi çıkarılmadı. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika, sebt (güvenilir, rivayetinde sağlam).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez basılı99İbn Hacer’den sikatün sebt biçimini açık aktarır. Bu GK alanının dil aktarımıdır; tüm eleştirileri uzlaştıran yeni hüküm değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez basılı99İbn Hacer’den sikatün sebt biçimini açık aktarır. Bu GK alanının dil aktarımıdır; tüm eleştirileri uzlaştıran yeni hüküm değildir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "مصر",
+          "text": "Mısır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK ölüm yeri aktarılır; okunan tam tez kişi paragrafında Mısır’da ölüm açıkça verilmez. Nisbe veya tarih ölüm yerine kanıt sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK ölüm yeri aktarılır; okunan tam tez kişi paragrafında Mısır’da ölüm açıkça verilmez. Nisbe veya tarih ölüm yerine kanıt sayılmadı. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى عثمان بن عفان",
+          "text": "Osman b. Affân’ın mevlâsı (velâ bağıyla bağlı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez Osman b. Affân velâsını açık verir. Ümevî nisbesi ile velâ türü birbirine dönüştürülmedi; ek hukuki statü üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez Osman b. Affân velâsını açık verir. Ümevî nisbesi ile velâ türü birbirine dönüştürülmedi; ek hukuki statü üretilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

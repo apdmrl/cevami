@@ -1,0 +1,16 @@
+.git
+.local
+.venv
+.superpowers
+app
+data
+tests
+.env
+.env.*
+deploy/secrets
+**/__pycache__
+**/*.pyc
+**/*.log
+**/*.sqlite
+**/*.db
+**/*.dump

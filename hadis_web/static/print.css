@@ -1,0 +1,51 @@
+#print-view{display:none}
+#print-record{min-height:44px;min-width:44px;font-size:11px;padding:8px;border:1px solid #bdcbb7;border-radius:5px}
+@media print{
+  @page{size:A4;margin:17mm 16mm}
+  html,body{height:auto!important;min-height:0!important;overflow:visible!important;background:white!important}
+  body>*{display:none!important}
+  body>#print-view{display:block!important;position:static!important;width:auto;max-width:none;padding:0;margin:0;color:#111;background:white;font:11pt/1.65 "Segoe UI",Arial,sans-serif}
+  dialog::backdrop{display:none!important}
+  #print-view *{box-sizing:border-box;box-shadow:none!important;text-shadow:none!important;max-height:none!important;overflow:visible!important;overflow-wrap:anywhere}
+  #print-view h1{font:24pt/1.7 Amiri,"Times New Roman",serif;margin:3mm 0 6mm;break-after:avoid}
+  #print-view h2{font-size:14pt;line-height:1.5;margin:7mm 0 3mm;padding-bottom:2mm;border-bottom:1px solid #777;break-after:avoid}
+  #print-view h3,#print-view h4{break-after:avoid}
+  #print-view p{margin:2mm 0;orphans:3;widows:3}
+  #print-view .print-heading{font-size:10pt;color:#444;border-bottom:1px solid #777;padding-bottom:3mm}
+  #print-arabic{font:19pt/2 Amiri,"Times New Roman",serif;white-space:pre-wrap;text-align:right;direction:rtl}
+  #print-view dl{display:block;margin:0}
+  #print-view dl>div{display:grid;grid-template-columns:48mm minmax(0,1fr);gap:3mm;padding:1mm 0;break-inside:avoid}
+  #print-view dt{font-size:10pt;color:#333;font-weight:600}
+  #print-view dd{margin:0;color:#111;font-size:11pt;line-height:1.65}
+  #print-view dd[lang=ar]{font-family:Amiri,"Times New Roman",serif;font-size:14pt}
+  #print-view .print-link{display:block;font-size:9pt;direction:ltr;text-align:left;overflow-wrap:anywhere;margin-top:4mm;color:#111}
+  #print-view .print-source{break-inside:avoid}
+  #print-view [hidden],#print-view .hidden{display:none!important}
+  #print-view .translation-card,#print-view .translation-component{padding:3mm 0;margin:3mm 0;border:0;border-bottom:1px solid #bbb;background:white;break-inside:auto}
+  #print-view .translation-text,#print-view .component-translation{font:11pt/1.75 "Segoe UI",Arial,sans-serif;white-space:pre-wrap;margin:2mm 0;color:#111}
+  #print-view .component-pair{display:block;container-type:normal}
+  #print-view .component-arabic-text{font:16pt/1.9 Amiri,"Times New Roman",serif;background:white;padding:0;border-radius:0}
+  #print-view .translation-source-details,#print-view .component-evidence,#print-view .translation-review{padding:2mm 0;margin:2mm 0;background:white;border:0;font-size:9pt;line-height:1.65;color:#222}
+  #print-view .source-link{margin:1mm 0;font-size:9pt}
+  #print-view .source-link a,#print-view a{color:#111;text-decoration:underline;overflow-wrap:anywhere}
+  #print-view .translation-notice,#print-view .component-overview,#print-view .component-status,#print-view .translation-provenance,#print-view .translation-status,#print-sanad-coverage{font-size:9pt;line-height:1.6;color:#222;margin:2mm 0}
+  #print-view .pending-badge{font-size:9pt;color:#111;background:white;border:1px solid #777}
+  #print-view details>summary{list-style:none;font-size:10pt;font-weight:600;color:#222;break-after:avoid}
+  #print-view details:not([open])>:not(summary){display:none!important}
+  #print-view .sanad-item{border:0;border-top:1px solid #aaa;border-radius:0;padding:2mm 0;background:white;break-inside:auto}
+  #print-view .sanad-item>summary{display:block;padding:1mm 0;background:white;cursor:default}
+  #print-view .sanad-label{display:block;font-size:10pt}
+  #print-view .sanad-label small{display:block;font-size:9pt;margin:1mm 0}
+  #print-view .chain-icon{display:none}
+  #print-view .judgement{display:block;text-align:start;font-size:10pt;color:#111;max-width:none;background:white}
+  #print-view .judgement span[lang=ar]{display:block;font:14pt/1.7 Amiri,"Times New Roman",serif}
+  #print-view .judgement small{display:block;color:#222;font-size:9pt}
+  #print-view .chain{display:flex;flex-wrap:wrap;gap:3mm;overflow:visible;padding:2mm 0;margin:0;list-style:none}
+  #print-view .chain>li{flex:none;min-width:0;max-width:100%;break-inside:avoid;padding:0}
+  #print-view .chain>li::after{display:none}
+  #print-view .chain-node{display:block;min-width:0;max-width:100%;padding:2mm;border:1px solid #999;border-radius:1mm;background:white;text-align:center;break-inside:avoid}
+  #print-view .person-name{font:15pt/1.8 Amiri,"Times New Roman",serif;white-space:normal;color:#111}
+  #print-view .person-name-tr,#print-view .position-number,#print-view .chain-node small{display:block;font-size:9pt;line-height:1.5;color:#222;background:white}
+  #print-view .position-number{direction:ltr;unicode-bidi:isolate}
+  #print-view .chain-source,#print-view .empty-state{padding:0;margin:2mm 0;font-size:9pt;line-height:1.65;color:#222}
+}

@@ -1,0 +1,319 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/adem-b-ebu-iyas",
+      "title": "DİA — Âdem b. Ebû İyâs, TDV 1 (1988), 364",
+      "locator": "Başlık, üç paragraflık tam kısa madde, kaynakça ve matbu künye okundu. Künye, Horasânî/Askalânî, Merv doğumu, altı bölgedeki hocalardan öğrenme, Askalân’a yerleşme/ölüm ve genel güvenilirlik vardır. Uzun soy, Nâhiye alternatifi, dokuz yerde tam ikamet, iki velâ kaydı veya oğlu Ubeyd bu maddede yoktur. Genel güvenilirlik bütün on münekkit sözünün birebir teyidi sayılmadı; öğrenci listesi yeni sened ilişkisi olarak aktarılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/320/آدم-بن-أبي-إياس-واسمه-عبد-الرحمن-بن-محمد",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Âdem b. Ebû İyâs, 2/301–307, nr. 294",
+      "locator": "Tam harekesiz dijital biyografi, hoca-talebe listeleri ve devamı okundu. Temîm veya Teym, Horasan kökeni/Bağdat’ta yetişme ve öğrenme/seyahatler/Askalân’a yerleşme ayrıdır. Oğlu Ubeyd talebe listesinde açıktır. Ahmed’in altı veya yedi zabt öğrencisi; Maîn’in bazen zayıflardan nakil kaydı; Ebû Hâtim’in me’mûn/müteabbid/devamı; Nesâî lâ be’se bih; İbn Sa‘d’ın çok ve sahih semâ sözü okundu. Merv/Mervürrûz otomatik yer birleştirmesi yapılmadı. Matbu facsimile veya asıl Suâlât karşılaştırılmadı; tarih/yaş alternatifleri GK sayısal alanlarına geçirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "sicistani": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-davud-es-sicistani",
+      "title": "M. Yaşar Kandemir — Ebû Dâvûd es-Sicistânî, TDV 10 (1994), 119–121",
+      "locator": "Başlık, ilk hayat paragrafı,275ölüm paragrafı ve matbu künye okundu. Kısa adın Süleymân b. el-Eş‘as b. İshâk/Sicistânî/275kimlik bileşenleri karşılaştırılır. İshâk sonrası soy varyantları çözülmüş veya bütün biyografi tasdik edilmiş sayılmaz; Tayâlisî ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/adem-related-records.json",
+      "sha256": "0114f60ba63e30092ee7c60cc1e2707b977b6f850af15922f25553886d2189d2"
+    }
+  ],
+  "revision": "adem-ebu-iyas-opinions-tr-v1",
+  "policy": "10tamgörüş dil karşılaştırması;TR0tam2kısmi8okunan bölümde bulunamadı. HamGK/senedler değişmez.",
+  "narrators": [
+    {
+      "id": 2,
+      "expected_opinion_count": 10,
+      "opinions": [
+        {
+          "key": "2:1011:8f6b72a84e6ff1cc5eb23855f9e9020e123e708c535a1e0b6262b9fa7dd6e1d4",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة عابد",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f105ad2060ba9219394fe1644afa645780edb047327fc55ed109b9087c3808cc",
+          "text": "Takrîb’de: Sikadır, âbiddir (ibadete düşkündür).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Takrîb kitap başlığı ve iki niteleme korunur. Okunan kısa Türkçe maddede İbn Hacer’e atfedilen bu tam söz bulunmadı; genel güvenilirlik aynı özel alıntının yerine konmadı. Asıl Takrîb pasajı bu çalışma için ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Takrîb kitap başlığı ve iki niteleme korunur. Okunan kısa Türkçe maddede İbn Hacer’e atfedilen bu tam söz bulunmadı; genel güvenilirlik aynı özel alıntının yerine konmadı. Asıl Takrîb pasajı bu çalışma için ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:1264:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "1264",
+            "critic": "علي بن عمر بن أحمد بن مهدي بن مسعود بن النعمان بن دينار بن عبد الله",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2f08effc7fc889e8e53f097048cb123981a41bed0c192e1c800606a2cf78a109",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Dârekutnî’nin bu özel değerlendirmesi çevrildi; TDV genel güvenilirlik ifadesi bütün münekkit atıflarını bağımsız teyit etmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Dârekutnî’nin bu özel değerlendirmesi çevrildi; TDV genel güvenilirlik ifadesi bütün münekkit atıflarını bağımsız teyit etmez. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:2463:3465026a9f2f83d96eecbd8da974d7c7ec9bd6b3988347d4e906e75721a31751",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "سمع من شعبة سماعا كثيرا صحيحا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "40afd50f476a348bc24909d024914a577c4b52d0aca13212ff2fc1b7c75ed6a4",
+          "text": "Şu‘be’den çok sayıda hadisi sahih bir semâ ile işitmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İbn Sa‘d’ın çok ve sahih semâ nitelemeleri birlikte korunur; Mizzî2/306tam nakli verir. TDV uzun Şu‘be talebeliğini destekler; semâ niteliği ve miktarı hakkındaki bütün bu atfı Türkçe nakletmez. Bütün Şu‘be rivayetleri için yeni bir sahihlik hükmü kurulmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İbn Sa‘d’ın çok ve sahih semâ nitelemeleri birlikte korunur; Mizzî2/306tam nakli verir. TDV uzun Şu‘be talebeliğini destekler; semâ niteliği ve miktarı hakkındaki bütün bu atfı Türkçe nakletmez. Bütün Şu‘be rivayetleri için yeni bir sahihlik hükmü kurulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İbn Sa‘d’ın çok ve sahih semâ nitelemeleri birlikte korunur; Mizzî2/306tam nakli verir. TDV uzun Şu‘be talebeliğini destekler; semâ niteliği ve miktarı hakkındaki bütün bu atfı Türkçe nakletmez. Bütün Şu‘be rivayetleri için yeni bir sahihlik hükmü kurulmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:2821:8b459b5c948401322b7914537025a45b14f0b9af9f54819313b3bffd0795f810",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "ثقة ربما حدث عن قوم ضعفي ، ومرة قال في سؤالات عثمان بن طالوت البصري : صدوق ، ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "bb867d58d79f7175035cd621f5feb3e459c4ed71214d33801fa3dc2800333d9b",
+          "text": "Sikadır; bazen zayıf kimselerden rivayet etmiştir. Başka bir nakilde, Suâlâtü Osmân b. Tâlût el-Basrî’de: Sadûktur, sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Maîn’in olumlu hükmü, bazen zayıflardan rivayet kaydı, başka nakil ayrımı, Suâlât kitap adı ve sadûk/sika nitelemeleri bütünüyle korunur. Mizzî2/304ilk ihtiyatlı sözü verir. TDV kısa maddede bu iki özel atıf bulunmadı. Asıl Suâlât okunmuş sayılmadı; râvinin bizzat zayıf olduğu sonucu çıkarılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Maîn’in olumlu hükmü, bazen zayıflardan rivayet kaydı, başka nakil ayrımı, Suâlât kitap adı ve sadûk/sika nitelemeleri bütünüyle korunur. Mizzî2/304ilk ihtiyatlı sözü verir. TDV kısa maddede bu iki özel atıf bulunmadı. Asıl Suâlât okunmuş sayılmadı; râvinin bizzat zayıf olduğu sonucu çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Maîn’in olumlu hükmü, bazen zayıflardan rivayet kaydı, başka nakil ayrımı, Suâlât kitap adı ve sadûk/sika nitelemeleri bütünüyle korunur. Mizzî2/304ilk ihtiyatlı sözü verir. TDV kısa maddede bu iki özel atıf bulunmadı. Asıl Suâlât okunmuş sayılmadı; râvinin bizzat zayıf olduğu sonucu çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:429:98c2625ecfb2f1e129ae619c9ee2ae66a32fe39fc77fb990ca2bba8c26b96062",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ثقة صدوق ، ومرة : ثقة مأمون متعبد من خيار عباد الله",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6624388328ea00d38752c33546c3456a26464a459935c27a9178f4f6624ddb76",
+          "text": "Sikadır, sadûktur. Başka bir değerlendirmesinde: Sikadır, me’mûndur; müteabbiddir (ibadete düşkündür), Allah’ın seçkin kullarındandır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Ebû Hâtim’in iki değerlendirmesi ve bütün nitelemeler korunur. Mizzî2/304ikinci sözü açık verir. TDV genel güvenilirlik ve sünnete bağlılık anlatımı bu iki tam özel sözü Türkçe nakletmez; sünnete bağlılık, me’mûn veya bütün lafızların tam desteği sayılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Ebû Hâtim’in iki değerlendirmesi ve bütün nitelemeler korunur. Mizzî2/304ikinci sözü açık verir. TDV genel güvenilirlik ve sünnete bağlılık anlatımı bu iki tam özel sözü Türkçe nakletmez; sünnete bağlılık, me’mûn veya bütün lafızların tam desteği sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Ebû Hâtim’in iki değerlendirmesi ve bütün nitelemeler korunur. Mizzî2/304ikinci sözü açık verir. TDV genel güvenilirlik ve sünnete bağlılık anlatımı bu iki tam özel sözü Türkçe nakletmez; sünnete bağlılık, me’mûn veya bütün lafızların tam desteği sayılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f071bddfa4ca2bf6a19ca0011a1ef3efe8af9619bd318fc7d000f81837cacbad",
+          "text": "Onu es-Sikât’ta zikretti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbn Hibbân’ın eserine kaydetme ifadesi ve kitap başlığı korunur. TDV kısa maddede bu özel atıf bulunmadı; asıl es-Sikât bu kişi için ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İbn Hibbân’ın eserine kaydetme ifadesi ve kitap başlığı korunur. TDV kısa maddede bu özel atıf bulunmadı; asıl es-Sikât bu kişi için ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:459:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "459",
+            "critic": "سليمان بن الأشعث بن إسحاق بن بشير بن شداد بن عمرو بن عمران",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ec402d15d85b223fc919282e9e9cb75c8ca00b9b0c3112600f58161d3c583e9c",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Ebû Dâvûd’un bu sözü Mizzî2/304te açıktır; TDV Âdem kısa maddesi aynı özel münekkit atfını Türkçe nakletmez. Kısa münekkit adının TDV desteği, onun bütün sözlerine tam Türkçe destek sayılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Ebû Dâvûd’un bu sözü Mizzî2/304te açıktır; TDV Âdem kısa maddesi aynı özel münekkit atfını Türkçe nakletmez. Kısa münekkit adının TDV desteği, onun bütün sözlerine tam Türkçe destek sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Ebû Dâvûd’un bu sözü Mizzî2/304te açıktır; TDV Âdem kısa maddesi aynı özel münekkit atfını Türkçe nakletmez. Kısa münekkit adının TDV desteği, onun bütün sözlerine tam Türkçe destek sayılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:751:fcdf19786d36d54024f0efae923804682a14369b28fd1b6faf8e395912a9c284",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "كان من الستة أو السبعة الذين كانوا يضبطون الحديث عند شعبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "458cfb91852634c700f72cf162a31a46adc419281cf1c1c61d32dab1f71bbe1f",
+          "text": "Şu‘be’nin yanında hadisleri sağlam biçimde zabt eden altı veya yedi kişiden biriydi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Ahmed’in altı veya yedi şeklindeki sayısal belirsizliği ve zabt niteliği korunur; Mizzî2/304tam cümleyi verir. TDV Şu‘be yanında uzun süre kalış bağlamını destekler, bu özel sayı ve zabt sözünü nakletmez. Başka yazma meclisi anlatısındaki dört sayısı bu cümlenin yerine geçirilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Ahmed’in altı veya yedi şeklindeki sayısal belirsizliği ve zabt niteliği korunur; Mizzî2/304tam cümleyi verir. TDV Şu‘be yanında uzun süre kalış bağlamını destekler, bu özel sayı ve zabt sözünü nakletmez. Başka yazma meclisi anlatısındaki dört sayısı bu cümlenin yerine geçirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Ahmed’in altı veya yedi şeklindeki sayısal belirsizliği ve zabt niteliği korunur; Mizzî2/304tam cümleyi verir. TDV Şu‘be yanında uzun süre kalış bağlamını destekler, bu özel sayı ve zabt sözünü nakletmez. Başka yazma meclisi anlatısındaki dört sayısı bu cümlenin yerine geçirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:767:6b3c2427eeeba3133e5a2c9cf908d79f1590164e378af40a7be76c7ec9ca5020",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "لا بأس به",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3580a1a86693d0597f17a09488bf9e2d2986135dfee231d5397b5739a356088f",
+          "text": "Lâ be’se bih (onda sakınca yoktur).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Nesâî’nin terim lafzı korunur; Mizzî2/304de açıktır. Türkçe kısa maddede bu özel atıf bulunmadı; terim kendiliğinden başka bir teknik dereceye çevrilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Nesâî’nin terim lafzı korunur; Mizzî2/304de açıktır. Türkçe kısa maddede bu özel atıf bulunmadı; terim kendiliğinden başka bir teknik dereceye çevrilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Nesâî’nin terim lafzı korunur; Mizzî2/304de açıktır. Türkçe kısa maddede bu özel atıf bulunmadı; terim kendiliğinden başka bir teknik dereceye çevrilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "2:779:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 2,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0f51d7a6a0518663578fe6bb7fa32c11500672971e1d3584f797479bd1b1cf82",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "İclî’nin özel değerlendirmesi çevrildi; TDV genel güvenilirlik cümlesi bütün ayrı münekkitlerin aynı lafızlı sözlerinin yerine konmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İclî’nin özel değerlendirmesi çevrildi; TDV genel güvenilirlik cümlesi bütün ayrı münekkitlerin aynı lafızlı sözlerinin yerine konmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

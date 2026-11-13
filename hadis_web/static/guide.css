@@ -1,0 +1,15 @@
+.guide-open{font-size:12px;color:var(--green);min-height:44px;padding:8px 12px;border:1px solid #dce5d4;border-radius:7px;background:#f5f8ef}
+.guide-open:hover{background:#eaf0e2}.home-intro .guide-open{margin-top:14px}.reading-links{align-items:center;flex-wrap:wrap;gap:8px 14px}
+.reading-links a{min-height:44px;display:inline-flex;align-items:center}.reading-links #back-search{display:inline-flex!important}
+.reading-links #open-research[hidden]{display:none!important}
+.reading-links .guide-open{margin-left:auto}.usage-dialog{padding:0;width:min(680px,calc(100vw - 32px));max-width:calc(100vw - 32px);max-height:min(86dvh,780px);overflow:hidden}
+.usage-dialog[open]{display:flex;flex-direction:column}.usage-top{flex:none;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 22px;border-bottom:1px solid var(--line)}
+.usage-top h2{font-size:18px;line-height:1.5}.usage-top .icon-button{min-width:44px;min-height:44px;color:var(--green)}
+.usage-body{min-height:0;overflow:auto;overscroll-behavior:contain;padding:22px;line-height:1.8;font-size:13px;scrollbar-gutter:stable}
+.usage-intro{color:#53634d;margin-bottom:18px}.usage-steps{margin:0;padding-left:22px}.usage-steps li{padding:0 0 15px 4px}.usage-steps li::marker{color:var(--green);font-weight:700}
+.usage-steps h3{font-size:14px;margin:0 0 4px;color:var(--ink)}.usage-steps p{margin:0;color:#53634d}.usage-actions{display:flex;flex-wrap:wrap;gap:8px;margin:5px 0 18px}
+.usage-action{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;color:var(--green);border:1px solid #cfddc7;background:#f1f6e9;border-radius:7px;padding:9px 12px;font-size:12px;min-height:44px}
+.usage-action:hover{background:#e7efdd}.usage-ready-note{color:#6c4a2b;font-size:12px;margin-bottom:15px}.usage-ready-note:empty{display:none}.usage-terms{border-top:1px solid var(--line);padding-top:15px;margin-top:6px}
+.usage-terms summary{cursor:pointer;color:var(--green);min-height:44px;display:list-item;align-content:center}.usage-terms dl{margin:8px 0}.usage-terms dt{font-weight:600;color:var(--ink);margin-top:14px}.usage-terms dd{margin:4px 0 0;color:#53634d}
+.usage-view-link{display:inline-block;color:var(--green);text-underline-offset:3px;margin-top:16px;min-height:44px;padding:10px 0}.usage-view-link[hidden]{display:none!important}
+@media(max-width:760px){.reading-links .guide-open{font-size:11px}.usage-top{padding:8px 14px}.usage-top h2{font-size:17px}.usage-body{padding:16px}.usage-actions>*{flex:1 1 42%}}

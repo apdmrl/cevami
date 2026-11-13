@@ -1,0 +1,1440 @@
+{
+  "revision": "opinions-chain-rest-tr-v1",
+  "reviewed_on": "2026-10-31",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "Arapça kaynak asıldır. Tam Türkçe eşleşme yalnız kontrol edilen görüş ve atıf için kabul edilir. Kısmi destek tam çeviri kaynağı sayılmaz. Birebir kitap alıntısı veya uzman onayı iddiası yoktur. Eleştirmen adları Arapça korunur; Türkçe kimlik alanı beklemededir.",
+  "sources": {
+    "tdv_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "Hayati Yılmaz, TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî (2013)",
+      "locator": "43/261–262; hayatı ve hadisçiliği paragrafları",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_alkame": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "M. Yaşar Kandemir, TDV İslâm Ansiklopedisi: Alkame b. Vakkās (1989)",
+      "locator": "2/468; biyografi ve cerh-ta‘dîl paragrafı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_omer": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "Mustafa Fayda, TDV İslâm Ansiklopedisi: Ömer (2007), birinci bölüm",
+      "locator": "34/44–51; hicret, gazveler, faziletler ve Fârûk lakabı paragrafları",
+      "accessed_on": "2026-10-31"
+    },
+    "kirtil": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, Marmara Üniversitesi, 2010",
+      "locator": "Basılı s.70,93,125,199; PDF s.81,104,136,210; ilgili râvi paragrafları",
+      "accessed_on": "2026-10-31"
+    },
+    "yildiz": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5E/0D2883C5-DF42-5B4F-BED0-D6615F848F17.pdf#page=153",
+      "title": "Fahreddin Yıldız, İlmî Bir Disiplin Olarak Fıkhü’l-Hadîs, Marmara Üniversitesi, 2016",
+      "locator": "Basılı s.138; PDF s.153; Yahyâ b. Saîd el-Ensârî, rivâyetteki titizlik",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "checked_sources": [
+    "tdv_yahya",
+    "tdv_alkame",
+    "tdv_omer",
+    "kirtil",
+    "yildiz"
+  ],
+  "inaccessible_candidates": [],
+  "narrators": [
+    {
+      "id": 8272,
+      "expected_opinion_count": 21,
+      "opinions": [
+        {
+          "key": "8272:1011:b583cebc804bfd09ae0ec7f4f8e2efe249636eb955b35aeef38f5a29c0580aca",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة ثبت",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "76767590bcc6b2030e7210623ae76833478fa638d7c29901411669cc8d62d6c9",
+          "text": "Takrîb’de sika ve sebt olduğunu belirtmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.93: Aynı terimler Nesâî’ye aittir; İbn Hacer/Takrîb eşleşmesi yok."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:1132:be6122cd918ef51c225a705c70dcc1436615ee39d80424957882ff0a870c9dc0",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1132",
+            "critic": "إبراهيم بن محمد بن خليل",
+            "opinion": "ذكره في التبيين لأسماء المدلسين",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a0b767d3d19f02233c81530a70f48b4f26013bf25255f3cbc6287008473be900",
+          "text": "Onu et-Tebyîn li-esmâi’l-müdellisîn’de anmıştır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:1268:c2511ee59f115658db434d3f1c9419b316d1644531dfcad1135a1dd22e4475a3",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "الإمام الحافظ الحجة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f55038a063aeaa04f5ee86f98789e75ca68f2052fc16c6277f9d9f2e462edaaa",
+          "text": "İmam, hâfız ve hüccettir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Genel övgü var; Zehebî’ye bağlı üçlü hüküm tam verilmez."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:1492:a9045107a646d34ced0a0b45cf370e97dc7cc831bb84d3550fac3b8d1aaf5270",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1492",
+            "critic": "جرير بن عبد الحميد بن جرير بن قرط بن هلال بن أقيس بن أبي أمية بن زحف بن النضر",
+            "opinion": "ما رأيت شيخا أنبل منه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "014f86bd57150a005fafeb345fdee318def4f41f11e687af1782ac183f46c9d2",
+          "text": "Ondan daha asil bir şeyh görmedim.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:1555:39912dd19436dd4260cc64eb5318a688ceaafbee91d9f030d2bfa249fb937f49",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1555",
+            "critic": "حماد بن زيد بن درهم",
+            "opinion": "ما خلفت بالمدينة أحدا أفقه من يحيى بن سعيد الأنصاري",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a364222f43b6b4bddc43090975c0c742e975ce814d42cc1540594ac11d4eb9b2",
+          "text": "Medine’de Yahyâ b. Saîd el-Ensârî’den daha fakih birini geride bırakmadım.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Benzer fıkıh övgüsü Eyyûb’a bağlanır."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.138: Hammâd nakleder; sözü söyleyen Eyyûb’dur. Arapça satırdaki doğrudan Hammâd atfı düzeltilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. Kaynakta eleştirmen Hammâd b. Zeyd’dir. Yıldız tezinde Hammâd, Eyyûb’un sözünü nakleden kişidir; TDV de sözü Eyyûb’a bağlar. Bu atıf farkı giderilmedi; Türkçe metin yalnız Arapça satırın cümlesini çevirir."
+        },
+        {
+          "key": "8272:1675:dd9c1c0b1365acd7b1fca43ef18892ee862ceeabdf19f173f5d4e3e368f5c0e7",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1675",
+            "critic": "سفيان بن سعيد بن مسروق بن حمزة بن حبيب بن موهبة بن نصر بن ثعلبة بن ملكان بن ثور",
+            "opinion": "كان أجل عند أهل المدينة من الزهرى ، ومرة : حفاظ الناس أربعة ، وذكره منهم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "99e77dfcb7f0ccbe66d21455c2a3afbe8b383b2e27d5b08a4977643611bf148c",
+          "text": "Medine halkı nezdinde Zührî’den daha itibarlıydı. Başka bir değerlendirmesinde, insanların hadis hâfızlarının dört kişi olduğunu söyleyerek onu da bunların arasında saymıştır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Zührî ile karşılaştırma bulunur; burada Süfyân’ın iki sözü birlikte yok."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:1678:9fe4c0cb8772898940d473080ff40be59fb70d7dc5377830a1efcb09481850e8",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1678",
+            "critic": "سفيان بن عيينة بن ميمون",
+            "opinion": "كان محدثوا الحجاز : ابن شهاب ، ويحيى ابن سعيد ، وابن جريج ، يجيؤن بالحديث على وجهه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "86a184b5a3cb5990489594aa4e683f818ade87b3b3ed632dc7f484e213e4161d",
+          "text": "Hicaz’ın muhaddisleri İbn Şihâb, Yahyâ b. Saîd ve İbn Cüreyc idi; hadisi gereği gibi aktarırlar.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.93: İbn Uyeyne’den Hicaz muhaddisliği nakli var; üç isim ve son cümle yok."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:1847:9c434ea10966aa0762c62025968d9fc0310180af3b21f9d3c28575c6b02b4216",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "1847",
+            "critic": "عبد الرحمن بن يوسف بن سعيد بن خراش",
+            "opinion": "أحد الأئمة مديني",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1ef2f8b033ac62436462de24850b1dd1ff05415a628c2c6367daa5879e421c99",
+          "text": "Medineli olup imamlardan biridir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:2136:fbebc244fa91ea7588332277f8203405eb99697d7bda019f10e4251a1230300e",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "2136",
+            "critic": "علي بن المديني",
+            "opinion": "من أصحاب صحة الحديث وثقاته ومن ليس في النفس من حديثهم شىء ، ومرة : كان يدلس ، ومرة : لم أر أحدا أثبت وأعلم بالرجال منه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9c15c73b35c997748a1e602a67fe2a4ad8bd893efa216d763b48d8a394b217f2",
+          "text": "Hadisleri sahih olan güvenilir râvilerdendir; hadisleri konusunda gönülde hiçbir kuşku bulunmayanlardandır. Başka bir değerlendirmesinde tedlîs yaptığını söylemiştir. Bir başka değerlendirmesinde ise, ondan daha sağlam ve râvileri daha iyi bilen birini görmediğini belirtmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İbnü’l-Medînî’nin övgüsü var; bu üçlü kayıt tam aktarılmaz."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. Arapça kayıttaki üç ayrı değerlendirme ve doğrudan görmeye ilişkin birinci şahıs ifadesi korundu. Türkçe biyografideki başka İbnü’l-Medînî sözü bu kaydın yerine konulmadı."
+        },
+        {
+          "key": "8272:2463:13f1ccecddda73362def3cc960cb73f3ac80ef95817e0a997d23e14b4a15993e",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ثقة ، كثير الحديث ، حجة ، ثبت",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "113e28774f8de95367b03e65e436d24d5d552b03ed69adf92d9ee6e587590aaf",
+          "text": "Sikadır; çok hadis rivayet etmiştir, hüccet ve sebttir.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.125: İbn Sa‘d’a bağlanan dört hüküm de yer alır."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "8272:2758:3e2dd644e0d0699e238dbddc94c830a03c1779f793d138a416f5d5653ab68963",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "2758",
+            "critic": "هشام بن عروة بن الزبير بن العوام بن خويلد بن أسد بن عبد العزى بن قصي بن كلاب",
+            "opinion": "العدل الرضى الأمين",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "539edd413bcfc1d02c700b8ad362ca900c7db12f6d7c9bceb6df924bc5050ca1",
+          "text": "Âdil, kendisinden razı olunan ve güvenilir biridir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:2772:8ca9bd946181b311b8b5393a6d281d99eb77f8c5b4c776a771b6880d86ed1240",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "2772",
+            "critic": "وهيب بن خالد بن عجلان",
+            "opinion": "قدمت المدينة فما رأيت أحدا إلاتعرف وتنكر إلا يحيى بن سعيد ومالك بن أنس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "51c40d95b6f2887ac099101c9b4a86c37c161c6d4dc0080314e61e00ce2c99fc",
+          "text": "Medine’ye geldiğimde, Yahyâ b. Saîd ve Mâlik b. Enes hariç, karşılaştığım herkesin rivayetleri arasında tanıdıklarım da yadırgadıklarım da vardı.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. تعرف وتنكر karşıtlığı rivayetlerin bir kısmını tanıma, bir kısmını yadırgama olarak çevrildi; Arapça satırdaki bitişik إلاتعرف yazımı kaynakta korundu."
+        },
+        {
+          "key": "8272:2804:708595d6e0a5c08d973cd9fb859c2dce3fc0bda76ae3c370fd6d88be1ebaee07",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "2804",
+            "critic": "يحيى بن سعيد بن فروخ",
+            "opinion": "كان يعظمه ، ومرة : لا يقدم عليه من الحجازيين أحد ، ومرة : يحفظ ويدلس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0a8082bbe14b3d3ab4bbbf7416141a100bedb0d3062be2c4c0ba0106f0831e9e",
+          "text": "Ona büyük saygı gösterirdi. Başka bir değerlendirmesinde, Hicazlılardan hiç kimsenin onun önüne geçirilemeyeceğini söylemiştir. Bir diğerinde, hadisleri ezberlediğini ve tedlîs yaptığını belirtmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. İlk cümlenin öznesi açık adla yazılmamıştır; eleştirmen alanından yeni bir kişi adı metne eklenmedi. Üç değerlendirme korundu."
+        },
+        {
+          "key": "8272:2821:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "bb490deb6276a0db35b0f9a21f410c3a767a64df7cd8d0e3294790a04b30b241",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.70: İbn Maîn’in hükmü eşleşir."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "8272:429:43b57b7c62c742c85610a67b2d597013e28df05e2685705607c7a55ebd52d7aa",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ثقة ، ومرة : يحيى يوازى الزهرى",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "fa2a93ae9964876e1bc096b4629d36f4625828184242421e688ec7de8c43280c",
+          "text": "Sikadır. Başka bir değerlendirmesinde, Yahyâ’nın Zührî’ye denk olduğunu söylemiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.70: İlk hüküm mevcut; Zührî’ye denklik cümlesi yok."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2f97f0215074c9ffa1011e2b1547dd521d7265f19723d83378f5ffede80639e9",
+          "text": "Onu es-Sikât’ta anmıştır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:466:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "466",
+            "critic": "أحمد بن الحسين بن علي بن إبراهيم بن الحكم",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "26935351155914bca4a11590727e8d1fdbd5f43d0e73f519dc0f34e6daa8b5ad",
+          "text": "Sikadır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:659:bb5e05660a06fa7d66e1a5304c3bcffc758507012c6d583f79985e57677de57c",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "659",
+            "critic": "عبد المؤمن بن خلف بن أبي الحسن بن شرف بن الخضر بن موسى",
+            "opinion": "كان يدلس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8b980865ce683ec6390e9a8057919e83cee978d4087d33ec022624bdda18c09f",
+          "text": "Tedlîs yapardı.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:751:d5a815039e044f9c92c52c5c858f11428d1f85737aefd083406942546e042b99",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "أثبت الناس ، ومرة : ثقة ، ومرة : ما كان أضبطه وأشد تفقده",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3cba7cf15525e921317464a63b86c6236fb56aa315560f0ef711c8d3f99130d3",
+          "text": "İnsanların en sağlamıdır. Başka bir değerlendirmesinde sika olduğunu söylemiştir. Bir diğerinde, “Ne kadar titiz bir zabta ve ne kadar sıkı bir kontrole sahipti!” demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Ahmed’in üstün güvenilirlik övgüsü mevcut; diğer iki değerlendirme aktarılmaz."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "8272:767:0a52703bb7be0d2e73d198beb3776e2003ac6481239b0bad5c589683d27a04cb",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "ثقة ثبت ، ومرة : ثقة مأمون",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9834d9b3a6dab106eab7ead1ece466dd696f54eb99d571e2d68befa5323ac2cc",
+          "text": "Sika ve sebttir. Başka bir değerlendirmesinde, sika ve me’mûn olduğunu söylemiştir.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.70,93,125: Nesâî’nin iki değerlendirmesi eşleşir."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "8272:779:4ec6f58c6ab6eae8437ad7167d6ae196ca1c577d71029c0c62c9b0bc4528dcc4",
+          "expected_source": {
+            "narrator_id": 8272,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "مدني تابعي ثقة وكان له فقه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "33935f9ffd32a67c86a8373ed0f2806e5f1cf6c327bee95e17f5d51afe34280f",
+          "text": "Medineli, sika bir tâbiîdir; fıkıh bilgisi vardı.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_yahya": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Medineli tâbiî kimliği mevcut; tam İclî atfı yok."
+            },
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.70,93,125: İclî’nin güvenilirlik ve fıkıh hükümleri var; ona bağlı Medineli/tâbiî kısmı yok."
+            },
+            "yildiz": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        }
+      ]
+    },
+    {
+      "id": 6796,
+      "expected_opinion_count": 15,
+      "opinions": [
+        {
+          "key": "6796:1011:0bc38c82c3f4408fbfce05248dbc3c2a8fe211c31949f74bf4b0596bfaec866c",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة له أفراد ، وقال في هدي الساري : احتج به الجماعة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "40b93d84535f2b49cd497caa2760d238893a81e543e793f2ffe0d17b76ac897f",
+          "text": "Takrîb’de sika olduğunu ve tek başına rivayet ettiği hadislerinin bulunduğunu belirtmiştir. Hedyü’s-sârî’de ise Kütüb-i Sitte müelliflerinin onun rivayetlerini delil kabul ettiğini söylemiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.93: Güvenilirlik nakilleri var; İbn Hacer’in iki eserdeki tam sözü yok."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "6796:1125:65b02fa519e07c12922afa5f340ba4b0d3aa834ecef696c0d67126fa9b5e1290",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "صحيح الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "eca1e0e3c4f7c460f73f37cee4c94fd8e0e894c86f8a203b3922d1744c5be5cf",
+          "text": "Hadisleri sahihtir.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "6796:1268:a4297a87394ef3c5dbeb973f2f879624ce74ec7b80796a180c9800539e038254",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "قال في الكاشف : وثقوه ، وقال في التذهيب : أحد العلماء المشاهير",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7afa7011d495301472c10624a18de45a0a501651c6d00f469685dba5ce81d81a",
+          "text": "Kâşif’te, âlimlerin onu güvenilir saydıklarını belirtmiştir. Tezhîb’de ise tanınmış âlimlerden biri olduğunu söylemiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.93: Güvenilirlik nakilleri var; iki Zehebî eseri ve iki cümle eşleşmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "6796:1847:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "1847",
+            "critic": "عبد الرحمن بن يوسف بن سعيد بن خراش",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5da46bc4389a2918cede5c438dffc02db8f5e17f7dccf89d2869c98ec2b2807a",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93,199: İbn Hirâş’ın hükmü eşleşir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "6796:2136:38eea377c2c6f5047d238b27d83d2ff2e4f4bb89fe0879da4ad19f9c004d2020",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "2136",
+            "critic": "علي بن المديني",
+            "opinion": "حسن الحديث ، مستقيم الرواية ، ثقة إذا روى عن ثقة ، وقال مرة : رأيت على حديثه النور ، أما رواية أهل الكوفة عن ابنه ، فليس بشيء ، ابنه ضعيف منكر الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e2574ec6bf0738caa11a63d58cc09a884d87a5d285dba24621c9addc01210c7c",
+          "text": "Hadisi hasendir; rivayeti düzgündür. Sika birinden rivayet ettiğinde sikadır. Bir defasında, “Onun hadisinde bir nur gördüm” demiştir. Kûfeliler’in onun oğlundan rivayetine gelince, bunun değeri yoktur; oğlu zayıf ve münkerü’l-hadîstir.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. Oğlunun adı Arapça satırda yoktur; tahminle eklenmedi. Son iki cümle râvinin kendisiyle oğlunun durumunu ayırır; bütün cümleler çevrildi."
+        },
+        {
+          "key": "6796:2463:ef527e23dcea1becdc62d8e56da1157dc5f653b95f1ed9b4bd9a85f65e24ce74",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ثقة كثير الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7d3cf81faf7ce6dea28947949e0894087ae6630eda5a7aa682c928acc3fc7abd",
+          "text": "Sikadır; çok hadis rivayet etmiştir.",
+          "status": "source_compared",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93,199: İbn Sa‘d’ın iki niteliği eşleşir; s.93’te Muhammed b. Ömer’den nakil olduğu belirtilir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir. Türkçe tez s.93’te İbn Sa‘d’ın Muhammed b. Ömer’den naklini bildirir. Arapça kaynak eleştirmen alanı İbn Sa‘d olarak aynen tutuldu; aracı kişi çeviri metnine eklenmedi."
+        },
+        {
+          "key": "6796:2671:1e1514b1ebb6a384ef1f422975f4f3ba55cff24d164ce915010a332ad7a2b29c",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "2671",
+            "critic": "مصنفوا تحرير تقريب التهذيب",
+            "opinion": "ثقة ، وقوله : له أفراد لا معنى لذكرها",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "4e7ac0c7b9ded465219d3ed6c1ce1d4d68def43d803e82f4de4900adaaa4c664",
+          "text": "Sikadır. “Tek başına rivayet ettiği hadisleri vardır” sözünü zikretmenin bir anlamı yoktur.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.93: Güvenilirlik nakilleri var; Tahrîr müelliflerinin itirazı yok."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. İkinci cümle müelliflerin “له أفراد” ifadesine itirazıdır; râvinin tek kalmış rivayetlerinin bulunmadığı şeklinde yorumlanmadı."
+        },
+        {
+          "key": "6796:2821:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "980bca430921fd289e1f97d966f6b30c5d9162c4ffaf0a1cd053ee11d5c85552",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93,199: İbn Maîn’in hükmü eşleşir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "6796:2854:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "2854",
+            "critic": "يعقوب بن سفيان بن جوان",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d576bd23ede22a84f1fa7ac40b02e299d4f179ee02b8c17c60a5c329b6db2f03",
+          "text": "Sikadır.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "6796:2855:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "2855",
+            "critic": "يعقوب بن شيبة بن الصلت بن عصفور بن شداد بن هميان",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "fa50f31caa998182122476fbcd112d1ffad0416a8cbad47ae42b0409f7eae4db",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93: Ya‘kūb b. Şeybe’nin hükmü İbn Hacer üzerinden aktarılır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "6796:429:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3cf2d51e51023c50a06ad4639afe28d240328842971a41f9118844ab30d025a9",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93,199: Ebû Hâtim’in hükmü eşleşir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "6796:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "cea045f8e6f7227a4c6a3d906571d72001e61b2a773a652d90e73efe7e96227c",
+          "text": "Onu es-Sikât’ta anmıştır.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "6796:621:4b39afd712b12a5ae3f508eae5f0f35433eb00656603d4c3aa984ea683fd4f90",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "621",
+            "critic": "محمد بن عيسى بن سورة بن موسى بن الضحاك",
+            "opinion": "ثقة وهو مدني",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "75ea8f1ccd739e63526a4cd7d9f1a59657bd0567bf7f6ceca9a9a31ad6e55404",
+          "text": "Sikadır ve Medinelidir.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.93: Medineli kimliği ve güvenilirliği mevcut; tam Tirmizî atfı yok."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "6796:751:7cabe945e504246903831fb2109d9cad1e0c51dd7f4cfc5105c652dd81c4b391",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "في حديثه شيء ، يروى أحاديث مناكير",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "94932ce9e7f1081ced776737369eb95559f1ef8977b25d42327b5766acb8b12a",
+          "text": "Hadisinde bir sorun vardır; münker hadisler rivayet eder.",
+          "status": "needs_review",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "6796:767:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 6796,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ea3a003e14e42cfff833977ba75f1cb0961f7628f6125f0089a4dcae6883967d",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93,199: Nesâî’nin hükmü eşleşir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 5719,
+      "expected_opinion_count": 6,
+      "opinions": [
+        {
+          "key": "5719:1011:59faa37f09d6fc64c75c18e58b3cdcf204b63b15defbf1bfc4d47b80092fc837",
+          "expected_source": {
+            "narrator_id": 5719,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريبثقة ثبت أخطأ من زعم أن له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5b031d633c72b7f6a5e079064e09f61b7fe3374c0146101046674e1433600437",
+          "text": "Takrîb’de sika ve sebt olduğunu; sahâbî olduğunu ileri sürenin yanıldığını belirtmiştir.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_alkame": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tâbiîlik ve sahâbîlik ihtilâfı mevcut; İbn Hacer’in tam hükmü yok."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93: Takrîb atfı ve üç unsur eşleşir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "5719:1268:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 5719,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "19169e85a2462e4afd4307be35e63efb25b60d8597d4de6e4c7db98761892d83",
+          "text": "Sikadır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_alkame": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "5719:2463:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 5719,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "960583fe99b0a09f7587049d9272a009c0cd9624790ed3bbb148f43fdc243093",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_alkame": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "İbn Sa‘d’a bağlanan güvenilirlik hükmü eşleşir."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "5719:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 5719,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "44554cd7999918971352a06369e7ed6b143478c3a9e0d0f19898a4e8bb1d57d6",
+          "text": "Onu es-Sikât’ta anmıştır.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_alkame": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93: İbn Hibbân’ın es-Sikât’ta anması aktarılır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "5719:767:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 5719,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "93695d37091c5140b31fba6f20456d9945def40e73cf6b80cb8abc2da4e9a761",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_alkame": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Nesâî’ye bağlanan güvenilirlik hükmü eşleşir."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93: Nesâî’nin hükmü eşleşir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "key": "5719:779:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 5719,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e2f865486ca8f0fa9ff6459e62c759c135311df4af4480e5aaceaf6bddb891e2",
+          "text": "Sikadır.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv_alkame": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.93: İclî’nin hükmü eşleşir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Belirtilen Türkçe kaynakta bu görüşün bütün unsurları ve atfı karşılaştırıldı. Türkçe anlatım kaynak destekli bir karşılıktır; birebir alıntı veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 5913,
+      "expected_opinion_count": 7,
+      "opinions": [
+        {
+          "key": "5913:1011:62c82d617b732120ba5ee5fc891c1e61ee9f0e2cd41a39584e4af931b59b57e1",
+          "expected_source": {
+            "narrator_id": 5913,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي مشهور ثاني الخلفاء وأحد العشرة شهد بدرا وما بعدها من الغزوات جم المناقب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5bdf45af5a168d2dc0ecb1ae073f93aef6d04404b97713cf91b0b23c933426cd",
+          "text": "Takrîb’de, meşhur bir sahâbî, halifelerin ikincisi ve cennetle müjdelenen on kişiden biri olduğunu; Bedir’e ve ondan sonraki gazvelere katıldığını, çok sayıda menkıbe ve fazilete sahip olduğunu belirtmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîliği, ikinci halifeliği, aşere ve gazveler mevcut; Takrîb’in tam görüşü aktarılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "5913:1051:593f35c2c2944749ef2559eff4ee71af9d559239f87242e24b851bcecb9d7b03",
+          "expected_source": {
+            "narrator_id": 5913,
+            "alem_id": "1051",
+            "critic": "يوسف بن عبد الله بن محمد بن عبد البر بن عاصم",
+            "opinion": "ذكره في الاستيعاب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "c9b1d77fb130428c328238c630a82a66a22d853808a2e2f645f64929d6eb60c1",
+          "text": "Onu el-İstîâb’da anmıştır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_omer": {
+              "support_scope": "not_found",
+              "evidence_note": "Belirtilen ilgili râvi paragraflarında bu atıflı görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "5913:1385:287c09a58d5b040ee519b70190e1aebf7bace0782b0ff0375c53ef9e1f3ce45d",
+          "expected_source": {
+            "narrator_id": 5913,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "شهد بدرا والمشاهد كلها مع رسول الله صلى الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9d0a55b9a38005ee9a65099b115e32c89b9ae05d3d1d0d82debbad2b74522192",
+          "text": "Resûlullah ile birlikte Bedir’e ve bütün savaşlara katılmıştır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Gazvelere katılım bilgisi mevcut; Mizzî’ye bağlı tam kayıt verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "5913:239:700916366a5efab3ab560d7e0e33a8648ca973e4cc59579651b8b300c70880ba",
+          "expected_source": {
+            "narrator_id": 5913,
+            "alem_id": "239",
+            "critic": "عبد الرحمن بن علي بن محمد بن علي بن عبيد الله بن عبد الله بن حمادي بن أحمد بن محمد بن جعفر بن عبد الله بن القاسم بن النضر بن القاسم بن محمد بن عبد الله بن عبد الرحمن بن القاسم بن محمد بن أبي بكر الصديق",
+            "opinion": "ذكره في كشف النقاب ، وقال : سماه رسول الله صلى الله عليه وسلم ، الفاروق",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "aee15548c74d46aa81d690f8e23d56ccfe0c36759275db1b816e34be3a9bb565",
+          "text": "Onu Keşfü’n-nikāb’da anmış ve Resûlullah’ın ona Fârûk adını verdiğini söylemiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Lakabın verilişinde farklı rivayetler sıralanır; Keşfü’n-nikāb atfı yok."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. Arapça kayıt lakabı Resûlullah’a nispet eder. TDV farklı nispetleri de verir; bu farklılık silinmedi ve Arapça kaydın iddiası tarihsel olarak kesinleştirilmedi."
+        },
+        {
+          "key": "5913:2463:363add41962ea80faccfcebeb8628adf1c5737ef5b78959424a6272e198ed3bc",
+          "expected_source": {
+            "narrator_id": 5913,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ذكر صحبته في الطبقات الكبرى",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "4171bc98ae23e8a8d062b1be41bbd8a6b1c59182451f317b262edbfacc11e335",
+          "text": "et-Tabakātü’l-kübrâ’da onun sahâbîliğini zikretmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik ve Tabakāt’a bibliyografik atıflar var; bu görüş eşleştirilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "5913:429:8e8c78888da76ebb05ffdb6ceab91e8578f86361c5faba0da6746c9c87d4e717",
+          "expected_source": {
+            "narrator_id": 5913,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "له صحبة وهجرة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "66c1cce05b04af28450a837de20b2c8ac6f38c46e71577a934e0788197043ad0",
+          "text": "Sahâbîdir ve hicret etmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sahâbîlik ve hicret bilgisi mevcut; Ebû Hâtim’e bağlı hüküm yok."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez."
+        },
+        {
+          "key": "5913:936:98e7f71404b41a330e6d1e521407f0df88ad17d69b97880b4ed383bc2053567c",
+          "expected_source": {
+            "narrator_id": 5913,
+            "alem_id": "936",
+            "critic": "مبارك بن محمد بن محمد بن عبد الكريم بن عبد الواحد",
+            "opinion": "ذكره في أسد الغابة ، وقال : شهد بدرا وأثبت يوم أحد",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b6f0474086486773781abe3d6d04d7cf4716883f6e9308736a42ffd51a02bc34",
+          "text": "Onu Üsdü’l-gābe’de anmış; Bedir’e katıldığını ve Uhud günü sebat ettiğini söylemiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv_omer": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Gazvelere katılım bilgisi mevcut; Üsdü’l-gābe atfı ve Uhud’daki sebat cümlesi yok."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kontrol edilen ilgili paragraflarda bu atıflı görüşün tam Türkçe karşılığı bulunamadı. Bütün cümleler Arapça kayıttan asistan tarafından çevrildi; inceleme gerekir. Bu sınırlı tarama, başka Türkçe kaynakta karşılığı bulunmadığı anlamına gelmez. Kaynak satırdaki وأثبت يوم أحد ifadesi Uhud günü sebat olarak çevrildi. Kelime ve atıf Arapça kaynakta değiştirilmedi; bu ifade için Türkçe tam destek bulunamadığından inceleme gerektirir."
+        }
+      ]
+    }
+  ]
+}

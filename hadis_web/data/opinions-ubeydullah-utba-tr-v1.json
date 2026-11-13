@@ -1,0 +1,176 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "onuk": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/892455#page=7",
+      "title": "Sümeyye Onuk Demirci — Ömer b. Abülaziz’in Danışma Meclisi, Marife 19/2 (2019), 721–738; DOI 10.33420/marife.631659",
+      "locator": "Tam §2.3 Ubeydullah b. Abdullah b. Utbe paragrafı/devamı/dipnot26–34 okundu; yerel PDF görüntüleyici7–8 / basılı727–728 görüntüden doğrulandı. Başlıktaki Abülaziz yazımı makaledeki biçimdir. Metin98/716ölümünü seçer, dipnot29başka tarihler de verir; GK94değiştirilmedi. Kısa ad/nisbeler/fıkıh/şiir bağlamı bütün uzun soy, künye, dört kardeş ve beş atıflı görüşün tam Türkçe karşılığı değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/4659/عبيد-الله-بن-عتبة-بن-مسعود-الهذلي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, 19/73–77, nr. 3653, Ubeydullah",
+      "locator": "Tam harekesiz dijital biyografi okundu. Site başlığı Abdullah halkasını düşürür; gövde babasını Abdullah b. Utbe, kardeşini Avn olarak verir. GK adı değiştirilmedi. Ebû Abdullah el-Medenî künyesi/nisbesi ve Vâkıdî/İclî/Ebû Zür‘a sözleri karşılaştırıldı. Yalnız Avn açık; dört kardeşin bağımsız tasdiki değildir. Dijital sayfa işaretleri belirli matbu taramayla eşitlenmedi; Ebû Zür‘a atfı GK466tamkimliğini doğrulamaz.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    },
+    {
+      "path": "references/turkish/academic/onuk-demirci-2019-omer-danisma.pdf",
+      "sha256": "8f29571ee23019107bb95873dcd551403e13a0549eaecc5543761fa79aa7a1ea"
+    }
+  ],
+  "revision": "ubeydullah-utba-opinions-tr-v1",
+  "policy": "5tamgörüş4dilkarşılaştırması1atıfproblemi;2kısmi3okunan Türkçe bölümde bulunamadı. GK466kimliği değiştirilmedi.",
+  "narrators": [
+    {
+      "id": 5409,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "5409:1011:cc510d9f5aa46f5aa1777a3eb128d8183cb010f0ec0b398d9562728e5a1625f6",
+          "expected_source": {
+            "narrator_id": 5409,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة فقيه ثبت",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3f2df75b8d952c5dea4b4a7a5a90aa1877c36a80f888ccf26d03871b397d13f4",
+          "text": "Takrîb’de: Sika, fakih, sebttir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK Takrîb kitap atfı ve üç teknik lafız birlikte korunur; Türkçe makale yalnız fıkıh bilgisi bağlamını destekler, bütün bu atıflı söz değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "GK Takrîb kitap atfı ve üç teknik lafız birlikte korunur; Türkçe makale yalnız fıkıh bilgisi bağlamını destekler, bütün bu atıflı söz değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5409:2463:7fbc23ca2fc962f2f763f10993e2d670c579245bd6b2903c571d1706421e72b4",
+          "expected_source": {
+            "narrator_id": 5409,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ذكره في الطبقات الكبرى نقلا عن محمد بن عمر أنه قال : ثقة فقيه كثير الحديث والعلم شاعر",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "93cbc07f5a4838f3b92214d4f8616010a5a9e7cf7fbb8c1e45cc62ecabc3f9ce",
+          "text": "Onu et-Tabakātü’l-kübrâ’da zikretti; Muhammed b. Ömer’den şu sözü nakletti: Sikadır, fakihtir; çok hadis rivayet etmiş, ilmi geniş bir şairdir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İbn Sa‘d’ın kitap adı ve Muhammed b. Ömer’den nakil katmanı korunur. Mizzî sözün Vâkıdî’ye ait biçimini verir; GK iç aktarımı düşürülmedi. Makale fıkıh ve şiir yönünü destekler, çok hadis/ilim/sika ve tam atıflı cümlenin bütünü değildir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İbn Sa‘d’ın kitap adı ve Muhammed b. Ömer’den nakil katmanı korunur. Mizzî sözün Vâkıdî’ye ait biçimini verir; GK iç aktarımı düşürülmedi. Makale fıkıh ve şiir yönünü destekler, çok hadis/ilim/sika ve tam atıflı cümlenin bütünü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İbn Sa‘d’ın kitap adı ve Muhammed b. Ömer’den nakil katmanı korunur. Mizzî sözün Vâkıdî’ye ait biçimini verir; GK iç aktarımı düşürülmedi. Makale fıkıh ve şiir yönünü destekler, çok hadis/ilim/sika ve tam atıflı cümlenin bütünü değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5409:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 5409,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "dc2d05a792c1b45535bf02c072c179a023de4d11fd2713e5f50583193fe1b7ed",
+          "text": "Onu es-Sikât’ta zikretti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "onuk": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK özel kitap kaydı korunur. Makale kaynakçasındaki/dipnotlarındaki es-Sikât atıfları bu özel Türkçe hüküm cümlesinin açık karşılığı sayılmadı; asıl es-Sikât pasajı doğrudan okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK özel kitap kaydı korunur. Makale kaynakçasındaki/dipnotlarındaki es-Sikât atıfları bu özel Türkçe hüküm cümlesinin açık karşılığı sayılmadı; asıl es-Sikât pasajı doğrudan okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5409:466:5f1157f8e5e4b79707eaa3fc279f96aac9e71a41e0a039ae04a222ff6a392ed1",
+          "expected_source": {
+            "narrator_id": 5409,
+            "alem_id": "466",
+            "critic": "أحمد بن الحسين بن علي بن إبراهيم بن الحكم",
+            "opinion": "ثقة مأمون إمام",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e735f776f78c42d64b5019450ff3569ae3c8b15e0a8e0d91f96245e0ca91d445",
+          "text": "Sikadır, me’mûndur, imamdır.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "onuk": {
+              "support_scope": "identity_only",
+              "evidence_note": "Atıf sorunu: GK466tamkimliği Ahmed b. Hüseyin b. Ali b. İbrâhim b. Hakem / ölüm375 / rawy9623. Mizzî aynı sözü Ebû Zür‘a’ya verir; ünlü Ebû Zür‘a ile bu tam kayıt eşitlenmedi. Eski466ad/kimlik ve kaynak atfı korunur; dil aktarımı aidiyet tasdiki değildir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK466tamkimliği Ahmed b. Hüseyin b. Ali b. İbrâhim b. Hakem / ölüm375 / rawy9623. Mizzî aynı sözü Ebû Zür‘a’ya verir; ünlü Ebû Zür‘a ile bu tam kayıt eşitlenmedi. Eski466ad/kimlik ve kaynak atfı korunur; dil aktarımı aidiyet tasdiki değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Atıf sorunu: GK466tamkimliği Ahmed b. Hüseyin b. Ali b. İbrâhim b. Hakem / ölüm375 / rawy9623. Mizzî aynı sözü Ebû Zür‘a’ya verir; ünlü Ebû Zür‘a ile bu tam kayıt eşitlenmedi. Eski466ad/kimlik ve kaynak atfı korunur; dil aktarımı aidiyet tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5409:779:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 5409,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b29ffa9fe2b536f7e90eb289e448667e360d38c31e66c0316329f44d01ccb694",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "onuk": {
+              "support_scope": "identity_only",
+              "evidence_note": "Mizzî İclî’nin sika sözünü Arapça verir. Bu özel atıflı değerlendirme okunan Türkçe kişi bölümünde bulunmadı; genel övgüyle eşitlenmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Mizzî İclî’nin sika sözünü Arapça verir. Bu özel atıflı değerlendirme okunan Türkçe kişi bölümünde bulunmadı; genel övgüyle eşitlenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Mizzî İclî’nin sika sözünü Arapça verir. Bu özel atıflı değerlendirme okunan Türkçe kişi bölümünde bulunmadı; genel övgüyle eşitlenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

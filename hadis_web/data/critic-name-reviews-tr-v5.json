@@ -1,0 +1,67 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "durmus": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/680592#page=30",
+      "title": "Üzeyir Durmuş — İmâm Buhârî’nin Sahîh’ine Kaynaklık Bakımından İmâm Mâlik’in Muvatta’sı,ÇOMÜİFD14(2019),171–212",
+      "locator": "2.2.7Yahyâ,basılı200/PDF30tam kısa bölüm; İbnHibbân olumlu ve EbûHâtim/Nesâî farklı görüşleri. Tam atıflı15sözün birebir Türkçe çevirisi değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "hanek": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/4096493#page=3",
+      "title": "İbrahim Hanek — Buhârî’nin Leys b.Sa‘d’dan Yaptığı Ta‘lîklerin Kaynaklarını Analiz,Dergiabant12/2(2024)",
+      "locator": "2.1.1ilkYahyâparagrafı/PDF3: baba/dede, Leys komşuluğu ve çok rivayet. Yalnız ilgili bölüm okundu.",
+      "accessed_on": "2026-11-02"
+    },
+    "sarhi": {
+      "url": "https://www.tadween.sa/documents/researchDatabase/osamkhkvfw.pdf#page=157",
+      "title": "Muhammed Fevzî Hasan es-Serhî — رجال صحيح مسلم الذين تكلم فيهم أبو حاتم الرازي...,Gazze,YL2010",
+      "locator": "Yahyâ bölümü basılı155–158/PDF156–159metni; kapak/PDF157(basılı156)/PDF158(basılı157)görüntüleri de kontrol edildi. Dârekutnî sözü ekلاolmadan156/13dipnot; Buhârîأتقيه+في التاريخ157/6–7dipnot. Şahit tezdir; asıl Suâlât/Hedy baskıları doğrudan denetlenmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnkani": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-kani",
+      "title": "Halil İbrahim Kutlay — İbnKāni‘,TDV20(1999),104–105",
+      "locator": "Başlık/ilgili ilk hayat/footer: Ebü’l-Hüseyn Abdülbâkī b.Kāni‘ b.Merzûk/351. Yalnız kısa ad biçimi, bütün uzun soy veya Yahyâ hakkındaki söz tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "revision": "assistant-critic-name-review-v5",
+  "policy": "Tek yeni kısa ad; diğer1627kaynak kimliği sorunu korunur.",
+  "critics": [
+    {
+      "alem_id": "1796",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1796",
+        "name": "عبد الباقي بن قانع بن مرزوق بن واثق",
+        "rawy_shohra": "عبد الباقي بن قانع البغدادي",
+        "rotba": 4,
+        "tabaka": "14",
+        "death_date": "351",
+        "rawy_id": "20330",
+        "opinion_count": 240,
+        "wasf_rotba": "صدوق حسن الحديث",
+        "wasf": ""
+      },
+      "expected_record_sha256": "75f267e9309dc85e6e9175e5d79ee94f25a7c7c77745f15b205db2e74352301b",
+      "text": "İbn Kāni‘",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibnkani": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "İbnKāni‘ kısa adı, TDV başlık/ilk hayat/351ölümü ile GKtam münekkit kaydı karşılaştırılarak aktarıldı. Bütün uzun soy veya Yahyâ hakkındaki hüküm tasdiki değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "İbnKāni‘ kısa adı, TDV başlık/ilk hayat/351ölümü ile GKtam münekkit kaydı karşılaştırılarak aktarıldı. Bütün uzun soy veya Yahyâ hakkındaki hüküm tasdiki değildir. Asistan ad aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir."
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "revision": "assistant-critic-name-review-v2",
+  "reviewed_on": "2026-11-01",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "20yeni kısa ad kökü;17Türkçe biçim destekli,1kısmi/sorunlu kimlik,2yalnız açık Arapça çevriyazı. Kayıt kimlikleri birleştirilmez; uzun soy ve tarihsel kişi teyidi değildir.",
+  "sources": {
+    "zuhri": {
+      "url": "https://islamansiklopedisi.org.tr/zuhri",
+      "title": "TDV: Zührî",
+      "locator": "Başlık: Muhammed b. Müslim b. Ubeydullah / İbn Şihâb;124. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "suyuti": {
+      "url": "https://islamansiklopedisi.org.tr/suyuti",
+      "title": "TDV: Süyûtî",
+      "locator": "Başlık: Abdurrahman b. Ebû Bekir / Celâleddin;911. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "nadr": {
+      "url": "https://isamveri.org/pdfdrg/D03825/2020_17/2020_17_KAYAH.pdf",
+      "title": "Halil Kaya — Hz. Peygamber’in Resmi ile İlgili Rivâyetlerin Tahlili,2020",
+      "locator": "Basılı202, Ebü’l-Esved Nadr b. Abdülcebbâr/219 paragrafı. Sonraki Nadîr soy halkası GK Nâsır ile aynı değildir; yalnız kısa ad biçimi. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "rebia": {
+      "url": "https://islamansiklopedisi.org.tr/rebia-b-ebu-abdurrahman",
+      "title": "TDV: Rebîa b. Ebû Abdurrahman",
+      "locator": "Başlık ve Rebiatürre’y diye anılması; baba Ebû Abdurrahman ve136. Tam soy iddiası yok. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "saci": {
+      "url": "https://islamansiklopedisi.org.tr/saci-zekeriyya-b-yahya",
+      "title": "TDV: Sâcî, Zekeriyyâ b. Yahyâ",
+      "locator": "Başlık Zekeriyyâ b. Yahyâ b. Abdurrahman/307. GK1627b. Hallâd/kimlik yetersiz kaydıyla fark; tarihsel eşleştirme kabul edilmedi. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "suleyman": {
+      "url": "https://islamansiklopedisi.org.tr/suleyman-b-tarhan",
+      "title": "TDV: Süleyman b. Tarhân",
+      "locator": "Başlık: Ebü’l-Mu‘temir Süleyman b. Tarhân et-Teymî/143. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "sube": {
+      "url": "https://islamansiklopedisi.org.tr/sube-b-haccac",
+      "title": "TDV: Şu‘be b. Haccâc",
+      "locator": "Başlık: Haccâc b. Verd soy halkaları ve160; kaynakIDler birleştirilmez. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "ibnnecih": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-kesir-ebu-mabed",
+      "title": "TDV: İbn Kesîr, Ebû Ma‘bed",
+      "locator": "Hayatı/rivayet öğrencileri paragrafında Abdullah b. Ebû Necîh. Yalnız kısa ad biçimi; uzun soy teyidi değil. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "ibnavn": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-avn-abdullah",
+      "title": "TDV: İbn Avn, Abdullah",
+      "locator": "Başlık: Abdullah b. Avn b. Ertabân/151. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "ata": {
+      "url": "https://islamansiklopedisi.org.tr/ata-b-ebu-rebah",
+      "title": "TDV: Atâ b. Ebû Rebâh",
+      "locator": "Başlık ve Atâ b. Ebû Rebâh biçimi/114; baba Eslem/Aslam hareke farkı kısa biçime eklenmez. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "medini": {
+      "url": "https://islamansiklopedisi.org.tr/ali-b-medini",
+      "title": "TDV: Ali b. Medînî",
+      "locator": "Başlık: Ali b. Abdullah b. Ca‘fer/234;2135ve2136kayıtları birleştirilmez. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "amrmurra": {
+      "url": "https://islamansiklopedisi.org.tr/amr-b-murre",
+      "title": "TDV: Amr b. Mürre",
+      "locator": "Başlık: Amr b. Mürre b. Abdullah / Murâdî-Cemelî;116[?]. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "malik_candidate": {
+      "url": "https://islamansiklopedisi.org.tr/malik-b-enes",
+      "title": "TDV: Mâlik b. Enes — elenen tarihsel kimlik adayı",
+      "locator": "Meşhur Mâlik biyografisi, GK2289rawy27243kaydının kimliğine delil yapılmadı;6659/2804ile birleştirme yok. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "taberi": {
+      "url": "https://islamansiklopedisi.org.tr/taberi-muhammed-b-cerir",
+      "title": "TDV: Taberî, Muhammed b. Cerîr",
+      "locator": "Başlık: Muhammed b. Cerîr b. Yezîd/310; kısa ad biçimi. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "misar": {
+      "url": "https://islamansiklopedisi.org.tr/misar-b-kidam",
+      "title": "TDV: Mis‘ar b. Kidâm",
+      "locator": "Başlık ve Mis‘ar b. Kidâm yazımı; TDV155, GK153 ölüm yılı farkı değiştirilmez. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "zubeyri": {
+      "url": "https://islamansiklopedisi.org.tr/zubeyri",
+      "title": "TDV: Zübeyrî",
+      "locator": "Başlık: Mus‘ab b. Abdullah b. Mus‘ab/236; yalnız kısa ad biçimi. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "ibnasakir": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-asakir-ebul-kasim",
+      "title": "TDV: İbn Asâkir, Ebü’l-Kāsım",
+      "locator": "Başlık ve571; kaynak tam adından kısa tanınmış biçim. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "yunus": {
+      "url": "https://islamansiklopedisi.org.tr/yunus-b-ubeyd",
+      "title": "TDV: Yûnus b. Ubeyd",
+      "locator": "Başlık: Yûnus b. Ubeyd b. Dînâr/139. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "ukayli": {
+      "url": "https://islamansiklopedisi.org.tr/ukayli",
+      "title": "TDV: Ukaylî",
+      "locator": "Başlık: Muhammed b. Amr b. Mûsâ/322; yalnız kısa ad biçimi. Web metni okundu; yeni PDF sayfa görüntüsü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "critics": [
+    {
+      "alem_id": "1047",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1047",
+        "name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب بن عبد الله بن الحارث بن زهرة بن كلاب",
+        "rawy_shohra": "ابن شهاب الزهري",
+        "rotba": 2,
+        "tabaka": "4",
+        "death_date": "124",
+        "rawy_id": "7272",
+        "opinion_count": 17,
+        "wasf_rotba": "الفقيه الحافظ متفق على جلالته وإتقانه",
+        "wasf": ""
+      },
+      "expected_record_sha256": "2c9667a7858f5adf6f2d6ed9d06556ef621341b12fca53b582b2c6865da91185",
+      "text": "İbn Şihâb ez-Zührî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "zuhri": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa ad/şöhret biçimi; tam uzun soy çevirisi veya bütün kayıtların tarihsel tekleştirilmesi değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa ad/şöhret biçimi; tam uzun soy çevirisi veya bütün kayıtların tarihsel tekleştirilmesi değildir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1290",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1290",
+        "name": "عبد الرحمن بن أبي بكر بن محمد بن سابق الدين بن عثمان بن محمد بن خضر بن أيوب بن محمد بن همام الدين",
+        "rawy_shohra": "السيوطي",
+        "rotba": 3,
+        "tabaka": "37",
+        "death_date": "911",
+        "rawy_id": "62914",
+        "opinion_count": 313,
+        "wasf_rotba": "ثقة",
+        "wasf": ""
+      },
+      "expected_record_sha256": "feb01047e421c0af5a218661667c1d2829e25d403196a00f908a4038d8e92d77",
+      "text": "Celâleddin es-Süyûtî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "suyuti": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Lakabı ve şöhret biçimi Türkçe başlıkla desteklenir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Lakabı ve şöhret biçimi Türkçe başlıkla desteklenir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1418",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1418",
+        "name": "نضر بن عبد الجبار بن نصير",
+        "rawy_shohra": "النضر بن عبد الجبار",
+        "rotba": 3,
+        "tabaka": "10",
+        "death_date": "219",
+        "rawy_id": "1718",
+        "opinion_count": 3,
+        "wasf_rotba": "ثقة",
+        "wasf": ""
+      },
+      "expected_record_sha256": "6f490057e4840844cd04e2df58741244f0bbfad2b524b3a0df31558e6699b7dd",
+      "text": "Nadr b. Abdülcebbâr",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "nadr": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Yalnız iki halkalı kısa ad; Nâsır/Nadîr sonraki halka farkı çözülmüş sayılmaz."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Yalnız iki halkalı kısa ad; Nâsır/Nadîr sonraki halka farkı çözülmüş sayılmaz. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1608",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1608",
+        "name": "ربيعة بن فروخ",
+        "rawy_shohra": "ربيعة بن أبي عبد الرحمن الرأي",
+        "rotba": 3,
+        "tabaka": "5",
+        "death_date": "136",
+        "rawy_id": "2885",
+        "opinion_count": 4,
+        "wasf_rotba": "ثقة",
+        "wasf": ""
+      },
+      "expected_record_sha256": "ecdcfdc328f2339ed30b10cf683ed44c15d521ec6e54cbb178f48101ea6aec0f",
+      "text": "Rebîatürre’y",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "rebia": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Arapça şöhret ile Türkçe kaynak karşılaştırıldı; kaynakta olmayan tam soy eklenmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Arapça şöhret ile Türkçe kaynak karşılaştırıldı; kaynakta olmayan tam soy eklenmez. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1627",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1627",
+        "name": "زكريا بن يحيى بن خلاد",
+        "rawy_shohra": "زكريا بن يحيى الساجي",
+        "rotba": 7,
+        "tabaka": "",
+        "death_date": "",
+        "rawy_id": "17276",
+        "opinion_count": 527,
+        "wasf_rotba": "مجهول الحال",
+        "wasf": ""
+      },
+      "expected_record_sha256": "65a55252cf89838cc66f6707cb6503c29a662a14462c9101b406aa4ec25cc5ab",
+      "text": "Zekeriyyâ b. Yahyâ b. Hallâd",
+      "rendering_kind": "name_form",
+      "status": "problem_detected",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "saci": {
+          "support_scope": "supports_part_of_field",
+          "evidence_note": "GK adında Hallâd, şöhrette Sâcî var; TDV Sâcî başlığında Abdurrahman var. Aday kişi kesin kabul edilmedi; son halka Arapçadan çevriyazıldı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "partial_support"
+      },
+      "rationale": "GK adında Hallâd, şöhrette Sâcî var; TDV Sâcî başlığında Abdurrahman var. Aday kişi kesin kabul edilmedi; son halka Arapçadan çevriyazıldı. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1702",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1702",
+        "name": "سليمان بن طرخان",
+        "rawy_shohra": "سليمان بن طرخان التيمي",
+        "rotba": 3,
+        "tabaka": "4",
+        "death_date": "143",
+        "rawy_id": "3601",
+        "opinion_count": 7,
+        "wasf_rotba": "ثقة",
+        "wasf": ""
+      },
+      "expected_record_sha256": "16cd6afa9c52a965585668eef24977f51a0d8d425e40f4b9a996ac063435a60b",
+      "text": "Süleyman b. Tarhân",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "suleyman": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kayıtlı iki halkalı adın Türkçe biçimi;143 bağlamı desteklenir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kayıtlı iki halkalı adın Türkçe biçimi;143 bağlamı desteklenir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1729",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1729",
+        "name": "شعبة بن الحجاج بن الورد",
+        "rawy_shohra": "شعبة بن الحجاج بن الورد",
+        "rotba": 2,
+        "tabaka": "7",
+        "death_date": "160",
+        "rawy_id": "3795",
+        "opinion_count": 152,
+        "wasf_rotba": "ثقة حافظ متقن عابد",
+        "wasf": ""
+      },
+      "expected_record_sha256": "11e6ea73936f727d55924b1fc9dbf855dbe228c7cc569fd8f00580ac53ee3d25",
+      "text": "Şu‘be b. Haccâc",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "sube": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Aynı kısa yazım başka kaynak kimliklerini birleştirmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Aynı kısa yazım başka kaynak kimliklerini birleştirmez. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1915",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1915",
+        "name": "عبد الله بن يسار",
+        "rawy_shohra": "عبد الله بن أبي نجيح المكي",
+        "rotba": 3,
+        "tabaka": "6",
+        "death_date": "131",
+        "rawy_id": "4653",
+        "opinion_count": 2,
+        "wasf_rotba": "ثقة",
+        "wasf": "الأعرج"
+      },
+      "expected_record_sha256": "221bf97aa9c92819c836f386f2d97121137833c28040242e9dfd647d256ec442",
+      "text": "İbn Ebû Necîh",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibnnecih": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Abdullah adı ve kısa biçim Türkçe öğrenciler listesinde var; tam kişi yaşam öyküsü teyidi değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Abdullah adı ve kısa biçim Türkçe öğrenciler listesinde var; tam kişi yaşam öyküsü teyidi değildir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1967",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1967",
+        "name": "عبد الله بن عون بن أرطبان",
+        "rawy_shohra": "عبد الله بن عون البصري",
+        "rotba": 2,
+        "tabaka": "6",
+        "death_date": "151",
+        "rawy_id": "4997",
+        "opinion_count": 7,
+        "wasf_rotba": "ثقة ثبت فاضل",
+        "wasf": ""
+      },
+      "expected_record_sha256": "cf16646159e4bea9d8dbb5974270fdad4af774a157047ab9709766786506b8e5",
+      "text": "Abdullah b. Avn",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibnavn": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa ad başlıkla desteklenir; uzun soy birleştirmesi yapılmadı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa ad başlıkla desteklenir; uzun soy birleştirmesi yapılmadı. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2088",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2088",
+        "name": "عطاء بن أسلم",
+        "rawy_shohra": "عطاء بن أبي رباح",
+        "rotba": 2,
+        "tabaka": "3",
+        "death_date": "114",
+        "rawy_id": "5625",
+        "opinion_count": 3,
+        "wasf_rotba": "ثبت رضي حجة إمام كبير الشأن",
+        "wasf": "الأعور،الأفطس،الأشل،الأعرج،الأعمى،المكفوف،الضرير"
+      },
+      "expected_record_sha256": "ec19862bddacd08470e195f35ac2088d533add465e8dcb6b424e19c4bf3d2e8c",
+      "text": "Atâ b. Ebû Rebâh",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ata": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa biçim; baba adının harekesi hakkında ek tercih yok."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Türkçe kısa biçim; baba adının harekesi hakkında ek tercih yok. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2135",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2135",
+        "name": "علي بن عبد الله بن جعفر بن نجيح",
+        "rawy_shohra": "على بن المديني",
+        "rotba": 2,
+        "tabaka": "10",
+        "death_date": "234",
+        "rawy_id": "5792",
+        "opinion_count": 31,
+        "wasf_rotba": "ثقة ثبت إمام أعلم أهل عصره بالحديث وعلله",
+        "wasf": ""
+      },
+      "expected_record_sha256": "721792f1f606a2321d4d3f920808efe3ce1f3b636148b457ffc143feed9e0a15",
+      "text": "Ali b. Medînî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "medini": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "2135ayrı tutulur; diğer Ali b. Medînî kimlikleriyle kaynakID birleştirmesi yapılmaz."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "2135ayrı tutulur; diğer Ali b. Medînî kimlikleriyle kaynakID birleştirmesi yapılmaz. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2242",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2242",
+        "name": "عمرو بن مرة بن عبد الله بن طارق بن الحارث بن سلمة بن كعب",
+        "rawy_shohra": "عمرو بن مرة المرادي",
+        "rotba": 3,
+        "tabaka": "5",
+        "death_date": "116",
+        "rawy_id": "6197",
+        "opinion_count": 6,
+        "wasf_rotba": "ثقة",
+        "wasf": "الأعمى،المكفوف،الضرير"
+      },
+      "expected_record_sha256": "ca0677139973f3639f59b2dd16cfd4ceeace145ed71ac6ac71001c5c3bb20276",
+      "text": "Amr b. Mürre",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "amrmurra": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Yalnız kaynakta kayıtlı kısa adın Türkçe yazımı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Yalnız kaynakta kayıtlı kısa adın Türkçe yazımı. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2289",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2289",
+        "name": "مالك بن أنس",
+        "rawy_shohra": "مالك بن أنس",
+        "rotba": 6,
+        "tabaka": "6",
+        "death_date": "",
+        "rawy_id": "27243",
+        "opinion_count": 76,
+        "wasf_rotba": "مقبول",
+        "wasf": ""
+      },
+      "expected_record_sha256": "40c18b6f9dfd626e66aecf12da69528de8d319de8180a48037ee309bb324fc5e",
+      "text": "Mâlik b. Enes",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "malik_candidate": {
+          "support_scope": "identity_only",
+          "evidence_note": "GK2289rawy27243adı literal aktarılır. Meşhur Mâlik kaydı6659/2804ile aynı kişi olduğu doğrulanmadı; bu Türkçe biyografi kimlik desteği değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "GK2289rawy27243adı literal aktarılır. Meşhur Mâlik kaydı6659/2804ile aynı kişi olduğu doğrulanmadı; bu Türkçe biyografi kimlik desteği değildir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2428",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2428",
+        "name": "محمد بن جرير بن يزيد بن كثير بن غالب",
+        "rawy_shohra": "محمد بن جرير الطبري",
+        "rotba": 2,
+        "tabaka": "13",
+        "death_date": "310",
+        "rawy_id": "28842",
+        "opinion_count": 46,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": ""
+      },
+      "expected_record_sha256": "afb4ebb84815b2982aafd386c19d1ad5ec275fa749712afb827844f888476ffb",
+      "text": "Muhammed b. Cerîr et-Taberî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "taberi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa ad ve şöhret; bütün uzun soya yeni teyit verilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa ad ve şöhret; bütün uzun soya yeni teyit verilmez. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2557",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2557",
+        "name": "محمد بن عمر",
+        "rawy_shohra": "محمد بن عمر",
+        "rotba": 7,
+        "tabaka": "10",
+        "death_date": "",
+        "rawy_id": "82187",
+        "opinion_count": 5,
+        "wasf_rotba": "مجهول الحال",
+        "wasf": ""
+      },
+      "expected_record_sha256": "2df3887a8293e18f259be6fbab35ffeaaf1fd1456f64fd6f939e304e3c0e7676",
+      "text": "Muhammed b. Ömer",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {},
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "Yalnız GK adı çevriyazıldı. Kontrol edilen ad aramalarında bu kimliğe bağlanabilen Türkçe karşılık tespit edilmedi; Vâkıdî olduğu tahmin edilmedi. Bütün literatürde yokluk iddiası yok. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2654",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2654",
+        "name": "مسعر بن كدام بن ظهير بن عبيدة بن الحارث",
+        "rawy_shohra": "مسعر بن كدام الكوفي",
+        "rotba": 2,
+        "tabaka": "7",
+        "death_date": "153",
+        "rawy_id": "7433",
+        "opinion_count": 4,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "972c5d7847e2bd909c5b2b6d2187c873239be5cac70b2e3d332091e919f6b746",
+      "text": "Mis‘ar b. Kidâm",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "misar": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa yazım desteklenir;153/155 ölüm yılı farkı bu ad aktarımında çözülmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa yazım desteklenir;153/155 ölüm yılı farkı bu ad aktarımında çözülmedi. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2668",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2668",
+        "name": "مصعب بن عبد الله بن مصعب بن ثابت بن عبد الله بن الزبير بن العوام",
+        "rawy_shohra": "مصعب بن عبد الله الزبيري",
+        "rotba": 3,
+        "tabaka": "10",
+        "death_date": "236",
+        "rawy_id": "7520",
+        "opinion_count": 24,
+        "wasf_rotba": "ثقة",
+        "wasf": ""
+      },
+      "expected_record_sha256": "94ff4188d8729cfac05a395f15e1f080f7efc8be46be7c31662d019c32ee8135",
+      "text": "Mus‘ab b. Abdullah ez-Zübeyrî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "zubeyri": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa biçim ve236; uzun soyun tamamının çevirisi değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa biçim ve236; uzun soyun tamamının çevirisi değildir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "286",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "286",
+        "name": "علي بن حسن بن هبة الله بن عبد الله بن حسين",
+        "rawy_shohra": "أبو القاسم بن عساكر",
+        "rotba": 2,
+        "tabaka": "23",
+        "death_date": "571",
+        "rawy_id": "46607",
+        "opinion_count": 3043,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": ""
+      },
+      "expected_record_sha256": "1fd69a100952207c01d38835be943eda1a74af940a4777d76f7be15c545b2904",
+      "text": "İbn Asâkir, Ebü’l-Kāsım",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibnasakir": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Şöhret/kunye kısa biçimi; tarihsel kişi için kaynak kimlikleri birleştirilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Şöhret/kunye kısa biçimi; tarihsel kişi için kaynak kimlikleri birleştirilmez. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "2879",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2879",
+        "name": "يونس بن عبيد بن دينار",
+        "rawy_shohra": "يونس بن عبيد العبدي",
+        "rotba": 2,
+        "tabaka": "5",
+        "death_date": "139",
+        "rawy_id": "8616",
+        "opinion_count": 2,
+        "wasf_rotba": "ثقة ثبت فاضل ورع",
+        "wasf": ""
+      },
+      "expected_record_sha256": "0552876160cac2cdf2119111c4beecf533770fbbab203fc31a9fd2870b76704b",
+      "text": "Yûnus b. Ubeyd",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "yunus": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa Türkçe yazım ve139 bağlamı desteklenir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa Türkçe yazım ve139 bağlamı desteklenir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "420",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "420",
+        "name": "محمد بن عمرو بن موسى بن حماد",
+        "rawy_shohra": "أبو جعفر العقيلي",
+        "rotba": 2,
+        "tabaka": "13",
+        "death_date": "322",
+        "rawy_id": "30333",
+        "opinion_count": 1746,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": ""
+      },
+      "expected_record_sha256": "b56f3182cdae21dad23a4bed2f6cae8fc9dc5e75c27ac18bb474ce9d979d1841",
+      "text": "Muhammed b. Amr el-Ukaylî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ukayli": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa ad/şöhret biçimi desteklenir; tam soy çevirisi değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa ad/şöhret biçimi desteklenir; tam soy çevirisi değildir. Tam Arapça kaynak kaydı korunur; yalnız adın dil aktarımıdır. Birebir kitap alıntısı veya uzman onayı değildir."
+    }
+  ]
+}

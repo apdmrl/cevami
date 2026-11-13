@@ -1,0 +1,337 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibrahim-b-sad",
+      "title": "Ali Toksarı — İbrâhim b. Sa‘d, TDV 21 (2000), 349",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Kısa ad/Zührî/künye/Medine/Bağdat/iki oğul; Ahmed, Maîn, Ebû Hâtim ve İclî’nin özel nitelemeleri. Uzun soy, anne, torun, Bağdat kadılığı veya bütün18özel görüşün tam Türkçesi yoktur. Vekî‘in bırakıp yeniden nakletmesi destekli; açıklama cümlesindeki sika olup olmadığını bilmeme yorumu, Arapça diyalogda konuşmacı teyidi sayılmadı.108doğum/değişik ölüm tarihleri GK sayısal alanlarına geçirilmedi. Mûsiki meselesi kaynak görüşüdür, uygulama hükmü değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/190/إبراهيم-بن-سعد-بن-إبراهيم-بن-عبد-الرحمن-بن-عوف-القرشي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbrâhim b. Sa‘d, 2/88–94, nr. 174",
+      "locator": "Tam harekesiz dijital biyografi ve hoca-talebe listeleri okundu. Ebû Dâvûd → Ahmed → Vekî‘in bırakıp yeniden nakletmesi; neden sorusuna Ahmed’in bilmiyorum/İbrâhim sika cevabı. Maîn’in sika/hüccet sözü Ahmed b.Sa‘d b.Ebû Meryem yoluyla, Saîd’in kendi hükmü olarak değil. İbrâhim b.Hamza ez-Zübeyrî nakli ile GK20Süleymân soy halkası birleştirilmedi. Baba Medine kadılığı/Bağdat beytülmâl görevi ayrı. Asıl matbu facsimile karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/1371/إبراهيم-بن-سعد",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, İbrâhim b. Sa‘d, 8/304–310",
+      "locator": "Tam harekesiz dijital biyografi okundu. İki oğul, torun Ahmed b.Sa‘d, baba Medine kadılığı, kendi beytülmâl görevi ve farklı ölüm nakilleri ayrıdır. Son Ahmed cümlesindeki لم يخبرهما iki kişi için tanıma/deneme bağlamındadır. Mûsiki anlatıları ve ayrı hadis eleştirileri yeni uygulama hükmü sayılmadı. Fiziksel baskı veya bütün atıf kitapları okunmuş sayılmaz.",
+      "accessed_on": "2026-11-02"
+    },
+    "hady": {
+      "url": "https://scribetools.com/en/library/hadith/هدي-الساري/hdsa-e5c8a43d/text/0051",
+      "title": "İbn Hacer — Hedyü’s-sârî, İbrâhim b. Sa‘d dijital kişi pasajı",
+      "locator": "Dijital1001–1020parçasında tam kişi girişi ve notları okundu; taşınan eski388etiketi görülür, fiziksel sayfa tasdik edilmedi. Sika/hüccet Maîn atfı ve Ahmed’in iki kişi hakkında هذان ثقتان لم يخبرهما يحيى cümlesi vardır. GK tekil kısa özet aynı lafızlı doğrudan alıntı sayılmadı; anlam tanıma/deneme, haber vermeme değildir. Bütün Hedy okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "ruwat": {
+      "url": "https://www.arabic-keyboard.info/books/ar/read-book/الرواة-الثقات-المتكلم-فيهم-بما-لا-يوجب-ردهم",
+      "title": "Zehebî — er-Ruvâtü’s-sikāt el-mütekellem fîhim bimâ lâ yûcibü reddehüm, İbrâhim girişi",
+      "locator": "Başlık/müellif ve tam İbrâhim girişi dijital yeniden basım metninden okundu. فأداه اجتهاده ile GKفأدادfarkı açık. Sonraki iki kişi ve farklı Vekî‘ sıralaması da görülür; bunlar otomatik birleştirilmedi. Editör, fiziksel sayfa veya baskı otantifikasyonu yapılmadı; bütün kitap okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mashahir": {
+      "url": "https://www.arabic-keyboard.info/books/ar/read-book/مشاهير-علماء-الأمصار",
+      "title": "İbn Hibbân — Meşâhîrü ulemâi’l-emsâr, nr. 1116",
+      "locator": "Tam1116girişi dijital yeniden basım metninden okundu: tam soy, Ya‘kūb’un babası, Bağdat kadılığı,183ölüm/73yaş. Türkçe çeviri değildir; özgün baskı ve fiziksel sayfa doğrulanmadı. Kendi Bağdat kadılığı babasının Medine kadılığına veya beytülmâl görevine indirgenmez.",
+      "accessed_on": "2026-11-02"
+    },
+    "bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "Muhammed Mustafa el-A‘zamî — Buhârî, TDV 6 (1992), 368–372, §1",
+      "locator": "Yalnız ilk hayat/seyahat paragrafı ve1.bölüm matbu künyesi okundu. Mısır’daki hocalar arasında Saîd b.Ebû Meryem kısa adı açık. Kısa adın Türkçe biçimi içindir; bütün makale, Saîd’in uzun soyu, bağlı17862kimliği veya bütün görüşlerin atfı tasdiki değildir.375–376bu bölümün sayfaları değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "said": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/2424/سعيد-بن-الحكم-بن-محمد-بن-أبي-مريم-الجمحي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Saîd b. Ebû Meryem, 10/391–395, nr. 2253",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Saîd b.Hakem b.Muhammed b.Sâlim, Ebû Muhammed Mısrî/224ve yeğeni Ahmed b.Sa‘d ayrıdır. GK1657uzun münekkit gövdesi bu kimliğe benzer; bağlı17862tabaka3/makbul/ölümboş kaydı tarihsel olarak aynı kişi diye onaylanmadı. Matbu facsimile veya yeni kimlik birleştirmesi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "hamza": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/181/إبراهيم-بن-حمزة-بن-محمد-بن-حمزة-بن-مصعب",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbrâhim b. Hamza ez-Zübeyrî, 2/76–78, nr. 166",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Soyda Muhammed b.Hamza b.Mus‘ab vardır; ölüm230. GK20İbrâhim b.Hamza b.Süleymân/bağlıravi yok/ölümboş kaydıyla aynı kısa addan hareketle birleştirilmedi. Bu ayrı kayıt, GK20kimliğine tam Türkçe destek değildir.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-sad-related-records.json",
+      "sha256": "a68b51887c55b7e6bc511a1e961b1f17dbbfc5fea471544d0f9734945a83c43f"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-sad-critic-records.json",
+      "sha256": "151086a360a2b056a2ca8eb3a499f5e36e3799fea5ef0e931d210ccf1d629118"
+    }
+  ],
+  "revision": "assistant-person-field-review-v23",
+  "policy": "10alan5tam4kısmi1okunan bölümde bulunamadı; yalnız dil karşılaştırması.",
+  "people": [
+    {
+      "id": 823,
+      "expected_source": {
+        "id": 823,
+        "new_id": 490,
+        "name": "إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف",
+        "shohra": "إبراهيم بن سعد الزهري",
+        "badeel": "أبو إسحاق المدني",
+        "konya": "أبو إسحاق",
+        "lakab": "",
+        "san3a": "القاضي : قاضي بغداد",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الزهري،القرشي،المدني",
+        "rotba": 2,
+        "wasf_rotba": "ثقة حجة",
+        "tabaka": 8,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "110",
+        "death_year": "183",
+        "age": 73,
+        "baladekama": "بغداد ، المدينة",
+        "baladwafa": "بغداد",
+        "mawaaly": "",
+        "karaba": "والد يعقوب ، والد سعد ، ابن أمة الرحمن بنت محمد بن عبد الله ، جد أحمد بن سعد",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 926
+      },
+      "expected_record_sha256": "08e2a5d8232a665defcc1828ba727caa4fdb818fd7221e9a75064099256decd0",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف",
+          "text": "İbrâhim b. Sa‘d b. İbrâhim b. Abdurrahman b. Avf.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK bütün soy halkaları çevriyazıldı. TDV kısa üçlü ad ve Abdurrahman b.Avf aile bağlantısını verir; tam uzun dizinin her halkasını aynı ad satırıyla nakletmez. Meşâhîr1116tam Arapça soyu verir; yeni tarihsel kimlik birleştirmesi yapılmadı."
+            },
+            "mashahir": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK bütün soy halkaları çevriyazıldı. TDV kısa üçlü ad ve Abdurrahman b.Avf aile bağlantısını verir; tam uzun dizinin her halkasını aynı ad satırıyla nakletmez. Meşâhîr1116tam Arapça soyu verir; yeni tarihsel kimlik birleştirmesi yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "GK bütün soy halkaları çevriyazıldı. TDV kısa üçlü ad ve Abdurrahman b.Avf aile bağlantısını verir; tam uzun dizinin her halkasını aynı ad satırıyla nakletmez. Meşâhîr1116tam Arapça soyu verir; yeni tarihsel kimlik birleştirmesi yapılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "إبراهيم بن سعد الزهري",
+          "text": "İbrâhim b. Sa‘d ez-Zührî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV tanınan kısa ad ve Zührî nisbesini açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV tanınan kısa ad ve Zührî nisbesini açık verir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو إسحاق المدني",
+          "text": "Ebû İshâk el-Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV künye ve Medine bağlantısını verir; GK’nin bu tam alternatif ad dizisini aynı biçimde nakletmez. Yeni kişi üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV künye ve Medine bağlantısını verir; GK’nin bu tam alternatif ad dizisini aynı biçimde nakletmez. Yeni kişi üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو إسحاق",
+          "text": "Ebû İshâk.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığı künyeyi açık verir; bu künyeden ayrıca İshak adlı oğul türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığı künyeyi açık verir; bu künyeden ayrıca İshak adlı oğul türetilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "القاضي : قاضي بغداد",
+          "text": "Kadı; Bağdat kadısı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK kadılık görevi çevrildi; asıl Arapça Meşâhîr1116Bağdat kadılığını açık verir. Okunan Türkçe maddede babasının Medine kadılığı ve kendisinin beytülmâl görevi vardır; bunlar kendi Bağdat kadılığının Türkçe teyidi sayılmadı. Farklı görev ve kuşaklar birleştirilmedi."
+            },
+            "mashahir": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK kadılık görevi çevrildi; asıl Arapça Meşâhîr1116Bağdat kadılığını açık verir. Okunan Türkçe maddede babasının Medine kadılığı ve kendisinin beytülmâl görevi vardır; bunlar kendi Bağdat kadılığının Türkçe teyidi sayılmadı. Farklı görev ve kuşaklar birleştirilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK kadılık görevi çevrildi; asıl Arapça Meşâhîr1116Bağdat kadılığını açık verir. Okunan Türkçe maddede babasının Medine kadılığı ve kendisinin beytülmâl görevi vardır; bunlar kendi Bağdat kadılığının Türkçe teyidi sayılmadı. Farklı görev ve kuşaklar birleştirilmedi."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK kadılık görevi çevrildi; asıl Arapça Meşâhîr1116Bağdat kadılığını açık verir. Okunan Türkçe maddede babasının Medine kadılığı ve kendisinin beytülmâl görevi vardır; bunlar kendi Bağdat kadılığının Türkçe teyidi sayılmadı. Farklı görev ve kuşaklar birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK kadılık görevi çevrildi; asıl Arapça Meşâhîr1116Bağdat kadılığını açık verir. Okunan Türkçe maddede babasının Medine kadılığı ve kendisinin beytülmâl görevi vardır; bunlar kendi Bağdat kadılığının Türkçe teyidi sayılmadı. Farklı görev ve kuşaklar birleştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الزهري،القرشي،المدني",
+          "text": "Zührî; Kureşî; Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV Zührî nisbesini ve Medine/aile bağlamını verir; üç nisbenin tümünü aynı diziyle nakletmez. Mizzî üç biçimi açık verir; nisbeden yeni kan bağı çıkarılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV Zührî nisbesini ve Medine/aile bağlamını verir; üç nisbenin tümünü aynı diziyle nakletmez. Mizzî üç biçimi açık verir; nisbeden yeni kan bağı çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV Zührî nisbesini ve Medine/aile bağlamını verir; üç nisbenin tümünü aynı diziyle nakletmez. Mizzî üç biçimi açık verir; nisbeden yeni kan bağı çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة حجة",
+          "text": "Sika, hüccet (güvenilir; rivayeti delil kabul edilen).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV iki terimi de ilgili münekkit atfıyla verir. GK nitelemesinin dil karşılığıdır; her rivayete yeni sahihlik hükmü verilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV iki terimi de ilgili münekkit atfıyla verir. GK nitelemesinin dil karşılığıdır; her rivayete yeni sahihlik hükmü verilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "بغداد ، المدينة",
+          "text": "Bağdat; Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Medine hayatını ve Bağdat’a yerleşmesini açık anlatır; başka seyahat yerleri ikamet listesine eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Medine hayatını ve Bağdat’a yerleşmesini açık anlatır; başka seyahat yerleri ikamet listesine eklenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "بغداد",
+          "text": "Bağdat.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Bağdat vefatını açık verir. GK110doğum/183ölüm/73yaş korunur; Türkçe108ve diğer ölüm rivayetleri kaynak sayılarına yazılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Bağdat vefatını açık verir. GK110doğum/183ölüm/73yaş korunur; Türkçe108ve diğer ölüm rivayetleri kaynak sayılarına yazılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد يعقوب ، والد سعد ، ابن أمة الرحمن بنت محمد بن عبد الله ، جد أحمد بن سعد",
+          "text": "Ya‘kūb’un ve Sa‘d’ın babası; Muhammed b. Abdullah’ın kızı Emetürrahman’ın oğlu; Ahmed b. Sa‘d’ın dedesi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Bütün dört ilişki ve anne soy halkaları korunur. TDV iki oğlunu verir; anne/torunun bu tam birleşik kaydı yoktur. Siyer’de torun Ahmed b.Sa‘d açıktır. Anne özel adı Arapça أمة الرحمن alanından çevriyazılır; Abdürrahman adlı erkek yapılmadı, künyeden yeni çocuk üretilmedi."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Bütün dört ilişki ve anne soy halkaları korunur. TDV iki oğlunu verir; anne/torunun bu tam birleşik kaydı yoktur. Siyer’de torun Ahmed b.Sa‘d açıktır. Anne özel adı Arapça أمة الرحمن alanından çevriyazılır; Abdürrahman adlı erkek yapılmadı, künyeden yeni çocuk üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Bütün dört ilişki ve anne soy halkaları korunur. TDV iki oğlunu verir; anne/torunun bu tam birleşik kaydı yoktur. Siyer’de torun Ahmed b.Sa‘d açıktır. Anne özel adı Arapça أمة الرحمن alanından çevriyazılır; Abdürrahman adlı erkek yapılmadı, künyeden yeni çocuk üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "uluman": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/9F/10246213.pdf#page=63",
+      "title": "Gülşah Uluman — Zü’l-yedeyn Hadisi:Tahrîc ve Tahlil,Marmara,YL2019",
+      "locator": "36.Yunus,basılı52–53/PDF63–64tam kişi bölümü/dipnot258–260webPDFmetninden okundu. Ma‘mer benzetmesi ve olumlu/olumsuz değerlendirmeler birlikte;152/745tarih çifti burada düzeltilmedi veya yeni alana taşınmadı. YerelPDF/hash/görüntü iddiası yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnmuhriz": {
+      "url": "https://shamela.ws/book/101/73",
+      "title": "İbn Muharriz — Ma‘rifetü’r-ricâl an Yahyâ b.Maîn;I.ciltMuhammedKâmilKassâr,Mecmau’l-lugati’l-Arabiyye,Dımaşk,1.baskı1405/1985",
+      "locator": "Dijitalbasılı1/121–122: /72sonundan/73başına taşan tam pasaj ve eser kartı okundu. İbnMehdî/İbnMübârek aktarımı ve AliMedînî’nin همام همامbiçimindeki tekrarını açık verir. Basılıtarama/PDFgörüntüsü karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/8562/يونس-بن-يزيد-بن-أبي-النجاد-يونس-يزيد-القرشي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl,Yûnus b.Yezîd,nr7188",
+      "locator": "Dijital32/552–558tam biyografi/özellikle554–557görüş paragrafları okundu.554İbnMübârek/İbnMehdî;556AhmedSâlihMısrî;557EbûZür‘a. Sayfa işaretleri dijital metne aittir; belirli matbu baskı/görüntüyle eşitlenmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "evzai": {
+      "url": "https://islamansiklopedisi.org.tr/evzai",
+      "title": "Salim Öğüt — Evzâî,TDV11(1995),546–548",
+      "locator": "Başlık/ilk hayat ve matbu künye: Abdurrahmanb.Amrb.Yuhmid/157. Yalnız kısa ad biçimi, Yûnus hakkındaki sözün asıl atfı değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnmubarek": {
+      "url": "https://islamansiklopedisi.org.tr/abdullah-b-mubarek",
+      "title": "Raşit Küçük — Abdullah b.Mübârek,TDV1(1988),122–124",
+      "locator": "Başlık/ilk hayat/181ölüm ve matbu künye okundu. Abdullahb.Mübârekb.Vâzıh;2507Muhammedb.Abdullahb.Mübârek ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "veki": {
+      "url": "https://islamansiklopedisi.org.tr/veki-b-cerrah",
+      "title": "Mehmet Emin Özafşar — Vekî‘ b.Cerrâh,TDV43(2013),8–9",
+      "locator": "Başlık/ilk hayat/ölüm paragrafı ve matbu künye. TDV197ölümü,GK196kaydı; kısa ad biçimi dışında tarih onayı verilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "beskuval": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-beskuval",
+      "title": "Nadir Özkuyumcu — İbn Beşküvâl,TDV19(1999),377–378",
+      "locator": "Başlık/ilk hayat/578ölüm ve matbu künye okundu. Halefb.Abdilmelikb.Mes‘ûdb.Mûsâb.Beşküvâl; yalnız kısa ad biçimi.",
+      "accessed_on": "2026-11-02"
+    },
+    "suri_candidate": {
+      "url": "https://islamansiklopedisi.org.tr/suri-muhammed-b-ali",
+      "title": "Nuri Topaloğlu — Sûrî,Muhammed b.Ali,TDV37(2009),541",
+      "locator": "Başlık/ilk hayat/441ölüm ve matbu künye okundu. Muhammedb.Alib.Abdullah441kişisi adaydır; GK2545rawy61450tabaka10/mechûlü’l-hâl/ölümboş kaydıyla kimlik eşitliği kanıtlanmadı. Türkçe kısa yazım kimlik doğrulaması sayılmaz.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    },
+    {
+      "path": "research/arabic-source-checks/yunus-related-records.json",
+      "sha256": "899565b32227fb435eb37819b029a0b764bf3b8f6c552b82427f10b8184d2beb"
+    }
+  ],
+  "revision": "yunus-yazid-opinions-tr-v1",
+  "policy": "21tamgörüş:18dilkarşılaştırması3atıf/kimlikproblemi;3tam7kısmi11okunan Türkçe bölümde bulunamadı. HamArapça ve kaynak kimlikleri değişmedi.",
+  "narrators": [
+    {
+      "id": 8621,
+      "expected_opinion_count": 21,
+      "opinions": [
+        {
+          "key": "8621:1011:5665aabb71e06e7964408bb81556e36df1dcf4eaa19c199128b5e52afa071d8a",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التهذيب : ثقة إلا أن في روايته عن الزهري وهما قليلا ، وفي غير الزهري خطأ ، وقال في هدي الساري : وثقه الجمهور مطلقا وإنما ضعفوا بعض روايته حيث يخالف أقرانه أو يحدث من حفظه فإذا حدث من كتابه فهو حجة واحتج به الجماعة ، وفي حفظه شيء وكتابه معتمد",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "363a0f018cc3170e6e66098c5c42d86503b5cd1a3487370c58ac454113931af1",
+          "text": "Tehzîb’de: Sikadır; ancak Zührî’den rivayetlerinde az miktarda vehim, Zührî dışındakilerden rivayetlerinde hata vardır. Hedyü’s-sârî’de: Çoğunluk onu mutlak olarak güvenilir saymıştır. Yalnız akranlarına aykırı düştüğü veya ezberinden rivayet ettiği bazı rivayetlerini zayıf saymışlardır. Kitabından rivayet ettiğinde hüccettir; Kütüb-i Sitte müellifleri onunla ihticâc etmiştir. Hafızasında bir kusur vardır; kitabı güvenilir bir dayanaktır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK’nin Tehzîb/Hedyü’s-sârî eser atıfları ve tüm şartları korunur. Türkçe kısa bölüm genel güvenilirlik/tenkitleri verir, bu birleşik sözün tamamını vermez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "GK’nin Tehzîb/Hedyü’s-sârî eser atıfları ve tüm şartları korunur. Türkçe kısa bölüm genel güvenilirlik/tenkitleri verir, bu birleşik sözün tamamını vermez. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:1121:1156787f0c8ef97cd021e31180c120b1e7517672258efedc083741ca91d29876",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "1121",
+            "critic": "عبد الرحمن بن عمرو بن يحمد",
+            "opinion": "حض على الأخذ عنه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "4f63c44010a52c7a66fa1851fc76c5a5b2d38562770fd0f47731caa4da70b7b7",
+          "text": "Ondan hadis alınmasını teşvik etti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Evzâî’nin bu özel teşvik cümlesi okunan Türkçe kişi bölümünde yoktur; yalnız ilişkisi anılır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Evzâî’nin bu özel teşvik cümlesi okunan Türkçe kişi bölümünde yoktur; yalnız ilişkisi anılır. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:1268:4a4ec55adaaa58abe3e9a9e0927f3ac63c23a305236be37e4fbdb1b18ea2553b",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "أحد الأثبات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5cc7cfe9fd6f623374ebc810df6195ab333e9369684ecb06593e45baeeb86600",
+          "text": "Sebt râvilerden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe bölüm Zehebî’nin olumlu yaklaşımını verir; bu tam teknik lafzı aynı biçimde nakletmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe bölüm Zehebî’nin olumlu yaklaşımını verir; bu tam teknik lafzı aynı biçimde nakletmez. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:1843:f382455eaae9e57463f1e7f34525547a9124d9d571d6b573b230cddaefafe258",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "1843",
+            "critic": "عبد الرحمن بن مهدي بن حسان بن عبد الرحمن",
+            "opinion": "كتابه صحيح",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ae1ba47ab7f5310a88db82cc0782e82e53f95a4d4302c37536d3e7d4675dc151",
+          "text": "Kitabı sahihtir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Türkçe bölüm bu İbnMehdî sözünü vermez. Mizzî32/554İbnMübârek aktarımından sonra İbnMehdî’nin kendi katılımını ayrı söyler; iki kişi birleştirilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Türkçe bölüm bu İbnMehdî sözünü vermez. Mizzî32/554İbnMübârek aktarımından sonra İbnMehdî’nin kendi katılımını ayrı söyler; iki kişi birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Türkçe bölüm bu İbnMehdî sözünü vermez. Mizzî32/554İbnMübârek aktarımından sonra İbnMehdî’nin kendi katılımını ayrı söyler; iki kişi birleştirilmedi. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:1847:59214663ed2c024c8cda30db6d3b906a218b2c6b11ddd9902f5ff054b164efcf",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "1847",
+            "critic": "عبد الرحمن بن يوسف بن سعيد بن خراش",
+            "opinion": "صدوق",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "c2999e3f1ac59fcb1b02a95f5dddc2ed039b0c7ef91624478cf8b6636d74d679",
+          "text": "Sadûktur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Türkçe bölüm İbnHırâş’ın sadûk hükmünü açık verir; kısa nitelemenin dil aktarımıdır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Türkçe bölüm İbnHırâş’ın sadûk hükmünü açık verir; kısa nitelemenin dil aktarımıdır. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:1935:f382455eaae9e57463f1e7f34525547a9124d9d571d6b573b230cddaefafe258",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "1935",
+            "critic": "عبد الله بن المبارك بن واضح",
+            "opinion": "كتابه صحيح",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "51b0f17210e460e64d9c5389cd4b14b79483a17504ed887346d1806060463339",
+          "text": "Kitabı sahihtir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Türkçe bölüm İbnMübârek’in başka bir benzetmesini verir, bu kitap hükmünü vermez. Mizzî32/554veİbnMuharriz1/121–122atfı İbnMübârek’e bağlar;1935ile2507ayrı kimliklerdir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Türkçe bölüm İbnMübârek’in başka bir benzetmesini verir, bu kitap hükmünü vermez. Mizzî32/554veİbnMuharriz1/121–122atfı İbnMübârek’e bağlar;1935ile2507ayrı kimliklerdir."
+            },
+            "ibnmuhriz": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Türkçe bölüm İbnMübârek’in başka bir benzetmesini verir, bu kitap hükmünü vermez. Mizzî32/554veİbnMuharriz1/121–122atfı İbnMübârek’e bağlar;1935ile2507ayrı kimliklerdir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Türkçe bölüm İbnMübârek’in başka bir benzetmesini verir, bu kitap hükmünü vermez. Mizzî32/554veİbnMuharriz1/121–122atfı İbnMübârek’e bağlar;1935ile2507ayrı kimliklerdir. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2136:48ab0666f0390f458f1b0726ba03412e49e84afd36b8a1053ee5b14b6834cadd",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2136",
+            "critic": "علي بن المديني",
+            "opinion": "هو بمنزلة همام إذا حدث من كتابه عن قتادة فهو ثبت",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b41b675e9f284a3ba24fb5a5c7cc83ce9ef3f21e1b51cd4c36bfa3381d9a6634",
+          "text": "O, Hemmâm gibidir; Hemmâm kitabından Katâde’den rivayet ettiğinde sebttir (rivayetinde sağlamdır).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbn Muharriz1/121–122dijital tam pasajında همام همامtekrarı açıktır. İkinci Hemmâm Katâde şartının öznesini belirler; Yûnus benzetilen kişidir. GKkısa lafız değiştirilmedi, karşılaştırma uzun şahitle açıklanarak çevrildi. Basılıtarama denetimi yoktur."
+            },
+            "ibnmuhriz": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İbn Muharriz1/121–122dijital tam pasajında همام همامtekrarı açıktır. İkinci Hemmâm Katâde şartının öznesini belirler; Yûnus benzetilen kişidir. GKkısa lafız değiştirilmedi, karşılaştırma uzun şahitle açıklanarak çevrildi. Basılıtarama denetimi yoktur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İbn Muharriz1/121–122dijital tam pasajında همام همامtekrarı açıktır. İkinci Hemmâm Katâde şartının öznesini belirler; Yûnus benzetilen kişidir. GKkısa lafız değiştirilmedi, karşılaştırma uzun şahitle açıklanarak çevrildi. Basılıtarama denetimi yoktur. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2463:d9aade111c667b8f5ae2a93f59a122f7dfabf5da9965ea23e38f8bef8fd58719",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "كان حلو الحديث ، كثيره ، وليس بحجة ، ربما جاء بالشيء المنكر",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7113cf6b03c743ad946296276c620e8b4531adbff57ca7937c641caec3490afe",
+          "text": "Hadisi hoş ve çoktu; fakat hüccet değildir. Bazen münker şeyler rivayet ederdi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe bölüm İbnSa‘d’ın ihticâc etmeyişini ve münker rivayet bağlamını verir; bütün hoş/çok lafzını karşılamaz. Olumsuzluk düşürülmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe bölüm İbnSa‘d’ın ihticâc etmeyişini ve münker rivayet bağlamını verir; bütün hoş/çok lafzını karşılamaz. Olumsuzluk düşürülmedi. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2507:87e06ccf9719ff59e2528dc7a6b3ab582627c28ef3c79692932aaf4a6472dda1",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2507",
+            "critic": "محمد بن عبد الله بن المبارك",
+            "opinion": "كتابه صحيح ، ومن أروى الناس عن الزهري ، ومرة : ما حدث من كتاب فهو ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6f5f1dc5843e9f14b91fd1eb3a10b302ad41c5a7cc465d08df382cecc792d792",
+          "text": "Kitabı sahihtir; Zührî’den en çok rivayet edenlerdendir. Başka bir nakilde: Kitabından rivayet ettiği zaman sikadır.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Atıf sorunu: GK2507Muhammedb.Abdullahb.Mübârek kaydıdır;1935Abdullahb.Mübârekb.Vâzıh değildir. İbnMuharriz1/121–122veMizzî32/554okunan pasajları kitap hükmünü İbnMübârek’e bağlar; birleşik GK2507atfı bağımsız doğrulanmadı. Metin/kişi taşınmadı veya isimler birleştirilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK2507Muhammedb.Abdullahb.Mübârek kaydıdır;1935Abdullahb.Mübârekb.Vâzıh değildir. İbnMuharriz1/121–122veMizzî32/554okunan pasajları kitap hükmünü İbnMübârek’e bağlar; birleşik GK2507atfı bağımsız doğrulanmadı. Metin/kişi taşınmadı veya isimler birleştirilmedi."
+            },
+            "ibnmuhriz": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK2507Muhammedb.Abdullahb.Mübârek kaydıdır;1935Abdullahb.Mübârekb.Vâzıh değildir. İbnMuharriz1/121–122veMizzî32/554okunan pasajları kitap hükmünü İbnMübârek’e bağlar; birleşik GK2507atfı bağımsız doğrulanmadı. Metin/kişi taşınmadı veya isimler birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Atıf sorunu: GK2507Muhammedb.Abdullahb.Mübârek kaydıdır;1935Abdullahb.Mübârekb.Vâzıh değildir. İbnMuharriz1/121–122veMizzî32/554okunan pasajları kitap hükmünü İbnMübârek’e bağlar; birleşik GK2507atfı bağımsız doğrulanmadı. Metin/kişi taşınmadı veya isimler birleştirilmedi. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2545:46b65b3d10b5aff4661bfc364fe1a950d75b886e1c4e9323c51f551aea2ad852",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2545",
+            "critic": "محمد بن علي",
+            "opinion": "الإمام الثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "715d478a017398803db7cc5cd55f780fb907374c9bea49e26acbb633a1f6d68b",
+          "text": "İmamdır, sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK2545Muhammedb.Ali kaydına bağlı sözün dil aktarımı; kayıtlı Sûrî kimliğinin bağı ayrıca açıkproblem. Türkçe kaynakta ünlü Sûrî441adayı bulunması bu atfı doğrulamaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK2545Muhammedb.Ali kaydına bağlı sözün dil aktarımı; kayıtlı Sûrî kimliğinin bağı ayrıca açıkproblem. Türkçe kaynakta ünlü Sûrî441adayı bulunması bu atfı doğrulamaz. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2671:a04662903dfb9887ef717828b49c83fd951b337bacac85d25990db1068fc2359",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2671",
+            "critic": "مصنفوا تحرير تقريب التهذيب",
+            "opinion": "ثقة إمام في الزهري وغيره ، فقد أطلق الأئمة توثيقه ، واحتج به الجماعة ، على أنه على سعة روايته عن الزهري ، قد تأتي بعض أحاديثه يخالف فيها أقرانه ، فكان ماذا؟",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8e22a7704fd692b1fe7a81ffa2c6b57a2db6fe703070f8ff946cdeb7ec1f5116",
+          "text": "Zührî’den ve başkalarından rivayetinde sika bir imamdır. İmamlar onun güvenilirliğini mutlak olarak belirtmiş, Kütüb-i Sitte müellifleri onun rivayetleriyle ihticâc etmiştir. Zührî’den rivayetlerinin genişliği içinde bazı hadislerinde akranlarına aykırı düşebilir. Bundan ne çıkar?",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe bölüm güvenilirlik ve karşıt tenkitleri birlikte verir; bu tam Tahrîr cümlesi yoktur.2671ortak müellif etiketidir. Son retorik soru müelliflerin yaklaşımıdır; uygulamanın yeni hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe bölüm güvenilirlik ve karşıt tenkitleri birlikte verir; bu tam Tahrîr cümlesi yoktur.2671ortak müellif etiketidir. Son retorik soru müelliflerin yaklaşımıdır; uygulamanın yeni hükmü değildir. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2769:be64b80f034ba40922012a12f935dcfbd21088f8d4204928fe30f6f6c4e78761",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2769",
+            "critic": "وكيع بن الجراح بن مليح بن عدى بن فرس بن جمجمة بن سفيان بن عمرو بن الحارث بن عمرو",
+            "opinion": "سيئ الحفظ",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3b5b17991274f452337cd12abe668ac251ff60bad8e3609bf014ac0c922a3444",
+          "text": "Hafızası kötüdür.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Vekî‘in bu özel hafıza tenkidi Türkçe kısa bölümde yoktur. Mizzî32/554aynı tenkidi ve Ahmed’in Vekî‘in ondan üç hadis işittiği notunu verir; asistan bütün raviye yeni hüküm üretmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Vekî‘in bu özel hafıza tenkidi Türkçe kısa bölümde yoktur. Mizzî32/554aynı tenkidi ve Ahmed’in Vekî‘in ondan üç hadis işittiği notunu verir; asistan bütün raviye yeni hüküm üretmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Vekî‘in bu özel hafıza tenkidi Türkçe kısa bölümde yoktur. Mizzî32/554aynı tenkidi ve Ahmed’in Vekî‘in ondan üç hadis işittiği notunu verir; asistan bütün raviye yeni hüküm üretmedi. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:281:fe2ff982859d65485955bbde6a7783d121e081fc6af9f3d4ffc5f643893e1ded",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "281",
+            "critic": "خلف بن عبد الملك بن مسعود بن موسى بن بشكوال بن يوسف بن داجة بن واكد بن نصر بن عبد الكريم بن وافد",
+            "opinion": "ذكره في شيوخ عبد الله بن وهب ، وقال : فاتر الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ba43856b3523ab40078f746bd7ca8ce44122ca65f83eaf56c384eddedd1182d7",
+          "text": "Onu Şüyûhu Abdillâh b. Vehb’de zikretti ve şöyle dedi: Hadisi gevşektir (fâtirü’l-hadîs).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "GKeser atfı ve teknik lafız korunur; bu eser pasajı doğrudan okunmadı. İbnBeşküvâl kısa adını teyit etmek kitap atfının bağımsız teyidi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GKeser atfı ve teknik lafız korunur; bu eser pasajı doğrudan okunmadı. İbnBeşküvâl kısa adını teyit etmek kitap atfının bağımsız teyidi değildir. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2821:1f83f14b9e4988d25baaf37251ef7ae57057be548b3c5e99c5aaff0c1f5f89ba",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "ثقة أثبت الناس في الزهري ، ومرة : هو عالم بالزهري",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1fea355608035d9742b6e5183a06775865321d781bf19c05d7e7ac759a00fd39",
+          "text": "Sikadır; Zührî’den rivayette insanların en sağlamıdır. Başka bir değerlendirmesinde: Zührî’yi iyi bilir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe bölüm Zührî’nin güvenilir talebeleri bağlamını verir; iki Maîn sözü tam olarak yoktur. GKأثبت الناسüstünlük lafzı münekkidin sözü olarak korunur; uygulamanın yeni tercihi değildir. Mizzî32/555–556birden fazla ismi birlikte sayan ayrı nakiller içerir; bu farklı kaynak lafzı GK’ye sessizce taşınmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Türkçe bölüm Zührî’nin güvenilir talebeleri bağlamını verir; iki Maîn sözü tam olarak yoktur. GKأثبت الناسüstünlük lafzı münekkidin sözü olarak korunur; uygulamanın yeni tercihi değildir. Mizzî32/555–556birden fazla ismi birlikte sayan ayrı nakiller içerir; bu farklı kaynak lafzı GK’ye sessizce taşınmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe bölüm Zührî’nin güvenilir talebeleri bağlamını verir; iki Maîn sözü tam olarak yoktur. GKأثبت الناسüstünlük lafzı münekkidin sözü olarak korunur; uygulamanın yeni tercihi değildir. Mizzî32/555–556birden fazla ismi birlikte sayan ayrı nakiller içerir; bu farklı kaynak lafzı GK’ye sessizce taşınmadı. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:2855:e39457dcc536c5ae59beb78b4e51b964649ecebaf8417e8a76ac8fd0dd546df2",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "2855",
+            "critic": "يعقوب بن شيبة بن الصلت بن عصفور بن شداد بن هميان",
+            "opinion": "صالح الحديث ، عالم بحديث الزهري",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "397d4673c882415242a8a6d1495ee7e7f1557f2dea0a3607cd6e935d0f26097b",
+          "text": "Sâlihu’l-hadîstir; Zührî’nin hadislerini iyi bilir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe bölüm Ya‘kūbb.Şeybe için âlim lafzını verir; tüm iki niteleme aynı tam biçimde verilmez. Sâlihu’l-hadîs teknik ifade olarak korundu."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe bölüm Ya‘kūbb.Şeybe için âlim lafzını verir; tüm iki niteleme aynı tam biçimde verilmez. Sâlihu’l-hadîs teknik ifade olarak korundu. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "813a29fccf3afaa277ef6d085c2d970538965a695dbba1bb5dcbb948f0256df2",
+          "text": "Onu es-Sikât’ta zikretti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Bu özel İbnHibbân kitap kaydı okunan Türkçe kısa bölümde verilmez; başka olumlu görüşle eşitlenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu özel İbnHibbân kitap kaydı okunan Türkçe kısa bölümde verilmez; başka olumlu görüşle eşitlenmedi. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:466:6b3c2427eeeba3133e5a2c9cf908d79f1590164e378af40a7be76c7ec9ca5020",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "466",
+            "critic": "أحمد بن الحسين بن علي بن إبراهيم بن الحكم",
+            "opinion": "لا بأس به",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "43cb3d6eae4ebb94b71433488660d2ff9276f673573af70f9634096834b0629f",
+          "text": "Lâ be’se bih (onda sakınca yoktur).",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Atıf sorunu: GK466tam adı Ahmedb.Hüseyinb.Alib.İbrâhimb.Hakem,rawy9623/ölüm375; Mizzî32/557aynı sözü EbûZür‘a’ya verir. İsim benzerliğiyle meşhur EbûZür‘a’ya taşınmadı. Önceki466kanonik kayıt/kimlik sorunu aynen korunur."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK466tam adı Ahmedb.Hüseyinb.Alib.İbrâhimb.Hakem,rawy9623/ölüm375; Mizzî32/557aynı sözü EbûZür‘a’ya verir. İsim benzerliğiyle meşhur EbûZür‘a’ya taşınmadı. Önceki466kanonik kayıt/kimlik sorunu aynen korunur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Atıf sorunu: GK466tam adı Ahmedb.Hüseyinb.Alib.İbrâhimb.Hakem,rawy9623/ölüm375; Mizzî32/557aynı sözü EbûZür‘a’ya verir. İsim benzerliğiyle meşhur EbûZür‘a’ya taşınmadı. Önceki466kanonik kayıt/kimlik sorunu aynen korunur. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:751:30ef00160fed15a6feb296df95acc1dbf9bb96521a9d964040a9dab36a672e90",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "لم يكن يعرف الحديث ، ومرة : كثير الخطأ عن الزهري ، ومرة : في حديثه منكرات عن الزهري ، ومرة : ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0d655ddade8699a7e9432fa578c526d3afb01ce3120efdb9561710551f1c2141",
+          "text": "Hadisi bilmezdi. Başka bir değerlendirmesinde: Zührî’den rivayetlerinde çok hata yapar. Başka birinde: Zührî’den rivayet ettiği hadislerinde münkerler vardır. Başka birinde: Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe bölüm Ahmed’in münker rivayet tenkidini verir; dört ayrı naklin hepsini vermez. Olumlu sika ve olumsuz ifadeler birlikte korundu; uygulama bunları tek yeni karara indirmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe bölüm Ahmed’in münker rivayet tenkidini verir; dört ayrı naklin hepsini vermez. Olumlu sika ve olumsuz ifadeler birlikte korundu; uygulama bunları tek yeni karara indirmedi. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:767:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "13d0dad57bfc73d97fffbf5599ec1439500bc3b6dd9001c01d24d558622efc89",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Türkçe bölüm Nesâî’nin sika nitelemesini açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Türkçe bölüm Nesâî’nin sika nitelemesini açık verir. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:769:81aa97e34be2f9a9707d40d0fd73ea7a4016a67c10f6892c6da060da62ac0a13",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "769",
+            "critic": "أحمد بن صالح",
+            "opinion": "لا نقدم في الزهرى على يونس أحدا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "eeb2f8442d73ad47ba8ce8a88600f3d48e49bc7df13be5c736f030e60da0b95a",
+          "text": "Zührî’den rivayette Yûnus’un önüne hiç kimseyi geçirmeyiz.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Atıf/kimlik bağlantısı sorunu: GK769Ahmedb.SâlihMısrî şöhretlidir, fakat rawy_id9885tam ravi kaydı الشمومي/الشمومي،المصري/münkerü’l-hadîs/ölümboş biçimindedir. Mizzî32/556sözü Ahmedb.Sâlihel-Mısrî’ye verir; yalın ada dayanarak bağlı Şemmûmî ile ünlü hadis hâfızı birleştirilmedi. Kayıt atfının doğruluğu açık kalır."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf/kimlik bağlantısı sorunu: GK769Ahmedb.SâlihMısrî şöhretlidir, fakat rawy_id9885tam ravi kaydı الشمومي/الشمومي،المصري/münkerü’l-hadîs/ölümboş biçimindedir. Mizzî32/556sözü Ahmedb.Sâlihel-Mısrî’ye verir; yalın ada dayanarak bağlı Şemmûmî ile ünlü hadis hâfızı birleştirilmedi. Kayıt atfının doğruluğu açık kalır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Atıf/kimlik bağlantısı sorunu: GK769Ahmedb.SâlihMısrî şöhretlidir, fakat rawy_id9885tam ravi kaydı الشمومي/الشمومي،المصري/münkerü’l-hadîs/ölümboş biçimindedir. Mizzî32/556sözü Ahmedb.Sâlihel-Mısrî’ye verir; yalın ada dayanarak bağlı Şemmûmî ile ünlü hadis hâfızı birleştirilmedi. Kayıt atfının doğruluğu açık kalır. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "8621:779:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 8621,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "881c686e5ce864568a835635bcf1c6f4a9b7091e205a4dbb23b3baa98f8f0802",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Türkçe bölüm İclî’nin sika nitelemesini açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Türkçe bölüm İclî’nin sika nitelemesini açık verir. Tam Arapça kaynak sözü okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "revision": "assistant-person-field-review-v18",
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "kandirali": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/8D/5dfa1b45aea43.pdf",
+      "title": "Yakup Kandıralı — Ukbe b. Âmir el-Cühenî’nin Hayatı ve Rivâyetleri, Marmara Üniversitesi,YL2019",
+      "locator": "Hadis33 / Hadisin Sened ve Râvileri / 3. Ukayl b. Hâlid el-Eylî: tam kişi paragrafı, devamı ve dipnotları web PDF metninden okundu. Basılı sayfa numarası doğrulanmadı; PDF metin çıkarımındaki numara sırası fiziksel sayfa eşleştirmesi sayılmadı. PDF sayfa indeksi, yerel dosya kimliği ve görüntü incelemesi doğrulanmadı. Kapak gerçek eser adıyla karşılaştırıldı.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    },
+    {
+      "path": "app/hadis_web/data/narrator-field-reviews-tr-v17.json",
+      "sha256": "37dc9d567a7354bd03b2d1754a7d6b9d1b86a1def499078d8e65efe7b00cb14e"
+    }
+  ],
+  "policy": "Dokuz Ukayl alanında yalnız konum kesinliği düzeltmesi; yeni supersedes sürümleri, önceki dosya/metin/hash korunur. Fiziksel sayfa yerine doğrulanan bölüm/kişi başlığı. Yeni basılı sayfa veya PDF indeksi tahmin edilmedi.",
+  "people": [
+    {
+      "id": 5688,
+      "expected_source": {
+        "id": 5688,
+        "new_id": 28663,
+        "name": "عقيل بن خالد بن عقيل",
+        "shohra": "عقيل بن خالد الأيلي",
+        "badeel": "أبو خالد الأموي",
+        "konya": "أبو خالد",
+        "lakab": "صاحب الزهري",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الإيلي،الأموي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 6,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "144",
+        "age": null,
+        "baladekama": "",
+        "baladwafa": "مصر",
+        "mawaaly": "مولى عثمان بن عفان",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 480
+      },
+      "expected_record_sha256": "0b4deb06e3806bd9360105d393458feba90d3a42aae98e6729ec461586c9ada5",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عقيل بن خالد بن عقيل",
+          "text": "Ukayl b. Hâlid b. Ukayl.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez kişi paragrafı tam üçlü adı verir. Önceki Selâme ve sonraki Zührî paragrafı bu kişiye taşınmadı. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez kişi paragrafı tam üçlü adı verir. Önceki Selâme ve sonraki Zührî paragrafı bu kişiye taşınmadı. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "9282241b-3bd1-57f2-a532-ca48a2c5a361"
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عقيل بن خالد الأيلي",
+          "text": "Ukayl b. Hâlid el-Eylî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezde kişi başlığı bu ad ve nisbedir. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezde kişi başlığı bu ad ve nisbedir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "c18e5773-40bd-50a4-8d7e-c95f58fe378d"
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو خالد الأموي",
+          "text": "Ebû Hâlid el-Ümevî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez aynı kişi için Ebû Hâlid künyesi ve Ümevî nisbesini açıkça verir. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez aynı kişi için Ebû Hâlid künyesi ve Ümevî nisbesini açıkça verir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "d8a5cf82-bbd0-500d-93b7-e7dbc8372d4a"
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو خالد",
+          "text": "Ebû Hâlid.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezdeki açık künye; künyeden akrabalık alanı üretilmedi. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezdeki açık künye; künyeden akrabalık alanı üretilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "caa634c8-b5f0-5f84-a70a-bf26323c7281"
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "صاحب الزهري",
+          "text": "Sâhibü’z-Zührî (Zührî’nin yakın talebesi).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "identity_only",
+              "evidence_note": "صاحب الزهري lakabı GK’den aktarılır. Tez Zührî’den ilim aldığını verir, fakat aynı lakabı açıkça kullanmaz; talebelik bu lafzın tam Türkçe teyidi değildir. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "صاحب الزهري lakabı GK’den aktarılır. Tez Zührî’den ilim aldığını verir, fakat aynı lakabı açıkça kullanmaz; talebelik bu lafzın tam Türkçe teyidi değildir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "6acdc185-c015-5fb7-9ac1-01a7f9c46fa9"
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الإيلي،الأموي",
+          "text": "Eylî; Ümevî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez iki nisbe biçimini açıkça verir; Ümevî nisbesinden soy, Eylî nisbesinden yeni ikamet bilgisi çıkarılmadı. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez iki nisbe biçimini açıkça verir; Ümevî nisbesinden soy, Eylî nisbesinden yeni ikamet bilgisi çıkarılmadı. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "2d9f5b4f-f6a6-5340-acd1-3920ab96ec7e"
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika, sebt (güvenilir, rivayetinde sağlam).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezin kişi bölümünün devamında İbn Hacer’den sikatün sebt biçimini açık aktarır. Bu GK alanının dil aktarımıdır; tüm eleştirileri uzlaştıran yeni hüküm değildir. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezin kişi bölümünün devamında İbn Hacer’den sikatün sebt biçimini açık aktarır. Bu GK alanının dil aktarımıdır; tüm eleştirileri uzlaştıran yeni hüküm değildir. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "94e9536b-1dd6-53cd-92d6-307d79985baf"
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "مصر",
+          "text": "Mısır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK ölüm yeri aktarılır; okunan tam tez kişi paragrafında Mısır’da ölüm açıkça verilmez. Nisbe veya tarih ölüm yerine kanıt sayılmadı. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK ölüm yeri aktarılır; okunan tam tez kişi paragrafında Mısır’da ölüm açıkça verilmez. Nisbe veya tarih ölüm yerine kanıt sayılmadı. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "117282f2-ae7c-5b30-aafa-ce3ed8d813b9"
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى عثمان بن عفان",
+          "text": "Osman b. Affân’ın mevlâsı (velâ bağıyla bağlı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "kandirali": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez Osman b. Affân velâsını açık verir. Ümevî nisbesi ile velâ türü birbirine dönüştürülmedi; ek hukuki statü üretilmedi. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez Osman b. Affân velâsını açık verir. Ümevî nisbesi ile velâ türü birbirine dönüştürülmedi; ek hukuki statü üretilmedi. Tam Arapça kaynak kaydı ve alanı okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümlerde bulunamadı, bütün literatürde çevirisi yok anlamına gelmez. Önceki sürümdeki fiziksel sayfa kesinliği geri çekildi. PDF metin çıkarımındaki sayı sırasından fiziksel sayfa konumu belirlenemedi; doğrulanan bölüm ve kişi başlığı esas alındı. Çeviri metni, Arapça kayıt ve destek sınıflaması değişmedi.",
+          "supersedes_id": "c03353ca-6fdb-5dff-a37b-cf4b741ccbbf"
+        }
+      ]
+    }
+  ]
+}

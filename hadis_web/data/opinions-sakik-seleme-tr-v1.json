@@ -1,0 +1,347 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/sakik-b-seleme",
+      "title": "Erdinç Ahatlı — Şakīk b. Seleme, TDV 38 (2010), 306",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Ad/künye/Esedî-Kûfî/yerleşim/muhadram açık. Sika/kesîrü’l-hadîs genel nitelemesi bütün münekkitlerin ayrı atfı değildir. Maîn sözündeki Türkçe parantez (onun gibisi bulunmaz) Arapça olumsuz soru anlamıyla aynı sayılmadı. Doğum1isabetsiz görülür; GK1/82/81değiştirilmedi. İki oğul ve biyografi anlatıları boş kaynak alanlarına yeni ilişki olarak yazılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/3001/شقيق-بن-سلمة-،-أبو-وائل-الأسدي-الكوفي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Şakīk b. Seleme, 12/548–554, nr. 2767",
+      "locator": "Tam harekesiz dijital kişi girişi ve hoca-talebe listeleri okundu. Vekî‘, Maîn ve İbn Sa‘d sözleri ayrı atıflarla mevcut. Döneme yetişme/görmeme ve farklı yaş/ölüm nakilleri açık. Sayfa etiketleri dijital metnindir; fiziksel baskı karşılaştırılmadı, TDV kaynakçasındaki555etiketi yeni sayfa tasdiki değildir.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/502/شقيق-بن-سلمة",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Şakīk b. Seleme, 4/161–166",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Muhadram/görmeme, Maîn’in ثقة لا يسأل عن مثله ve İbn Sa‘d’ın çok rivayet kaydı, yaş/ölüm alternatifleri görülür. Bütün nakillerden yeni uzman veya tarihsel kesinlik hükmü üretilmedi. Matbu facsimile karşılaştırılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "marasil": {
+      "url": "https://arabic-keyboard.info/books/ar/read-book/المراسيل-لابن-أبي-حاتم",
+      "title": "İbn Ebû Hâtim — el-Merâsîl, kişi 140, haberler 318–321",
+      "locator": "Dijital yeniden basımda tam kişi140/haber318–321okundu.319İbn Ebû Hâtim babası Ebû Hâtim’e Ebû Vâil’in Ebü’d-Derdâ’dan işitmesini ve tedlîsini sorar; tedlîse hayır cevabı verir ve Ahmed’in sözünü anar.318Âişe/321Ebû Bekir mürsel haberleri ayrıdır. Bu bağlam bütün hocalardan işitme veya bütün senedlere ittisal tasdiki değildir. Bütün eser/baskı/fiziksel sayfa okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "kashif": {
+      "url": "https://arabic-keyboard.info/books/ar/read-book/الكاشف",
+      "title": "Zehebî — el-Kâşif, nr. 2303, Şakīk b. Seleme",
+      "locator": "Dijital yeniden basımdaki tam2303girişi okundu. من العلماء العاملين vardır; GK1268من كبار العاملينaynı lafız değildir. Her ikisi ayrı kaydedildi; ham GK değiştirilmedi. Tezhîb girişi ayrıca okunmadı; editör/baskı/fiziksel sayfa otantifikasyonu yapılmadı.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    }
+  ],
+  "revision": "sakik-seleme-opinions-tr-v1",
+  "policy": "10tamgörüş9dilkarşılaştırması1açıkKâşiflafızsorunu;TR0tam7kısmi3okunan bölümde bulunamadı.",
+  "narrators": [
+    {
+      "id": 3825,
+      "expected_opinion_count": 10,
+      "opinions": [
+        {
+          "key": "3825:1011:8fc01092b2b87f2f285e7f93873e9d036efa3bd32bd92b5e318030b348d7052d",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "ثقة مخضرم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ea3d42afc3dc055201fc57adcf57020b333b5b3c04c48b2de0b06759342c5335",
+          "text": "Sikadır; muhadramdır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki ayrı niteleme korunur. TDV muhadramlığı ve genel sika nitelemesini verir; bütün İbn Hacer özel atfının yayımlanmış Türkçe alıntısı sayılmadı. Muhadram güvenilirlik derecesi değildir. Asıl Takrîb kişi girişi ayrıca okunmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İki ayrı niteleme korunur. TDV muhadramlığı ve genel sika nitelemesini verir; bütün İbn Hacer özel atfının yayımlanmış Türkçe alıntısı sayılmadı. Muhadram güvenilirlik derecesi değildir. Asıl Takrîb kişi girişi ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki ayrı niteleme korunur. TDV muhadramlığı ve genel sika nitelemesini verir; bütün İbn Hacer özel atfının yayımlanmış Türkçe alıntısı sayılmadı. Muhadram güvenilirlik derecesi değildir. Asıl Takrîb kişi girişi ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:1051:c0f6e110de5f2c30297a48e2ef6bf5a67c1bda044760e3f124787415aa14294c",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "1051",
+            "critic": "يوسف بن عبد الله بن محمد بن عبد البر بن عاصم",
+            "opinion": "أجمعوا على أنه ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2fb9f924b7f99b797147eb4ff51d84da27cfa01026d4f6f74d2ca0c779f1a200",
+          "text": "Onun sika olduğu üzerinde ittifak ettiler.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbn Abdülber’e atfedilen ittifak kaydı bütünüyle çevrildi. TDV genel sika der; bu özel ittifak ifadesi okunan Türkçe bölümde bulunmadı. Kaynakçadaki el-İstîâb künyesi bu sözün tam Türkçe karşılığı veya asıl pasajının okunduğu anlamına gelmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İbn Abdülber’e atfedilen ittifak kaydı bütünüyle çevrildi. TDV genel sika der; bu özel ittifak ifadesi okunan Türkçe bölümde bulunmadı. Kaynakçadaki el-İstîâb künyesi bu sözün tam Türkçe karşılığı veya asıl pasajının okunduğu anlamına gelmez. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:1125:be578248f88986c13e1e58e74c09ab08efc97be526fa59062dd90a4ae0930cff",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "ذكره في التاريخ الكبير وقال : أدرك النبي صلى الله عليه وسلم ولم يسمع منه شيئا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "de7257d5a86a107c82ee540bcdafcb4c8b496438735fdabe5d0a0b3c5a67b11e",
+          "text": "Onu et-Târîhu’l-kebîr’de zikretti ve şöyle dedi: Hz. Peygamber’in dönemine yetişti; ondan hiçbir şey işitmedi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitap adı, dönemine yetişme ve hiçbir şey işitmeme olumsuzluğu ayrı korunur. TDV muhadramlığı ve kaynakçada kitap ilişkisini destekler; bu tam Buhârî sözünü Türkçe nakletmez. Görmeme/işitmeme aynı lafız diye birleştirilmedi; asıl Târîh girişi ayrıca okunmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Kitap adı, dönemine yetişme ve hiçbir şey işitmeme olumsuzluğu ayrı korunur. TDV muhadramlığı ve kaynakçada kitap ilişkisini destekler; bu tam Buhârî sözünü Türkçe nakletmez. Görmeme/işitmeme aynı lafız diye birleştirilmedi; asıl Târîh girişi ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kitap adı, dönemine yetişme ve hiçbir şey işitmeme olumsuzluğu ayrı korunur. TDV muhadramlığı ve kaynakçada kitap ilişkisini destekler; bu tam Buhârî sözünü Türkçe nakletmez. Görmeme/işitmeme aynı lafız diye birleştirilmedi; asıl Târîh girişi ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:1268:3f92dcb8cd226de8180f23b5deed386ebcab3d35a6074e795081c3dbd11d2206",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "قال في الكاشف : من كبار العاملين وقال في التذهيب : من سادة التابعين أدرك النبي ولم يره",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "99bf8d95b7644ec8e6f1de220a4f30daf57b8433ac2519ccf566e2f4ad42d4fd",
+          "text": "el-Kâşif’te: Amel ehlinin büyüklerindendir. Tezhîb’de: Tâbiînin ileri gelenlerindendir; Hz. Peygamber’in dönemine yetişti, fakat onu görmedi, dedi.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Lafız farkı açık: GK el-Kâşif için من كبار العاملينder; okunan el-Kâşif2303dijital girişi من العلماء العاملين(amel eden âlimlerden) der. Türkçe alan GK lafzını çevirir; âlim kelimesi ham GK’ye sessizce eklenmedi. İki eser ve Tezhîb’e bağlı üç parça korunur. Tezhîb asıl girişi ayrıca okunmadı. TDV genel imam/kuşak bağlamını destekler; bu iki kitaplı özel Zehebî naklinin tam Türkçesi değildir. Okuma/özet farkı sorun olarak açık tutulur."
+            },
+            "kashif": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Lafız farkı açık: GK el-Kâşif için من كبار العاملينder; okunan el-Kâşif2303dijital girişi من العلماء العاملين(amel eden âlimlerden) der. Türkçe alan GK lafzını çevirir; âlim kelimesi ham GK’ye sessizce eklenmedi. İki eser ve Tezhîb’e bağlı üç parça korunur. Tezhîb asıl girişi ayrıca okunmadı. TDV genel imam/kuşak bağlamını destekler; bu iki kitaplı özel Zehebî naklinin tam Türkçesi değildir. Okuma/özet farkı sorun olarak açık tutulur."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Lafız farkı açık: GK el-Kâşif için من كبار العاملينder; okunan el-Kâşif2303dijital girişi من العلماء العاملين(amel eden âlimlerden) der. Türkçe alan GK lafzını çevirir; âlim kelimesi ham GK’ye sessizce eklenmedi. İki eser ve Tezhîb’e bağlı üç parça korunur. Tezhîb asıl girişi ayrıca okunmadı. TDV genel imam/kuşak bağlamını destekler; bu iki kitaplı özel Zehebî naklinin tam Türkçesi değildir. Okuma/özet farkı sorun olarak açık tutulur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Lafız farkı açık: GK el-Kâşif için من كبار العاملينder; okunan el-Kâşif2303dijital girişi من العلماء العاملين(amel eden âlimlerden) der. Türkçe alan GK lafzını çevirir; âlim kelimesi ham GK’ye sessizce eklenmedi. İki eser ve Tezhîb’e bağlı üç parça korunur. Tezhîb asıl girişi ayrıca okunmadı. TDV genel imam/kuşak bağlamını destekler; bu iki kitaplı özel Zehebî naklinin tam Türkçesi değildir. Okuma/özet farkı sorun olarak açık tutulur. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:2463:ef527e23dcea1becdc62d8e56da1157dc5f653b95f1ed9b4bd9a85f65e24ce74",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ثقة كثير الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a3b73755fba3a662e9063387a659a772e8f08623db24d05d88acea75d8804369",
+          "text": "Sikadır; çok hadis rivayet etmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki niteleme birlikte korunur. TDV sika/kesîrü’l-hadîs terimlerini genel münekkit nitelemesi olarak verir; özel İbn Sa‘d atfının tam Türkçesi sayılmadı. Mizzî ve Siyer İbn Sa‘d’a ait iki parçayı açık nakleder; asıl Tabakāt ayrıca okunmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İki niteleme birlikte korunur. TDV sika/kesîrü’l-hadîs terimlerini genel münekkit nitelemesi olarak verir; özel İbn Sa‘d atfının tam Türkçesi sayılmadı. Mizzî ve Siyer İbn Sa‘d’a ait iki parçayı açık nakleder; asıl Tabakāt ayrıca okunmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İki niteleme birlikte korunur. TDV sika/kesîrü’l-hadîs terimlerini genel münekkit nitelemesi olarak verir; özel İbn Sa‘d atfının tam Türkçesi sayılmadı. Mizzî ve Siyer İbn Sa‘d’a ait iki parçayı açık nakleder; asıl Tabakāt ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki niteleme birlikte korunur. TDV sika/kesîrü’l-hadîs terimlerini genel münekkit nitelemesi olarak verir; özel İbn Sa‘d atfının tam Türkçesi sayılmadı. Mizzî ve Siyer İbn Sa‘d’a ait iki parçayı açık nakleder; asıl Tabakāt ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:2769:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "2769",
+            "critic": "وكيع بن الجراح بن مليح بن عدى بن فرس بن جمجمة بن سفيان بن عمرو بن الحارث بن عمرو",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8501008a51671282901f404b11c336322ff7db0db06336cec9afcd764b6ae872",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV genel sika nitelemesini destekler; Vekî‘e özel atfı ayrı Türkçe nakletmez. Mizzî Vekî‘in bu sözünü açık verir; aynı kelime farklı münekkitlerin kimliklerini birleştirmez."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV genel sika nitelemesini destekler; Vekî‘e özel atfı ayrı Türkçe nakletmez. Mizzî Vekî‘in bu sözünü açık verir; aynı kelime farklı münekkitlerin kimliklerini birleştirmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV genel sika nitelemesini destekler; Vekî‘e özel atfı ayrı Türkçe nakletmez. Mizzî Vekî‘in bu sözünü açık verir; aynı kelime farklı münekkitlerin kimliklerini birleştirmez. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:2821:f79f7af543d54f7734473aefba6f2125e7a2e78cea41aa43072614b54e1e1425",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "ثقة لا يسأل عن مثله",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6fcff736bfd81824e1086237c1af5be55b0b59de7f1d9cfd55475d3bfa9134e4",
+          "text": "Sikadır; onun gibi birinin güvenilirliği hakkında sorulmasına gerek yoktur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Maîn’in olumlu sika hükmü ve لا يسأل olumsuz soru anlamı birlikte korunur. TDV aynı Arapça ibareyi çevriyazıyla nakleder; parantezdeki onun gibisi bulunmaz açıklaması lafzın tam Türkçesi sayılmadı. Mizzî/Siyer tam Arapça sözü verir. Bir benzerinin hiç var olmadığı veya diğer râvilerin güvenilmez olduğu hükmü çıkarılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Maîn’in olumlu sika hükmü ve لا يسأل olumsuz soru anlamı birlikte korunur. TDV aynı Arapça ibareyi çevriyazıyla nakleder; parantezdeki onun gibisi bulunmaz açıklaması lafzın tam Türkçesi sayılmadı. Mizzî/Siyer tam Arapça sözü verir. Bir benzerinin hiç var olmadığı veya diğer râvilerin güvenilmez olduğu hükmü çıkarılmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Maîn’in olumlu sika hükmü ve لا يسأل olumsuz soru anlamı birlikte korunur. TDV aynı Arapça ibareyi çevriyazıyla nakleder; parantezdeki onun gibisi bulunmaz açıklaması lafzın tam Türkçesi sayılmadı. Mizzî/Siyer tam Arapça sözü verir. Bir benzerinin hiç var olmadığı veya diğer râvilerin güvenilmez olduğu hükmü çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Maîn’in olumlu sika hükmü ve لا يسأل olumsuz soru anlamı birlikte korunur. TDV aynı Arapça ibareyi çevriyazıyla nakleder; parantezdeki onun gibisi bulunmaz açıklaması lafzın tam Türkçesi sayılmadı. Mizzî/Siyer tam Arapça sözü verir. Bir benzerinin hiç var olmadığı veya diğer râvilerin güvenilmez olduğu hükmü çıkarılmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:429:e7badd32ec4d29758a92a603fbbf3d5c4c077e1e5b9a771b32af5b1cfefacbee",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "لم يكن يدلس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9574500c9206b020fb5d62b47b32e6b61fab3701585abc68793ab6f0bc7a0064",
+          "text": "Tedlîs yapmazdı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Olumsuzluk aynen korunur. Merâsîl319İbn Ebû Hâtim’in babası Ebû Hâtim’e sorusunda tedlîse hayır cevabı vardır; Ahmed’in sözü anılır.318Âişe işitmesi ve321Ebû Bekir’den mürsel oluş ayrı nakillerdir. Bu kısa hüküm bütün hocalardan işittiğini veya bütün senedlerin muttasıl olduğunu göstermez. İncelenen TDV bölümünde bu özel cümlenin Türkçesi bulunmadı."
+            },
+            "marasil": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Olumsuzluk aynen korunur. Merâsîl319İbn Ebû Hâtim’in babası Ebû Hâtim’e sorusunda tedlîse hayır cevabı vardır; Ahmed’in sözü anılır.318Âişe işitmesi ve321Ebû Bekir’den mürsel oluş ayrı nakillerdir. Bu kısa hüküm bütün hocalardan işittiğini veya bütün senedlerin muttasıl olduğunu göstermez. İncelenen TDV bölümünde bu özel cümlenin Türkçesi bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Olumsuzluk aynen korunur. Merâsîl319İbn Ebû Hâtim’in babası Ebû Hâtim’e sorusunda tedlîse hayır cevabı vardır; Ahmed’in sözü anılır.318Âişe işitmesi ve321Ebû Bekir’den mürsel oluş ayrı nakillerdir. Bu kısa hüküm bütün hocalardan işittiğini veya bütün senedlerin muttasıl olduğunu göstermez. İncelenen TDV bölümünde bu özel cümlenin Türkçesi bulunmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:431:570ea735800677a1765fa5173ef25f0338638761515a144ed073c4a078662716",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات وقال : أدرك النبي صلى الله عليه وسلم وليست له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f8a6bc83b76163efd094650ad69013229b347db1c8ffded1103221aed9f81619",
+          "text": "Onu es-Sikât’ta zikretti ve şöyle dedi: Hz. Peygamber’in dönemine yetişti; sahâbîliği yoktur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitap, dönemine yetişme ve sahâbîlik yokluğu birlikte korunur. TDV muhadramlığı ve kaynakçada kitap ilişkisini destekler; bu tam İbn Hibbân sözünü Türkçe nakletmez. Asıl es-Sikât girişi ayrıca okunmadı. Döneme yetişmek tek başına görüşme/işitme/sahâbîlik tasdiki sayılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Kitap, dönemine yetişme ve sahâbîlik yokluğu birlikte korunur. TDV muhadramlığı ve kaynakçada kitap ilişkisini destekler; bu tam İbn Hibbân sözünü Türkçe nakletmez. Asıl es-Sikât girişi ayrıca okunmadı. Döneme yetişmek tek başına görüşme/işitme/sahâbîlik tasdiki sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kitap, dönemine yetişme ve sahâbîlik yokluğu birlikte korunur. TDV muhadramlığı ve kaynakçada kitap ilişkisini destekler; bu tam İbn Hibbân sözünü Türkçe nakletmez. Asıl es-Sikât girişi ayrıca okunmadı. Döneme yetişmek tek başına görüşme/işitme/sahâbîlik tasdiki sayılmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "key": "3825:779:fa04dcaa78759b5387430f86a8730da6a27f2372d38c30f707bec05983036d23",
+          "expected_source": {
+            "narrator_id": 3825,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "رجل صالح",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "94a278628a46834f53ed77e894930e758c3c70fbca1f96ee5948f11b3dd5303c",
+          "text": "Sâlih bir kimsedir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "İclî’ye atfedilen bu kişisel niteleme çevrildi. TDV zâhidâne hayat anlatısını verir; İclî’nin özel sözünün yayımlanmış Türkçesi sayılmadı. Sâlih nitelemesi yeni teknik sika veya hadis sıhhat derecesine çevrilmedi; asıl İclî girişi ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İclî’ye atfedilen bu kişisel niteleme çevrildi. TDV zâhidâne hayat anlatısını verir; İclî’nin özel sözünün yayımlanmış Türkçesi sayılmadı. Sâlih nitelemesi yeni teknik sika veya hadis sıhhat derecesine çevrilmedi; asıl İclî girişi ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        }
+      ]
+    }
+  ]
+}

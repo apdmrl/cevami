@@ -1,0 +1,73 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/musnedi",
+      "title": "M. Yaşar Kandemir — Müsnedî, TDV 32 (2006), 105–106",
+      "locator": "Başlık/tam madde/kaynakça/matbu künye okundu. Kısa kimlik, Ebû Ca‘fer, hâfız/Müsnedî, Cu‘fî ve Buhara bağlamı. Ziyaretler tam dört şehir ikametinin teyidi değildir. Ölüm tarihi açık, ölüm şehri bu Türkçe metinde açık değildir. İbn Hibbân’ın sadûk sözü İbn Ebû Hâtim’e taşınmadı. Yemân ile Buhârî ailesi ilişkisi İslâm’a giriş ve velâ bağlamındadır; kan bağı veya Buhârî’ye kölelik tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/1913/المسندي",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Müsnedî, 10/658–660",
+      "locator": "Tam harekesiz dijital biyografi okundu. Hâkim cümlesi بما وراء النهر; Buhara’ya dönüş/ölüm ve Vâsıt’ta görüşme. Yemân’ın eliyle Buhârî’nin dedesinin İslâm’a girişi velâ bağlamını açıklar; GK kişi ilişkisi kesinleştirilmedi. Belirli matbu tarama veya asıl Hâkim Tarih baskısı okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/3831/عبد-الله-بن-محمد-بن-عبد-الله-أبو-جعفر-البخاري-المسندي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, 16/59–62, nr. 3536, Müsnedî",
+      "locator": "www adresindeki tam harekesiz dijital biyografi, öğretmen/talebe listeleri ve devamı okundu. Non-www denemesi boş gövde vermişti; kaynak okuması başarılı www gövdesine dayanır. Dedelik satırı burada da vardır; bunun kan bağı anlamını bağımsız tasdik etmez. İbn Hibbân mutkin/Ahmed b. Seyyâr/Buhara ölüm kaydı; belirli matbu tarama karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "makula": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-makula",
+      "title": "Nuri Topaloğlu — İbn Mâkûlâ, TDV 20 (1999), 168–169",
+      "locator": "Başlık/ilk hayat/ölüm paragrafı/matbu künye okundu. Ebû Nasr Ali b. Hibetillâh b. Ali kısa adı; ölüm475sonrası,479/486/487alternatifleri. Yalnız kısa ad biçimi; GK487tarihi veya bütün uzun soy tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v8",
+  "policy": "677yalnızkısaadkarşılaştırması, tarih/uzunsoy/özelgörüşatfıonayıdeğil.",
+  "critics": [
+    {
+      "alem_id": "677",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "677",
+        "name": "علي بن هبة الله بن علي بن جعفر بن علكان بن محمد بن دلف بن أبي دلف القاسم بن عيسى بن إدريس بن معقل بن عمير",
+        "rawy_shohra": "أبو نصر ابن ماكولا",
+        "rotba": 2,
+        "tabaka": "20",
+        "death_date": "487",
+        "rawy_id": "61970",
+        "opinion_count": 1532,
+        "wasf_rotba": "ثقة حافظ إمام",
+        "wasf": ""
+      },
+      "expected_record_sha256": "c0311133c298c8a94c89724c195258649fd98550f0f45bc21eb0397a3ac2aa21",
+      "text": "İbn Mâkûlâ",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "makula": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tam GK677Ali b. Hibetillâh b. Ali… / Ebû Nasr İbn Mâkûlâ / rawy61970 kaydı, TDV kısa ad ve künye ile karşılaştırıldı. TDV475sonrası ve479/486/487alternatifleri verir; GK487ölüm kaydı veya bütün uzun soy bu kısa ad karşılaştırmasıyla kesinleştirilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tam GK677Ali b. Hibetillâh b. Ali… / Ebû Nasr İbn Mâkûlâ / rawy61970 kaydı, TDV kısa ad ve künye ile karşılaştırıldı. TDV475sonrası ve479/486/487alternatifleri verir; GK487ölüm kaydı veya bütün uzun soy bu kısa ad karşılaştırmasıyla kesinleştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    }
+  ]
+}

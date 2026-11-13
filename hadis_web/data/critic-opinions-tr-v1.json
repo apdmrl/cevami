@@ -1,0 +1,433 @@
+{
+  "revision": "humaydi-critic-opinions-tr-v1",
+  "reviewed_on": "2026-10-31",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "Arapça kaynak asıldır. Birebir Türkçe kitap alıntısı değildir. Kısmi destek tam çeviri kaynağı sayılmaz. Uzman onayı yoktur.",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "Ahmet Yücel, TDV İslâm Ansiklopedisi: Humeydî, Abdullah b. Zübeyr (1998)",
+      "locator": "18/357; hayatı ve cerh-ta‘dîl paragrafı",
+      "accessed_on": "2026-10-31"
+    },
+    "kirtil": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, Marmara Üniversitesi, 2010",
+      "locator": "Basılı s.93; PDF s.104, el-Humeydî paragrafı",
+      "accessed_on": "2026-10-31"
+    },
+    "kocaman": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/3B/8C2E694C-A1D7-8641-A259-E6E7CB981FAC.pdf#page=120",
+      "title": "Tuğba Kocaman, Kadınlar Hakkında “Aklın ve Dinin Noksanlığı” Nitelemesini İçeren Hadisin Tahrîci Tenkîdi ve Değerlendirilmesi, Marmara Üniversitesi, 2017",
+      "locator": "Basılı s.103; PDF s.120, Abdullah b. Zübeyr paragrafı, dn.219–221",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "checked_sources": [
+    "tdv",
+    "kirtil",
+    "kocaman"
+  ],
+  "inaccessible_candidates": [
+    {
+      "url": "https://acikerisim.nevsehir.edu.tr/bitstream/handle/20.500.11787/8813/Hadisleri%20Anlama%20Yo%CC%88ntemi%20-5N1K%20dan%20Hareketle-kontrol%20edildi.pdf?isAllowed=y&sequence=1",
+      "reason": "Tam metin isteği zaman aşımına uğradı; içeriği doğrulanmış kabul edilmedi."
+    },
+    {
+      "url": "https://acikerisim.sakarya.edu.tr/bitstream/handle/20.500.12619/101578/T10916.pdf?isAllowed=y&sequence=1",
+      "reason": "Doğrulama ekranına yönlendirildi; tam metin okunmadı."
+    }
+  ],
+  "narrators": [
+    {
+      "id": 4698,
+      "expected_opinion_count": 12,
+      "opinions": [
+        {
+          "key": "4698:1011:46a37f05efba4428ff3085cc9c1deb0555049c282c51f995dd2052c9367a4601",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة حافظ فقيه ، أجل أصحاب ابن عيينة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d4c60ee61bc4b8f5a460ab4428f6f855666b9fd00b7871bd7253596d987dee3f",
+          "text": "Takrîb’de sika, hâfız ve fakih olduğunu; İbn Uyeyne’nin yanında bulunanların en önde geleni olduğunu belirtmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sika, hâfız ve fakih; İbn Uyeyne’nin ashabından oluşu var. En önde gelen ifadesi aktarılmıyor."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kaynak belirtilen kısmı destekler; kalan ifade Arapça kayıttan çevrildi. Tam bir Türkçe kitap çevirisi veya birebir alıntı değildir."
+        },
+        {
+          "key": "4698:1125:f88aa094328c330a400da03ca6c38db051e8756c833137f9ec2febd47b21aeaa",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "إذا وجد الحديث عنده لم يخرجه إلى غيرة من الثقة به ، سمع فضيل بن عياض ، قال : جالست ابن عيينة تسع عشرة سنة أو نحوها",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a88c45d762de37cb90690c400582ae72f069d2a8dbdacb902caf1f93e2ec72d6",
+          "text": "Hadisi onun yanında bulduğunda, ona duyduğu güven sebebiyle başkasına gitmezdi. Fudayl b. İyâz’dan hadis dinlemiştir. “İbn Uyeyne ile on dokuz yıl kadar birlikte bulundum” demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "On dokuz yıl birliktelik var; kaydın tamamı ve bütün söz sahipleri yok."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV on dokuz yıl bilgisini destekler; görüşün tamamının Türkçe karşılığı değildir. Geri kalan ifadeler Arapça kayıttan asistan çevirisidir. İlk cümlenin öznesi ve son قال ifadesinin sahibi Arapça satırda açık isimle verilmemiştir; tahminle kişi eklenmedi."
+        },
+        {
+          "key": "4698:1260:73b786c9e0baf13fb0e89a847974cb38f1afccf3ed2f6cc812c49e0718529958",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "1260",
+            "critic": "أحمد بن علي بن ثابت بن أحمد بن مهدي",
+            "opinion": "ثقة ثبت حجة ، حديثه كثير مشهور",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9de88d91be8ddcbad7a51e549173dfe1d774388d20e413e61b8a6306e082db88",
+          "text": "Sika, sebt ve hüccettir. Hadisleri çoktur ve tanınmıştır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "TDV Humeydî maddesi ve iki tezin belirtilen Humeydî paragrafları kontrol edildi. Bu kaydın bütün cümlelerine karşılık gelen Türkçe aktarım bu kapsamda bulunamadı; Arapça kayıt asistan tarafından çevrildi. Bu, başka bir Türkçe kaynağın bulunmadığı anlamına gelmez. Genel biyografi ve terim benzerliği tam görüş desteği sayılmadı."
+        },
+        {
+          "key": "4698:1268:cf1a4a9a1060ce918c511065f0f17dd0ed93bfa0d4826d8ab62085b67c4d895d",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "ذكره في الكاشف ، وقال : الفقيه أحد الأعلام وصاحب بن عيينة سمع مسلما الزنجي وإبراهيم بن سعد وعبد الله بن المؤمل وعنه البخاري وأبو زرعة وأبو حاتم وخلق",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "46859fe62ec2cdf1d6e6d528661069911e8b73055f5f734f91b5fadd2283fea3",
+          "text": "Kâşif’te onu anarak fakih, önde gelen âlimlerden biri ve İbn Uyeyne’nin yanında bulunan bir kişi olduğunu belirtir. Müslim ez-Zencî, İbrâhim b. Sa‘d ve Abdullah b. el-Müemmel’den hadis dinlemiştir. Buhârî, Ebû Zür‘a, Ebû Hâtim ve birçok kişi kendisinden rivayette bulunmuştur.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "TDV Humeydî maddesi ve iki tezin belirtilen Humeydî paragrafları kontrol edildi. Bu kaydın bütün cümlelerine karşılık gelen Türkçe aktarım bu kapsamda bulunamadı; Arapça kayıt asistan tarafından çevrildi. Bu, başka bir Türkçe kaynağın bulunmadığı anlamına gelmez. Genel biyografi ve terim benzerliği tam görüş desteği sayılmadı."
+        },
+        {
+          "key": "4698:2463:85948d1e6a7998e21d29b49491041629791dcab7cdc629a9cf6d8cf820dbc823",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ثقة ، كثير الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "04169bc5e1350a6a7f8cbf189dc2f1f0e6ab5426e754f777cef7d18e6de2bc7b",
+          "text": "Güvenilir (sika), çok hadis rivayet eden bir râvidir.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "İbn Sa‘d’a atfedilen sika ve kesîru’l-hadîs değerlendirmesi birlikte mevcut."
+            },
+            "kocaman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "İbn Sa‘d’a atfedilen sika ve kesîru’l-hadîs değerlendirmesi birlikte mevcut."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "İki Türkçe tezde İbn Sa‘d’ın aynı iki değerlendirmesi birlikte yer alır. Türkçe ifade asistanın açıklayıcı aktarımıdır, birebir alıntı değildir; yeni ravi hükmü değildir."
+        },
+        {
+          "key": "4698:2854:433281cd24a6f5ef110aa88a883fb5a6a99f3cba0ef763c2be9dd57246a91da1",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "2854",
+            "critic": "يعقوب بن سفيان بن جوان",
+            "opinion": "ما لقيت أنصح للإسلام وأهله منه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a3a3300c8d6774fe68b46267de00cd9c590760cf880e0e8a672b656e71fbb338",
+          "text": "İslâm ve mensuplarının hayrını ondan daha çok gözeten biriyle karşılaşmadım.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "TDV Humeydî maddesi ve iki tezin belirtilen Humeydî paragrafları kontrol edildi. Bu kaydın bütün cümlelerine karşılık gelen Türkçe aktarım bu kapsamda bulunamadı; Arapça kayıt asistan tarafından çevrildi. Bu, başka bir Türkçe kaynağın bulunmadığı anlamına gelmez. Genel biyografi ve terim benzerliği tam görüş desteği sayılmadı."
+        },
+        {
+          "key": "4698:342:72fd60e8ebf44a4aa001f535d4654444d60bdbacecdb83daca96e6e7f9a7fa22",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "342",
+            "critic": "أحمد بن الحسين بن علي بن عبد الله بن موسى",
+            "opinion": "ذكره في شعب الإيمان ، وقال : ثقة حجة ، وقال في معرفة السنن والآثار : أحد أركان الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6c148135dad0e19d86db8968f71ee748b68d5be3257e7bc3388779c30b87f60e",
+          "text": "Şu‘abü’l-îmân’da onu anıp sika ve hüccet olduğunu söylemiştir. Ma‘rifetü’s-sünen ve’l-âsâr’da ise hadisin temel direklerinden biri olduğunu belirtmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "TDV Humeydî maddesi ve iki tezin belirtilen Humeydî paragrafları kontrol edildi. Bu kaydın bütün cümlelerine karşılık gelen Türkçe aktarım bu kapsamda bulunamadı; Arapça kayıt asistan tarafından çevrildi. Bu, başka bir Türkçe kaynağın bulunmadığı anlamına gelmez. Genel biyografi ve terim benzerliği tam görüş desteği sayılmadı."
+        },
+        {
+          "key": "4698:431:3f450ac26d9f9f740551d3c7d91ab283c8b49d4c43eb901aa289bcfdd02e3f6e",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات ، وقال : صاحب سنة وفضل ودين ، وقال الحميدي : جالست ابن عيينة عشرين سنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1be71df84a64c2babe4e7aa022650aa8b3d75ec34d1031e6526327d0f19d1570",
+          "text": "Sikāt’ta onu anarak sünnete bağlı, faziletli ve dindar olduğunu belirtmiştir. Humeydî, “İbn Uyeyne ile yirmi yıl birlikte bulundum” demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "TDV Humeydî maddesi ve iki tezin belirtilen Humeydî paragrafları kontrol edildi. Bu kaydın bütün cümlelerine karşılık gelen Türkçe aktarım bu kapsamda bulunamadı; Arapça kayıt asistan tarafından çevrildi. Bu, başka bir Türkçe kaynağın bulunmadığı anlamına gelmez. Genel biyografi ve terim benzerliği tam görüş desteği sayılmadı. Arapça satırdaki yirmi yıl ifadesi korundu; diğer kayıtlardaki on dokuz yıla dönüştürülmedi."
+        },
+        {
+          "key": "4698:527:f8196cdcfe67d09e352a8d70b132567a27d8a7a2d69a6ec731e267b430fa96cd",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "527",
+            "critic": "محمد بن عبد الله بن حمدويه بن نعيم بن الحكم",
+            "opinion": "ثقة مأمون ، كان البخاري إذا وجد الحديث عنده لا يعدوه إلى غيره",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d6aea30f47a546780bb578bb3d549e1ea46af045d568b322f74cb629cf2af68f",
+          "text": "Sika ve güvenilirdir (me’mûn). Buhârî, hadisi onun yanında bulduğunda başka birine yönelmezdi.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sika ve me’mûn kısmı var. Buhârî’nin tercih cümlesi yok."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kaynak belirtilen kısmı destekler; kalan ifade Arapça kayıttan çevrildi. Tam bir Türkçe kitap çevirisi veya birebir alıntı değildir."
+        },
+        {
+          "key": "4698:62:0817ea694ada9ad403af700c6d981950783acf5648bfc5e4d71d6febe8ba505c",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "62",
+            "critic": "عبد الله بن عدي بن عبد الله بن محمد بن مبارك",
+            "opinion": "من خيار الناس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "422cbf375df4caf292499c2996d5de51acc6bf7f3693592aed712e15b8df57f0",
+          "text": "İnsanların hayırlılarındandır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "TDV Humeydî maddesi ve iki tezin belirtilen Humeydî paragrafları kontrol edildi. Bu kaydın bütün cümlelerine karşılık gelen Türkçe aktarım bu kapsamda bulunamadı; Arapça kayıt asistan tarafından çevrildi. Bu, başka bir Türkçe kaynağın bulunmadığı anlamına gelmez. Genel biyografi ve terim benzerliği tam görüş desteği sayılmadı."
+        },
+        {
+          "key": "4698:751:a67e3fd85a65c0ce28f9bf8819103c1915908e7cefdc3caafa9855bed6feb6b0",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "عندنا إمام",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b0181277879a59a78cbb224987889a80dc4619d5040b880bd8a23950155c64ec",
+          "text": "Bizim nezdimizde imamdır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kirtil": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Ahmed b. Hanbel’in imam değerlendirmesi var; عندنا kelimesi aktarılmamış."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kaynak belirtilen kısmı destekler; kalan ifade Arapça kayıttan çevrildi. Tam bir Türkçe kitap çevirisi veya birebir alıntı değildir."
+        },
+        {
+          "key": "4698:924:92481ddf9613bdac96f82ba7ff9733dee4dbeb1d7c250126ddb0bbac5e60d3b9",
+          "expected_source": {
+            "narrator_id": 4698,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ثقة إمام ، أثبت الناس في ابن عيينة وهو رئيس أصحابه ، وقال الحميدي : جالست ابن عيينة تسع عشرة سنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "c88d1d1814a40cadf4bf4bf4231df0c4c11713bb5a883ebd2a0c922625984c61",
+          "text": "Sika ve imamdır. İbn Uyeyne’den rivayette insanların en sağlamı olup onun yanında bulunanların başta gelenidir. Humeydî, “İbn Uyeyne ile on dokuz yıl birlikte bulundum” demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "On dokuz yıl birliktelik var; kaydın tamamı ve bütün söz sahipleri yok."
+            },
+            "kirtil": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            },
+            "kocaman": {
+              "support_scope": "not_found",
+              "evidence_note": "İlgili Humeydî paragrafında bu görüşün tamamı bulunamadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV on dokuz yıl bilgisini destekler; görüşün tamamının Türkçe karşılığı değildir. Geri kalan ifadeler Arapça kayıttan asistan çevirisidir. Kaynak critic adı عبد الرحمن بن محمد بن إدريس… olarak korunur. Türkçe tezlerdeki Ebû Hâtim atfı bu kayıtla aynı kişi sayılmadı; sözün asıl sahibine ilişkin hüküm verilmedi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibnul-mutemir",
+      "title": "Salih Karacabey — İbnü’l-Mu‘temir, TDV 21 (2000), 143",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Kısa ad/künye/Sülemî-Kûfî/Kûfe/death132; güçlü hafıza, sika, karıştırmama, tedlîs yapmama, güvenilir hocalara titizlik ve zühd bağlamı. Uzun on parçalı soy, Attâb’lı tam alternatif ve iki akrabalık aynı dizilerle verilmez. Şiîlik meyli tarihsel ve aşırılık dışı anlatılır. Yaşlılıkta unutma anlatısı,751meşâyih şartının birebir Türkçesi değildir; bütün16özel münekkit atfı nakledilmiş sayılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/7460/منصور-بن-المعتمر-بن-عبد-الله-بن-ربيعة-السلمي-أبو-عتاب-الكوفي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Mansûr b. Mu‘temir, 28/546–555, nr. 6201",
+      "locator": "Tam harekesiz dijital kişi girişi/hoca-talebe listeleri okundu. Üç soy varyantı, Utbe kuzen/Muhammed Ali anne bir kardeş ilişkileri açık. Ahmed’e Zührî’de Mâlik’ten üstünlük iddiası sorulunca meşâyih şartını söyler; yaşlılık cümlesi değildir.1708A‘meş tutumu Süfyân anlatısı;44sözünü Ebû Zür‘a İbrâhim Mûsâ’dan nakleder. Fiziksel baskı/sayfa tasdiki yapılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/890/منصور-بن-المعتمر",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Mansûr b. Mu‘temir, dijital 5/402–409",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Sayfa etiketleri402–409; TDV kaynakçasındaki402–412ile fiziksel baskı eşitliği tasdik edilmedi. Şiîlik bağlamını sevgi/velâ diye açıklar, aile ve farklı132133ölüm nakilleri ayrıdır. Unutma/pişmanlık anlatısı ile farklı hocalardan rivayet şartı aynı cümle değildir. Bütün şerh/kitaplar veya matbu facsimile okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "ames": {
+      "url": "https://islamansiklopedisi.org.tr/ames",
+      "title": "Mücteba Uğur — A‘meş, TDV 3 (1991), 54",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Süleymân b.Mihrân/A‘meş/Kûfî/148kimliği kısa ad yazımı için karşılaştırıldı. Bu madde başka münekkitlerin bütün Mansûr sözlerini veya yeni hadis/mezhep hükümlerini tasdik etmez; Mansûr’un tedlîs yapmama sözü A‘meş’e taşınmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "ibrahim": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-zura-er-razi",
+      "title": "M. Yaşar Kandemir — Ebû Zür‘a er-Râzî, TDV 10 (1994), 274–275, hayat/seyahat paragrafı",
+      "locator": "Yalnız hayat/seyahat bölümünde Ebû Zür‘a’nın İbrâhim b.Mûsâ el-Ferrâ’dan hadis yazmasını belirten paragraf ve başlık/matbu künye okundu. Kısa Türkçe ad içindir; bütün makale/İbrâhim’in tam uzun soyu veya bütün225kimliği doğrulanmış sayılmadı. Madde sahibi264ölümlü Ebû Zür‘adır; eskiGK466375Ahmed Hüseyin kaydıyla birleştirilmedi.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/mansur-mutemir-critic-records.json",
+      "sha256": "02553105ddfa5ed0c0d4cf087da1ea6c805b369a3d23d16f98d64887e6c3b696"
+    },
+    {
+      "path": "research/arabic-source-checks/mansur-mutemir-related-records.json",
+      "sha256": "19ff1cd7a9629ac312e992554ccd8d3bb332024b8c04a407fb180e9e25f62eee"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v13",
+  "policy": "İki kısa ad biçiminin dil karşılaştırması; tam tarihsel/uzman kimlik tasdiki değildir.",
+  "critics": [
+    {
+      "alem_id": "44",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "44",
+        "name": "إبراهيم بن موسى بن يزيد بن زاذان",
+        "rawy_shohra": "إبراهيم بن موسى الفراء",
+        "rotba": 2,
+        "tabaka": "10",
+        "death_date": "225",
+        "rawy_id": "890",
+        "opinion_count": 8,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": ""
+      },
+      "expected_record_sha256": "fcd0e4a0353c7cf9d51373543cd3c408e9f4677aa706443f7b60fd26be3333d3",
+      "text": "İbrâhim b. Mûsâ el-Ferrâ",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibrahim": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tam10alanlıGK44gövdesi ve890tam26alan kaydı karşılaştırıldı: İbrâhim/Mûsâ/Yezîd/Zâzân/225/Ferrâ kaydı korundu. TDV’nin yalnız belirtilen hayat paragrafı kısa Türkçe adı destekler; bütün225kimliğin uzman tasdiki değildir. Sözü nakleden meşhur Ebû Zür‘a264ile veya eski466375gövdesiyle birleştirme yapılmadı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tam10alanlıGK44gövdesi ve890tam26alan kaydı karşılaştırıldı: İbrâhim/Mûsâ/Yezîd/Zâzân/225/Ferrâ kaydı korundu. TDV’nin yalnız belirtilen hayat paragrafı kısa Türkçe adı destekler; bütün225kimliğin uzman tasdiki değildir. Sözü nakleden meşhur Ebû Zür‘a264ile veya eski466375gövdesiyle birleştirme yapılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    },
+    {
+      "alem_id": "1708",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1708",
+        "name": "سليمان بن مهران",
+        "rawy_shohra": "سليمان بن مهران الأعمش",
+        "rotba": 2,
+        "tabaka": "5",
+        "death_date": "148",
+        "rawy_id": "3629",
+        "opinion_count": 10,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": "الأعمش"
+      },
+      "expected_record_sha256": "153a6176ebbd1697be37c60d16922522de8fe2f878fceb8257b2d1fab6a3c5ae",
+      "text": "Süleymân b. Mihrân el-A‘meş",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ames": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tam10alanlı1708ve3629tam26alan kaydı karşılaştırıldı. Süleyman/Mihrân/A‘meş/148açık; Şu‘be3795değildir. TDV başlık/ad satırı kısa ad biçimini destekler.3629tadleese1kaynak alanı korunur; Mansûr hakkındaki tedlîs yapmama sözü ona taşınmadı. Yeni tarihsel/uzman tasdiki değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tam10alanlı1708ve3629tam26alan kaydı karşılaştırıldı. Süleyman/Mihrân/A‘meş/148açık; Şu‘be3795değildir. TDV başlık/ad satırı kısa ad biçimini destekler.3629tadleese1kaynak alanı korunur; Mansûr hakkındaki tedlîs yapmama sözü ona taşınmadı. Yeni tarihsel/uzman tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    }
+  ]
+}

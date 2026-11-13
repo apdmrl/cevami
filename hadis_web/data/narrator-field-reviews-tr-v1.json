@@ -1,0 +1,476 @@
+{
+  "revision": "assistant-person-field-review-v1",
+  "reviewed_on": "2026-10-31",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "Bu batch asistan tarafından tek tek okunan12alanı içerir. İnceleme çevirinin Arapça alanı doğru aktarması içindir; bütün biyografi, ortak hadis derecesi veya uzman onayı değildir. Genel55.149eşleşme otomatik onaylanmaz.",
+  "sources": {
+    "person2": {
+      "url": "https://islamansiklopedisi.org.tr/adem-b-ebu-iyas",
+      "title": "TDV İslâm Ansiklopedisi: Âdem b. Ebû İyâs",
+      "locator": "Kimlik satırı, 220 yılı ve güvenilir râvi nitelemesi",
+      "accessed_on": "2026-10-31"
+    },
+    "person118": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-bekir-b-abdurrahman",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Bekir b. Abdurrahman",
+      "locator": "Kimlik/Mahzûmî nisbesi/94 yılı; sika ve Medineli fakih paragrafları",
+      "accessed_on": "2026-10-31"
+    },
+    "person130": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-bekir-b-ayyas",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Bekir b. Ayyâş",
+      "locator": "Ayyâş–Sâlim/Esedî/193 kimliği; Kûfe ve hadis rivayeti hakkındaki farklı değerlendirmeler",
+      "accessed_on": "2026-10-31"
+    },
+    "person133": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-bekir-b-hazm",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Bekir b. Hazm",
+      "locator": "Muhammed–Amr–Hazm/120 kimliği; Medine görevi ve güvenilir muhaddis nitelemesi",
+      "accessed_on": "2026-10-31"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Arapça ثقة teriminin güvenilirlik karşılığı",
+      "accessed_on": "2026-10-31"
+    },
+    "medine": {
+      "url": "https://islamansiklopedisi.org.tr/medine",
+      "title": "TDV İslâm Ansiklopedisi: Medine",
+      "locator": "Türkçe/المدينة başlığı",
+      "accessed_on": "2026-10-31"
+    },
+    "kufe": {
+      "url": "https://islamansiklopedisi.org.tr/kufe",
+      "title": "TDV İslâm Ansiklopedisi: Kûfe",
+      "locator": "Türkçe/الكوفة başlığı",
+      "accessed_on": "2026-10-31"
+    },
+    "saduk": {
+      "url": "https://islamansiklopedisi.org.tr/saduk",
+      "title": "TDV İslâm Ansiklopedisi: Sadûk",
+      "locator": "Ravi nitelemesi ve zabt/hasen şartlarının ayrımı",
+      "accessed_on": "2026-10-31"
+    },
+    "tadil": {
+      "url": "https://islamansiklopedisi.org.tr/mukaribul-hadis",
+      "title": "TDV İslâm Ansiklopedisi: Mukāribü’l-hadîs",
+      "locator": "Hasenü’l-hadîsin ravi ta‘dîl lafızları arasında sayıldığı paragraf",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "people": [
+    {
+      "id": 2,
+      "expected_record_sha256": "9061dc6b31b8be1015e11369e99fb19cfc5cb4d727bdd526711ad26f9d2d303e",
+      "expected_source": {
+        "id": 2,
+        "new_id": 6720,
+        "name": "آدم بن عبد الرحمن بن محمد بن شعيب",
+        "shohra": "آدم بن أبي إياس",
+        "badeel": "آدم بن ناهية",
+        "konya": "أبو الحسن",
+        "lakab": "ابن أبي إياس",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الخراساني،المروزي،العسقلاني",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "132",
+        "death_year": "220",
+        "age": 88,
+        "baladekama": "بغداد ، الكوفة ، البصرة ، الحجاز ، مصر ، الشام ، عسقلان ، خراسان ، مرو",
+        "baladwafa": "عسقلان",
+        "mawaaly": "مولى بني تميم ، مولى بني تيم",
+        "karaba": "والد عبيد",
+        "bokhary": 1,
+        "moslem": 0,
+        "marweyaat": 671
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "expected_arabic": "آدم بن أبي إياس",
+          "text": "Âdem b. Ebû İyâs.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person2": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person2": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "expected_record_sha256": "26132b77a7ea9eb0de874634bd4e83b08f8dada587512b644e2c129b833ca3ec",
+      "expected_source": {
+        "id": 118,
+        "new_id": 1800,
+        "name": "أبو بكر بن عبد الرحمن بن الحارث بن هشام بن المغيرة بن عبد الله بن عمر بن مخزوم",
+        "shohra": "أبو بكر بن عبد الرحمن المخزومي",
+        "badeel": "محمد بن عبد الرحمن بن الحارث بن هشام بن المغيرة",
+        "konya": "أبو بكر ، أبو عبد الرحمن",
+        "lakab": "راهب قريش",
+        "san3a": "الفقيه",
+        "wasf": "الأعمى ، المكفوف ، الضرير",
+        "mazhab": "",
+        "nasab": "القرشي،المخزومي،المدني",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 3,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "94",
+        "age": null,
+        "baladekama": "المدينة",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "والد سلمة ، والد عبد الله ، والد عبد الملك ، والد عمر ، والد محمد ، والد الحارث ، أخو عبد الله ، أخو عبد الملك ، أخو عكرمة ، أخو محمد ، أخو المغيرة ، أخو يحيى ، أمه فاختة بنت عنبة بن سهيل",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 97
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "expected_arabic": "أبو بكر بن عبد الرحمن المخزومي",
+          "text": "Ebû Bekir b. Abdurrahman el-Mahzûmî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person118": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person118": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person118": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            },
+            "medine": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person118": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği içindir; bu alanın biyografik doğruluğunu tek başına teyit etmez."
+            },
+            "medine": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "terminology_only"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Kişi kimliği Türkçe biyografiyle karşılaştırıldı; bu alanın tam ifadesi o biyografiden alınmadı. Arapça alanın kelime/anlam karşılığı ve alan bağlamı kişi özelinde kontrol edildi. Türkçe genel terim/yer adı dayanağı bağımsız biyografik teyit sayılmaz. Okunan TDV paragrafı bu ölüm yerini açıkça teyit etmez; Medine yalnız GK baladwafa alanının doğru Türkçe aktarımı olarak karşılaştırılmıştır. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "expected_record_sha256": "99eedb159358e3bd7ba38ebe745e5b5218cf4e9d30b08100890f7935389f6867",
+      "expected_source": {
+        "id": 130,
+        "new_id": 1833,
+        "name": "أبو بكر بن عياش بن سالم",
+        "shohra": "أبو بكر بن عياش الأسدي",
+        "badeel": "شعبة بن عياش الكوفي",
+        "konya": "أبو بكر",
+        "lakab": "",
+        "san3a": "الحناط ، المقرئ",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الأسدي،الكوفي",
+        "rotba": 4,
+        "wasf_rotba": "صدوق حسن الحديث",
+        "tabaka": 8,
+        "e5telat": 1,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "193",
+        "age": null,
+        "baladekama": "الكوفة",
+        "baladwafa": "",
+        "mawaaly": "مولى واصل بن حيان",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 0,
+        "marweyaat": 574
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "expected_arabic": "أبو بكر بن عياش الأسدي",
+          "text": "Ebû Bekir b. Ayyâş el-Esedî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person130": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "صدوق حسن الحديث",
+          "text": "Sadûk; hasenü’l-hadîs (kaynakta geçen ravi nitelemeleri).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person130": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği içindir; bu alanın biyografik doğruluğunu tek başına teyit etmez."
+            },
+            "saduk": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            },
+            "tadil": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "terminology_only"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Kişi kimliği Türkçe biyografiyle karşılaştırıldı; bu alanın tam ifadesi o biyografiden alınmadı. Arapça alanın kelime/anlam karşılığı ve alan bağlamı kişi özelinde kontrol edildi. Türkçe genel terim/yer adı dayanağı bağımsız biyografik teyit sayılmaz. TDV farklı münekkitlerin farklı hükümlerini verir. Bunlar birleştirilmedi; kaynak alanındaki iki ravi nitelemesi korundu ve belirli bir hadise hasen hükmü verilmedi. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person130": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği içindir; bu alanın biyografik doğruluğunu tek başına teyit etmez."
+            },
+            "kufe": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "terminology_only"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Kişi kimliği Türkçe biyografiyle karşılaştırıldı; bu alanın tam ifadesi o biyografiden alınmadı. Arapça alanın kelime/anlam karşılığı ve alan bağlamı kişi özelinde kontrol edildi. Türkçe genel terim/yer adı dayanağı bağımsız biyografik teyit sayılmaz. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "expected_record_sha256": "5a97d25f786320b4afaa99a10c826aea587ef01fc99a8f89bb786646a1eca14d",
+      "expected_source": {
+        "id": 133,
+        "new_id": 1854,
+        "name": "أبو بكر بن محمد بن عمرو بن حزم بن زيد بن لوذان بن حارثة بن عدي بن زيد بن ثعلبة بن زيد مناة",
+        "shohra": "أبو بكر بن عمرو الأنصاري",
+        "badeel": "أبو بكر بن حزم الخزرجي",
+        "konya": "أبو محمد ، أبو بكر",
+        "lakab": "",
+        "san3a": "القاضي : قاضي المدينة",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الأنصاري،الخزرجي،النجاري،المدني",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 5,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "36",
+        "death_year": "120",
+        "age": 84,
+        "baladekama": "المدينة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "والد عبد الله ، والد محمد ، والد عبد الملك ، أخو عثمان بن محمد بن أبي بكر ، أخو أم كلثوم بن محمد بن أبي بكر ، ابن أخي عمارة بن عمرو بن حزم ، ابن عم محمد بن عمارة بن حزم ، جد عبد الرحمن بن محمد بن أبي بكر ، أمه كبشة بنت عبد الرحمن بن سعد بن زرارة ، خالته عمرة بنت عبد الرحمن",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 164
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "expected_arabic": "أبو بكر بن عمرو الأنصاري",
+          "text": "Ebû Bekir b. Hazm el-Ensârî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person133": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person133": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person133": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım desteği."
+            },
+            "medine": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Sözcük/terim/yer adı karşılığı; yeni kişi hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Asistan bu kişinin tam Arapça kaydını okuyup ad/alternatif ad/nisbe ve tarihle kimlik bağını kontrol etti. Belirtilen Türkçe biyografide bu kısa ad veya alan bilgisinin karşılığı bulundu; Türkçe ifade asistanın aktarımıdır, birebir alıntı değildir. Asistan incelemesidir; uzman onayı ve bütün kişi incelemesinin tamamlanması anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-nuaym-fazl-b-dukeyn",
+      "title": "M. Yaşar Kandemir — Ebû Nuaym, Fazl b. Dükeyn, TDV 10 (1994), 200–201",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Dükeyn babası Amr’ın lakabı, Ahvel şehlâ, Şiî nitelemesi Ali sevgisi bağlamında. Dört nisbe/meslek/Talha ailesi/Kûfe açık. Maîn ilk karşılaştırması, Ahmed ve Ebû Hâtim bağlamı var; bütün23özel atfın Türkçesi değildir. Uyum sözü Yahyâ Kattân’a, kitap övgüsü Abdullah b.Mübârek’e atfedilir. Uzun son soy halkaları/torun yok.130doğum/219ölüm GK boşdoğum/218ölüm yerine geçirilmedi.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/5844/الفضل-بن-دكين-أبو-نعيم-الملائي-الكوفي-الأحول",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Fazl b. Dükeyn, 23/197–220, nr. 4732",
+      "locator": "Giriş başlığı ve değerlendirme/hayat sonu bölümü okundu; ilk uzun hoca-talebe listesinin tamamı okunmuş sayılmaz. İbn Ammâr şartı, Osman’ın aslan teşbihi, gerçek Ebû Zür‘a’nın Kabîsa karşılaştırması, Ahmed Sâlih olumlu sözü ve İbn Mübârek kitap övgüsü ayrı. Bu, GK466375/2507Muhammed/769Şemmûmî kimliklerinin aynı kişiler olduğunu tasdik etmez. Matbu facsimile karşılaştırılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/1696/أبو-نعيم",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Ebû Nuaym, 10/142–157",
+      "locator": "Tam harekesiz dijital biyografi okundu. Uyum sözünün konuşmacısı Yahyâ Kattân; kitap övgüsü İbn Mübârek; Osman’ın aslan teşbihi, şartlı İbn Ammâr sözü ve diğer değerlendirmeler ayrı. Doğum129130/ölüm218219nakilleri korunur. Bütün biyografi ve mihne anlatıları yeni veri alanları veya uygulama hükmü yapılmadı; matbu baskı doğrulanmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnhibban": {
+      "url": "https://www.islamweb.net/ar/library/content/1079/10465/الفضل-بن-دكين",
+      "title": "İbn Hibbân — es-Sikât, Fazl b. Dükeyn dijital tam girişi",
+      "locator": "Tam kısa harekesiz/harekeli dijital giriş okundu. Son ولم يدرك من روى عنه bu şahitte de vardır. Harflerin başka şahitte bulunması özne ve aktarım yönünü çözmez. KaynakGK’deki218ölümkorunur; iki dijital sistemin2019/10261numaraları tek numara diye birleştirilmedi. Fiziksel baskı/sayfa tasdiki değildir.",
+      "accessed_on": "2026-11-03"
+    },
+    "sehavi": {
+      "url": "https://islamansiklopedisi.org.tr/sehavi-semseddin",
+      "title": "Cengiz Tomar — Sehâvî, Şemseddin, TDV 36 (2009), 313–316",
+      "locator": "Tam madde, kaynakça ve matbu künye okundu. Sehâvî kısa yazımı ve902ölümuyuşur; eser listesinde lakaplar kitabı vardır. GK1279yalnız kısa adını uzun Muhammed soyuna çevirmedi. Kaynakta dönmeyen81272bağlı ravi gövdesi üretilmedi; asıl el-Elkāb kişi pasajı okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "osman": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-ebu-seybe-ebul-hasan",
+      "title": "Selman Başaran — İbn Ebû Şeybe, Ebü’l-Hasan, TDV 19 (1999), 444",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Osman/Muhammed/Ebû Şeybe İbrahim/Absî/Kûfî/239, kardeşler ve oğul bağlamı kaynak2067ve5551ile karşılaştırıldı. Kısa adın Türkçe desteğidir; burada Osman hakkında söylenen hükümler onun Fazl hakkındaki aslan teşbihinin Türkçe teyidi değildir.",
+      "accessed_on": "2026-11-03"
+    },
+    "ibnshahin": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/C0/C08D4B61E1E2CCA37515D5424465B470_%C3%B3%C6%92%E2%8C%90%E2%88%A9%C2%AA%20%C3%9C%C2%BD%CE%A9%C6%92%C3%BF%20%C6%92%CE%98%C3%BA%CF%84%C6%92%C3%B3%20%CE%98%C6%92%C3%A1%CE%B4%20%C2%BC%C6%92%E2%88%9E%E2%88%A9%CE%B4.pdf",
+      "title": "İbn Şâhîn — Târîhu esmâi’s-sikât, dijital giriş 1130",
+      "locator": "Tam1130girişivekomşuları okundu; yerel109sayfalık PDFkapak/viewer73görüldü. Ahmed Sâlih olumlu cümlesi ardından وقال أحمد ile ikinci kısım gelir; GK’nin bütününü tek kişiye bağlaması bu yüzden otomatik tasdik edilmedi. Dijital yeniden dizim/OCR; kapaktaki yayın bilgileri bağımsız baskı otantifikasyonu değildir. Bütün kitap okunmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "jarh9": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/CD/CDB4D639ABCD85D46E9E2A0252BE4AD0%C6%92%CE%98%C3%B1%E2%8C%90%C3%91%20%CF%86%C6%92%CE%98%C3%B3%CF%80%C2%BA%E2%88%A9%CE%98%209.pdf",
+      "title": "İbn Ebû Hâtim — el-Cerh ve’t-ta‘dîl, cilt 9, Ebû Cenâb girişi 587",
+      "locator": "Tam587girişi sonraki sayfadaki devamıyla588başlığına kadar okundu; yerel229sayfalık PDFkapak/viewer6869görüldü. Ebû Nuaym burada Ebû Cenâb’ın tedlîsinden söz eden kişidir; Abdullah→Ahmed→Ebû Nuaym katmanları açık. Bu başka bağlam, GK769son cümlesinin kesin sahibini veya Ebû Nuaym’ın hiç tedlîs yapmadığını tek başına tasdik etmez. Yeniden dizim/OCR; eski138139etiketleri matbu facsimile değildir.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ebu-nuaym-critic-records.json",
+      "sha256": "1b0aad72479717812d30b04f122ce50cc184bedca467a1d43317f758592e895e"
+    },
+    {
+      "path": "research/arabic-source-checks/ebu-nuaym-related-records.json",
+      "sha256": "d907b7d4d827cda242f8b9ef8f12441b3302d2c2fc0ffdabe42e336346217438"
+    },
+    {
+      "path": "references/arabic/classical/ibn-shahin-thiqat.pdf",
+      "sha256": "11a746f9c7636d61327116fcaf4d33fefe1933e9427e08fde0f38567fb0a648a"
+    },
+    {
+      "path": "references/arabic/classical/ibn-shahin-thiqat.json",
+      "sha256": "d2ce238be7b2f0b9191148558c06fc82741aa2e3d574d8c37da34708db06d092"
+    },
+    {
+      "path": "references/arabic/classical/ibn-abi-hatim-jarh-tadil-v9.pdf",
+      "sha256": "87e12a4438ce9ef88220354ea839de6e54ee7b28ba9b14318eecf0553ca976c8"
+    },
+    {
+      "path": "references/arabic/classical/ibn-abi-hatim-jarh-tadil-v9.json",
+      "sha256": "8cbd1cd7999d32d97a2030e53e442149292aea022ec6fbda124e8709a922523c"
+    }
+  ],
+  "revision": "assistant-person-field-review-v25",
+  "policy": "14alan13dilkarşılaştırması1lakapbağısorunu;TR8tam5kısmi1okunan bölümde bulunamadı.",
+  "people": [
+    {
+      "id": 1548,
+      "expected_source": {
+        "id": 1548,
+        "new_id": 33716,
+        "name": "فضل بن عمرو بن حماد بن زهير بن درهم",
+        "shohra": "الفضل بن دكين الملائي",
+        "badeel": "أبو نعيم الكوفي",
+        "konya": "أبو نعيم",
+        "lakab": "دكين",
+        "san3a": "الملائي : بياع الملاء",
+        "wasf": "الأحول",
+        "mazhab": "الشيعة",
+        "nasab": "القرشي،التيمي،الطلحي،الكوفي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "218",
+        "age": null,
+        "baladekama": "الكوفة",
+        "baladwafa": "الكوفة",
+        "mawaaly": "مولى آل طلحة بن عبيد الله",
+        "karaba": "جد أحمد بن الهيثم",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1384
+      },
+      "expected_record_sha256": "084d30ec4acdaec10674ffb2446b284b5b0b43a40c90b65d9e46c4e8a600fd5b",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "فضل بن عمرو بن حماد بن زهير بن درهم",
+          "text": "Fazl b. Amr b. Hammâd b. Züheyr b. Dirhem.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Beş soy halkası bütünüyle çevriyazıldı. TDV ilk üç parçayı verir; son Züheyr/Dirhem aynı uzun ad satırında bulunmaz. GK’nin tam kaydı bağlanır; yeni aile kenarı üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Beş soy halkası bütünüyle çevriyazıldı. TDV ilk üç parçayı verir; son Züheyr/Dirhem aynı uzun ad satırında bulunmaz. GK’nin tam kaydı bağlanır; yeni aile kenarı üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "الفضل بن دكين الملائي",
+          "text": "Fazl b. Dükeyn el-Mülâî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV tanınan adı ve Mülâî nisbesini açık verir; Dükeyn’in babasının lakabı olduğu ayrımı saklıdır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV tanınan adı ve Mülâî nisbesini açık verir; Dükeyn’in babasının lakabı olduğu ayrımı saklıdır. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو نعيم الكوفي",
+          "text": "Ebû Nuaym el-Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV künye ve Kûfe/Kûfî bilgisini verir; bu tam alternatif ad dizisi aynı birleşik ad satırı sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV künye ve Kûfe/Kûfî bilgisini verir; bu tam alternatif ad dizisi aynı birleşik ad satırı sayılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو نعيم",
+          "text": "Ebû Nuaym.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV künye açık. Bu künyeden Nuaym adlı yeni çocuk çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV künye açık. Bu künyeden Nuaym adlı yeni çocuk çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "دكين",
+          "text": "Dükeyn (kaynakta lakap alanında; Türkçe kaynak babası Amr’ın lakabı olduğunu belirtir).",
+          "rendering_kind": "name_form",
+          "status": "problem_detected",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi/lakap bağı sorunu: GK lakap alanı bu kişiye bağlıdır; TDV Dükeyn’in babası Amr’ın lakabı olduğunu açık söyler. Türkçe biçim çevrildi, kişinin kendi lakabı diye tarihsel onay verilmedi.239görüşünün şahıs/öykü bağı ayrıca açık problemdir; ham kayıt değiştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kişi/lakap bağı sorunu: GK lakap alanı bu kişiye bağlıdır; TDV Dükeyn’in babası Amr’ın lakabı olduğunu açık söyler. Türkçe biçim çevrildi, kişinin kendi lakabı diye tarihsel onay verilmedi.239görüşünün şahıs/öykü bağı ayrıca açık problemdir; ham kayıt değiştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "الملائي : بياع الملاء",
+          "text": "Mülâî: çarşaf ve örtü satıcısı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV çarşaf/divan örtüsü satışı ile Mülâî nisbesi arasındaki bağı açıklar. Bu meslek kaydı Arapçadan aktarılır; yeni görev üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV çarşaf/divan örtüsü satışı ile Mülâî nisbesi arasındaki bağı açıklar. Bu meslek kaydı Arapçadan aktarılır; yeni görev üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf",
+          "expected_arabic": "الأحول",
+          "text": "Ahvel (şehlâ gözlü).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV gözlerinin şehlâ olmasını açık verir. Körlük veya başka tıbbi niteleme eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV gözlerinin şehlâ olmasını açık verir. Körlük veya başka tıbbi niteleme eklenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "mazhab",
+          "expected_arabic": "الشيعة",
+          "text": "Şîa (kaynakta kullanılan aidiyet etiketi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV tarihsel nitelemeyi Hz.Ali’yi fazlaca sevme bağlamında açıklar ve yaygın anlamdaki Şiîlikle aynı saymaz. Ham kısa etiketten günümüz mezhep/siyaset kimliği veya yeni dinî hüküm çıkarılmadı; bütün tarihsel aidiyetin tam tasdiki değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV tarihsel nitelemeyi Hz.Ali’yi fazlaca sevme bağlamında açıklar ve yaygın anlamdaki Şiîlikle aynı saymaz. Ham kısa etiketten günümüz mezhep/siyaset kimliği veya yeni dinî hüküm çıkarılmadı; bütün tarihsel aidiyetin tam tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،التيمي،الطلحي،الكوفي",
+          "text": "Kureşî; Teymî; Talhî; Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV dört nisbenin tümünü açıklamalarıyla verir. Nisbeden yeni kan bağı veya farklı kişi birleştirmesi çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV dört nisbenin tümünü açıklamalarıyla verir. Nisbeden yeni kan bağı veya farklı kişi birleştirmesi çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika, sebt (güvenilir; rivayetinde sağlam).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki teknik terim korunur. TDV güvenilirlik/titizlik bağlamını anlatır; bu iki terimi aynı bağımsız ravi alanı olarak birebir nakletmez. Yeni hadis sıhhat derecesi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki teknik terim korunur. TDV güvenilirlik/titizlik bağlamını anlatır; bu iki terimi aynı bağımsız ravi alanı olarak birebir nakletmez. Yeni hadis sıhhat derecesi değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Kûfe’deki meslek ve yaşam bağlamını açık verir; seyahatlerden yeni ikamet listesi yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Kûfe’deki meslek ve yaşam bağlamını açık verir; seyahatlerden yeni ikamet listesi yapılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Kûfe vefatını açık verir;219yılını ham218yerine yazmadı, boşdoğumu130ile doldurmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Kûfe vefatını açık verir;219yılını ham218yerine yazmadı, boşdoğumu130ile doldurmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى آل طلحة بن عبيد الله",
+          "text": "Talha b. Ubeydullah ailesinin mevlâsı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV aynı ailenin himaye ilişkisini açıklar. Velâ bağını biyolojik soy veya uygulamanın yeni hukuki hükmü yapmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV aynı ailenin himaye ilişkisini açıklar. Velâ bağını biyolojik soy veya uygulamanın yeni hukuki hükmü yapmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "جد أحمد بن الهيثم",
+          "text": "Ahmed b. Heysem’in dedesi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Tam kaynak akrabalık alanı çevrildi. İncelenen TDV maddesinde bu torunun Türkçe kaydı bulunmadı; başka Ahmed adlı kişilerle birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam kaynak akrabalık alanı çevrildi. İncelenen TDV maddesinde bu torunun Türkçe kaydı bulunmadı; başka Ahmed adlı kişilerle birleştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "person3801": {
+      "url": "https://islamansiklopedisi.org.tr/suayb-b-ebu-hamza",
+      "title": "Abdulkadir Şenel — Şuayb b.EbûHamza, TDV39(2010),223",
+      "locator": "Başlık ve hayat paragrafı bütünüyle okundu; tam teknik atıflı sözün Türkçe alıntısı sayılmaz.",
+      "accessed_on": "2026-11-01"
+    },
+    "person3194": {
+      "url": "https://islamansiklopedisi.org.tr/salim-b-abdullah-b-omer",
+      "title": "Eyyüp Said Kaya — Sâlim b.Abdullah b.Ömer, TDV36(2009),47–48",
+      "locator": "Başlık ve tam hayat bölümü; yedili liste ihtilafı, Medine/Dımaşk ayrımı ve annenin kimliğindeki ihtiyat korunur.",
+      "accessed_on": "2026-11-01"
+    },
+    "person1040": {
+      "url": "https://islamansiklopedisi.org.tr/ismail-b-ebu-uveys",
+      "title": "İsmail Hakkı Ünal — İsmâil b.EbûÜveys, TDV23(2001),95",
+      "locator": "Başlık, hayat ve karşıt tenkitler; Ahmed’in lâ be’se bih sözü açık, öteki sözler tam atıflı Türkçe alıntı sayılmaz.",
+      "accessed_on": "2026-11-01"
+    },
+    "person4506": {
+      "url": "https://islamansiklopedisi.org.tr/arec-abdurrahman-b-hurmuz",
+      "title": "Abdullah Aydınlı — A‘rec Abdurrahman b.Hürmüz, TDV3(1991),350–351",
+      "locator": "Başlık ve tam hayat paragrafı; Rebîa veya oğlu Muhammed velâ alternatifi açık tutulur.",
+      "accessed_on": "2026-11-01"
+    },
+    "ummuveled": {
+      "url": "https://islamansiklopedisi.org.tr/ummuveled",
+      "title": "TDV Ümmüveled yönlendirmesi — İstîlâd terim tanımı",
+      "locator": "İstîlâd: kişinin câriyesinden çocuk sahibi olması. Yalnız terim açıklaması; Sâlim’in annesine dair bağımsız kişi teyidi değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "qurra": {
+      "url": "https://www.arabic-keyboard.info/books/ar/read-book/معرفة-القراء-الكبار-على-الطبقات-والأعصار",
+      "title": "Zehebî — Ma‘rifetü’l-kurrâ’il-kibâr, Arapça dijital metin",
+      "locator": "Abdurrahman b.Hürmüz el-A‘rec biyografisi: أحد من برز في القرآن والسنة ve وافر العلم مع الثقة والأمانة. Tam ilgili paragraf okundu; GK الفرآن yazımı bu şahit ile açıklanır. PDF görüntü denetimi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "tahdhib4": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/82/8270D48FD6B7161E6B4F9C9185650D2C_vol04.pdf",
+      "title": "İbn Hacer — Tehzîbü’t-Tehzîb4, Arapça dijital PDF metni",
+      "locator": "598Şuayb b.EbîHamza maddesi, PDF görüntüleyici s.140: İbn Ebî Hâtim’in Ebû Zür‘a’ya sorusu ve Halîlî’nin sika/ittifak/hâfız sözü. PDF metni okundu; sayfa görüntüsü denetlenmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "seyf": {
+      "url": "https://tadween.sa/documents/researchDatabase/fmt6q6z09p.pdf#page=37",
+      "title": "عطوة محمد القريناوي — رجال صحيح البخاري الذين تكلم فيهم ابن عدي..., Gazze İslâm Üniversitesi,YLtezi2011",
+      "locator": "İsmail b.EbîÜveys bölümü, PDF görüntüleyici s.37,4nolu dipnot: Ezdî’nin naklindeki Seyf’in Süfyân es-Sevrî’nin yeğeni olmadığı belirtilir. Yerel348sayfalık dosyanın metninden kontrol edildi; SHA256ee4f29976b2c15d5ec9c7424de5a8e64713f4015b1c879fe4b86b318a443accd. Görüntü denetimi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "halili": {
+      "url": "https://islamansiklopedisi.org.tr/halili-ebu-yala",
+      "title": "Kemal Sandıkçı — Halîlî EbûYa‘lâ, TDV15(1997),330–331",
+      "locator": "Başlık/ilk hayat: EbûYa‘lâ Halîl b.Abdullah b.Ahmed el-Halîlî el-Kazvînî,446ölümü ve el-İrşâd. Yalnız bu kısa ad biçimi için; bütün tarihsel kişi verileri onayı değildir.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "revision": "assistant-critic-name-review-v3",
+  "policy": "İki yeni ad:1karşılaştırılmış1açık kişi bağı sorunu. Mevcut466literal adı korunur; yeni tarihsel kimlik birleştirmesi yok.",
+  "critics": [
+    {
+      "alem_id": "700",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "700",
+        "name": "خليل بن عبد الله بن أحمد بن الخليل",
+        "rawy_shohra": "أبو يعلى الخليلي",
+        "rotba": 2,
+        "tabaka": "18",
+        "death_date": "446",
+        "rawy_id": "16546",
+        "opinion_count": 313,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": ""
+      },
+      "expected_record_sha256": "f7c4a073ee48ec0f9480ef089e6cedd82142e6294e12e6e389dd2708899bddaf",
+      "text": "Ebû Ya‘lâ el-Halîlî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "halili": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Başlıktaki kısa ad/şöhret, tam GK eleştirmen kaydıyla karşılaştırıldı; diğer kişilere ad benzerliğiyle bağ kurulmadı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Başlıktaki kısa ad/şöhret, tam GK eleştirmen kaydıyla karşılaştırıldı; diğer kişilere ad benzerliğiyle bağ kurulmadı. Ad GK kaydının dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişilerin tekleştirilmesi veya uzman onayı değildir."
+    },
+    {
+      "alem_id": "1722",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1722",
+        "name": "سيف بن محمد بن أحمد",
+        "rawy_shohra": "سيف بن محمد الثوري",
+        "rotba": 11,
+        "tabaka": "8",
+        "death_date": "190",
+        "rawy_id": "3738",
+        "opinion_count": 1,
+        "wasf_rotba": "متهم بالوضع",
+        "wasf": ""
+      },
+      "expected_record_sha256": "e18fa824258fc8bdb6dafc0861710aa0366a7242999a3606052fcdc5b5ef0a3c",
+      "text": "Seyf b. Muhammed b. Ahmed [GK kaydındaki ad]",
+      "rendering_kind": "name_form",
+      "status": "problem_detected",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "seyf": {
+          "support_scope": "arabic_source_comparison",
+          "evidence_note": "GK1722, Sevrî [الثوري] şöhreti ve3738biyografisine bağlıdır. 2011tezin PDF37/4nolu dipnotu bu rivayetteki Seyf’in Süfyân es-Sevrî’nin yeğeni olmadığını belirtir; müellif biyografisini bulamadığını da söyler. Kaynak kişinin bağı çözülemedi; ünlü kimlik etiketi üretilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "GK1722, Sevrî [الثوري] şöhreti ve3738biyografisine bağlıdır. 2011tezin PDF37/4nolu dipnotu bu rivayetteki Seyf’in Süfyân es-Sevrî’nin yeğeni olmadığını belirtir; müellif biyografisini bulamadığını da söyler. Kaynak kişinin bağı çözülemedi; ünlü kimlik etiketi üretilmedi. Ad GK kaydının dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişilerin tekleştirilmesi veya uzman onayı değildir."
+    }
+  ]
+}

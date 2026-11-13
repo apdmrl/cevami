@@ -1,0 +1,323 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/adem-b-ebu-iyas",
+      "title": "DİA — Âdem b. Ebû İyâs, TDV 1 (1988), 364",
+      "locator": "Başlık, üç paragraflık tam kısa madde, kaynakça ve matbu künye okundu. Künye, Horasânî/Askalânî, Merv doğumu, altı bölgedeki hocalardan öğrenme, Askalân’a yerleşme/ölüm ve genel güvenilirlik vardır. Uzun soy, Nâhiye alternatifi, dokuz yerde tam ikamet, iki velâ kaydı veya oğlu Ubeyd bu maddede yoktur. Genel güvenilirlik bütün on münekkit sözünün birebir teyidi sayılmadı; öğrenci listesi yeni sened ilişkisi olarak aktarılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/320/آدم-بن-أبي-إياس-واسمه-عبد-الرحمن-بن-محمد",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Âdem b. Ebû İyâs, 2/301–307, nr. 294",
+      "locator": "Tam harekesiz dijital biyografi, hoca-talebe listeleri ve devamı okundu. Temîm veya Teym, Horasan kökeni/Bağdat’ta yetişme ve öğrenme/seyahatler/Askalân’a yerleşme ayrıdır. Oğlu Ubeyd talebe listesinde açıktır. Ahmed’in altı veya yedi zabt öğrencisi; Maîn’in bazen zayıflardan nakil kaydı; Ebû Hâtim’in me’mûn/müteabbid/devamı; Nesâî lâ be’se bih; İbn Sa‘d’ın çok ve sahih semâ sözü okundu. Merv/Mervürrûz otomatik yer birleştirmesi yapılmadı. Matbu facsimile veya asıl Suâlât karşılaştırılmadı; tarih/yaş alternatifleri GK sayısal alanlarına geçirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "sicistani": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-davud-es-sicistani",
+      "title": "M. Yaşar Kandemir — Ebû Dâvûd es-Sicistânî, TDV 10 (1994), 119–121",
+      "locator": "Başlık, ilk hayat paragrafı,275ölüm paragrafı ve matbu künye okundu. Kısa adın Süleymân b. el-Eş‘as b. İshâk/Sicistânî/275kimlik bileşenleri karşılaştırılır. İshâk sonrası soy varyantları çözülmüş veya bütün biyografi tasdik edilmiş sayılmaz; Tayâlisî ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/adem-related-records.json",
+      "sha256": "0114f60ba63e30092ee7c60cc1e2707b977b6f850af15922f25553886d2189d2"
+    }
+  ],
+  "revision": "assistant-person-field-review-v22",
+  "policy": "11alan5tam3kısmi3okunan bölümde bulunamadı; yalnız dil karşılaştırması.",
+  "people": [
+    {
+      "id": 2,
+      "expected_source": {
+        "id": 2,
+        "new_id": 6720,
+        "name": "آدم بن عبد الرحمن بن محمد بن شعيب",
+        "shohra": "آدم بن أبي إياس",
+        "badeel": "آدم بن ناهية",
+        "konya": "أبو الحسن",
+        "lakab": "ابن أبي إياس",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الخراساني،المروزي،العسقلاني",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "132",
+        "death_year": "220",
+        "age": 88,
+        "baladekama": "بغداد ، الكوفة ، البصرة ، الحجاز ، مصر ، الشام ، عسقلان ، خراسان ، مرو",
+        "baladwafa": "عسقلان",
+        "mawaaly": "مولى بني تميم ، مولى بني تيم",
+        "karaba": "والد عبيد",
+        "bokhary": 1,
+        "moslem": 0,
+        "marweyaat": 671
+      },
+      "expected_record_sha256": "9061dc6b31b8be1015e11369e99fb19cfc5cb4d727bdd526711ad26f9d2d303e",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "آدم بن عبد الرحمن بن محمد بن شعيب",
+          "text": "Âdem b. Abdurrahman b. Muhammed b. Şuayb.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK tam baba ve soy halkaları aynen çevriyazıldı. TDV kısa Âdem b. Ebû İyâs adını verir; bu uzun soyun her halkasını bağımsız teyit etmez. Mizzî babasının Abdurrahman b. Muhammed ve Nâhiye b. Şuayb alternatiflerini verir; GK halkaları bu alternatiflerle yeniden kurulmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK tam baba ve soy halkaları aynen çevriyazıldı. TDV kısa Âdem b. Ebû İyâs adını verir; bu uzun soyun her halkasını bağımsız teyit etmez. Mizzî babasının Abdurrahman b. Muhammed ve Nâhiye b. Şuayb alternatiflerini verir; GK halkaları bu alternatiflerle yeniden kurulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "GK tam baba ve soy halkaları aynen çevriyazıldı. TDV kısa Âdem b. Ebû İyâs adını verir; bu uzun soyun her halkasını bağımsız teyit etmez. Mizzî babasının Abdurrahman b. Muhammed ve Nâhiye b. Şuayb alternatiflerini verir; GK halkaları bu alternatiflerle yeniden kurulmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "آدم بن أبي إياس",
+          "text": "Âdem b. Ebû İyâs.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV kısa tanınan adı açık verir; yeni kişi kimliği türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV kısa tanınan adı açık verir; yeni kişi kimliği türetilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez.",
+          "supersedes_id": "44f1c191-a5dc-5e59-a83c-a78a6e92fabd"
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "آدم بن ناهية",
+          "text": "Âdem b. Nâhiye.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK alternatif ad biçimi korunur. TDV kısa maddede bulunmadı; Mizzî’de babasının Nâhiye b. Şuayb olarak da adlandırılması vardır. Alternatif, ana adın üzerine yazılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK alternatif ad biçimi korunur. TDV kısa maddede bulunmadı; Mizzî’de babasının Nâhiye b. Şuayb olarak da adlandırılması vardır. Alternatif, ana adın üzerine yazılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK alternatif ad biçimi korunur. TDV kısa maddede bulunmadı; Mizzî’de babasının Nâhiye b. Şuayb olarak da adlandırılması vardır. Alternatif, ana adın üzerine yazılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو الحسن",
+          "text": "Ebü’l-Hasen.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığı künyeyi açık verir. Künye, ayrıca bir Hasan adlı oğul kaydı üretmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığı künyeyi açık verir. Künye, ayrıca bir Hasan adlı oğul kaydı üretmez. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "ابن أبي إياس",
+          "text": "İbn Ebû İyâs.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV kişinin tanınan adında bu bileşeni açık verir; yeni bir nesep halkası çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV kişinin tanınan adında bu bileşeni açık verir; yeni bir nesep halkası çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الخراساني،المروزي،العسقلاني",
+          "text": "Horâsânî; Mervezî; Askalânî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV Horasânî ve Askalânî biçimlerini, Merv doğumunu verir; üç nisbenin bütününü aynı yazımla nakletmez. Mizzî Mervürrûz bağlantısını verir; Mervezî/Mervürrûz farkı sessizce tek yer kimliğine çevrilmedi. Nisbe tek başına her yerde ikamet kanıtı değildir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV Horasânî ve Askalânî biçimlerini, Merv doğumunu verir; üç nisbenin bütününü aynı yazımla nakletmez. Mizzî Mervürrûz bağlantısını verir; Mervezî/Mervürrûz farkı sessizce tek yer kimliğine çevrilmedi. Nisbe tek başına her yerde ikamet kanıtı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV Horasânî ve Askalânî biçimlerini, Merv doğumunu verir; üç nisbenin bütününü aynı yazımla nakletmez. Mizzî Mervürrûz bağlantısını verir; Mervezî/Mervürrûz farkı sessizce tek yer kimliğine çevrilmedi. Nisbe tek başına her yerde ikamet kanıtı değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV genel güvenilirliği açık verir. GK alanının dil karşılığıdır; bütün ayrı münekkit sözlerinin veya her rivayetin yeni sıhhat hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV genel güvenilirliği açık verir. GK alanının dil karşılığıdır; bütün ayrı münekkit sözlerinin veya her rivayetin yeni sıhhat hükmü değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez.",
+          "supersedes_id": "7b44ede7-7d6c-5b86-b31c-39093f61e645"
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "بغداد ، الكوفة ، البصرة ، الحجاز ، مصر ، الشام ، عسقلان ، خراسان ، مرو",
+          "text": "Bağdat; Kûfe; Basra; Hicaz; Mısır; Şam bölgesi; Askalân; Horasan; Merv.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK ikamet başlığı altındaki dokuz yerin adları korunur; dokuzunun tamamı bağımsız ikamet teyidi sayılmaz. TDV altı bölgedeki âlimlerden öğrenme, Merv doğumu ve Askalân’a yerleşmeyi ayırır. Mizzî Horasan kökeni, Bağdat’ta yetişme/öğrenme, seyahatler ve Askalân yerleşimini ayırır. Hicaz/Şam/Horasan bölge olabilir; seyahat, köken ve doğum yerinden yeni sürekli ikamet çıkarılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK ikamet başlığı altındaki dokuz yerin adları korunur; dokuzunun tamamı bağımsız ikamet teyidi sayılmaz. TDV altı bölgedeki âlimlerden öğrenme, Merv doğumu ve Askalân’a yerleşmeyi ayırır. Mizzî Horasan kökeni, Bağdat’ta yetişme/öğrenme, seyahatler ve Askalân yerleşimini ayırır. Hicaz/Şam/Horasan bölge olabilir; seyahat, köken ve doğum yerinden yeni sürekli ikamet çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "GK ikamet başlığı altındaki dokuz yerin adları korunur; dokuzunun tamamı bağımsız ikamet teyidi sayılmaz. TDV altı bölgedeki âlimlerden öğrenme, Merv doğumu ve Askalân’a yerleşmeyi ayırır. Mizzî Horasan kökeni, Bağdat’ta yetişme/öğrenme, seyahatler ve Askalân yerleşimini ayırır. Hicaz/Şam/Horasan bölge olabilir; seyahat, köken ve doğum yerinden yeni sürekli ikamet çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "عسقلان",
+          "text": "Askalân.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Askalân’da ölümü açık verir. GK220ölüm/132doğum/88yaş sayısal alanları değiştirilmedi; Mizzî’deki alternatifler yeni kesin tarih sayılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV Askalân’da ölümü açık verir. GK220ölüm/132doğum/88yaş sayısal alanları değiştirilmedi; Mizzî’deki alternatifler yeni kesin tarih sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Askalân’da ölümü açık verir. GK220ölüm/132doğum/88yaş sayısal alanları değiştirilmedi; Mizzî’deki alternatifler yeni kesin tarih sayılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى بني تميم ، مولى بني تيم",
+          "text": "Benî Temîm’in mevlâsı; diğer kayıt Benî Teym’in mevlâsı şeklindedir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK iki velâ kaydı aktarılır. Mizzî Temîm veya Teym diyerek alternatif verir; ikisi aynı anda kesinleşmiş hukukî statü veya kan bağı sayılmadı. TDV kısa maddede bu özel velâ bilgisi bulunmadı. Mevlâ kelimesinden kişisel kölelik statüsü çıkarılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK iki velâ kaydı aktarılır. Mizzî Temîm veya Teym diyerek alternatif verir; ikisi aynı anda kesinleşmiş hukukî statü veya kan bağı sayılmadı. TDV kısa maddede bu özel velâ bilgisi bulunmadı. Mevlâ kelimesinden kişisel kölelik statüsü çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK iki velâ kaydı aktarılır. Mizzî Temîm veya Teym diyerek alternatif verir; ikisi aynı anda kesinleşmiş hukukî statü veya kan bağı sayılmadı. TDV kısa maddede bu özel velâ bilgisi bulunmadı. Mevlâ kelimesinden kişisel kölelik statüsü çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد عبيد",
+          "text": "Ubeyd’in babası.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK açık baba kaydı çevrildi; Mizzî talebe listesinde oğlu Ubeyd b. Âdem b. Ebû İyâs vardır. Okunan TDV kısa maddede bu ilişki bulunmadı. Künyeden başka çocuk veya hoca-talebe listelerinden yeni akrabalık üretilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK açık baba kaydı çevrildi; Mizzî talebe listesinde oğlu Ubeyd b. Âdem b. Ebû İyâs vardır. Okunan TDV kısa maddede bu ilişki bulunmadı. Künyeden başka çocuk veya hoca-talebe listelerinden yeni akrabalık üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK açık baba kaydı çevrildi; Mizzî talebe listesinde oğlu Ubeyd b. Âdem b. Ebû İyâs vardır. Okunan TDV kısa maddede bu ilişki bulunmadı. Künyeden başka çocuk veya hoca-talebe listelerinden yeni akrabalık üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

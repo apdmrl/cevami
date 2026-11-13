@@ -1,0 +1,229 @@
+{
+  "reviewed_on": "2026-11-01",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "revision": "assistant-person-field-review-v10",
+  "policy": "Âişe’nin8alanında künye açıklığı için yalnız metadata çocukları; metin/durum/Arapça değişmez. Önceki9batch sabittir.",
+  "sources": {
+    "person4049": {
+      "url": "https://islamansiklopedisi.org.tr/aise",
+      "title": "Mustafa Fayda — Âişe, TDV İslâm Ansiklopedisi2(1989),201–205",
+      "locator": "Doğrulanan matbu künye: cilt2(1989),s.201–205. Başlık/hayatı/ilmî konumu; Ümmü Abdullah için web metninde “Çocuğu olmadı.” diye başlayan paragraf.113web satır işareti matbu sayfa numarası değildir; yeni PDF görüntü denetimi yapılmadı.",
+      "accessed_on": "2026-11-01"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ravi nitelemelerinin anlamı; kişi hakkında yeni hadis hükmü değildir.",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "people": [
+    {
+      "id": 4049,
+      "expected_record_sha256": "2240b4bc3116a240b5ad03a84e88893f12a48d914b95749ea11b7271b1188e08",
+      "expected_source": {
+        "id": 4049,
+        "new_id": 20339,
+        "name": "عائشة بنت عبد الله بن عثمان بن عامر بن عمرو بن كعب بن سعد بن تيم بن مرة",
+        "shohra": "عائشة بنت أبي بكر الصديق",
+        "badeel": "عائشة أم المؤمنين",
+        "konya": "أم عبد الله",
+        "lakab": "أم المؤمنين",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،التيمي",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "57",
+        "age": null,
+        "baladekama": "",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "زوج النبي صلى الله عليه وسلم ، أمها أم رومان بنت عامر بن عويمر بن عبد شمس بن عتاب",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 2296
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عائشة بنت عبد الله بن عثمان بن عامر بن عمرو بن كعب بن سعد بن تيم بن مرة",
+          "text": "Âişe bint Abdullah b. Osman b. Âmir b. Amr b. Kâ‘b b. Sa‘d b. Teym b. Mürre.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Baba Abdullah/Ebû Bekir kimliği desteklenir; bütün uzun Teym–Mürre soy dizisi bu başlıkta tam verilmez. Kaynak sırası çevriyazılır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Baba Abdullah/Ebû Bekir kimliği desteklenir; bütün uzun Teym–Mürre soy dizisi bu başlıkta tam verilmez. Kaynak sırası çevriyazılır. Tam alan karşılığı okunan bölümlerde bütünüyle desteklenmedi; kalan aktarım asistanın Arapçadan çevirisidir. Bütün Türkçe literatürde yokluk iddia edilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "42f19f2e-9327-5cdb-ade9-bdeef20992df"
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عائشة بنت أبي بكر الصديق",
+          "text": "Âişe bint Ebû Bekir es-Sıddîk.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "d2eeb222-875f-5324-afe4-ba88697e108e"
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "عائشة أم المؤمنين",
+          "text": "Âişe, müminlerin annesi.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "b636ddb5-7da5-5c97-807e-3d10b52543e3"
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أم عبد الله",
+          "text": "Ümmü Abdullah.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Ümmü Abdullah, yeğeni Abdullah b. Zübeyr’e nisbetledir; kendi Abdullah adlı oğlu bulunduğu çıkarılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Ümmü Abdullah, yeğeni Abdullah b. Zübeyr’e nisbetledir; kendi Abdullah adlı oğlu bulunduğu çıkarılmaz. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "69077d42-7a85-5c11-8129-c40a2377183a"
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "أم المؤمنين",
+          "text": "Müminlerin annesi.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "2291b786-2547-568b-8d13-c30413a0b7be"
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،التيمي",
+          "text": "Kureşî; Teymî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "b497a95e-ff31-555b-8921-f22f207886bd"
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "صحابي",
+          "text": "Sahâbî (kaynak sınıflaması).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Kaynak ravi terimlerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Belirtilen Türkçe biyografi başlığı/hayat bağlamı bu alan için kontrol edildi; tam alan desteklenmeyen kısım özgün Arapçadan aktarıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "4b3fcd6e-c970-53ed-95c8-74bf06a60799"
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "زوج النبي صلى الله عليه وسلم ، أمها أم رومان بنت عامر بن عويمر بن عبد شمس بن عتاب",
+          "text": "Hz. Peygamber’in —Allah’ın salât ve selâmı onun üzerine olsun— eşi; annesi Ümmü Rûmân bint Âmir b. Uveymir b. Abdüşems b. Attâb’dır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "person4049": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Eşliği ve annesi Ümmü Rûmân bint Âmir b. Uveymir desteklenir; Abdüşems–Attâb devamı okunan bölümde tam bulunmadı. Dua çevrildi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve alanı, Türkçe kaynakların belirtilen bölümleriyle ayrı ayrı karşılaştırıldı. Eşliği ve annesi Ümmü Rûmân bint Âmir b. Uveymir desteklenir; Abdüşems–Attâb devamı okunan bölümde tam bulunmadı. Dua çevrildi. Tam alan karşılığı okunan bölümlerde bütünüyle desteklenmedi; kalan aktarım asistanın Arapçadan çevirisidir. Bütün Türkçe literatürde yokluk iddia edilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; kapsam bu alanın dil aktarımıdır. Künye açıklaması:113web satır işareti sayfa değildir; doğrulanan TDV2(1989),201–205ve ilgili web paragrafı esas alındı. Bu çocuk sürüm metni/durumu değiştirmez.",
+          "supersedes_id": "0a8b94e0-da2c-5c63-80a6-e18d41c82ed2"
+        }
+      ]
+    }
+  ]
+}

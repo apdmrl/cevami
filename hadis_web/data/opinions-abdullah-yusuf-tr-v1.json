@@ -1,0 +1,488 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "uluman": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/9F/10246213.pdf#page=34",
+      "title": "Gülşah Uluman — Zü’l-yedeyn Hadisi:Tahrîc ve Tahlil, Marmara,YL2019",
+      "locator": "13Abdullah b.Yusuf, basılı23/PDF34; ilgili bölüm ve dipnot100–104webPDFmetninden okundu. Tunusî yazımı diğer kaynakla karşılaştırılır. Yerel indirme WinError10054ile başarısız; dosya/hash/görüntü denetimi iddiası yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "durmus": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/680592#page=27",
+      "title": "Üzeyir Durmuş — İmâm Buhârî’nin Sahîh’ine Kaynaklık Bakımından İmâm Mâlik’in Muvatta’sı, ÇOMÜİFD14(2019),171–212",
+      "locator": "2.2.1bölümü197–198/PDF27–28bütünüyle okundu: Tinnîsî, Zehebî hâfız/mutkin, Yahyâ b.Maîn’in Abdullah ve Ka‘nebî’yi birlikte anması. Yerel42sayfa; SHA256333dbef18d58be399eca42aac2297bde773df7e7560320293d42960384a28fff. Görüntü denetimi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "tahavi": {
+      "url": "https://islamansiklopedisi.org.tr/tahavi#1",
+      "title": "Davut İltaş — Tahâvî, TDV39(2010),385–388",
+      "locator": "Başlık ve ilk hayat paragrafı; EbûCa‘fer Ahmed b.Muhammed b.Selâme/321. Yalnız kısa ad karşılaştırması, tüm uzun soy veya görüş doğrulaması değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "cuzcani": {
+      "url": "https://islamansiklopedisi.org.tr/cuzcani-ebu-ishak",
+      "title": "İsmail Lütfi Çakan — Cûzcânî Ebûİshak, TDV8(1993),97–98",
+      "locator": "Başlık ve ilgili ilk hayat: İbrâhim b.Ya‘kub b.İshak/259. Kısa ad biçimi; bütün tarihsel hükümler tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnyunus": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-yunus-ebu-said",
+      "title": "Ali Akyüz — İbnYûnus EbûSaîd, TDV20(1999),450",
+      "locator": "Başlık ve ilk hayat: Abdurrahman b.Ahmed b.Yunus b.Abdila‘lâ/347. Oğlu astronom Ebü’l-Hasan ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "ebumushir": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-mushir",
+      "title": "M.Yaşar Kandemir — EbûMüshir, TDV10(1994),195",
+      "locator": "Başlık ve kısa hayat: Abdüla‘lâ b.Müshir b.Abdila‘lâ/218/Gassânî. Yalnız kısa ad biçimi, bütün uzun soy tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "revision": "abdullah-yusuf-opinions-tr-v1",
+  "policy": "15görüş1tam9kısmi5okunan bölümde tam karşılık bulunamadı; yeni hadis/ravi hükmü yok.",
+  "narrators": [
+    {
+      "id": 5175,
+      "expected_opinion_count": 15,
+      "opinions": [
+        {
+          "key": "5175:1011:18d7bc7185fc2eb5f4b8afae6537138e8f0e53375879b9cebcb340fc59b02bcb",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة متقن ، من أثبت الناس في الموطأ",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ba996f735fcd9e1eba52ec0f383aca9d53e859a1dedb005b61b153e671cec2bf",
+          "text": "Takrîb’de: Sika; mutkin, Muvatta rivayetinde insanların en sağlamlarındandır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe kaynaklar nitelemelerin bağlamını destekler; İbn Hacer’in bu tam atıflı sözü birebir Türkçe alıntı değildir."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe kaynaklar nitelemelerin bağlamını destekler; İbn Hacer’in bu tam atıflı sözü birebir Türkçe alıntı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kaynaklar nitelemelerin bağlamını destekler; İbn Hacer’in bu tam atıflı sözü birebir Türkçe alıntı değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:1125:7d70cec9d9fecbab9593bdbc42a734049b15bf175b295b661baaa68060c13ef1",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "ذكره في التاريخ الكبير ، وقال : سمع مالكا ، ويحيى بن حمزة ، والليث ، أصله دمشقي ، من أثبت الشاميين ، اعتمد عليه في مالك وغيره",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "20734bbc4b8d7dd1f11d8199537cfd3a3242818d10a0a0cf88ac7e4f7c4f5f72",
+          "text": "Onu et-Târîhu’l-kebîr’de zikretti ve şöyle dedi: Mâlik’ten, Yahyâ b. Hamza’dan ve Leys’ten işitti. Aslı Dımaşklıdır; Şamlıların rivayette en sağlamlarındandır. Mâlik ve diğer hocalarından nakillerde ona itimat edilmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez Şam aslı/sağlamlık ve bazı hocaları destekler; tam atıflı sözün bütün ayrıntıları birebir aktarılmış değildir."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez Şam aslı/sağlamlık ve bazı hocaları destekler; tam atıflı sözün bütün ayrıntıları birebir aktarılmış değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez Şam aslı/sağlamlık ve bazı hocaları destekler; tam atıflı sözün bütün ayrıntıları birebir aktarılmış değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:1268:1d006ddd1cd396040401d654eedd265a593100ee43f770c8883cd08dea755874",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "الحافظ",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "4961adebcc3cce7554eab5d571462fd83e0062cad4b0314db6d6fd4e07adaf08",
+          "text": "Hadis hâfızıdır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Durmuş, Zehebî’nin hâfız nitelemesini açıkça verir; Türkçe cümle GK’nin asistan aktarımıdır."
+            },
+            "durmus": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Durmuş, Zehebî’nin hâfız nitelemesini açıkça verir; Türkçe cümle GK’nin asistan aktarımıdır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Durmuş, Zehebî’nin hâfız nitelemesini açıkça verir; Türkçe cümle GK’nin asistan aktarımıdır. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:239:2d591f242f0553698e1fc2d03be20a6c2b62f14f3c2db248a3ac3ee132526eb6",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "239",
+            "critic": "عبد الرحمن بن علي بن محمد بن علي بن عبيد الله بن عبد الله بن حمادي بن أحمد بن محمد بن جعفر بن عبد الله بن القاسم بن النضر بن القاسم بن محمد بن عبد الله بن عبد الرحمن بن القاسم بن محمد بن أبي بكر الصديق",
+            "opinion": "ذكره في كشف النقاب ، وقال : هو كلاعي من أهل دمشق ، والتنيسي لقبه ، روى الموطأ عن مالك",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "37bd34a9fc1796b3be5df342abc0a09d21a446a63b95a9bcf5a3fc7086d41e02",
+          "text": "Onu Keşfü’n-nikāb’da zikretti ve şöyle dedi: Dımaşk halkından bir Kelâî’dir; Tinnîsî onun lakabıdır. Muvatta’yı Mâlik’ten rivayet etti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kelâî/Dımaşk/Muvatta bağı tezle, Tinnîsî makaleyle desteklenir; İbnü’l-Cevzî’nin bu kitap kaydının tamamı Türkçe bölümde yoktur."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kelâî/Dımaşk/Muvatta bağı tezle, Tinnîsî makaleyle desteklenir; İbnü’l-Cevzî’nin bu kitap kaydının tamamı Türkçe bölümde yoktur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kelâî/Dımaşk/Muvatta bağı tezle, Tinnîsî makaleyle desteklenir; İbnü’l-Cevzî’nin bu kitap kaydının tamamı Türkçe bölümde yoktur. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:2821:72710d44cc1c2f93ec20538c5d694b5310e2500b452bd6b5c9e5bbcba53d798b",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "من أوثق الناس في الموطأ ، ومرة : ما بقي في الموطأ أوثق منه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1ec31f169de9efc7d0066868f8e2c3857adf6b2fc7a33b4b459d4db3ac038189",
+          "text": "Muvatta rivayetinde insanların en güvenilirlerindendir. Başka bir değerlendirmesinde: Muvatta konusunda ondan daha güvenilir kimse kalmadı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Makale Abdullah ile Ka‘nebî’yi birlikte en güvenilirler arasında anar; ikinci ayrı Maîn naklinin tamamını vermez."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Makale Abdullah ile Ka‘nebî’yi birlikte en güvenilirler arasında anar; ikinci ayrı Maîn naklinin tamamını vermez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Makale Abdullah ile Ka‘nebî’yi birlikte en güvenilirler arasında anar; ikinci ayrı Maîn naklinin tamamını vermez. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:418:710c9b8cc227056d0a2a783e3b9243f7ad7e47b8ae1fb99736ff353d0dca937b",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "418",
+            "critic": "أحمد بن محمد بن سلامة بن سلمة بن عبد الملك بن سلمة بن سليم",
+            "opinion": "ذكره في شرح معاني الآثار وقال : أهل رواية",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d0c7ed7b0f7eaf89d947bc0d6b7f79e2b118571c4654e8b595875e94932641b8",
+          "text": "Onu Şerhu Meâni’l-âsâr’da zikretti ve şöyle dedi: Rivayete ehildir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Okunan Türkçe kişi bölümleri Tahâvî’nin bu özel eser kaydını ve lafzını vermez; Tahâvî ad kaynağı görüşün kendisinin teyidi değildir."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Okunan Türkçe kişi bölümleri Tahâvî’nin bu özel eser kaydını ve lafzını vermez; Tahâvî ad kaynağı görüşün kendisinin teyidi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Okunan Türkçe kişi bölümleri Tahâvî’nin bu özel eser kaydını ve lafzını vermez; Tahâvî ad kaynağı görüşün kendisinin teyidi değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:431:e075819d64bbe859935ed50dc42ae56fc48316a8c603bd8c1ed03e7c032e3810",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات ، وقال : أصله من دمشق ، سكن تنيس ، يروي عن مالك ويحيى بن حمزة ، وروى عنه البخاري",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1792e41387ff87a93c900435810997e9ce4a44f2bc30ad238564a43c70cc847c",
+          "text": "Onu es-Sikât’ta zikretti ve şöyle dedi: Aslı Dımaşklıdır; Tinnîs’te oturdu. Mâlik ve Yahyâ b. Hamza’dan rivayet eder; kendisinden de Buhârî rivayet etti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dımaşk ve bazı rivayet ilişkileri desteklenir; Tinnîs ikameti nisbeden türetilerek bağımsız kişi teyidi yapılmadı. Tunus diye çevrilmedi."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dımaşk ve bazı rivayet ilişkileri desteklenir; Tinnîs ikameti nisbeden türetilerek bağımsız kişi teyidi yapılmadı. Tunus diye çevrilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Dımaşk ve bazı rivayet ilişkileri desteklenir; Tinnîs ikameti nisbeden türetilerek bağımsız kişi teyidi yapılmadı. Tunus diye çevrilmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:49:9fe8eff8abd18f3ddf131435a6e511b195933c0f6b1ad2ebe4a9b086c9c7c6fb",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "49",
+            "critic": "إبراهيم بن يعقوب بن إسحاق",
+            "opinion": "الثقة المقنع",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "4e140fd15b9329da553e59150093de859996c7e812d8908eaac751fcad90c3c1",
+          "text": "Sikadır; rivayetine güven duyulur (mukni‘).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Bu münekkidin mukni‘ lafzı okunan Türkçe kişi bölümlerinde verilmez; yeni kesin bir derece karşılığı üretilmedi."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Bu münekkidin mukni‘ lafzı okunan Türkçe kişi bölümlerinde verilmez; yeni kesin bir derece karşılığı üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu münekkidin mukni‘ lafzı okunan Türkçe kişi bölümlerinde verilmez; yeni kesin bir derece karşılığı üretilmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:493:981dcdbb539d7a3849a2eb178ee9870b64b8ea9fbf8e20a737a1d5d7342b4c94",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "493",
+            "critic": "عبد الرحمن بن أحمد بن يونس بن عبد الأعلى بن موسى بن ميسرة بن حفص بن حيان",
+            "opinion": "ثقة حسن الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b9b382fd8212049f27a0524457fa3d9a4fda37090a722a565831a4c0a8156a48",
+          "text": "Sikadır; hadisi hasendir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbnYûnus’un bu tam sözü okunan Türkçe bölümlerde yoktur; kaynağın ravi nitelemesi tek tek hadislere yeni hasen hükmü değildir."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbnYûnus’un bu tam sözü okunan Türkçe bölümlerde yoktur; kaynağın ravi nitelemesi tek tek hadislere yeni hasen hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İbnYûnus’un bu tam sözü okunan Türkçe bölümlerde yoktur; kaynağın ravi nitelemesi tek tek hadislere yeni hasen hükmü değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:62:33da2b5d704ac262e4137194645645ebf94166f2cfb4020e08677f2940e66a66",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "62",
+            "critic": "عبد الله بن عدي بن عبد الله بن محمد بن مبارك",
+            "opinion": "أصله دمشقي ، صدوق لا بأس به",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "08597390b33d6a75b32c83ba1dfcafd1b9b2c4bc1e1f293701c6c12b4bb9b1ef",
+          "text": "Aslı Dımaşklıdır; sadûktur, rivayetinde bir sakınca yoktur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dımaşk aslı ve İbnAdî’nin sadûk nitelemesi tezde açıktır; lâ be’se bih bölümü aynı yerde tam verilmez."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Dımaşk aslı ve İbnAdî’nin sadûk nitelemesi tezde açıktır; lâ be’se bih bölümü aynı yerde tam verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Dımaşk aslı ve İbnAdî’nin sadûk nitelemesi tezde açıktır; lâ be’se bih bölümü aynı yerde tam verilmez. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:666:9fe8eff8abd18f3ddf131435a6e511b195933c0f6b1ad2ebe4a9b086c9c7c6fb",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "666",
+            "critic": "عبد الأعلى بن مسهر بن عبد الأعلى بن مسهر",
+            "opinion": "الثقة المقنع",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "11e305af3e7048e52a37e08c29658f0e79cff9354008084a715b399ba8af2853",
+          "text": "Sikadır; rivayetine güven duyulur (mukni‘).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "EbûMüshir’in bu tam lafzı okunan Türkçe bölümlerde yoktur; kısa ad teyidi görüşün bağımsız teyidi değildir."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "EbûMüshir’in bu tam lafzı okunan Türkçe bölümlerde yoktur; kısa ad teyidi görüşün bağımsız teyidi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "EbûMüshir’in bu tam lafzı okunan Türkçe bölümlerde yoktur; kısa ad teyidi görüşün bağımsız teyidi değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:700:fb1c9a13e2f596ae83d3ae87b7b8713e17d104f35ddfd5b64097a2fa6bf04a1d",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "700",
+            "critic": "خليل بن عبد الله بن أحمد بن الخليل",
+            "opinion": "ثقة متفق عليه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3f2e355d1c663448de1b80b148331914391ce7a3450a52520175acf882b719cd",
+          "text": "Sikadır; güvenilirliğinde ittifak edilmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Genel güvenilirlik desteklenir; Halîlî’nin ittifak lafzı Türkçe bölümde tam verilmez. Bu ravi değerlendirmesidir, ortak Buhârî–Müslim hadisi etiketi değildir."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Genel güvenilirlik desteklenir; Halîlî’nin ittifak lafzı Türkçe bölümde tam verilmez. Bu ravi değerlendirmesidir, ortak Buhârî–Müslim hadisi etiketi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Genel güvenilirlik desteklenir; Halîlî’nin ittifak lafzı Türkçe bölümde tam verilmez. Bu ravi değerlendirmesidir, ortak Buhârî–Müslim hadisi etiketi değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:767:0108ce0cc339ede7604f9d8a3f123ccc087b66eb877c18ea8d3fbd326c7bddd6",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "القعنبي فوقه في الموطأ",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "68e898c380325aea9a1c853ab708a86d61710e86687d16dc35088d4bd2d0c44d",
+          "text": "Muvatta rivayetinde Ka‘nebî ondan üstündür.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Türkçe makalede Maîn’in iki raviyi birlikte anması, Nesâî’nin burada açık üstünlük bildiren ayrı sözüyle eşitlenmedi."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Türkçe makalede Maîn’in iki raviyi birlikte anması, Nesâî’nin burada açık üstünlük bildiren ayrı sözüyle eşitlenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Türkçe makalede Maîn’in iki raviyi birlikte anması, Nesâî’nin burada açık üstünlük bildiren ayrı sözüyle eşitlenmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:779:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "891585d6a2e91bcde30ccc4520abfb41ad5e5a2b53dffd2ea2b23054df748ad7",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe kişi bölümü genel güvenilirliği destekler; İclî’nin bu atıflı sözü birebir Türkçe alıntı değildir."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe kişi bölümü genel güvenilirliği destekler; İclî’nin bu atıflı sözü birebir Türkçe alıntı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kişi bölümü genel güvenilirliği destekler; İclî’nin bu atıflı sözü birebir Türkçe alıntı değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "key": "5175:924:c70f6b1f7d09dd81357202904492c7de257b0cc0bbda642af7c77e794782d616",
+          "expected_source": {
+            "narrator_id": 5175,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ثقة أتقن من مروان الطاطري ، وكتب عنه أبي سنة سبع عشرة ومائتين",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2d747b2c7b7b371376f05db0687d66f107d31cd2fc5b720bbab45da40b6a0b78",
+          "text": "Sikadır; Mervân et-Tâtarî’den [مروان الطاطري] daha sağlam rivayet edendir (etkan); babam 217 yılında ondan hadis yazdı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "217, İbn Ebî Hâtim’in babasının yazma kaydıdır; tezdeki Buhârî’nin aynı yıldaki görüşmesiyle birleştirilmedi. Sika bağlamı desteklenir, mukayese/yazma ayrıntıları GK’den aktarılır."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "217, İbn Ebî Hâtim’in babasının yazma kaydıdır; tezdeki Buhârî’nin aynı yıldaki görüşmesiyle birleştirilmedi. Sika bağlamı desteklenir, mukayese/yazma ayrıntıları GK’den aktarılır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "217, İbn Ebî Hâtim’in babasının yazma kaydıdır; tezdeki Buhârî’nin aynı yıldaki görüşmesiyle birleştirilmedi. Sika bağlamı desteklenir, mukayese/yazma ayrıntıları GK’den aktarılır. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        }
+      ]
+    }
+  ]
+}

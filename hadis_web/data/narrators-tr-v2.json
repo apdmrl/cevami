@@ -1,0 +1,781 @@
+{
+  "revision": "narrators-tr-v2",
+  "reviewed_on": "2026-10-31",
+  "sources": {
+    "bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "Ad başlığı ve hayatı bölümü; 1992",
+      "accessed_on": "2026-10-31"
+    },
+    "humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "Ad başlığı ve ilk iki paragraf; 1998",
+      "accessed_on": "2026-10-31"
+    },
+    "sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "Ad başlığı ve hayatı bölümü; 2010",
+      "accessed_on": "2026-10-31"
+    },
+    "yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "Ad başlığı ve hayatı bölümü; 2013",
+      "accessed_on": "2026-10-31"
+    },
+    "alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "Ad başlığı, Utvârî nisbesi ve Ömer’den rivayet kaydı; 1989",
+      "accessed_on": "2026-10-31"
+    },
+    "umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "Ad başlığı ve hayatı bölümü; 2007",
+      "accessed_on": "2026-10-31"
+    },
+    "isnad_study": {
+      "url": "https://isamveri.org/pdfdrg/G00115/2017_3/2017_3_KOYCUE1.pdf",
+      "title": "E. Köycü; International Journal of Cultural and Social Studies, 3 (SI), 2017",
+      "locator": "Buhârî’nin ilk hadisinin isnadı; s. 408, dipnot 40",
+      "accessed_on": "2026-10-31"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "narrators": [
+    {
+      "id": 6817,
+      "expected_source": {
+        "shohra": "محمد بن إسماعيل البخاري",
+        "death_year": "256"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Muhammed b. İsmâil el-Buhârî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "bukhari"
+          ],
+          "rationale": "TDV Arapça başlığı ve 256 ölüm tarihi GK kişi kaydıyla karşılaştırıldı; kısa Türkçe ad biçimi."
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Abdullah",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "bukhari"
+          ],
+          "rationale": "GK künyesinin Türkçe yazımı; TDV başlığındaki Ebû Abdillâh biçimiyle aynı künye."
+        },
+        {
+          "field": "baladekama",
+          "text": "Buhara, Mekke, Medine, Mısır, Hicaz, Şam bölgesi, Rey, Horasan, Irak, Nîşâbur, Basra, Kûfe, Belh, Merv, Vâsıt, Dımaşk, Kaysâriye, Askalân, Humus, Mâverâünnehir, Bağdat",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "bukhari"
+          ],
+          "status": "needs_review",
+          "rationale": "GK yer adları aynı sırayla Türkçe yazıldı. TDV bütün bu yerleri tek tek doğrulamadığı ve Kaysâriye’nin yer kimliği netleştirilmediği için alan inceleme bekliyor; modern konum veya kesin ikamet iddiası değildir."
+        },
+        {
+          "field": "baladwafa",
+          "text": "Hartenk",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "bukhari"
+          ],
+          "rationale": "Kaynakta خرتنك yer adı; TDV hayatı bölümündeki Hartenk ile karşılaştırıldı."
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Hadis ezberinde zirve; hadis fıkhında önde gelen imam.",
+          "rendering_kind": "translation",
+          "sources": [
+            "bukhari",
+            "sika"
+          ],
+          "rationale": "GK övgü ifadesinin asistan çevirisi; yeni bir sıhhat veya ravi hükmü değildir."
+        },
+        {
+          "field": "biography_note",
+          "text": "Buhara’da yetişen Buhârî, hadis öğrenmek için farklı ilim merkezlerine gitti. el-Câmiu’s-sahîh onun en çok tanınan eseridir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "bukhari"
+          ],
+          "rationale": "TDV hayatı bölümünden asistanın kısa özeti; tam madde veya GK biyografisinin tercümesi değildir."
+        },
+        {
+          "field": "name",
+          "text": "Muhammed b. İsmâil b. İbrâhim b. Mugīre b. Bezdizbe",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Son ata adının GK yazımı ile Türkçe kaynaklardaki Berdizbeh biçimi farklı olduğundan inceleme bekliyor; özgün yazım düzeltilmedi."
+        },
+        {
+          "field": "badeel",
+          "text": "Ebû Abdullah el-Buhârî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "lakab",
+          "text": "İmam Buhârî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "san3a",
+          "text": "Fakih",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "nasab",
+          "text": "Buhârî, Cu‘fî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "mawaaly",
+          "text": "Cu‘fîlerin mevlâsı.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        }
+      ],
+      "expected_record_sha256": "4e51cb671eb07378723335b53dfd0f549b226c7a3d41adc25291aa06867b1939"
+    },
+    {
+      "id": 4698,
+      "expected_source": {
+        "shohra": "الحميدي عبد الله بن الزبير",
+        "badeel": "عبد الله بن الزبير الحميدي",
+        "death_year": "219"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Humeydî, Abdullah b. Zübeyr",
+          "rendering_kind": "name_form",
+          "sources": [
+            "humaydi"
+          ],
+          "rationale": "Arapça ad, alternatif ad, künye ve 219 ölüm tarihi birlikte eşleştirildi; aynı adlı sahâbî Abdullah b. Zübeyr değildir."
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Bekir",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "humaydi"
+          ],
+          "rationale": "GK أبو بكر künyesinin Türkçe yazımı; TDV başlığıyla karşılaştırıldı."
+        },
+        {
+          "field": "baladekama",
+          "text": "Mekke",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "humaydi"
+          ],
+          "rationale": "GK مكة alanının Türkçe yazımı; TDV Mekke’de öğretim faaliyetini kaydeder. Alan başka yerlerde hiç bulunmadığı anlamına gelmez."
+        },
+        {
+          "field": "baladwafa",
+          "text": "Mekke",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "humaydi"
+          ],
+          "rationale": "GK vefat yeri ve TDV vefat yeri karşılaştırıldı."
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika ve hâfız; İbn Uyeyne’nin talebelerinin en seçkinlerinden.",
+          "rendering_kind": "translation",
+          "sources": [
+            "humaydi",
+            "sika"
+          ],
+          "rationale": "GK derece ifadesinin tamamının çevirisi; terimler TDV Sika maddesiyle karşılaştırıldı. Uygulamanın yeni hükmü değildir."
+        },
+        {
+          "field": "biography_note",
+          "text": "Süfyân b. Uyeyne’den uzun süre hadis öğrenen Humeydî, Buhârî’nin hocalarındandır. Şâfiî ile de çalışmış, Mekke’de ders vermiştir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "humaydi"
+          ],
+          "rationale": "TDV’den kısa asistan özeti; tam biyografi çevirisi değildir. Ölüm yılı hakkındaki 219/220 ihtilafı burada giderilmiş sayılmaz."
+        },
+        {
+          "field": "name",
+          "text": "Abdullah b. Zübeyr b. Îsâ b. Ubeydullah b. Üsâme b. Abdullah b. Humeyd b. Züheyr b. Hâris b. Esed b. Abdüluzzâ",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "badeel",
+          "text": "Abdullah b. Zübeyr el-Humeydî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "nasab",
+          "text": "Kureşî, Humeydî, Esedî, Mekkî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        }
+      ],
+      "expected_record_sha256": "6adb6f04decb16025d59fafcd061aab19b6e2aefa2f49b1ae290b28efc00a7ad"
+    },
+    {
+      "id": 3443,
+      "expected_source": {
+        "shohra": "سفيان بن عيينة الهلالي",
+        "death_year": "198"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Süfyân b. Uyeyne el-Hilâlî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "sufyan"
+          ],
+          "rationale": "Arapça ad, Hilâlî nisbesi, künye ve 198 ölüm tarihi karşılaştırıldı; Süfyân es-Sevrî ile birleştirilmedi."
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Muhammed",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "sufyan"
+          ],
+          "rationale": "GK künyesi TDV başlığıyla karşılaştırıldı."
+        },
+        {
+          "field": "baladekama",
+          "text": "Kûfe, Mekke, Şam bölgesi",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "sufyan"
+          ],
+          "rationale": "GK yer adlarının sırası korunarak Türkçe yazıldı; Şam ifadesi modern tek bir şehir diye daraltılmadı. İkamet iddiasının kaynağı GK’dır."
+        },
+        {
+          "field": "baladwafa",
+          "text": "Mekke",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "sufyan"
+          ],
+          "rationale": "GK ve TDV’deki vefat yeri aynı."
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika, hâfız ve hüccet.",
+          "rendering_kind": "translation",
+          "sources": [
+            "sika"
+          ],
+          "rationale": "Kaynak derece ifadesinin terimleri Türkçe hadis terminolojisiyle aktarıldı; yeni değerlendirme değildir."
+        },
+        {
+          "field": "biography_note",
+          "text": "Kûfe doğumlu Süfyân b. Uyeyne, daha sonra Mekke’ye yerleşmiştir. Hadis rivayetindeki birikimi ve güçlü hafızasıyla tanınır.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "sufyan"
+          ],
+          "rationale": "TDV hayatı bölümünden kısa asistan özeti; tam biyografi çevirisi değildir."
+        },
+        {
+          "field": "name",
+          "text": "Süfyân b. Uyeyne b. Meymûn",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "badeel",
+          "text": "Süfyân b. Uyeyne b. Ebî İmrân el-Kûfî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "lakab",
+          "text": "İbn Uyeyne, İbn Ebî İmrân",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "wasf",
+          "text": "Bir gözü görmeyen.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "nasab",
+          "text": "Hilâlî, Kûfî, Mekkî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "mawaaly",
+          "text": "Dahhâk b. Müzâhim’in kardeşi Muhammed b. Müzâhim’in mevlâsı.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "karaba",
+          "text": "Muhammed b. Uyeyne, Âdem b. Uyeyne, İmrân b. Uyeyne ve İbrâhim b. Uyeyne’nin kardeşi.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        }
+      ],
+      "expected_record_sha256": "c67570a3f1f0828286fb92b88b7d286f47dd0bc6290d836fd1cc22289ef58b9d"
+    },
+    {
+      "id": 8272,
+      "expected_source": {
+        "shohra": "يحيى بن سعيد الأنصاري",
+        "death_year": "143"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Yahyâ b. Saîd el-Ensârî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "yahya"
+          ],
+          "rationale": "Ensârî nisbesi, künye ve 143 ölüm tarihi karşılaştırıldı; Yahyâ b. Saîd el-Kattân değildir."
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Saîd",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "yahya"
+          ],
+          "rationale": "GK künyesi TDV başlığındaki ilk künye ile karşılaştırıldı; alternatif Ebû Nasr ayrıca eklenmedi."
+        },
+        {
+          "field": "baladekama",
+          "text": "Enbâr, Medine, Bağdat",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "yahya"
+          ],
+          "rationale": "Kaynak yer adları aynı sırayla Türkçe yazıldı; buradaki yer iddiası GK kaydına aittir."
+        },
+        {
+          "field": "baladwafa",
+          "text": "Hâşimiye",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "yahya"
+          ],
+          "rationale": "GK الهاشمية yer adının Türkçe yazımı; aynı yer adı TDV kadılık bölümünde bulunur. Modern koordinat tayini değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika ve sebt; güvenilir ve rivayetinde titiz.",
+          "rendering_kind": "translation",
+          "sources": [
+            "sika"
+          ],
+          "rationale": "GK ثقة ثبت ifadesi TDV’de açıklanan hadis terimleriyle çevrildi."
+        },
+        {
+          "field": "biography_note",
+          "text": "Medine’nin hadis çevresinde yetişen Yahyâ el-Ensârî, farklı dönemlerde kadılık görevlerinde de bulunmuştur. Hadisleri birçok tanınmış muhaddis tarafından aktarılmıştır.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "yahya"
+          ],
+          "rationale": "TDV hayatı bölümünden kısa asistan özeti; tam biyografi çevirisi değildir."
+        },
+        {
+          "field": "name",
+          "text": "Yahyâ b. Saîd b. Kays b. Amr b. Sehl b. Sa‘lebe b. Hâris b. Zeyd b. Sa‘lebe b. Ganm b. Mâlik b. Neccâr",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "badeel",
+          "text": "Yahyâ b. Saîd b. Kays b. Kahd el-Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "san3a",
+          "text": "Kadı; Medine kadısı, Irak kadısı.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "nasab",
+          "text": "Ensârî, Medenî, Bağdâdî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "karaba",
+          "text": "Abdürabbih’in kardeşi.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        }
+      ],
+      "expected_record_sha256": "81d350498502c1206e0f9760b3912e1c18001a18cc9c9ccd52378f619719d899"
+    },
+    {
+      "id": 6796,
+      "expected_source": {
+        "shohra": "محمد بن إبراهيم القرشي",
+        "badeel": "محمد بن إبراهيم التيمي",
+        "death_year": "119"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Muhammed b. İbrâhim el-Kureşî (et-Teymî)",
+          "rendering_kind": "name_form",
+          "sources": [
+            "isnad_study"
+          ],
+          "rationale": "GK asıl ve alternatif adları ilk Buhârî isnadını aktaran Türkçe makaledeki et-Teymî ile karşılaştırıldı. İbrâhim et-Teymî adlı başka raviyle birleştirilmedi."
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Abdullah",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "isnad_study"
+          ],
+          "rationale": "Künye GK kaydından doğrudan Türkçe yazıldı; makale kişinin sened bağlamını destekler, bu künyeyi ayrıca doğrulamaz."
+        },
+        {
+          "field": "baladekama",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "isnad_study"
+          ],
+          "rationale": "GK المدينة alanının Türkçe yazımı; kişi/yer iddiasının birincil kaynağı GK’dır."
+        },
+        {
+          "field": "baladwafa",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "isnad_study"
+          ],
+          "rationale": "GK vefat yeri alanının Türkçe yazımı; yeni tarihsel doğrulama iddiası değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika; güvenilir ravi.",
+          "rendering_kind": "translation",
+          "sources": [
+            "sika"
+          ],
+          "rationale": "Kaynak ثقة ifadesinin Türkçe karşılığı; yeni ravi derecelendirmesi değildir."
+        },
+        {
+          "field": "name",
+          "text": "Muhammed b. İbrâhim b. Hâris b. Hâlid b. Sahr b. Âmir b. Kâ‘b b. Sa‘d b. Teym b. Mürre",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "badeel",
+          "text": "Muhammed b. İbrâhim et-Teymî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "nasab",
+          "text": "Kureşî, Teymî, Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "karaba",
+          "text": "Mûsâ b. Muhammed b. İbrâhim’in babası; Ebû Bekir es-Sıddîk’ın amcaoğlu; Hâris b. Hâlid’in torunu.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Ebû Bekir’e ilişkin akrabalık ifadesinin nesil ve kişi bağlamı ayrıca incelenecek; burada kesinleştirilmedi."
+        }
+      ],
+      "expected_record_sha256": "707d133843b47d662eb32fd7c096791385b905ef14080bc4c5385bba7aef5347"
+    },
+    {
+      "id": 5719,
+      "expected_source": {
+        "shohra": "علقمة بن وقاص العتواري",
+        "death_year": ""
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Alkame b. Vakkās el-Utvârî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "alqama"
+          ],
+          "rationale": "GK Utvârî nisbesi, TDV maddesindeki alternatif nisbe ve Ömer’den rivayet bağlamıyla karşılaştırıldı; Leysî biçimi aynı kişiye aittir."
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Yahyâ",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "alqama"
+          ],
+          "rationale": "GK أبو يحيى künyesinin Türkçe yazımı; TDV kişi eşleştirmesinin dayanağıdır, künyenin ikinci bağımsız kanıtı diye sunulmaz."
+        },
+        {
+          "field": "baladekama",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "alqama"
+          ],
+          "rationale": "GK yer adı Türkçe yazıldı; TDV başlığındaki Medenî nisbesiyle uyumlu."
+        },
+        {
+          "field": "baladwafa",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "alqama"
+          ],
+          "rationale": "GK vefat yeri Türkçe yazıldı; ölüm yılı kaynakta boş bırakılmaya devam eder."
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika ve sebt; güvenilir ve rivayetinde titiz.",
+          "rendering_kind": "translation",
+          "sources": [
+            "sika"
+          ],
+          "rationale": "GK derece ifadesinin çevirisi; yeni ravi hükmü değildir."
+        },
+        {
+          "field": "biography_note",
+          "text": "Ömer ve Âişe gibi sahâbîlerden hadis aktaran Alkame, tâbiîn içinde değerlendirilir. Ölüm tarihi hakkında kesin bilgi bulunmadığı belirtilmektedir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "alqama"
+          ],
+          "rationale": "TDV’den kısa asistan özeti; yaklaşık 86 tarihini kesinleştirmez ve GK’deki boş ölüm yılını doldurmaz."
+        },
+        {
+          "field": "name",
+          "text": "Alkame b. Vakkās b. Muhsin b. Kelde b. Abdüyâlîl",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "badeel",
+          "text": "Ebû Yahyâ el-Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "nasab",
+          "text": "Leysî, Utvârî, Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "karaba",
+          "text": "Amr b. Alkame b. Vakkās ile Abdullah b. Alkame b. Vakkās’ın babası; Muhammed b. Amr b. Alkame’nin dedesi.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        }
+      ],
+      "expected_record_sha256": "7f1c9725c887bef532669fc1592b9f7b535fc466c4f01bdc682c313e0e26aa1f"
+    },
+    {
+      "id": 5913,
+      "expected_source": {
+        "shohra": "عمر بن الخطاب العدوي",
+        "death_year": "23"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Ömer b. Hattâb el-Adevî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "umar"
+          ],
+          "rationale": "Ad, Adevî nisbesi, Ebû Hafs künyesi ve 23 ölüm tarihi TDV başlığıyla karşılaştırıldı."
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Hafs",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "umar"
+          ],
+          "rationale": "GK künyesinin Türkçe yazımı; TDV başlığıyla aynı."
+        },
+        {
+          "field": "baladekama",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "umar"
+          ],
+          "rationale": "GK ikamet yerinin Türkçe yazımı; doğum yeriyle karıştırılmadı."
+        },
+        {
+          "field": "baladwafa",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "umar"
+          ],
+          "rationale": "GK vefat yerinin Türkçe yazımı."
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sahâbî.",
+          "rendering_kind": "translation",
+          "sources": [
+            "umar"
+          ],
+          "rationale": "Kaynak صحابي ifadesinin Türkçe karşılığı; sayısal ravi notu değildir."
+        },
+        {
+          "field": "biography_note",
+          "text": "Ebû Hafs künyesi ve Fârûk lakabıyla anılan Ömer, Hz. Peygamber’in sahâbîlerindendir. Ebû Bekir’den sonra halifelik görevini üstlenmiştir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "umar"
+          ],
+          "rationale": "TDV’den kısa asistan özeti; tam biyografi çevirisi değildir."
+        },
+        {
+          "field": "name",
+          "text": "Ömer b. Hattâb b. Nüfeyl b. Abdüluzzâ b. Riyâh b. Abdullah b. Kurt b. Rezâh b. Adî b. Kâ‘b",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "badeel",
+          "text": "Ebû Hafs el-Fârûk",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "lakab",
+          "text": "Fârûk",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "san3a",
+          "text": "Müminlerin emîri.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "nasab",
+          "text": "Kureşî, Adevî, Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        },
+        {
+          "field": "karaba",
+          "text": "Hanteme bint Hâşim b. Mugīre’nin oğlu.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez."
+        }
+      ],
+      "expected_record_sha256": "aacce85ad5b5b47ae340e820199c9bbdc87132db02c8d53e4cb7afa6d020665e"
+    }
+  ],
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae"
+}

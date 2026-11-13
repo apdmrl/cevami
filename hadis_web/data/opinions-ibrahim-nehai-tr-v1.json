@@ -1,0 +1,326 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/nehai",
+      "title": "Şükrü Özen — Nehaî, TDV 32 (2006), 535–538",
+      "locator": "Tam madde gövdesi/kaynakça/matbu künye okundu. Kısa ad/künye/iki nisbe/Kûfe, tek gözün görmemesi, anne ve iki dayı, sika/fıkıh, A‘meş hadis sarrafı ve mürsel kabulündeki Beyhakī sınırı karşılaştırıldı. Ham50/96/46tarihler değiştirilmedi; görme işitme değildir. Uzun adın Kays halkası kısa başlıkta yok; İbn Hibbân akrabalık varyantı ayrı. Bütün özel münekkit sözlerinin tam Türkçesi veya yeni tarihsel hüküm sayılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/283/إبراهيم-بن-يزيد-بن-قيس-بن-الأسود",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbrâhim en-Nehaî, dijital 2/234–240, nr. 265",
+      "locator": "Tam harekesiz dijital giriş/hoca-talebe listeleri/eklenen Tirmizî isnadı okundu; son241etiketi sonraki gösterim sınırı. Uzun soy/anne/iki dayı, Âişe işitmesinin sabit olmaması, İclî beş nitelemesi ve A‘meş sarraf sözü açık. Fiziksel baskı/sayfa tasdiki yok; bu kitap GK1385ölüm749ile TDVmüellif742çelişkisini gidermiyor.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/663/إبراهيم-النخعي",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, İbrâhim en-Nehaî, dijital 4/521–529",
+      "locator": "Tam harekesiz kişi girişi okundu. Görme/işitme ve yaş nakilleri farklı raporlar olarak korunur; hepsinden yeni muttasıl sened hükmü çıkarılmadı. A‘meş sarraf sözü/İclî değerlendirmesi karşılaştırıldı; bütün kaynak kitaplar veya fiziksel baskı doğrulanmış sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "tahsil": {
+      "url": "https://islamicbook.ws/hadeth/alum/jama-001.html",
+      "title": "Alâî — Câmi‘u’t-tahsîl, çevrim içi İbrâhim en-Nehaî girişi, nr. 13",
+      "locator": "Yalnız tam13numaralı kişi girişi okundu: çok irsâl/bir grup imamın kabulü/Beyhakī’nin İbn Mes‘ûd sınırı ve ayrı işitme raporları. Çevrim içi yeniden akıtılmış metindir; bütün kitap/faksimile/fiziksel sayfa tasdiki değildir. Önceki tedlîs atfı kaynak cümlesinde anılır; hamGKtadleese0değiştirilmedi.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi_name": {
+      "url": "https://islamansiklopedisi.org.tr/mizzi-yusuf-b-abdurrahman",
+      "title": "M. Yaşar Kandemir — Mizzî, TDV elektronik künye 30 (2020), 220–221",
+      "locator": "Tam madde/kaynakça/başlık/künye okundu; elektronik footer2020olarak gösterilir, başka baskı yılı varsayılmadı. Müellif Yûsuf Abdurrahman Yûsuf/654–742; oğlu Abdurrahman Yûsuf’un ölümü749ayrı kişidir. GK1385ve51027ölüm749sorunu saklanmadı; kısa Mizzî biçiminin desteği tarih çelişkisini çözmez.",
+      "accessed_on": "2026-11-03"
+    },
+    "heysemi": {
+      "url": "https://islamansiklopedisi.org.tr/heysemi",
+      "title": "M. Yaşar Kandemir — Heysemî, TDV 17 (1998), 292–293",
+      "locator": "Tam madde/kaynakça/başlık/künye okundu. Ali Ebû Bekir Süleyman/735–807kimliği kısa ad içindir;974ölümlü Heytemî değildir. Mecma‘u’z-zevâid’deki üç özgün Nehaî cümlesinin yerleri bu maddeden okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "alai": {
+      "url": "https://islamansiklopedisi.org.tr/alai",
+      "title": "Selman Başaran — Alâî, TDV 2 (1989), 331–332",
+      "locator": "Tam madde/kaynakça/başlık/künye okundu. Halîl Keykeldî/Ebû Saîd/694–761ve Câmi‘u’t-tahsîl bağlantısı kısa ad için karşılaştırıldı. GK67919akrabalık dizisi yeni aile ilişkilerine dönüştürülmedi.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-nehai-critic-records.json",
+      "sha256": "49a7e35d14d63e0598b134fa83c6348c82ade1ef11f22ce87d99bbcaedf93142"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-nehai-related-records.json",
+      "sha256": "d8e2e057c0c4253eab11ed8b59f31f8b45532c60eb66944ba81da85e7ad6a8d8"
+    }
+  ],
+  "revision": "ibrahim-nehai-opinions-tr-v1",
+  "policy": "9tamgörüş/TR2tam6kısmi1okunan bölümde bulunamadı;2atıfproblemi açık.",
+  "narrators": [
+    {
+      "id": 902,
+      "expected_opinion_count": 9,
+      "opinions": [
+        {
+          "key": "902:1011:066972facfa7cedb2a65ec7a1180a90a3cbb049e258384a498c138e0a712bc8e",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة فقيه إلا أنه يرسل كثيرا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6ce45d50c171092698b6712d7854c729ecb48b9637a7fd0470ce67aa425e3557",
+          "text": "Takrîb’de: Sikadır, fakihtir; ancak çokça mürsel rivayet eder.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitap adı ve إلاistisnası korunur. TDV sika/fıkıh ve çok irsâli destekler; özel Takrîb sözünün yayımlanmış tam Türkçesi değildir. Asıl Takrîb girişi ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kitap adı ve إلاistisnası korunur. TDV sika/fıkıh ve çok irsâli destekler; özel Takrîb sözünün yayımlanmış tam Türkçesi değildir. Asıl Takrîb girişi ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:1268:0ad4fbec2fa28cc58abea4716ecc99918e17bc3b80dc5678f24ce47897066d6e",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "الفقيه كان عجبا في الورع والخير متوقيا للشهرة رأسا في العلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "873fc38f468797ca364dc57423b49a28606374a704a402605d0e23488f73ab4a",
+          "text": "Fakihti; verâ ve hayırda hayranlık uyandırırdı; şöhretten sakınırdı; ilimde önde gelen biriydi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dört niteleme ve şöhretten kaçınma korunur. TDV fıkıh/ibadet/şöhretten kaçınma bağlamını destekler; bu tam Zehebî lafzının Türkçe alıntısı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Dört niteleme ve şöhretten kaçınma korunur. TDV fıkıh/ibadet/şöhretten kaçınma bağlamını destekler; bu tam Zehebî lafzının Türkçe alıntısı değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:1385:28b943b853ed94717876e2ed0d2d82e9bea7dfeeeee181a5750b6924012494ff",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "فقيه أهل الكوفة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0707e994f8f1c3ca01d59b7eac9db2d2b6577c1fd3952eb4c97106c882732fa5",
+          "text": "Kûfe halkının fakihidir.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Mizzî’nin tam265girişinde ifade var; dil anlamı açık. Ancak tamGK1385/51027ölüm749, TDVmüellif742ile uyuşmaz;749ölümlü oğul Abdurrahman ayrı kişidir. Bu tarih/kimlik çelişkisi açık problem olarak tutuldu; kayıt, oğul kimliğine taşınmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Mizzî’nin tam265girişinde ifade var; dil anlamı açık. Ancak tamGK1385/51027ölüm749, TDVmüellif742ile uyuşmaz;749ölümlü oğul Abdurrahman ayrı kişidir. Bu tarih/kimlik çelişkisi açık problem olarak tutuldu; kayıt, oğul kimliğine taşınmadı."
+            },
+            "mizzi_name": {
+              "support_scope": "identity_context",
+              "evidence_note": "Mizzî’nin tam265girişinde ifade var; dil anlamı açık. Ancak tamGK1385/51027ölüm749, TDVmüellif742ile uyuşmaz;749ölümlü oğul Abdurrahman ayrı kişidir. Bu tarih/kimlik çelişkisi açık problem olarak tutuldu; kayıt, oğul kimliğine taşınmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Mizzî’nin tam265girişinde ifade var; dil anlamı açık. Ancak tamGK1385/51027ölüm749, TDVmüellif742ile uyuşmaz;749ölümlü oğul Abdurrahman ayrı kişidir. Bu tarih/kimlik çelişkisi açık problem olarak tutuldu; kayıt, oğul kimliğine taşınmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:1425:a7458b263e73585534ea765e61a1c3b34bafe5a28aa2f31f36b254b720969857",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "1425",
+            "critic": "علي بن أبي بكر بن سليمان بن أبي بكر بن عمر بن صالح",
+            "opinion": "لم يدرك عليا ، وعن عمر بن الخطاب منقطع ، ولم يسمع ابن مسعود",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8e1464ea75671d64389bb61f34c336e3b1623c6204bb41f04beae6d5f5f465fb",
+          "text": "Ali’ye yetişmemiştir; Ömer b. Hattâb’dan rivayeti munkatıdır; İbn Mes‘ûd’dan işitmemiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç ayrı olumsuzluk korunur: idrak, kopuk rivayet, işitmeme aynı kavram değildir. TDV Ali/Ömer/İbn Mes‘ûd bağlantılarının mürsel bağlamını ve yaş sınırını anlatır; özel üç Heysemî cümlesinin tam Türkçesi sayılmadı. Asıl Mecma‘ pasajları okunmadı; sahâbîyi görmek işitmeye dönüştürülmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üç ayrı olumsuzluk korunur: idrak, kopuk rivayet, işitmeme aynı kavram değildir. TDV Ali/Ömer/İbn Mes‘ûd bağlantılarının mürsel bağlamını ve yaş sınırını anlatır; özel üç Heysemî cümlesinin tam Türkçesi sayılmadı. Asıl Mecma‘ pasajları okunmadı; sahâbîyi görmek işitmeye dönüştürülmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:1708:e6990980527f30912c9d72d9ba4c70c94de434c89b6e9b87bb5a977b507479ae",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "1708",
+            "critic": "سليمان بن مهران",
+            "opinion": "صيرفي الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d8c7eb30070bc713dc0fcd716b398275890eb1ea39b5ad7a776f0d63001d13a7",
+          "text": "Hadis sarrafıdır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV A‘meş’in aynı mecazını açık aktarır; Mizzî/Siyer Arapçası da okundu. Sarraf burada hadisleri değerlendirme maharetidir, ticaret veya meslek kaydı değildir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV A‘meş’in aynı mecazını açık aktarır; Mizzî/Siyer Arapçası da okundu. Sarraf burada hadisleri değerlendirme maharetidir, ticaret veya meslek kaydı değildir."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV A‘meş’in aynı mecazını açık aktarır; Mizzî/Siyer Arapçası da okundu. Sarraf burada hadisleri değerlendirme maharetidir, ticaret veya meslek kaydı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV A‘meş’in aynı mecazını açık aktarır; Mizzî/Siyer Arapçası da okundu. Sarraf burada hadisleri değerlendirme maharetidir, ticaret veya meslek kaydı değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e16e60364aeb94a67e3c6bbd5004a90bab5c5b398ca84d4a0934a981eb83bcfc",
+          "text": "Onu es-Sikât’ta zikretti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Açık kitap kaydı korunur, yalnız sikadır özetine indirgenmedi. İncelenen Türkçe bölümde bu özel kitap kaydı bulunmadı; asıl es-Sikât kişi girişi ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Açık kitap kaydı korunur, yalnız sikadır özetine indirgenmedi. İncelenen Türkçe bölümde bu özel kitap kaydı bulunmadı; asıl es-Sikât kişi girişi ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:466:47e86270e3aac072a258e702d377272269f29e1b34331afa2e7d0e8ed05e9816",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "466",
+            "critic": "أحمد بن الحسين بن علي بن إبراهيم بن الحكم",
+            "opinion": "علم من أعلام أهل الإسلام وفقيه من فقهائهم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1bd9673684007c7c733388ca5ab6280c0fca550760bf4cacaa084e3a629752e3",
+          "text": "Müslümanların önde gelen simalarından ve onların fakihlerindendir.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki niteleme korunur. TDV bayraktar sözünü meşhur Ebû Zür‘a’ya nisbet eder; GK466tamAhmed b.Hüseyin b.Ali b.İbrâhim b.Hakem/375gövdesi meşhur264ölümlü kişi değildir. Eski gövde korunur; ad benzerliğiyle atıf düzeltilmedi, problem açık."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki niteleme korunur. TDV bayraktar sözünü meşhur Ebû Zür‘a’ya nisbet eder; GK466tamAhmed b.Hüseyin b.Ali b.İbrâhim b.Hakem/375gövdesi meşhur264ölümlü kişi değildir. Eski gövde korunur; ad benzerliğiyle atıf düzeltilmedi, problem açık. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:490:b1505897c92c1df6f4e3929eeebc203985ea53969f48c1a7edde38cfb734b77b",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "490",
+            "critic": "خليل بن كيكلدي بن عبد الله",
+            "opinion": "هو مكثر من الإرسال ، وجماعة من الأئمة صححوا مراسيله",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "17dae8db2c7791452dd4131e2c2076a47b1beafc25a97409d389741b91e24021",
+          "text": "Çokça mürsel rivayet eder; imamlardan bir grup onun mürsellerini sahih saymıştır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV çok irsâl ve bir grup imamın kabulünü açık anlatır. Tam Alâî girişindeki Beyhakī sınırı yalnız İbn Mes‘ûd’dan mürseller hakkındadır; bütün mürseller için uygulamanın sahih hükmü çıkarılmadı. Bir grup ibaresi icmâ yapılmadı; bu özel cümle asistan aktarımıdır."
+            },
+            "tahsil": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV çok irsâl ve bir grup imamın kabulünü açık anlatır. Tam Alâî girişindeki Beyhakī sınırı yalnız İbn Mes‘ûd’dan mürseller hakkındadır; bütün mürseller için uygulamanın sahih hükmü çıkarılmadı. Bir grup ibaresi icmâ yapılmadı; bu özel cümle asistan aktarımıdır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV çok irsâl ve bir grup imamın kabulünü açık anlatır. Tam Alâî girişindeki Beyhakī sınırı yalnız İbn Mes‘ûd’dan mürseller hakkındadır; bütün mürseller için uygulamanın sahih hükmü çıkarılmadı. Bir grup ibaresi icmâ yapılmadı; bu özel cümle asistan aktarımıdır. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "902:779:929c94780b01e4ca5a36f06861f040638ff45e3fbf1b09168c7f8f8038dba8e2",
+          "expected_source": {
+            "narrator_id": 902,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "كان مفتي أهل الكوفة وكان رجلا صالحا فقيها متوقيا قليل التكلف",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2a9f22785e0e9760094ec95ed9e574b6fcbd5ca353fc236cb0c39a27790d5fb2",
+          "text": "Kûfe halkının müftüsüydü; sâlih, fakih, ihtiyatlı ve tekellüfü az bir kimseydi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Beş niteleme korunur; tekellüf zorlama/yapmacık davranış bağlamındadır. Mizzî ve Siyer tam değerlendirmeyi verir. TDV fetva/fıkıh/sâlihliği destekler; bütün beş parçalı İclî sözünün birebir Türkçesi değildir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Beş niteleme korunur; tekellüf zorlama/yapmacık davranış bağlamındadır. Mizzî ve Siyer tam değerlendirmeyi verir. TDV fetva/fıkıh/sâlihliği destekler; bütün beş parçalı İclî sözünün birebir Türkçesi değildir."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Beş niteleme korunur; tekellüf zorlama/yapmacık davranış bağlamındadır. Mizzî ve Siyer tam değerlendirmeyi verir. TDV fetva/fıkıh/sâlihliği destekler; bütün beş parçalı İclî sözünün birebir Türkçesi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Beş niteleme korunur; tekellüf zorlama/yapmacık davranış bağlamındadır. Mizzî ve Siyer tam değerlendirmeyi verir. TDV fetva/fıkıh/sâlihliği destekler; bütün beş parçalı İclî sözünün birebir Türkçesi değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1623 @@
+{
+  "revision": "critic-names-tr-v2-primary-followup",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "reviewed_on": "2026-10-31",
+  "policy": "Kısa Türkçe akademik ad biçimleri kullanılır. supports_full_field yalnızca belirtilen name_form biçimini destekler; uzun Arapça soy zincirinin bütün unsurlarının Türkçe kaynaktan doğrulandığı iddiası değildir. expected_arabic_name uygulamanın tam ham adıyla birebir eşleşmelidir. Arapça asıl görünür kalır. source_compared uzman onayı değildir. Pending yalnızca bu turda kontrol edilen kaynakların sınırını bildirir.",
+  "sources": {
+    "tdv_ibn_adi": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-adi",
+      "title": "TDV İslâm Ansiklopedisi: İbn Adî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibnul_cevzi_ebul_ferec": {
+      "url": "https://islamansiklopedisi.org.tr/ibnul-cevzi-ebul-ferec",
+      "title": "TDV İslâm Ansiklopedisi: Ebü’l-Ferec İbnü’l-Cevzî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_lalekai": {
+      "url": "https://islamansiklopedisi.org.tr/lalekai",
+      "title": "TDV İslâm Ansiklopedisi: Lâlekâî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_beyhaki_ahmed_b_huseyin": {
+      "url": "https://islamansiklopedisi.org.tr/beyhaki-ahmed-b-huseyin",
+      "title": "TDV İslâm Ansiklopedisi: Beyhakī",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_ebu_seybe_ebu_bekir": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-ebu-seybe-ebu-bekir",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Bekir İbn Ebû Şeybe",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ebu_hatim_er_razi_muhammed_b_idris": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-hatim-er-razi-muhammed-b-idris",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Hâtim er-Râzî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_hibban": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-hibban",
+      "title": "TDV İslâm Ansiklopedisi: İbn Hibbân",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_hakim_en_nisaburi": {
+      "url": "https://islamansiklopedisi.org.tr/hakim-en-nisaburi",
+      "title": "TDV İslâm Ansiklopedisi: Hâkim en-Nîsâbûrî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_tirmizi": {
+      "url": "https://islamansiklopedisi.org.tr/tirmizi",
+      "title": "TDV İslâm Ansiklopedisi: Tirmizî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_dimyati_abdulmumin_b_halef": {
+      "url": "https://islamansiklopedisi.org.tr/dimyati-abdulmumin-b-halef",
+      "title": "TDV İslâm Ansiklopedisi: Abdülmü’min b. Halef ed-Dimyâtî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ebu_musab": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-musab",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Mus‘ab",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ahmed_b_hanbel": {
+      "url": "https://islamansiklopedisi.org.tr/ahmed-b-hanbel",
+      "title": "TDV İslâm Ansiklopedisi: Ahmed b. Hanbel",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_nesai": {
+      "url": "https://islamansiklopedisi.org.tr/nesai",
+      "title": "TDV İslâm Ansiklopedisi: Nesâî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_icli_ebul_hasan": {
+      "url": "https://islamansiklopedisi.org.tr/icli-ebul-hasan",
+      "title": "TDV İslâm Ansiklopedisi: İclî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_rahuye": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-rahuye",
+      "title": "TDV İslâm Ansiklopedisi: İshak b. Râhûye",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ismail_b_ebu_uveys": {
+      "url": "https://islamansiklopedisi.org.tr/ismail-b-ebu-uveys",
+      "title": "TDV İslâm Ansiklopedisi: İsmâil b. Ebû Üveys",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_ebu_hatim": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-ebu-hatim",
+      "title": "TDV İslâm Ansiklopedisi: İbn Ebû Hâtim",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibnul_esir_mecduddin": {
+      "url": "https://islamansiklopedisi.org.tr/ibnul-esir-mecduddin",
+      "title": "TDV İslâm Ansiklopedisi: Mecdüddin İbnü’l-Esîr",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibnul_keyyal": {
+      "url": "https://islamansiklopedisi.org.tr/ibnul-keyyal",
+      "title": "TDV İslâm Ansiklopedisi: İbnü’l-Keyyâl",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_hacer_el_askalani": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-hacer-el-askalani",
+      "title": "TDV İslâm Ansiklopedisi: İbn Hacer el-Askalânî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_abdulber_en_nemeri": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-abdulber-en-nemeri",
+      "title": "TDV İslâm Ansiklopedisi: İbn Abdülber en-Nemerî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_buhari_muhammed_b_ismail": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_sibt_ibnul_acemi": {
+      "url": "https://islamansiklopedisi.org.tr/sibt-ibnul-acemi",
+      "title": "TDV İslâm Ansiklopedisi: Sıbt İbnü’l-Acemî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_hatib_el_bagdadi": {
+      "url": "https://islamansiklopedisi.org.tr/hatib-el-bagdadi",
+      "title": "TDV İslâm Ansiklopedisi: Hatîb el-Bağdâdî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_darekutni": {
+      "url": "https://islamansiklopedisi.org.tr/darekutni",
+      "title": "TDV İslâm Ansiklopedisi: Dârekutnî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_zehebi": {
+      "url": "https://islamansiklopedisi.org.tr/zehebi",
+      "title": "TDV İslâm Ansiklopedisi: Zehebî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_mizzi_yusuf_b_abdurrahman": {
+      "url": "https://islamansiklopedisi.org.tr/mizzi-yusuf-b-abdurrahman",
+      "title": "TDV İslâm Ansiklopedisi: Mizzî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_bisr_b_mufaddal": {
+      "url": "https://islamansiklopedisi.org.tr/bisr-b-mufaddal",
+      "title": "TDV İslâm Ansiklopedisi: Bişr b. Mufaddal",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_cerir_b_abdulhamid": {
+      "url": "https://islamansiklopedisi.org.tr/cerir-b-abdulhamid",
+      "title": "TDV İslâm Ansiklopedisi: Cerîr b. Abdülhamîd",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_hammad_b_zeyd": {
+      "url": "https://islamansiklopedisi.org.tr/hammad-b-zeyd",
+      "title": "TDV İslâm Ansiklopedisi: Hammâd b. Zeyd",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_sufyan_es_sevri": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-es-sevri",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân es-Sevrî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_sufyan_b_uyeyne": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_salih_cezere": {
+      "url": "https://islamansiklopedisi.org.tr/salih-cezere",
+      "title": "TDV İslâm Ansiklopedisi: Sâlih Cezere",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_abdurrahman_b_mehdi": {
+      "url": "https://islamansiklopedisi.org.tr/abdurrahman-b-mehdi",
+      "title": "TDV İslâm Ansiklopedisi: Abdurrahman b. Mehdî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_abdulgani_el_ezdi": {
+      "url": "https://islamansiklopedisi.org.tr/abdulgani-el-ezdi",
+      "title": "TDV İslâm Ansiklopedisi: Abdülganî el-Ezdî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_darimi_abdullah_b_abdurrahman": {
+      "url": "https://islamansiklopedisi.org.tr/darimi-abdullah-b-abdurrahman",
+      "title": "TDV İslâm Ansiklopedisi: Abdullah b. Abdurrahman ed-Dârimî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_vehb": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-vehb",
+      "title": "TDV İslâm Ansiklopedisi: İbn Vehb",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_abdan_el_ahvazi": {
+      "url": "https://islamansiklopedisi.org.tr/abdan-el-ahvazi",
+      "title": "TDV İslâm Ansiklopedisi: Abdân el-Ahvâzî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ali_b_medini": {
+      "url": "https://islamansiklopedisi.org.tr/ali-b-medini",
+      "title": "TDV İslâm Ansiklopedisi: Ali b. Medînî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ali_b_hucr": {
+      "url": "https://islamansiklopedisi.org.tr/ali-b-hucr",
+      "title": "TDV İslâm Ansiklopedisi: Ali b. Hucr",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_kuteybe_b_said": {
+      "url": "https://islamansiklopedisi.org.tr/kuteybe-b-said",
+      "title": "TDV İslâm Ansiklopedisi: Kuteybe b. Saîd",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_safii": {
+      "url": "https://islamansiklopedisi.org.tr/safii",
+      "title": "TDV İslâm Ansiklopedisi: Şâfiî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_huzeyme": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-huzeyme",
+      "title": "TDV İslâm Ansiklopedisi: İbn Huzeyme",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_bundar_muhammed_b_bessar": {
+      "url": "https://islamansiklopedisi.org.tr/bundar-muhammed-b-bessar",
+      "title": "TDV İslâm Ansiklopedisi: Muhammed b. Beşşâr (Bündâr)",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_sad": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-sad",
+      "title": "TDV İslâm Ansiklopedisi: İbn Sa‘d",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_sellam_el_cumahi": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-sellam-el-cumahi",
+      "title": "TDV İslâm Ansiklopedisi: İbn Sellâm el-Cumahî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_numeyr": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-numeyr",
+      "title": "TDV İslâm Ansiklopedisi: İbn Nümeyr",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_zuhli": {
+      "url": "https://islamansiklopedisi.org.tr/zuhli",
+      "title": "TDV İslâm Ansiklopedisi: Zühlî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_muslim_b_haccac": {
+      "url": "https://islamansiklopedisi.org.tr/muslim-b-haccac",
+      "title": "TDV İslâm Ansiklopedisi: Müslim b. Haccâc",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_nuaym_b_hammad": {
+      "url": "https://islamansiklopedisi.org.tr/nuaym-b-hammad",
+      "title": "TDV İslâm Ansiklopedisi: Nuaym b. Hammâd",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_hisam_b_urve": {
+      "url": "https://islamansiklopedisi.org.tr/hisam-b-urve",
+      "title": "TDV İslâm Ansiklopedisi: Hişâm b. Urve",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_vuheyb_b_halid": {
+      "url": "https://islamansiklopedisi.org.tr/vuheyb-b-halid",
+      "title": "TDV İslâm Ansiklopedisi: Vüheyb b. Hâlid",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_yahya_b_said_el_kattan": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-kattan",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Kattân",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_yahya_b_main": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-main",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Maîn",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_devraki_yakub_b_ibrahim": {
+      "url": "https://islamansiklopedisi.org.tr/devraki-yakub-b-ibrahim",
+      "title": "TDV İslâm Ansiklopedisi: Ya‘kūb b. İbrâhim ed-Devrakī",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_fesevi": {
+      "url": "https://islamansiklopedisi.org.tr/fesevi",
+      "title": "TDV İslâm Ansiklopedisi: Fesevî",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_seybe": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-seybe",
+      "title": "TDV İslâm Ansiklopedisi: Ya‘kūb b. Şeybe",
+      "locator": "Madde başlığı ve girişteki kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_musnedi": {
+      "url": "https://islamansiklopedisi.org.tr/musnedi",
+      "title": "M. Yaşar Kandemir, TDV İslâm Ansiklopedisi: Müsnedî",
+      "locator": "Ahmed b. Seyyâr el-Mervezî’nin adı geçen biyografi paragrafı",
+      "accessed_on": "2026-10-31"
+    },
+    "senol_muaze": {
+      "url": "https://dergipark.org.tr/en/download/article-file/3305392",
+      "title": "Şule Soyal Şenol, Rivâyetleriyle Muâze el-Adeviyye, Bartın Üniversitesi İslami İlimler Fakültesi Dergisi 20 (2023), s.34–68",
+      "locator": "Basılı s.43; PDF s.10, Amr b. Zürâre paragrafı",
+      "accessed_on": "2026-10-31"
+    },
+    "bahar_siret": {
+      "url": "https://dergipark.org.tr/tr/pub/hid/article/1525735",
+      "title": "Murat Bahar, Süleyman b. Tarhân’ın Sîret’inde Vahyin Başlangıcı ve İlk Nâzil Olan Sûreler, Hitit İlahiyat Dergisi 23/2 (2024)",
+      "locator": "Kaynakça, Fellâs / et-Târîh maddesi",
+      "accessed_on": "2026-10-31"
+    },
+    "hamod_malati": {
+      "url": "https://dergipark.org.tr/en/pub/esoguifd/article/950925",
+      "title": "Musab Hamod, Fudayl b. Muhammed el-Malatî’nin Hadis Rivayetindeki Yeri ve Önemi, Eskişehir Osmangazi Üniversitesi İlahiyat Fakültesi Dergisi (2021), s.286–306",
+      "locator": "Kaynakça, Beşşar Avvâd Maruf–Şuayb el-Arnavut / Tahrîru Takrîbü’t-Tehzîb maddesi",
+      "accessed_on": "2026-10-31"
+    },
+    "evgin_sufyan": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/52614",
+      "title": "A. Kadir Evgin, Süfyan b. Uyeyne (107-198/725-813) ve Hadis Cüz’ü, Dinbilimleri Akademik Araştırma Dergisi (2003), s.69–107",
+      "locator": "Basılı s.73; PDF s.5, ihtilât paragrafı ve dn.25",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ezdi_followup": {
+      "url": "https://islamansiklopedisi.org.tr/ebul-feth-el-ezdi",
+      "title": "İsmail Lütfi Çakan, TDV İslâm Ansiklopedisi: Ebü’l-Feth el-Ezdî",
+      "locator": "Kimlik satırı; 369 yılının vefat varyantları arasında açıkça zikredildiği paragraf",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_gassani_followup": {
+      "url": "https://islamansiklopedisi.org.tr/gassani-ebu-ali",
+      "title": "M. Yaşar Kandemir, TDV İslâm Ansiklopedisi: Gassânî, Ebû Ali",
+      "locator": "Madde başlığı ve Hüseyn b. Muhammed b. Ahmed / 498 kimlik satırı",
+      "accessed_on": "2026-10-31"
+    },
+    "tdv_ibn_said_followup": {
+      "url": "https://cdn2.islamansiklopedisi.org.tr/dosya/20/C20006722.pdf",
+      "title": "TDV İslâm Ansiklopedisi: İbn Sâid el-Hâşimî, resmî matbu madde PDF’si",
+      "locator": "İbn Sâid el-Hâşimî maddesinin Yahyâ b. Muhammed b. Sâid ve 318/930 kimlik satırı",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "critics": [
+    {
+      "alem_id": "62",
+      "expected_arabic_name": "عبد الله بن عدي بن عبد الله بن محمد بن مبارك",
+      "text": "İbn Adî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_adi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "239",
+      "expected_arabic_name": "عبد الرحمن بن علي بن محمد بن علي بن عبيد الله بن عبد الله بن حمادي بن أحمد بن محمد بن جعفر بن عبد الله بن القاسم بن النضر بن القاسم بن محمد بن عبد الله بن عبد الرحمن بن القاسم بن محمد بن أبي بكر الصديق",
+      "text": "Ebü’l-Ferec İbnü’l-Cevzî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibnul_cevzi_ebul_ferec": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "270",
+      "expected_arabic_name": "هبة الله بن الحسن بن منصور",
+      "text": "Lâlekâî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_lalekai": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "342",
+      "expected_arabic_name": "أحمد بن الحسين بن علي بن عبد الله بن موسى",
+      "text": "Beyhakī",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_beyhaki_ahmed_b_huseyin": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "371",
+      "expected_arabic_name": "عبد الله بن محمد بن إبراهيم بن عثمان بن خواستي",
+      "text": "Ebû Bekir İbn Ebû Şeybe",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_ebu_seybe_ebu_bekir": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "429",
+      "expected_arabic_name": "محمد بن إدريس بن المنذر بن داود بن مهران",
+      "text": "Ebû Hâtim er-Râzî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ebu_hatim_er_razi_muhammed_b_idris": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "431",
+      "expected_arabic_name": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+      "text": "İbn Hibbân",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_hibban": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "527",
+      "expected_arabic_name": "محمد بن عبد الله بن حمدويه بن نعيم بن الحكم",
+      "text": "Hâkim en-Nîsâbûrî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_hakim_en_nisaburi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez. TDV başlığında Hâkim’in kısa kimliği ve el-Müstedrek müellifliği doğrulandı. Ham kayıttaki حمدويه unsuru değiştirilmedi; Türkçe tam zincir iddiası kurulmadı."
+    },
+    {
+      "alem_id": "621",
+      "expected_arabic_name": "محمد بن عيسى بن سورة بن موسى بن الضحاك",
+      "text": "Tirmizî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_tirmizi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "659",
+      "expected_arabic_name": "عبد المؤمن بن خلف بن أبي الحسن بن شرف بن الخضر بن موسى",
+      "text": "Abdülmü’min b. Halef ed-Dimyâtî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_dimyati_abdulmumin_b_halef": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "667",
+      "expected_arabic_name": "أحمد بن القاسم بن الحارث بن زرارة بن مصعب بن عبد الرحمن بن عوف",
+      "text": "Ebû Mus‘ab",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ebu_musab": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "751",
+      "expected_arabic_name": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+      "text": "Ahmed b. Hanbel",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ahmed_b_hanbel": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "765",
+      "expected_arabic_name": "أحمد بن سيار بن أيوب بن عبد الرحمن",
+      "text": "Ahmed b. Seyyâr",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_musnedi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Ahmed b. Seyyâr el-Mervezî adı açıkça geçer. Ad biçimi Ahmed b. Seyyâr ile sınırlandırıldı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kaynağa bağlı kısa Türkçe ad biçimi kullanıldı; tam Arapça zincir çevrilmiş sayılmaz. Ham ad olduğu gibi korunur. Uzman onayı değildir. "
+    },
+    {
+      "alem_id": "767",
+      "expected_arabic_name": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+      "text": "Nesâî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_nesai": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "779",
+      "expected_arabic_name": "أحمد بن عبد الله بن صالح بن مسلم",
+      "text": "İclî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_icli_ebul_hasan": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "864",
+      "expected_arabic_name": "إسحاق بن إبراهيم بن مخلد بن إبراهيم بن مطر",
+      "text": "İshak b. Râhûye",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_rahuye": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez. TDV’deki İbn Râhûye kimlik satırı İshak b. İbrâhim b. Mahled adını verir; Râhûye ile bilinen isim biçimi kullanıldı."
+    },
+    {
+      "alem_id": "879",
+      "expected_arabic_name": "إسماعيل بن عبد الله بن عبد الله بن أويس بن مالك بن أبي عامر",
+      "text": "İsmâil b. Ebû Üveys",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ismail_b_ebu_uveys": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "924",
+      "expected_arabic_name": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+      "text": "İbn Ebû Hâtim",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_ebu_hatim": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "936",
+      "expected_arabic_name": "مبارك بن محمد بن محمد بن عبد الكريم بن عبد الواحد",
+      "text": "Mecdüddin İbnü’l-Esîr",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibnul_esir_mecduddin": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "986",
+      "expected_arabic_name": "ابن الكيال الشافعي",
+      "text": "İbnü’l-Keyyâl",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibnul_keyyal": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez. Arapça kayıttaki Şâfiî nisbesi tam ad çevirisine eklenmedi; TDV’deki bilinen kısa ad kullanıldı."
+    },
+    {
+      "alem_id": "1011",
+      "expected_arabic_name": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+      "text": "İbn Hacer el-Askalânî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_hacer_el_askalani": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1051",
+      "expected_arabic_name": "يوسف بن عبد الله بن محمد بن عبد البر بن عاصم",
+      "text": "İbn Abdülber en-Nemerî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_abdulber_en_nemeri": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1125",
+      "expected_arabic_name": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+      "text": "Buhârî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_buhari_muhammed_b_ismail": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1132",
+      "expected_arabic_name": "إبراهيم بن محمد بن خليل",
+      "text": "Sıbt İbnü’l-Acemî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_sibt_ibnul_acemi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1260",
+      "expected_arabic_name": "أحمد بن علي بن ثابت بن أحمد بن مهدي",
+      "text": "Hatîb el-Bağdâdî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_hatib_el_bagdadi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1264",
+      "expected_arabic_name": "علي بن عمر بن أحمد بن مهدي بن مسعود بن النعمان بن دينار بن عبد الله",
+      "text": "Dârekutnî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_darekutni": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1268",
+      "expected_arabic_name": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+      "text": "Zehebî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_zehebi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1385",
+      "expected_arabic_name": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+      "text": "Mizzî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_mizzi_yusuf_b_abdurrahman": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1452",
+      "expected_arabic_name": "بشر بن المفضل بن لاحق",
+      "text": "Bişr b. Mufaddal",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_bisr_b_mufaddal": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1492",
+      "expected_arabic_name": "جرير بن عبد الحميد بن جرير بن قرط بن هلال بن أقيس بن أبي أمية بن زحف بن النضر",
+      "text": "Cerîr b. Abdülhamîd",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_cerir_b_abdulhamid": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1555",
+      "expected_arabic_name": "حماد بن زيد بن درهم",
+      "text": "Hammâd b. Zeyd",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_hammad_b_zeyd": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1675",
+      "expected_arabic_name": "سفيان بن سعيد بن مسروق بن حمزة بن حبيب بن موهبة بن نصر بن ثعلبة بن ملكان بن ثور",
+      "text": "Süfyân es-Sevrî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_sufyan_es_sevri": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1678",
+      "expected_arabic_name": "سفيان بن عيينة بن ميمون",
+      "text": "Süfyân b. Uyeyne",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_sufyan_b_uyeyne": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1762",
+      "expected_arabic_name": "صالح بن محمد بن عمرو بن حبيب بن حسان بن المنذر بن عمار",
+      "text": "Sâlih Cezere",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_salih_cezere": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1843",
+      "expected_arabic_name": "عبد الرحمن بن مهدي بن حسان بن عبد الرحمن",
+      "text": "Abdurrahman b. Mehdî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_abdurrahman_b_mehdi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1892",
+      "expected_arabic_name": "عبد الغني بن سعيد بن علي بن سعيد بن بشر بن مروان بن عبد العزيز بن مروان",
+      "text": "Abdülganî el-Ezdî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_abdulgani_el_ezdi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1959",
+      "expected_arabic_name": "عبد الله بن عبد الرحمن بن الفضل بن بهرام بن عبد الصمد",
+      "text": "Abdullah b. Abdurrahman ed-Dârimî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_darimi_abdullah_b_abdurrahman": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "1994",
+      "expected_arabic_name": "عبد الله بن وهب بن مسلم",
+      "text": "İbn Vehb",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_vehb": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2037",
+      "expected_arabic_name": "عبد الله بن أحمد بن موسى بن زياد",
+      "text": "Abdân el-Ahvâzî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_abdan_el_ahvazi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2136",
+      "expected_arabic_name": "علي بن المديني",
+      "text": "Ali b. Medînî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ali_b_medini": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2141",
+      "expected_arabic_name": "علي بن حجر بن إياس بن مقاتل بن مخادش بن مشمرج بن خالد",
+      "text": "Ali b. Hucr",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ali_b_hucr": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2233",
+      "expected_arabic_name": "عمرو بن زرارة",
+      "text": "Amr b. Zürâre",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "senol_muaze": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Amr b. Zürâre ad biçimi senedde ve biyografi başlığında bulunur."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kaynağa bağlı kısa Türkçe ad biçimi kullanıldı; tam Arapça zincir çevrilmiş sayılmaz. Ham ad olduğu gibi korunur. Uzman onayı değildir. "
+    },
+    {
+      "alem_id": "2238",
+      "expected_arabic_name": "عمرو بن علي بن بحر بن كنيز",
+      "text": "Amr b. Ali el-Fellâs",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "bahar_siret": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kaynakçada Ebû Hafs Amr b. Alî, Fellâs adıyla verilir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kaynağa bağlı kısa Türkçe ad biçimi kullanıldı; tam Arapça zincir çevrilmiş sayılmaz. Ham ad olduğu gibi korunur. Uzman onayı değildir. "
+    },
+    {
+      "alem_id": "2269",
+      "expected_arabic_name": "قتيبة بن سعيد بن جميل بن طريف بن عبد الله",
+      "text": "Kuteybe b. Saîd",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_kuteybe_b_said": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2357",
+      "expected_arabic_name": "محمد بن إدريس بن العباس بن عثمان بن شافع بن السائب بن عبيد بن عبد يزيد بن هاشم بن المطلب",
+      "text": "Şâfiî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_safii": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2365",
+      "expected_arabic_name": "محمد بن إسحاق بن خزيمة بن المغيرة بن صالح بن بكر",
+      "text": "İbn Huzeyme",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_huzeyme": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2421",
+      "expected_arabic_name": "محمد بن بشار بن عثمان بن داود بن كيسان",
+      "text": "Muhammed b. Beşşâr (Bündâr)",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_bundar_muhammed_b_bessar": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2463",
+      "expected_arabic_name": "محمد بن سعد بن منيع",
+      "text": "İbn Sa‘d",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_sad": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2468",
+      "expected_arabic_name": "محمد بن سلام بن عبيد الله بن سالم",
+      "text": "İbn Sellâm el-Cumahî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_sellam_el_cumahi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez. Kimlik satırındaki Muhammed–Sellâm–Ubeydullah–Sâlim zinciri kontrol edildi; aynı ilk iki ada sahip Bîkendî ile karıştırılmadı."
+    },
+    {
+      "alem_id": "2513",
+      "expected_arabic_name": "محمد بن عبد الله بن عمار بن سوادة",
+      "text": "İbn Ammâr el-Mavsılî",
+      "rendering_kind": "name_form",
+      "status": "needs_review",
+      "source_support": {
+        "evgin_sufyan": {
+          "support_scope": "supports_part_of_field",
+          "evidence_note": "İbn Ammâr el-Mavsılî biçimi aynı ihtilât aktarımında geçer; Muhammed–Abdullah–Ammâr–Sevâde tam zinciri bu Türkçe bölümde verilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "partial_support"
+      },
+      "rationale": "Kaynağa bağlı kısa Türkçe ad biçimi kullanıldı; tam Arapça zincir çevrilmiş sayılmaz. Ham ad olduğu gibi korunur. Uzman onayı değildir. Türkçe kısa lakap doğrulandı; tam Arapça kimlik zincirinin bağı ayrıca incelemeye bırakıldı."
+    },
+    {
+      "alem_id": "2515",
+      "expected_arabic_name": "محمد بن عبد الله بن نمير",
+      "text": "İbn Nümeyr",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_numeyr": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2618",
+      "expected_arabic_name": "محمد بن يحيى بن عبد الله بن خالد بن فارس بن ذؤيب",
+      "text": "Zühlî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_zuhli": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2661",
+      "expected_arabic_name": "مسلم بن الحجاج بن مسلم",
+      "text": "Müslim b. Haccâc",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_muslim_b_haccac": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2671",
+      "expected_arabic_name": "مصنفوا تحرير تقريب التهذيب",
+      "text": "Tahrîru Takrîbü’t-Tehzîb müellifleri",
+      "rendering_kind": "name_form",
+      "status": "needs_review",
+      "source_support": {
+        "hamod_malati": {
+          "support_scope": "supports_part_of_field",
+          "evidence_note": "Eser adının Türkçe yazımı kaynakçada doğrulandı; müellifler şeklindeki topluluk ifadesi Arapça مصنفوا kelimesinden çevrildi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_translation",
+        "turkish_availability": "partial_support"
+      },
+      "rationale": "Kaynağa bağlı kısa Türkçe ad biçimi kullanıldı; tam Arapça zincir çevrilmiş sayılmaz. Ham ad olduğu gibi korunur. Uzman onayı değildir. Bu kayıt kişi adı değildir. Arapça topluluk etiketi korunarak çevrildi; kişi adları tahminle ham ada eklenmedi."
+    },
+    {
+      "alem_id": "2733",
+      "expected_arabic_name": "نعيم بن حماد بن معاوية بن الحارث بن همام بن سلمة بن مالك",
+      "text": "Nuaym b. Hammâd",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_nuaym_b_hammad": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2758",
+      "expected_arabic_name": "هشام بن عروة بن الزبير بن العوام بن خويلد بن أسد بن عبد العزى بن قصي بن كلاب",
+      "text": "Hişâm b. Urve",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_hisam_b_urve": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2772",
+      "expected_arabic_name": "وهيب بن خالد بن عجلان",
+      "text": "Vüheyb b. Hâlid",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_vuheyb_b_halid": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2804",
+      "expected_arabic_name": "يحيى بن سعيد بن فروخ",
+      "text": "Yahyâ b. Saîd el-Kattân",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_yahya_b_said_el_kattan": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2821",
+      "expected_arabic_name": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+      "text": "Yahyâ b. Maîn",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_yahya_b_main": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2845",
+      "expected_arabic_name": "يعقوب بن إبراهيم بن كثير بن زيد بن أفلح بن منصور بن مزاحم",
+      "text": "Ya‘kūb b. İbrâhim ed-Devrakī",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_devraki_yakub_b_ibrahim": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2854",
+      "expected_arabic_name": "يعقوب بن سفيان بن جوان",
+      "text": "Fesevî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_fesevi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "2855",
+      "expected_arabic_name": "يعقوب بن شيبة بن الصلت بن عصفور بن شداد بن هميان",
+      "text": "Ya‘kūb b. Şeybe",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ibn_seybe": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe kısa ad biçimi madde başlığı ve kimlik satırıyla karşılaştırıldı; ham Arapça zincirin tamamının Türkçeleştirilmesi iddia edilmez."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bu, kayıttaki kişinin Türkçe kaynakla karşılaştırılmış kısa ad biçimidir. Tam Arapça soy zincirinin çevirisi değildir; expected_arabic_name aynen kaynak kaydına bağlıdır. Uzman onayı anlamına gelmez."
+    },
+    {
+      "alem_id": "226",
+      "expected_arabic_name": "محمد بن الحسين بن أحمد بن الحسن بن عبد الله بن يزيد بن النعمان",
+      "text": "Ebü’l-Feth el-Ezdî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_ezdi_followup": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa Türkçe ad biçimi; tam soy zinciri çevirisi değildir. Muhammed–Hüseyin–Ahmed adları ve Ebü’l-Feth el-Ezdî şöhreti birlikte karşılaştırıldı. Kaynaktaki 369 yılı TDV’de açık varyanttır; 374 ile değiştirilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Muhammed–Hüseyin–Ahmed adları ve Ebü’l-Feth el-Ezdî şöhreti birlikte karşılaştırıldı. Kaynaktaki 369 yılı TDV’de açık varyanttır; 374 ile değiştirilmedi. Arapça kaynak kaydı korunur; uzman onayı yoktur."
+    },
+    {
+      "alem_id": "583",
+      "expected_arabic_name": "حسين بن محمد بن أحمد",
+      "text": "Ebû Ali el-Gassânî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "source_support": {
+        "tdv_gassani_followup": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa Türkçe ad biçimi; tam soy zinciri çevirisi değildir. Hüseyin–Muhammed–Ahmed adı, Ebû Ali el-Gassânî şöhreti ve 498 vefat yılı birlikte eşleştirildi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Hüseyin–Muhammed–Ahmed adı, Ebû Ali el-Gassânî şöhreti ve 498 vefat yılı birlikte eşleştirildi. Arapça kaynak kaydı korunur; uzman onayı yoktur."
+    },
+    {
+      "alem_id": "2622",
+      "expected_arabic_name": "يحيى بن محمد بن صاعد بن كاتب",
+      "text": "İbn Sâid el-Hâşimî",
+      "rendering_kind": "name_form",
+      "status": "needs_review",
+      "source_support": {
+        "tdv_ibn_said_followup": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa Türkçe ad biçimi; tam soy zinciri çevirisi değildir. TDV’deki Yahyâ–Muhammed–Sâid ve 318 yılı, critics.name ile uyuşur. Kaynak rawy_shohra alanı Muhammed–Yahyâ şeklinde ters sıradadır. Bu kaynak içi fark düzeltilmedi; Türkçe kısa ad ihtiyatla inceleme bekler."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "source_supported_rendering",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "TDV’deki Yahyâ–Muhammed–Sâid ve 318 yılı, critics.name ile uyuşur. Kaynak rawy_shohra alanı Muhammed–Yahyâ şeklinde ters sıradadır. Bu kaynak içi fark düzeltilmedi; Türkçe kısa ad ihtiyatla inceleme bekler. Arapça kaynak kaydı korunur; uzman onayı yoktur."
+    }
+  ],
+  "pending": [
+    {
+      "alem_id": "340",
+      "arabic_name": "أحمد بن بطة بن إسحاق بن الوليد",
+      "reason": "Arapça adın Ahmed b. Batta el-İsfahânî adayıyla bağlantısı araştırıldı; Türkçe akademik ad biçimi doğrulanmadı. Ubeydullah b. Muhammed İbn Batta ile karıştırılmadı."
+    },
+    {
+      "alem_id": "466",
+      "arabic_name": "أحمد بن الحسين بن علي بن إبراهيم بن الحكم",
+      "reason": "Ahmed–Hüseyin–Ali–İbrâhim–Hakem zinciri Beyhakī’nin kimlik zinciriyle birleştirilmedi; Türkçe karşılık için ayrıca kimlik doğrulaması gerekiyor."
+    },
+    {
+      "alem_id": "839",
+      "arabic_name": "أحمد بن نصر بن إبراهيم",
+      "reason": "Ahmed b. Nasr b. İbrâhim için Haffâf adayı görüldü; kontrol edilen Türkçe kaynaklarda kimlik bağlantısı ve yerleşik ad biçimi birlikte doğrulanmadı."
+    },
+    {
+      "alem_id": "1612",
+      "arabic_name": "رجاء بن المرجي بن رافع",
+      "reason": "Recâ / Müraccâ için Türkçe aday yazımlar bulundu; bu turda tam kimlik eşleştirmesi ve kaynak bölümünün doğrulaması tamamlanmadı."
+    },
+    {
+      "alem_id": "1847",
+      "arabic_name": "عبد الرحمن بن يوسف بن سعيد بن خراش",
+      "reason": "İbn Hırâş adına Türkçe akademik aday bulundu; tam kimlik ve kalıcı kaynak bağlantısı bu turda doğrulanmadı."
+    },
+    {
+      "alem_id": "2262",
+      "arabic_name": "فضل بن العباس",
+      "reason": "Fazl b. Abbas adının birden fazla kişiye işaret edebilmesi nedeniyle nisbe veya lakap tahminle eklenmedi; uygun Türkçe kimlik dayanağı doğrulanmadı."
+    },
+    {
+      "alem_id": "2455",
+      "arabic_name": "محمد بن رافع بن سابور",
+      "reason": "Muhammed b. Râfi‘ b. Sâbûr adı, TDV’deki Muhammed b. Râfi‘ b. Hicris ile aynı kişi sayılmadı; uygun Türkçe kimlik kaynağı bekleniyor."
+    },
+    {
+      "alem_id": "2507",
+      "arabic_name": "محمد بن عبد الله بن المبارك",
+      "reason": "Muhammed b. Abdullah b. Mübârek, Abdullah b. Mübârek ile birleştirilmedi. Bu tam kimlik için Türkçe ad biçimi doğrulanmadı."
+    },
+    {
+      "alem_id": "2665",
+      "arabic_name": "مسلمة بن القاسم بن إبراهيم بن عبد الله بن حاتم",
+      "reason": "Mesleme b. Kāsım adı Türkçe metinde görüldü; bu turda tam Arapça zincirin ilgili kişiyle bağı ayrıca doğrulanmadı."
+    },
+    {
+      "alem_id": "2795",
+      "arabic_name": "يحيى بن جعفر بن أعين",
+      "reason": "Yahyâ b. Ca‘fer b. A‘yen için doğrulanmış Türkçe kimlik kaynağı elde edilmedi; nisbe ve okunuş tahminle eklenmedi."
+    }
+  ],
+  "previous_research_file": "critic-names-tr-v1-research.json"
+}

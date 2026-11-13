@@ -1,0 +1,329 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-cureyc",
+      "title": "İsmail Cerrahoğlu — İbn Cüreyc, TDV 19 (1999), 404–406",
+      "locator": "Başlık/tam madde/kaynakça/matbu künye okundu. Kısa kimlik, iki künye, nisbeler, fıkıh, Atâ talebeliği ve Ümeyye b. Hâlid velâsı. Doğum80/GK74farkı sayısal alanda düzeltilmedi. Bağdat ziyareti ikamet teyidi değildir; iki oğul bu Türkçe maddede yoktur. Yayımlanan her münekkit sözü, diğer aynı lafızlı atıfların yerine konmadı. Yazılı nakil ve tedlîs/irsâl şartları ayrı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/4526/عبد-الملك-بن-عبد-العزيز-بن-جريج",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbn Cüreyc, 18/339–354, nr. 3539",
+      "locator": "Tam harekesiz dijital biyografi/öğretmen-talebe listeleri/devamı okundu. Ali → Yahyâ b. Saîd Nâfi‘ karşılaştırması ve Ali’nin Atâ bilgisi sözü ayrı. Atâ’da en sağlam sözü Ahmed naklidir; Amr b. Dînâr ile İbn Cüreyc ortak özne olarak da geçer. Yezîd b. Zürey‘ için صاحب غثاء. Altı Mescid-i Harâm yaşlı kadını, oğul Abdülazîz ve başka oğul Muhammed açık; GK Velîd kaydı bu biyografide bulunmadı. Belirli matbu tarama veya bütün kaynakların asıl baskıları okunmuş sayılmaz.",
+      "accessed_on": "2026-11-02"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/index.php?ID=1069&bk_no=60&flag=1&page=bookcontents",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, İbn Cüreyc, 6/325–336",
+      "locator": "Tam harekesiz dijital biyografi okundu. Ahmed’in عمرو بن دينار وابن جريج أثبت الناس في عطاء cümlesi iki ortak özneyi verir. Yezîd b. Zürey‘ sözü صاحب غثاء. Ali → Yahyâ b. Saîd nakli, Qattân’ın başka Nâfi‘ karşılaştırması, yazılı şartlar ve tedlîs lafızları birbirine taşınmadı. Belirli matbu tarama karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "jarh_text": {
+      "url": "https://scribetools.com/en/library/rijal/الجرح-والتعديل-لابن-أبي-حاتم/05_1551-05084239/text/0018",
+      "title": "İbn Ebû Hâtim — el-Cerh ve’t-ta‘dîl, dijital 5/356–358, nr. 1687",
+      "locator": "356–358etiketli tam kişi pasajı ve dipnotlar dijital metinden okundu. Atâ halef sorusu, Ali → Yahyâ Nâfi‘ sözü ve Ahmed’in Atâ hükmü ayrı nakillerdir. GK924كلهم قالهوثقةوقدمه...devamı bu tam girişte bulunmadı. Görünür OCR bozulmaları vardır; tarama/tenkitli edisyon tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "jarh_pdf": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/3D/3DE6BCBD095F3AF32A1ED8DD4C9478CC%C6%92%CE%98%C3%B1%E2%8C%90%C3%91%20%CF%86%C6%92%CE%98%C3%B3%CF%80%C2%BA%E2%88%A9%CE%98%205.pdf",
+      "title": "el-Cerh ve’t-ta‘dîl, cilt5 — kamuya açık arşivdeki dijital PDF",
+      "locator": "210PDFsayfası; kapak ve görüntüleyici181–182görüntüden okundu. Bu yeniden dizilmiş dijital metindir; özgün matbu sayfa facsimilesi değildir. [356]–[358]yalnız taşınan sayfa etiketleridir. Metin bozulmaları vardır. Dijital kapaktaki1372/1953Haydarabad/Dârİhyâbilgisi bağımsız baskı doğrulaması değildir; bütün210sayfa okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "amr": {
+      "url": "https://islamansiklopedisi.org.tr/amr-b-dinar",
+      "title": "Mustafa Uzunpostalcı — Amr b. Dînâr, TDV 3 (1991), 83",
+      "locator": "Başlık/ilk hayat/el-Esrem lakabı/126ve125alternatifleri/matbu künye okundu. Kısa ad ve kaynak kimliği bileşenleri karşılaştırılır; İbn Cüreyc görüşünün ona aidiyeti ayrı açık problemdir.",
+      "accessed_on": "2026-11-02"
+    },
+    "yezid": {
+      "url": "https://islamansiklopedisi.org.tr/yezid-b-zurey",
+      "title": "Abdullah Karahan — Yezîd b. Zürey‘, TDV 43 (2013), 523",
+      "locator": "Başlık/ilk hayat/üçlü ad/Ayşî nisbesi/182ölüm ve181/183alternatifleri/matbu künye okundu. Yalnız kısa ad biçimi; bütün soy veya münekkit sözlerinin asıl atfı tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ibn-cureyc-related-records.json",
+      "sha256": "6ac85b731716b1af10fa3f26f814365445ec81a70e5fb717fc2dcd93f40f4af4"
+    },
+    {
+      "path": "references/arabic/classical/ibn-abi-hatim-jarh-tadil-v5.pdf",
+      "sha256": "ee1236a037df132344375794b1fecb8906bb5bfa9e2c1b2100bd4d990eaa8236"
+    },
+    {
+      "path": "research/arabic-source-checks/ibn-abi-hatim-v5-inspection/viewer-181.png",
+      "sha256": "2f75d28273ea9c7b7420c07b12d242125a3623c7edde59fc5e9a4207461ba4ad"
+    }
+  ],
+  "revision": "assistant-person-field-review-v21",
+  "policy": "11alan7tam3kısmi1okunan bölümde bulunamadı; yalnız dil karşılaştırması.",
+  "people": [
+    {
+      "id": 5223,
+      "expected_source": {
+        "id": 5223,
+        "new_id": 26543,
+        "name": "عبد الملك بن عبد العزيز بن جريج",
+        "shohra": "ابن جريج المكي",
+        "badeel": "عبد الملك بن جريج المكي",
+        "konya": "أبو الوليد ، أبو خالد",
+        "lakab": "ابن جريج ، صاحب عطاء",
+        "san3a": "الفقيه",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،الأموي،المكي",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 6,
+        "e5telat": 0,
+        "tadleese": 1,
+        "date_of_birth": "74",
+        "death_year": "150",
+        "age": 76,
+        "baladekama": "بغداد",
+        "baladwafa": "",
+        "mawaaly": "مولى أمية بن خالد",
+        "karaba": "والد الوليد بن عبد الملك ، والد عبد العزيز بن عبد الملك",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1855
+      },
+      "expected_record_sha256": "3a2d585756b7ca15d9cde043ff64c00a68d0c5d5a44a4754c917fae775a84c51",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبد الملك بن عبد العزيز بن جريج",
+          "text": "Abdülmelik b. Abdülazîz b. Cüreyc.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığı tam üçlü adı verir; farklı soy halkaları eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığı tam üçlü adı verir; farklı soy halkaları eklenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "ابن جريج المكي",
+          "text": "İbn Cüreyc el-Mekkî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV kısa İbn Cüreyc adı ve Mekkî nisbesini açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV kısa İbn Cüreyc adı ve Mekkî nisbesini açık verir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "عبد الملك بن جريج المكي",
+          "text": "Abdülmelik b. Cüreyc el-Mekkî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK alternatif biçimi baba halkası atlanarak kaydedilmiştir; kısa Türkçe bileşen desteği bu tam alternatif yazımın bağımsız teyidi sayılmadı. Asıl tam ad değiştirilmedi veya başka kişiyle birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "GK alternatif biçimi baba halkası atlanarak kaydedilmiştir; kısa Türkçe bileşen desteği bu tam alternatif yazımın bağımsız teyidi sayılmadı. Asıl tam ad değiştirilmedi veya başka kişiyle birleştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو الوليد ، أبو خالد",
+          "text": "Ebü’l-Velîd; Ebû Hâlid.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlığı ve ilk hayat paragrafı iki künyeyi ayrı verir; künyeden oğul üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlığı ve ilk hayat paragrafı iki künyeyi ayrı verir; künyeden oğul üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "ابن جريج ، صاحب عطاء",
+          "text": "İbn Cüreyc; Atâ’nın yakın talebesi (sâhibü Atâ).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV İbn Cüreyc adını ve uzun Atâ talebeliğini verir; bu sâhibü Atâ lakabını aynı Türkçe ad biçimiyle açık nakletmez. Talebelik başlı başına bütün lakap teyidi sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV İbn Cüreyc adını ve uzun Atâ talebeliğini verir; bu sâhibü Atâ lakabını aynı Türkçe ad biçimiyle açık nakletmez. Talebelik başlı başına bütün lakap teyidi sayılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "الفقيه",
+          "text": "Fakih (fıkıh âlimi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV fıkıh âlimliğini açık verir; görev alanı yeni bir sıhhat hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV fıkıh âlimliğini açık verir; görev alanı yeni bir sıhhat hükmü değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،الأموي،المكي",
+          "text": "Kureşî; Ümevî; Mekkî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV üç nisbe biçimini açık verir. Nisbeden yeni ikamet veya kan bağı türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV üç nisbe biçimini açık verir. Nisbeden yeni ikamet veya kan bağı türetilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV adı geçen münekkitlerin sika tabirini açık verir; aynı maddede tedlîs ve farklı şartlar da bulunur. GK alanının dil karşılığıdır; diğer tenkitleri geçersiz ilan eden yeni hüküm değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV adı geçen münekkitlerin sika tabirini açık verir; aynı maddede tedlîs ve farklı şartlar da bulunur. GK alanının dil karşılığıdır; diğer tenkitleri geçersiz ilan eden yeni hüküm değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "بغداد",
+          "text": "Bağdat.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV Bağdat’ta halifenin huzurunda bulunmasını anlatır; bir ziyaret, ikamet alanının bağımsız tam teyidi değildir. GK yer adı aktarılır, süre veya yeni yer eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV Bağdat’ta halifenin huzurunda bulunmasını anlatır; bir ziyaret, ikamet alanının bağımsız tam teyidi değildir. GK yer adı aktarılır, süre veya yeni yer eklenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى أمية بن خالد",
+          "text": "Ümeyye b. Hâlid’in mevlâsı olarak kaydedilir (velâ bağı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Ümeyye b. Hâlid velâsını rivayet olarak verir. Dedesi Cüreyc’in Ümmü Habîb’le ilgili farklı nesil ilişkisi onun kendi velâ kaydının yerine geçirilmedi; kişisel kölelik statüsü eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Ümeyye b. Hâlid velâsını rivayet olarak verir. Dedesi Cüreyc’in Ümmü Habîb’le ilgili farklı nesil ilişkisi onun kendi velâ kaydının yerine geçirilmedi; kişisel kölelik statüsü eklenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد الوليد بن عبد الملك ، والد عبد العزيز بن عبد الملك",
+          "text": "Velîd b. Abdülmelik’in ve Abdülazîz b. Abdülmelik’in babası.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK kendi iki oğlunu kaydeder; TDV kişi maddesinde bu tam kayıt bulunmadı. Mizzî talebe listesinde oğlu Abdülazîz vardır; başka oğlu Muhammed ve kardeşi Muhammed farklı kişilerdir. Velîd bu okunan biyografide bulunmadı; yokluk, bu oğul hiç yoktur hükmü sayılmadı veya adı Muhammed’e çevrilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK kendi iki oğlunu kaydeder; TDV kişi maddesinde bu tam kayıt bulunmadı. Mizzî talebe listesinde oğlu Abdülazîz vardır; başka oğlu Muhammed ve kardeşi Muhammed farklı kişilerdir. Velîd bu okunan biyografide bulunmadı; yokluk, bu oğul hiç yoktur hükmü sayılmadı veya adı Muhammed’e çevrilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK kendi iki oğlunu kaydeder; TDV kişi maddesinde bu tam kayıt bulunmadı. Mizzî talebe listesinde oğlu Abdülazîz vardır; başka oğlu Muhammed ve kardeşi Muhammed farklı kişilerdir. Velîd bu okunan biyografide bulunmadı; yokluk, bu oğul hiç yoktur hükmü sayılmadı veya adı Muhammed’e çevrilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibrahim-b-sad",
+      "title": "Ali Toksarı — İbrâhim b. Sa‘d, TDV 21 (2000), 349",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Kısa ad/Zührî/künye/Medine/Bağdat/iki oğul; Ahmed, Maîn, Ebû Hâtim ve İclî’nin özel nitelemeleri. Uzun soy, anne, torun, Bağdat kadılığı veya bütün18özel görüşün tam Türkçesi yoktur. Vekî‘in bırakıp yeniden nakletmesi destekli; açıklama cümlesindeki sika olup olmadığını bilmeme yorumu, Arapça diyalogda konuşmacı teyidi sayılmadı.108doğum/değişik ölüm tarihleri GK sayısal alanlarına geçirilmedi. Mûsiki meselesi kaynak görüşüdür, uygulama hükmü değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/190/إبراهيم-بن-سعد-بن-إبراهيم-بن-عبد-الرحمن-بن-عوف-القرشي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbrâhim b. Sa‘d, 2/88–94, nr. 174",
+      "locator": "Tam harekesiz dijital biyografi ve hoca-talebe listeleri okundu. Ebû Dâvûd → Ahmed → Vekî‘in bırakıp yeniden nakletmesi; neden sorusuna Ahmed’in bilmiyorum/İbrâhim sika cevabı. Maîn’in sika/hüccet sözü Ahmed b.Sa‘d b.Ebû Meryem yoluyla, Saîd’in kendi hükmü olarak değil. İbrâhim b.Hamza ez-Zübeyrî nakli ile GK20Süleymân soy halkası birleştirilmedi. Baba Medine kadılığı/Bağdat beytülmâl görevi ayrı. Asıl matbu facsimile karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/1371/إبراهيم-بن-سعد",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, İbrâhim b. Sa‘d, 8/304–310",
+      "locator": "Tam harekesiz dijital biyografi okundu. İki oğul, torun Ahmed b.Sa‘d, baba Medine kadılığı, kendi beytülmâl görevi ve farklı ölüm nakilleri ayrıdır. Son Ahmed cümlesindeki لم يخبرهما iki kişi için tanıma/deneme bağlamındadır. Mûsiki anlatıları ve ayrı hadis eleştirileri yeni uygulama hükmü sayılmadı. Fiziksel baskı veya bütün atıf kitapları okunmuş sayılmaz.",
+      "accessed_on": "2026-11-02"
+    },
+    "hady": {
+      "url": "https://scribetools.com/en/library/hadith/هدي-الساري/hdsa-e5c8a43d/text/0051",
+      "title": "İbn Hacer — Hedyü’s-sârî, İbrâhim b. Sa‘d dijital kişi pasajı",
+      "locator": "Dijital1001–1020parçasında tam kişi girişi ve notları okundu; taşınan eski388etiketi görülür, fiziksel sayfa tasdik edilmedi. Sika/hüccet Maîn atfı ve Ahmed’in iki kişi hakkında هذان ثقتان لم يخبرهما يحيى cümlesi vardır. GK tekil kısa özet aynı lafızlı doğrudan alıntı sayılmadı; anlam tanıma/deneme, haber vermeme değildir. Bütün Hedy okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "ruwat": {
+      "url": "https://www.arabic-keyboard.info/books/ar/read-book/الرواة-الثقات-المتكلم-فيهم-بما-لا-يوجب-ردهم",
+      "title": "Zehebî — er-Ruvâtü’s-sikāt el-mütekellem fîhim bimâ lâ yûcibü reddehüm, İbrâhim girişi",
+      "locator": "Başlık/müellif ve tam İbrâhim girişi dijital yeniden basım metninden okundu. فأداه اجتهاده ile GKفأدادfarkı açık. Sonraki iki kişi ve farklı Vekî‘ sıralaması da görülür; bunlar otomatik birleştirilmedi. Editör, fiziksel sayfa veya baskı otantifikasyonu yapılmadı; bütün kitap okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mashahir": {
+      "url": "https://www.arabic-keyboard.info/books/ar/read-book/مشاهير-علماء-الأمصار",
+      "title": "İbn Hibbân — Meşâhîrü ulemâi’l-emsâr, nr. 1116",
+      "locator": "Tam1116girişi dijital yeniden basım metninden okundu: tam soy, Ya‘kūb’un babası, Bağdat kadılığı,183ölüm/73yaş. Türkçe çeviri değildir; özgün baskı ve fiziksel sayfa doğrulanmadı. Kendi Bağdat kadılığı babasının Medine kadılığına veya beytülmâl görevine indirgenmez.",
+      "accessed_on": "2026-11-02"
+    },
+    "bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "Muhammed Mustafa el-A‘zamî — Buhârî, TDV 6 (1992), 368–372, §1",
+      "locator": "Yalnız ilk hayat/seyahat paragrafı ve1.bölüm matbu künyesi okundu. Mısır’daki hocalar arasında Saîd b.Ebû Meryem kısa adı açık. Kısa adın Türkçe biçimi içindir; bütün makale, Saîd’in uzun soyu, bağlı17862kimliği veya bütün görüşlerin atfı tasdiki değildir.375–376bu bölümün sayfaları değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "said": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/2424/سعيد-بن-الحكم-بن-محمد-بن-أبي-مريم-الجمحي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Saîd b. Ebû Meryem, 10/391–395, nr. 2253",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Saîd b.Hakem b.Muhammed b.Sâlim, Ebû Muhammed Mısrî/224ve yeğeni Ahmed b.Sa‘d ayrıdır. GK1657uzun münekkit gövdesi bu kimliğe benzer; bağlı17862tabaka3/makbul/ölümboş kaydı tarihsel olarak aynı kişi diye onaylanmadı. Matbu facsimile veya yeni kimlik birleştirmesi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "hamza": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/181/إبراهيم-بن-حمزة-بن-محمد-بن-حمزة-بن-مصعب",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbrâhim b. Hamza ez-Zübeyrî, 2/76–78, nr. 166",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Soyda Muhammed b.Hamza b.Mus‘ab vardır; ölüm230. GK20İbrâhim b.Hamza b.Süleymân/bağlıravi yok/ölümboş kaydıyla aynı kısa addan hareketle birleştirilmedi. Bu ayrı kayıt, GK20kimliğine tam Türkçe destek değildir.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-sad-related-records.json",
+      "sha256": "a68b51887c55b7e6bc511a1e961b1f17dbbfc5fea471544d0f9734945a83c43f"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-sad-critic-records.json",
+      "sha256": "151086a360a2b056a2ca8eb3a499f5e36e3799fea5ef0e931d210ccf1d629118"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v11",
+  "policy": "İki kısa ad aktarımı, ikisinde de kaynak/bağlı kişi kimliği sorunu açık; uzman veya tam tarihsel kimlik tasdiki değildir.",
+  "critics": [
+    {
+      "alem_id": "20",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "20",
+        "name": "إبراهيم بن حمزة بن سليمان",
+        "rawy_shohra": "إبراهيم بن حمزة بن سليمان",
+        "rotba": 0,
+        "tabaka": "",
+        "death_date": "",
+        "rawy_id": null,
+        "opinion_count": 4,
+        "wasf_rotba": "",
+        "wasf": "لا يعد من علماء الجرح والتعديل"
+      },
+      "expected_record_sha256": "823253e5f34a5715bd01a4b1c60a838a2f7994e962cda4837b283a3da8b0b4d6",
+      "text": "İbrâhim b. Hamza b. Süleymân",
+      "rendering_kind": "name_form",
+      "status": "problem_detected",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "tdv": {
+          "support_scope": "identity_only",
+          "evidence_note": "Kimlik sorunu: tam GK20on alanı İbrâhim b.Hamza b.Süleymân/ölümboş/rawybağlantısıyok. Mizzî ayrı Zübeyrî girişinde Muhammed b.Hamza b.Mus‘ab soyunu ve230ölümünü verir. Kısa ad benzerliği Süleymân/Muhammed farkını kapatmaz; yeni kaynak kimliği veya bağlı ravi üretilmedi. Türkçe kontrol edilen bölümde bu üçlü ad bulunmadı."
+        },
+        "mizzi": {
+          "support_scope": "arabic_source_comparison",
+          "evidence_note": "Kimlik sorunu: tam GK20on alanı İbrâhim b.Hamza b.Süleymân/ölümboş/rawybağlantısıyok. Mizzî ayrı Zübeyrî girişinde Muhammed b.Hamza b.Mus‘ab soyunu ve230ölümünü verir. Kısa ad benzerliği Süleymân/Muhammed farkını kapatmaz; yeni kaynak kimliği veya bağlı ravi üretilmedi. Türkçe kontrol edilen bölümde bu üçlü ad bulunmadı."
+        },
+        "hamza": {
+          "support_scope": "arabic_source_comparison",
+          "evidence_note": "Kimlik sorunu: tam GK20on alanı İbrâhim b.Hamza b.Süleymân/ölümboş/rawybağlantısıyok. Mizzî ayrı Zübeyrî girişinde Muhammed b.Hamza b.Mus‘ab soyunu ve230ölümünü verir. Kısa ad benzerliği Süleymân/Muhammed farkını kapatmaz; yeni kaynak kimliği veya bağlı ravi üretilmedi. Türkçe kontrol edilen bölümde bu üçlü ad bulunmadı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "Kimlik sorunu: tam GK20on alanı İbrâhim b.Hamza b.Süleymân/ölümboş/rawybağlantısıyok. Mizzî ayrı Zübeyrî girişinde Muhammed b.Hamza b.Mus‘ab soyunu ve230ölümünü verir. Kısa ad benzerliği Süleymân/Muhammed farkını kapatmaz; yeni kaynak kimliği veya bağlı ravi üretilmedi. Türkçe kontrol edilen bölümde bu üçlü ad bulunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    },
+    {
+      "alem_id": "1657",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1657",
+        "name": "سعيد بن الحكم بن محمد بن سالم بن أبي مريم",
+        "rawy_shohra": "سعيد بن أبي مريم",
+        "rotba": 2,
+        "tabaka": "10",
+        "death_date": "224",
+        "rawy_id": "17862",
+        "opinion_count": 8,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "88abbb591a52a15b7068afc693a1e2dc45b3d20b4065089070d47088d4525a99",
+      "text": "Saîd b. Ebû Meryem",
+      "rendering_kind": "name_form",
+      "status": "problem_detected",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "bukhari": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Bağlı kişi kimliği sorunu: tam GK1657münekkit gövdesi Saîd b.Hakem b.Muhammed b.Sâlim/224/tabaka10/rawy17862; bağlı17862tam26alan kaydı ise yalnız Saîd b.Ebû Meryem adı, tabaka3, makbul (مقبول), ölümboş taşır. TDV Buhârî’deki kısa Saîd adının Türkçe desteği bu iki gövdenin aynı kişi olduğunu tasdik etmez. Mizzî’de yeğen Ahmed b.Sa‘d ayrıca geçer; ne yeğen ne bağlı eski kişiyle otomatik birleştirme yapıldı. Görüşün Maîn atfı ayrıca açık problemdir."
+        },
+        "said": {
+          "support_scope": "arabic_source_comparison",
+          "evidence_note": "Bağlı kişi kimliği sorunu: tam GK1657münekkit gövdesi Saîd b.Hakem b.Muhammed b.Sâlim/224/tabaka10/rawy17862; bağlı17862tam26alan kaydı ise yalnız Saîd b.Ebû Meryem adı, tabaka3, makbul (مقبول), ölümboş taşır. TDV Buhârî’deki kısa Saîd adının Türkçe desteği bu iki gövdenin aynı kişi olduğunu tasdik etmez. Mizzî’de yeğen Ahmed b.Sa‘d ayrıca geçer; ne yeğen ne bağlı eski kişiyle otomatik birleştirme yapıldı. Görüşün Maîn atfı ayrıca açık problemdir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Bağlı kişi kimliği sorunu: tam GK1657münekkit gövdesi Saîd b.Hakem b.Muhammed b.Sâlim/224/tabaka10/rawy17862; bağlı17862tam26alan kaydı ise yalnız Saîd b.Ebû Meryem adı, tabaka3, makbul (مقبول), ölümboş taşır. TDV Buhârî’deki kısa Saîd adının Türkçe desteği bu iki gövdenin aynı kişi olduğunu tasdik etmez. Mizzî’de yeğen Ahmed b.Sa‘d ayrıca geçer; ne yeğen ne bağlı eski kişiyle otomatik birleştirme yapıldı. Görüşün Maîn atfı ayrıca açık problemdir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    }
+  ]
+}

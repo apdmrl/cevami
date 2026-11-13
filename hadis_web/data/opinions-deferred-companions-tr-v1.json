@@ -1,0 +1,386 @@
+{
+  "reviewed_on": "2026-11-01",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "risale": {
+      "url": "https://isamveri.org/pdfdrg/D03434/2017_20/2017_20_KULEKCIC.pdf",
+      "title": "Hilmî-zâde İbrâhim Rıfat / Cahit Külekçi (sadeleştiren) — Sa’d b. Ebî Vakkas İsimli Risâlesi, Hikmet Yurdu10/20(2017),253–275; DOI10.17540/hikmet.2017.70",
+      "locator": "s.253–255 başlık ve ilk biyografi paragrafları (PDF0–2). Baba Mâlik/künyesi Ebî Vakkas; dar bölüm uzun soy/çocuk listesi/ölüm yeri için tam kaynak değildir. PDF metni okundu, görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "diyanet": {
+      "url": "https://dijital.diyanet.gov.tr/File/Download?id=3572&path=3572_1.pdf",
+      "title": "Diyanet İşleri Başkanlığı — Isınan Kürede Çevre Ahlâkı,1.baskıAnkara2013,ISBN978-975-19-5604-0",
+      "locator": "s.57, Ömer’in Sa‘d’a Ebûİshak hitabı. Resmî73sayfalık PDF yerelde okundu; SHA25617780774f76f146971a39272bca2fceeb921300d8ac062b09f02aab5ba2b393e. Künye s.2. PDF metin kontrolü; görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "sehl": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5B/E0C708CB-675A-F340-90CD-4447180680E5.pdf",
+      "title": "Şule Şahin Ünlü — Camilerin Eğitim ve Öğretim İşlevine Vurgu Yapan Bir Hadisin Tahrîci, Tenkîdi ve Değerlendirilmesi, MarmaraÜniversitesi,YLtezi2015",
+      "locator": "Basılı s.47(PDF59), Sehl b.Sa‘d biyografi paragrafı bütünüyle okundu. Kısa ad/künye/üç nisbe/sahâbîlik; uzun soy ve ikinci künye burada verilmez. PDF görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "said": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/2A/T0060516.pdf",
+      "title": "Ebûbekir Tatlı — Aşere-i Mübeşşere’den Said b. Zeyd’in Hayâtı ve Rivâyetleri, MarmaraÜniversitesi,YLtezi2008",
+      "locator": "s.38–39(PDF50–51), Bedir görevi ve ganimet payı; s.66–67(PDF78–79), Sa‘d ve Saîd’in aşere rivayetleri/listesi. İlgili webPDFmetni okundu; yeni yerel hashli nüsha veya görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "revision": "deferred-companion-opinions-tr-v1",
+  "inventory_sha256": "a2cb8f0b0633b09fa8a7d4622f96ff6283e96e5499edeaf1694ea23462a3c472",
+  "policy": "3kişi13görüş kökü;13dil karşılaştırması.11kısmi2okunan kaynakta tam karşılığı bulunamayan atıflı söz. Pay/ok anlamları bağlamıyla ayrı; tarihsel atıf/sıhhat/uzman tasdiki yok.",
+  "checked_sources": [
+    "risale",
+    "diyanet",
+    "sehl",
+    "said"
+  ],
+  "inaccessible_candidates": [],
+  "narrators": [
+    {
+      "id": 3232,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "3232:1011:fba11e76174ecdce4827a7b900e699ee1b4e0adbf0ee21b47c2b099fea810461",
+          "expected_source": {
+            "narrator_id": 3232,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي مشهور أحد العشرة وأول من رمى بسهم في سبيل الله ومناقبه كثيرة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d10565c21598116d92d35cf6e17fbe5272f1e77dec2736636d80d9df48a0d77a",
+          "text": "Takrîb’de: Meşhur bir sahâbîdir; aşere-i mübeşşereden biridir. Allah yolunda ilk ok atan kişidir; birçok menkıbesi vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "said": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tatlı tezindeki aşere listesi on kişiden olma bilgisini destekler; risalede ilk kan akıtma ifadesi ilk ok atmayla eşitlenmedi. رمى بسهم burada ok atımıdır; ganimet payı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tatlı tezindeki aşere listesi on kişiden olma bilgisini destekler; risalede ilk kan akıtma ifadesi ilk ok atmayla eşitlenmedi. رمى بسهم burada ok atımıdır; ganimet payı değildir. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3232:1125:28c601f90263ce4e90e520a7c7fb23d567fb4dea377e9d2e7558ed9d59a4a5e2",
+          "expected_source": {
+            "narrator_id": 3232,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "شهد بدرا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "878670e835a18226f72c45ae2eb84ff90261bb392ab00c01e161c4ee34676812",
+          "text": "Bedir’e katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "risale": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK’nin kısa ifadesi doğrudan çevrildi. Risalede ordudaki Bedir gazilerini anan bölüm Sa‘d’ın şahsî katılımına otomatik delil sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK’nin kısa ifadesi doğrudan çevrildi. Risalede ordudaki Bedir gazilerini anan bölüm Sa‘d’ın şahsî katılımına otomatik delil sayılmadı. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3232:1268:4608c074249275393958174aaa19cb018995b1fb744e677c698a473e55f932ab",
+          "expected_source": {
+            "narrator_id": 3232,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "فارس الإسلام وأحد العشرة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8efa725ead5f0c0fafd2e49174978ac6eb929227c06b8adefea8bec130d3d7ae",
+          "text": "İslâm’ın süvarisi ve aşere-i mübeşşereden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "said": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tatlı tezindeki aşere listesi ikinci bölümün anlamına dayanak; süvari nitelemesi GK’den aktarılır. Zehebî’ye ait sözün Türkçe basılı alıntısı doğrulanmış sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tatlı tezindeki aşere listesi ikinci bölümün anlamına dayanak; süvari nitelemesi GK’den aktarılır. Zehebî’ye ait sözün Türkçe basılı alıntısı doğrulanmış sayılmadı. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3232:1290:eb5bf7a5e1f7824f6d7db6574cac7376acb8e874da404320c3ee8b30025d075a",
+          "expected_source": {
+            "narrator_id": 3232,
+            "alem_id": "1290",
+            "critic": "عبد الرحمن بن أبي بكر بن محمد بن سابق الدين بن عثمان بن محمد بن خضر بن أيوب بن محمد بن همام الدين",
+            "opinion": "أحد العشرة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "cfc89f359bbdedd1287106abf096c6f12ea7493e6b5c083e19b71d6b6819a7e9",
+          "text": "Aşere-i mübeşşereden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "said": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tatlı tezindeki listede Sa‘d açıkça var; bu destek, Süyûtî’ye atfedilen cümlenin aynı Türkçe baskıdan alındığı anlamına gelmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tatlı tezindeki listede Sa‘d açıkça var; bu destek, Süyûtî’ye atfedilen cümlenin aynı Türkçe baskıdan alındığı anlamına gelmez. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3232:429:a46682402a2453715b1c31f9bbc442a8b5b5b693f5ccd85f9ba5edae18cd21da",
+          "expected_source": {
+            "narrator_id": 3232,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "شهد بدر مع النبي صلى الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7ede81c31c69953d7670944b848ece506e665c78cc36dbf5c42abfef3461742a",
+          "text": "Nebî ile birlikte Bedir’e katıldı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "risale": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kısa Arapça cümle aktarıldı; okunan Türkçe risale bölümünde bu Ebû Hâtim atfına tam karşılık tespit edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Kısa Arapça cümle aktarıldı; okunan Türkçe risale bölümünde bu Ebû Hâtim atfına tam karşılık tespit edilmedi. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        }
+      ]
+    },
+    {
+      "id": 3331,
+      "expected_opinion_count": 3,
+      "opinions": [
+        {
+          "key": "3331:1011:6ba0947b183709c98e4dc671295d45167a6e3ba182fa6977f6ab8a4e1b89be8f",
+          "expected_source": {
+            "narrator_id": 3331,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي جليل أحد العشرة المبشرين بالجنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6c9bd215bae56a5347ae45e4a168e1e9c7597e541a5c426513bab73d785e12a2",
+          "text": "Takrîb’de: Değerli bir sahâbîdir; cennetle müjdelenen on kişiden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "said": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tatlı tezi başlığı ve aşere bölümü kişi bilgisini destekler; İbn Hacer’in atıflı sözünün birebir Türkçe kitap alıntısı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tatlı tezi başlığı ve aşere bölümü kişi bilgisini destekler; İbn Hacer’in atıflı sözünün birebir Türkçe kitap alıntısı değildir. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3331:1125:78766aa95bbf7e350b0935da824daa1371aa1420552c35df8aa83262da558cde",
+          "expected_source": {
+            "narrator_id": 3331,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "ضرب له رسول الله صلى الله عليه وسلم بسهمه يوم بدر",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1373c10cb072a1f80df637dd31f61d9ea0be3215b36c6185b1da6d08f44ab49b",
+          "text": "Resûlullah, Bedir günü onun ganimet payını ayırdı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "said": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tatlı s.38–39 görev nedeniyle savaşta bulunmama ile ganimet payı verilmesini ayırır. ضرب له بسهمه pay ayırmak demektir; ona okla vuruldu veya ok attı diye çevrilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tatlı s.38–39 görev nedeniyle savaşta bulunmama ile ganimet payı verilmesini ayırır. ضرب له بسهمه pay ayırmak demektir; ona okla vuruldu veya ok attı diye çevrilmedi. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3331:1385:b29678781c651865ce02226ee684ecf9d499f3ebb71e1b21e6c27d26721aab76",
+          "expected_source": {
+            "narrator_id": 3331,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "أحد العشرة المشهود لهم بالجنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d5479764ad0812b5a6d52279f71fa1db89f87d3523e139530ddb4a93f968d7aa",
+          "text": "Cennetle müjdelendiklerine şahitlik edilen on kişiden biridir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "said": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tatlı tezi aşere bilgisini destekler; Mizzî’nin bu atıflı sözünün Türkçe basılı alıntısı doğrulanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tatlı tezi aşere bilgisini destekler; Mizzî’nin bu atıflı sözünün Türkçe basılı alıntısı doğrulanmadı. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        }
+      ]
+    },
+    {
+      "id": 3672,
+      "expected_opinion_count": 5,
+      "opinions": [
+        {
+          "key": "3672:1011:d0ba62ee721e31589a6b87b2d2a1e711637f247b8df35444b5d4a89c0175d2a8",
+          "expected_source": {
+            "narrator_id": 3672,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : صحابي مشهور",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9d875ef72222fde94eef5a085ff4df7adf01d4443076965b44195b3b5032401d",
+          "text": "Takrîb’de: Meşhur bir sahâbîdir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 sahâbîlik için Türkçe dayanak; atıflı İbn Hacer cümlesinin tamamının yayımlanmış Türkçe alıntısı sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 sahâbîlik için Türkçe dayanak; atıflı İbn Hacer cümlesinin tamamının yayımlanmış Türkçe alıntısı sayılmadı. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3672:1125:2135f3a83ca711684f2a1ebbe288572cd325162a36279048706f3b9e6a091436",
+          "expected_source": {
+            "narrator_id": 3672,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "أشار إلى أنه : رأى وأدرك النبي صلى الله عليه وسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "33b84ed61531f49a5fb94cc8566a40d22fb4c81ca8781bfd75d57afc574faaeb",
+          "text": "Onun Nebî’yi gördüğüne ve onun dönemine yetiştiğine işaret etmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 Zührî’den görme ve işitme haberi aktarır; GK’deki Buhârî atfı ayrı korunur, kaynaklar aynı isnad veya söz diye birleştirilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 Zührî’den görme ve işitme haberi aktarır; GK’deki Buhârî atfı ayrı korunur, kaynaklar aynı isnad veya söz diye birleştirilmez. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3672:1268:fbd0ccfba04b3b4352ce32c765c277e4309330fb6286d24ef95d52b34ef5dd72",
+          "expected_source": {
+            "narrator_id": 3672,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "صحابي ولد صحابي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7199f2fc3649a30217cccf8635c18ce5a95bcf135f27927beb845e6ce01c51cf",
+          "text": "Sahâbî çocuğu olan bir sahâbîdir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 Sehl’in sahâbîliğini verir; bu, sözün ilk kısmına kısmi destektir. Babanın sahâbîliği burada açıkça anlatılmaz; babaya ilişkin bölüm Türkçede bağımsız teyit edilmiş sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 Sehl’in sahâbîliğini verir; bu, sözün ilk kısmına kısmi destektir. Babanın sahâbîliği burada açıkça anlatılmaz; babaya ilişkin bölüm Türkçede bağımsız teyit edilmiş sayılmadı. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3672:1385:0c5a2321c83bfd779610c5bac839fc1c4cc50897316fa097f52094cde4bbfd8f",
+          "expected_source": {
+            "narrator_id": 3672,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "له صحبة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e2ab1f29d5a42dfbb106544ef219a2a58dcc9872c4a63767fff6f17307316ef2",
+          "text": "Sahâbîliği vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 sahâbîlik bilgisini destekler; Mizzî atfının birebir Türkçe kitap karşılığı olduğu iddia edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 sahâbîlik bilgisini destekler; Mizzî atfının birebir Türkçe kitap karşılığı olduğu iddia edilmedi. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        },
+        {
+          "key": "3672:431:c9e66741085fb3a9b1d837cea8758102e1aae6d97bbf8974f9d01e37a5ccb720",
+          "expected_source": {
+            "narrator_id": 3672,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "آخر من مات من الصحابة بالمدينة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f0888ce09d666e1cd9fa6aee80db04228235f7968a738f4bb2f1a988a6f08bd0",
+          "text": "Medine’de vefat eden sahâbîlerin sonuncusudur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 bu Medine bağlamını ihtiyatlı bir söyleyişle aktarır. GK’deki İbn Hibbân sözü kendi kesin anlatımıyla çevrilir; tarihsel ihtilafın çözüldüğü iddia edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 bu Medine bağlamını ihtiyatlı bir söyleyişle aktarır. GK’deki İbn Hibbân sözü kendi kesin anlatımıyla çevrilir; tarihsel ihtilafın çözüldüğü iddia edilmez. Tam Arapça görüş ve atıf sınırları okundu. Türkçe, kaynak sözün asistan aktarımıdır; yayımlanmış birebir Türkçe alıntı, atfın tarihsel tasdiki veya uzman onayı değildir. Dar tarama bütün Türkçe literatürde yokluk sayılmaz."
+        }
+      ]
+    }
+  ]
+}

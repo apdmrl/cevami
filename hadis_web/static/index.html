@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#173f35">
+  <meta name="description" content="Arapça hadis metinleri, senedler, ravi kayıtları ve kaynaklarıyla hadis araştırma kütüphanesi.">
+  <title>Cevâmi — Hadis Araştırma Kütüphanesi</title>
+  <link rel="stylesheet" href="/assets/style.css?v=20261112-friendly-v3">
+  <script type="module" src="/assets/app.js?v=20261113-security-print1"></script>
+  <link rel="stylesheet" href="/assets/print.css?v=20261113-print2">
+  <link rel="stylesheet" href="/assets/guide.css?v=20261112-friendly-v3">
+  <script type="module" src="/assets/guide.js?v=20261112-friendly-v3"></script>
+  <link rel="stylesheet" href="/assets/readability.css?v=20261113-audit-fixes3">
+</head>
+<body>
+<a class="skip-link" href="#reading">Hadis metnine geç</a>
+<header class="topbar">
+  <a class="brand" href="/" aria-label="Cevâmi ana sayfa">
+    <span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none"><path d="M5 7c4-1 7 0 11 3 4-3 7-4 11-3v19c-4-1-7 0-11 3-4-3-7-4-11-3V7Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 10v19M9 12l3 1m-3 4 3 1m8-5 3-1m-3 6 3-1" stroke="currentColor" stroke-width="1.5"/></svg></span>
+    <span><strong>cevâmi</strong><small>HADİS ARAŞTIRMA KÜTÜPHANESİ</small></span>
+  </a>
+  <nav class="topnav" aria-label="Ana menü"><a href="/" class="search-nav">Hadis ara</a><button class="nav-active" id="library-nav">Kütüphane</button><button id="about-button">Kaynaklar hakkında</button></nav>
+  <span class="stage-badge"><i></i>Araştırma sürümü</span>
+  <button id="mobile-library" class="icon-button mobile-only" aria-label="Eser listesini aç" aria-controls="library" aria-expanded="false">☰</button>
+</header>
+<div class="workspace">
+  <aside class="library" id="library" aria-label="Eser kütüphanesi">
+    <div class="library-heading"><span class="eyebrow">KÜTÜPHANE</span><span class="muted" id="library-count">1.400 eser</span><button id="close-library" class="mobile-only icon-button" aria-label="Eser listesini kapat">×</button></div>
+    <form id="book-search-form" class="book-search"><span aria-hidden="true">⌕</span><input id="book-search" type="search" placeholder="Eser veya müellif ara…" aria-label="Eser veya müellif ara"><button type="submit" class="book-search-submit" aria-label="Eser ara">Ara</button></form>
+    <div class="library-label">ESERLER <span>Arapça asıl metinler</span></div>
+    <p id="book-status" class="library-status" role="status"></p><button id="retry-books" class="text-button" hidden>Eser listesini yeniden yükle</button>
+    <p id="book-selection-status" class="library-status" role="status"></p><button id="retry-book-selection" class="text-button" hidden>Seçilen eseri yeniden dene</button>
+    <div id="book-list" class="book-list" aria-live="polite" aria-busy="false"></div>
+    <button id="more-books" class="text-button hidden">Daha fazla eser</button>
+    <div class="library-foot"><span class="source-symbol">◇</span><div>Kaynağa bağlı araştırma<small>Metin · Sened · Râvi · Atıf</small></div></div>
+  </aside>
+  <main id="reading">
+    <div class="reading-links"><a id="back-search" href="/">← Hadis ara</a><a id="open-research" hidden>Okuma görünümünü değiştir ↗</a><button id="open-guide" class="guide-open" type="button">Kullanım rehberi</button></div>
+    <nav id="section-navigation" class="section-navigation" aria-label="Hadis bölümleri"><a href="#arabic-text">Arapça metin</a><a href="#translations-panel">Çeviri</a><a href="#sanad-list">Senedler</a><a href="#source-details">Kaynak</a></nav>
+    <div class="reader-topline"><div class="breadcrumbs"><span>Kütüphane</span><span>/</span><span id="breadcrumb-book" lang="ar" dir="rtl">صحيح البخاري</span></div><span id="record-position" class="muted"></span></div>
+    <form id="search-form" class="main-search"><span aria-hidden="true">⌕</span><input id="query" type="search" dir="auto" maxlength="160" placeholder="Bu eserde hadis ara veya iç sıraya git…" aria-label="Bu eserde hadis ara veya numara gir" aria-describedby="research-search-help research-search-status"><button type="submit">Ara <span aria-hidden="true">↵</span></button></form>
+    <div class="research-search-help"><p id="research-search-help">Kelimeyle bu eserde arayın. İç sıra için <bdi>2</bdi>, doğrudan GK kaydı için <bdi>146_2</bdi> yazabilirsiniz. Boş arama eserdeki kayıtları listeler.</p><button id="reopen-results" class="text-button" hidden>Son arama sonuçlarına dön</button></div>
+    <section id="search-results" class="search-results hidden" aria-labelledby="search-title"><div class="section-heading"><h2 id="search-title">Arama sonuçları</h2><button id="close-results" class="text-button">Kapat</button></div><p id="research-search-status" class="research-search-status" role="status"></p><div id="results-list" aria-busy="false"></div><button id="retry-research-search" class="text-button" hidden>Aramayı yeniden dene</button><button id="more-results" class="text-button hidden">Sonraki sonuçlar</button></section>
+    <div id="error-banner" class="error-banner hidden" role="alert"></div>
+    <div id="record-loading" class="empty-state" role="status">Kayıt yükleniyor…</div>
+    <button id="retry-hadith" class="secondary-button" hidden>Kaydı yeniden yükle</button>
+    <p id="auxiliary-status" class="auxiliary-status" role="status" hidden></p><button id="retry-auxiliary" class="text-button" hidden>Ek bilgileri yeniden yükle</button>
+    <article class="hadith-paper" id="hadith-paper" aria-busy="true" hidden>
+      <div class="paper-top"><div><span class="eyebrow">ARAPÇA ASIL METİN</span><p id="book-title-tr" class="book-title-tr" hidden></p><h1 id="book-title" lang="ar" dir="rtl">صحيح البخاري</h1><p id="book-author" class="arabic-meta" lang="ar" dir="rtl"></p></div><div class="hadith-number" title="Bu eserdeki iç kayıt sırası; kaynak hadis numarasıyla aynı olmak zorunda değildir."><small>İÇ SIRA</small><strong id="hadith-number">1</strong></div></div>
+      <details id="record-identity" class="record-identity"><summary>Kaynak ve numaralar <span id="identity-short"></span></summary><p>İç kayıt sırası, metinde görünen numara ve kaynak atfı farklı numaralandırmalara ait olabilir. Başka bir baskının numarasıyla otomatik eşitlenmez.</p><dl id="identity-details"></dl></details>
+      <div class="paper-tools"><div class="view-tabs"><button class="selected" id="arabic-tab" aria-pressed="true">Arapça metin</button><button id="sanad-jump">Senedler <span class="count-pill" id="sanad-top-count">—</span></button><button id="translation-toggle" aria-expanded="false" aria-controls="translations-panel">Çeviriler <span class="count-pill" id="translation-count">—</span></button></div><div class="font-tools" aria-label="Metin görünümü"><button id="font-down" aria-label="Arapça yazıyı küçült">A−</button><button id="font-up" aria-label="Arapça yazıyı büyüt">A+</button></div></div>
+      <div id="arabic-text" class="arabic-text" lang="ar" dir="rtl" aria-label="Arapça hadis metni"></div>
+      <div class="arabic-hint"><span aria-hidden="true">↗</span> Ravi adlarına dokunarak kaynak bilgilerini inceleyebilirsiniz.</div>
+      <section id="translations-panel" class="translations-panel hidden" aria-label="Çeviriler"><div class="translation-heading"><h2>Çeviri</h2><div class="translation-languages" role="group" aria-label="Çeviri dili"><button id="read-tr" aria-pressed="true">Türkçe</button><button id="read-en" aria-pressed="false">English</button></div></div><div id="turkish-content"><div id="compare-toolbar" class="compare-toolbar" hidden><button id="compare-components" aria-pressed="false" aria-controls="components-content">Arapça ve Türkçeyi karşılaştır</button><p>Her bölüm kendi kaynak kapsamıyla gösterilir. Eksik ve sorunlu çeviriler ayrıca belirtilir.</p></div><section id="components-section" class="components-section" aria-label="Kaynaklarıyla Türkçe bölümler"><div id="components-content"></div></section><div id="translations-content"></div></div><div id="english-content" hidden></div></section>
+      <div class="citation-line"><span class="eyebrow">KAYNAK</span><span id="short-citation" lang="ar" dir="rtl"></span><div class="citation-actions"><button id="copy-link" class="text-button">Bağlantıyı kopyala</button><button id="copy-citation" class="text-button">Atfı kopyala</button><button id="print-record" class="text-button" type="button" title="Arapça asıl, açık çeviri, yüklü senedler ve kaynak künyesi">Yazdır / PDF</button></div></div>
+      <section id="copy-fallback" class="copy-fallback" aria-label="Kopyalanacak metin" hidden><div><p>Metin otomatik kopyalanamadı. Seçili metni elle kopyalayabilirsiniz.</p><button id="close-copy-fallback" type="button" class="text-button">Kapat</button></div><textarea id="copy-text" rows="5" readonly aria-label="Kopyalanacak bağlantı veya atıf"></textarea></section>
+      <nav class="record-navigation" aria-label="Hadisler arasında geçiş"><button id="previous-record">← Önceki kayıt</button><form id="jump-form"><label for="jump-number">İç sıra</label><input id="jump-number" type="text" inputmode="numeric" maxlength="20" value="1" aria-label="Gidilecek iç kayıt sırası" aria-describedby="jump-help jump-status"><button type="submit">Git</button></form><button id="next-record">Sonraki kayıt →</button></nav>
+      <div class="record-jump-help"><p id="jump-help">İç sıra, bu eserdeki kayıt sırasıdır. Kaynakta görünen hadis numarası farklı olabilir.</p><p id="jump-status" role="status"></p></div>
+    </article>
+    <section class="sanad-section" aria-label="Kayıtlı senedler">
+      <div class="section-heading"><div><span class="eyebrow">RİVAYET ZİNCİRLERİ</span><h2>Senedler <span id="sanad-count" class="heading-count">—</span></h2></div><div class="sanad-actions"><button id="compare-sanads" class="text-button" type="button" aria-expanded="false" aria-controls="sanad-comparison" disabled>Senedleri karşılaştır</button><button id="expand-sanads" class="text-button">Tümünü aç</button></div></div>
+      <p class="section-note">Kaynakta kayıtlı sıra korunur. Yapısal işaretler ravi kayıtlarından ayrı gösterilir.</p>
+      <section id="sanad-comparison" class="sanad-comparison" aria-labelledby="sanad-comparison-title" hidden>
+        <h3 id="sanad-comparison-title">Senedleri yan yana incele</h3>
+        <p id="sanad-comparison-coverage" class="muted"></p>
+        <div class="sanad-comparison-selectors"><label>Birinci sened<select id="sanad-compare-first"></select></label><label>İkinci sened<select id="sanad-compare-second"></select></label></div>
+        <p class="sanad-comparison-note">Vurgu, aynı kaynak ravi kimliğini gösterir. İsim benzerliğinden eşleşme yapılmaz; bu gösterim tarihsel kimlik, doğrudan işitme veya sıhhat onayı değildir. Sütunlar arasında ilişki ya da sıra hizalaması kurulmaz.</p>
+        <p id="sanad-comparison-status" class="sanad-comparison-status" role="status" aria-live="polite"></p>
+        <div id="sanad-comparison-result" class="sanad-comparison-result"></div>
+      </section>
+      <div id="sanad-list" class="sanad-list"></div><p id="sanad-page-error" class="auxiliary-status" role="status" hidden></p><button id="more-sanads" class="secondary-button hidden" aria-describedby="sanad-page-error">Diğer senedleri göster</button>
+    </section>
+    <footer class="reader-footer"><span>Veri: Cevâmiu’l-Kelim · Offok / Islamweb</span><span>Arapça asıl · Kaynaklarıyla birlikte</span></footer>
+  </main>
+  <aside id="source-details" class="reference-sidebar" aria-label="Kaynak künyesi"><section class="reference-card"><span class="eyebrow">KAYNAK KÜNYESİ</span><div class="reference-emblem" aria-hidden="true">۞</div><h2 id="reference-book" lang="ar" dir="rtl"></h2><dl id="reference-details"></dl><div class="reference-note"><span>◇</span><p>Künye ve hükümler kaynak verideki şekliyle gösterilir.</p></div></section><section class="reference-card compact"><span class="eyebrow">KAYIT BİLGİLERİ</span><dl id="record-details"></dl><details class="raw-details"><summary>Özgün veri kaydı</summary><pre id="raw-text" dir="rtl" lang="ar"></pre></details></section><div class="library-stat"><strong>1.400</strong><span>eserlik kaynak kütüphanesi</span></div></aside>
+</div>
+<div id="library-backdrop" class="library-backdrop" aria-hidden="true" hidden></div>
+<dialog id="narrator-dialog" class="narrator-dialog" aria-labelledby="narrator-dialog-title"><div class="dialog-top"><span class="eyebrow" id="narrator-dialog-title">RAVİ KAYDI</span><button id="close-narrator" class="icon-button" aria-label="Ravi kartını kapat" autofocus>×</button></div><nav id="narrator-context" class="narrator-context" aria-label="Sened içi ravi gezinmesi" hidden><p id="narrator-context-label" role="status" aria-live="polite"></p><div class="narrator-context-actions"><button id="previous-narrator" type="button">← Önceki ravi</button><button id="next-narrator" type="button">Sonraki ravi →</button></div></nav><div id="narrator-content" role="region" aria-label="Ravi bilgileri" tabindex="0"></div></dialog>
+<dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><div class="dialog-top"><span class="eyebrow">CEVÂMİ</span><button id="close-about" class="icon-button" aria-label="Kaynak bilgisini kapat">×</button></div><h2 id="about-title">Kaynağı izlenebilen bir hadis kütüphanesi</h2><p>Asıl kayıtlar Arapça hadis metinleri ve senedleridir. Metinler, ravi kayıtları ve kaynak hükümleri Cevâmiu’l-Kelim 4.5 verisinden gelir.</p><p>Türkçe çeviriler ayrı kaynak sürümleriyle ilişkilendirilir. Eşleştirme adayları tamamlanmış inceleme veya uzman onayı olarak gösterilmez.</p><p class="muted">İlk yerel geliştirme sürümü · 31 Ekim 2026</p></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<section id="print-view" hidden aria-label="Kaynak künyeli hadis çıktısı"></section>
+</body>
+</html>

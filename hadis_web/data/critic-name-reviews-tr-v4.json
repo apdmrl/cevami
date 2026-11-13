@@ -1,0 +1,175 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "uluman": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/9F/10246213.pdf#page=34",
+      "title": "Gülşah Uluman — Zü’l-yedeyn Hadisi:Tahrîc ve Tahlil, Marmara,YL2019",
+      "locator": "13Abdullah b.Yusuf, basılı23/PDF34; ilgili bölüm ve dipnot100–104webPDFmetninden okundu. Tunusî yazımı diğer kaynakla karşılaştırılır. Yerel indirme WinError10054ile başarısız; dosya/hash/görüntü denetimi iddiası yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "durmus": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/680592#page=27",
+      "title": "Üzeyir Durmuş — İmâm Buhârî’nin Sahîh’ine Kaynaklık Bakımından İmâm Mâlik’in Muvatta’sı, ÇOMÜİFD14(2019),171–212",
+      "locator": "2.2.1bölümü197–198/PDF27–28bütünüyle okundu: Tinnîsî, Zehebî hâfız/mutkin, Yahyâ b.Maîn’in Abdullah ve Ka‘nebî’yi birlikte anması. Yerel42sayfa; SHA256333dbef18d58be399eca42aac2297bde773df7e7560320293d42960384a28fff. Görüntü denetimi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "tahavi": {
+      "url": "https://islamansiklopedisi.org.tr/tahavi#1",
+      "title": "Davut İltaş — Tahâvî, TDV39(2010),385–388",
+      "locator": "Başlık ve ilk hayat paragrafı; EbûCa‘fer Ahmed b.Muhammed b.Selâme/321. Yalnız kısa ad karşılaştırması, tüm uzun soy veya görüş doğrulaması değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "cuzcani": {
+      "url": "https://islamansiklopedisi.org.tr/cuzcani-ebu-ishak",
+      "title": "İsmail Lütfi Çakan — Cûzcânî Ebûİshak, TDV8(1993),97–98",
+      "locator": "Başlık ve ilgili ilk hayat: İbrâhim b.Ya‘kub b.İshak/259. Kısa ad biçimi; bütün tarihsel hükümler tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnyunus": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-yunus-ebu-said",
+      "title": "Ali Akyüz — İbnYûnus EbûSaîd, TDV20(1999),450",
+      "locator": "Başlık ve ilk hayat: Abdurrahman b.Ahmed b.Yunus b.Abdila‘lâ/347. Oğlu astronom Ebü’l-Hasan ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "ebumushir": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-mushir",
+      "title": "M.Yaşar Kandemir — EbûMüshir, TDV10(1994),195",
+      "locator": "Başlık ve kısa hayat: Abdüla‘lâ b.Müshir b.Abdila‘lâ/218/Gassânî. Yalnız kısa ad biçimi, bütün uzun soy tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "revision": "assistant-critic-name-review-v4",
+  "policy": "Dört yeni kısa ad; aynı yazım farklı kişileri birleştirmez.",
+  "critics": [
+    {
+      "alem_id": "418",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "418",
+        "name": "أحمد بن محمد بن سلامة بن سلمة بن عبد الملك بن سلمة بن سليم",
+        "rawy_shohra": "أبو جعفر الطحاوي",
+        "rotba": 2,
+        "tabaka": "13",
+        "death_date": "321",
+        "rawy_id": "10306",
+        "opinion_count": 37,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "c0c254664920df1cd72ffc5c73e19aae5a9dff07a6dc9d25ff62575f5c3efd8d",
+      "text": "Ebû Ca‘fer et-Tahâvî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "tahavi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+    },
+    {
+      "alem_id": "49",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "49",
+        "name": "إبراهيم بن يعقوب بن إسحاق",
+        "rawy_shohra": "إبراهيم بن يعقوب الجوزجاني",
+        "rotba": 2,
+        "tabaka": "11",
+        "death_date": "259",
+        "rawy_id": "904",
+        "opinion_count": 339,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": ""
+      },
+      "expected_record_sha256": "d5d345d95bc1faae1541f00b3685413810f0c4d8e1170decea3ecd8d08ffc28e",
+      "text": "Ebû İshak el-Cûzcânî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "cuzcani": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+    },
+    {
+      "alem_id": "493",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "493",
+        "name": "عبد الرحمن بن أحمد بن يونس بن عبد الأعلى بن موسى بن ميسرة بن حفص بن حيان",
+        "rawy_shohra": "أبو سعيد بن يونس المصري",
+        "rotba": 2,
+        "tabaka": "14",
+        "death_date": "347",
+        "rawy_id": "20599",
+        "opinion_count": 369,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "c495ba09916a787527c387a12766f930e1ef61590f574edb82d9b69450e749ff",
+      "text": "Ebû Saîd İbn Yûnus el-Mısrî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibnyunus": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+    },
+    {
+      "alem_id": "666",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "666",
+        "name": "عبد الأعلى بن مسهر بن عبد الأعلى بن مسهر",
+        "rawy_shohra": "أبو مسهر الغساني",
+        "rotba": 3,
+        "tabaka": "9",
+        "death_date": "218",
+        "rawy_id": "4209",
+        "opinion_count": 61,
+        "wasf_rotba": "ثقة",
+        "wasf": ""
+      },
+      "expected_record_sha256": "db32b14ad6944353ada4b477deea653a0bb842fba1736b57bfdfbd1dbc2d14d9",
+      "text": "Ebû Müshir el-Gassânî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ebumushir": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Türkçe başlıktaki kısa ad, GK tam eleştirmen kaydı/ad/şöhret/ölüm yılı ile karşılaştırıldı. Bütün uzun soy ve görüşlerin tarihsel doğruluğu tasdik edilmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+    }
+  ]
+}

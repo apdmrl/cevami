@@ -1,0 +1,71 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/adem-b-ebu-iyas",
+      "title": "DİA — Âdem b. Ebû İyâs, TDV 1 (1988), 364",
+      "locator": "Başlık, üç paragraflık tam kısa madde, kaynakça ve matbu künye okundu. Künye, Horasânî/Askalânî, Merv doğumu, altı bölgedeki hocalardan öğrenme, Askalân’a yerleşme/ölüm ve genel güvenilirlik vardır. Uzun soy, Nâhiye alternatifi, dokuz yerde tam ikamet, iki velâ kaydı veya oğlu Ubeyd bu maddede yoktur. Genel güvenilirlik bütün on münekkit sözünün birebir teyidi sayılmadı; öğrenci listesi yeni sened ilişkisi olarak aktarılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/320/آدم-بن-أبي-إياس-واسمه-عبد-الرحمن-بن-محمد",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Âdem b. Ebû İyâs, 2/301–307, nr. 294",
+      "locator": "Tam harekesiz dijital biyografi, hoca-talebe listeleri ve devamı okundu. Temîm veya Teym, Horasan kökeni/Bağdat’ta yetişme ve öğrenme/seyahatler/Askalân’a yerleşme ayrıdır. Oğlu Ubeyd talebe listesinde açıktır. Ahmed’in altı veya yedi zabt öğrencisi; Maîn’in bazen zayıflardan nakil kaydı; Ebû Hâtim’in me’mûn/müteabbid/devamı; Nesâî lâ be’se bih; İbn Sa‘d’ın çok ve sahih semâ sözü okundu. Merv/Mervürrûz otomatik yer birleştirmesi yapılmadı. Matbu facsimile veya asıl Suâlât karşılaştırılmadı; tarih/yaş alternatifleri GK sayısal alanlarına geçirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "sicistani": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-davud-es-sicistani",
+      "title": "M. Yaşar Kandemir — Ebû Dâvûd es-Sicistânî, TDV 10 (1994), 119–121",
+      "locator": "Başlık, ilk hayat paragrafı,275ölüm paragrafı ve matbu künye okundu. Kısa adın Süleymân b. el-Eş‘as b. İshâk/Sicistânî/275kimlik bileşenleri karşılaştırılır. İshâk sonrası soy varyantları çözülmüş veya bütün biyografi tasdik edilmiş sayılmaz; Tayâlisî ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/adem-related-records.json",
+      "sha256": "0114f60ba63e30092ee7c60cc1e2707b977b6f850af15922f25553886d2189d2"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v10",
+  "policy": "Bir kısa ad karşılaştırması; tam biyografi veya bütün görüş atıfları tasdiki değildir.",
+  "critics": [
+    {
+      "alem_id": "459",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "459",
+        "name": "سليمان بن الأشعث بن إسحاق بن بشير بن شداد بن عمرو بن عمران",
+        "rawy_shohra": "أبو داود السجستاني",
+        "rotba": 2,
+        "tabaka": "11",
+        "death_date": "275",
+        "rawy_id": "3567",
+        "opinion_count": 1206,
+        "wasf_rotba": "ثقة حافظ",
+        "wasf": ""
+      },
+      "expected_record_sha256": "ba0498ba85b7d4ba66f0b5ed0f6d4e402bcdd0335906b4269e913c565a47c6a8",
+      "text": "Ebû Dâvûd es-Sicistânî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "sicistani": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tam GK459on alanlı kayıt ve bağlı3567tam26alan kaydı TDV kısa Süleymân b. el-Eş‘as b. İshâk/Sicistânî/275kimliğiyle karşılaştırıldı. İshâk sonrası soy varyantları tasdik edilmedi; Ebû Dâvûd et-Tayâlisî ile birleştirilmedi. Kısa ad karşılaştırması bütün biyografi veya özel görüş atfı onayı değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tam GK459on alanlı kayıt ve bağlı3567tam26alan kaydı TDV kısa Süleymân b. el-Eş‘as b. İshâk/Sicistânî/275kimliğiyle karşılaştırıldı. İshâk sonrası soy varyantları tasdik edilmedi; Ebû Dâvûd et-Tayâlisî ile birleştirilmedi. Kısa ad karşılaştırması bütün biyografi veya özel görüş atfı onayı değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    }
+  ]
+}

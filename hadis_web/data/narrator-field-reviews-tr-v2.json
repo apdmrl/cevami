@@ -1,0 +1,1701 @@
+{
+  "revision": "assistant-person-field-review-v2",
+  "reviewed_on": "2026-11-01",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "Yedi kişinin okunan Arapça alanlarının elle yazılmış Türkçe aktarımı. Dil karşılaştırması biyografik bağımsız teyit veya uzman onayı değildir. Tam/kısmi kaynak desteği ve kontrol edilen kaynaklarda bulunamayan karşılıklar ayrıdır.",
+  "sources": {
+    "person3299": {
+      "url": "https://islamansiklopedisi.org.tr/said-b-museyyeb",
+      "title": "TDV İslâm Ansiklopedisi: Saîd b. Müseyyeb",
+      "locator": "Kimlik/künye/Kureşî-Mahzûmî; Medine ve fakihlik; sika/sebt ifadeleri; ölüm tarihi paragrafı",
+      "accessed_on": "2026-11-01"
+    },
+    "person3629": {
+      "url": "https://islamansiklopedisi.org.tr/ames",
+      "title": "TDV İslâm Ansiklopedisi: A‘meş",
+      "locator": "Ebû Muhammed/Süleyman b. Mihrân/148 kimliği; Kûfe, hadis hâfızlığı ve sika değerlendirmesi paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person3795": {
+      "url": "https://islamansiklopedisi.org.tr/sube-b-haccac",
+      "title": "TDV İslâm Ansiklopedisi: Şu‘be b. Haccâc",
+      "locator": "Ebû Bistâm/Haccâc–Verd/160 kimliği; Vâsıt–Basra, kardeşi Hammâd ve oğlu Sa‘d paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person4396": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-hureyre",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Hüreyre",
+      "locator": "Abdurrahman b. Sahr/Devs/Yemen kimliği; künye ve sahâbîlik; 58 yanında 57/59 ölüm varyantları",
+      "accessed_on": "2026-11-01"
+    },
+    "person4967": {
+      "url": "https://islamansiklopedisi.org.tr/abdullah-b-omer-b-hattab",
+      "title": "TDV İslâm Ansiklopedisi: Abdullah b. Ömer b. Hattâb",
+      "locator": "Ebû Abdurrahman/Ömer–Hattâb/Adevî/73 kimliği; Mekke–Medine, Hafsa ve Mekke’de vefat paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person6659": {
+      "url": "https://islamansiklopedisi.org.tr/malik-b-enes",
+      "title": "TDV İslâm Ansiklopedisi: Mâlik b. Enes",
+      "locator": "Ebû Abdullah/Enes–Mâlik–Ebû Âmir/Asbahî/179 kimliği; nisbeler, Medine, fıkıh ve mezhep imamlığı, vefat",
+      "accessed_on": "2026-11-01"
+    },
+    "person7863": {
+      "url": "https://islamansiklopedisi.org.tr/nafi--tabiin-alimi",
+      "title": "TDV İslâm Ansiklopedisi: Nâfi‘",
+      "locator": "Ebû Abdullah/Nâfi‘ b. Hürmüz/Kureşî-Adevî-Medenî; İbn Ömer’in âzatlısı ve Medine; 117 yanında 116/119/120 varyantları",
+      "accessed_on": "2026-11-01"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Sika, hâfız, mütkın ve sebt ta‘dîl lafızlarının anlamlarını açıklayan paragraf",
+      "accessed_on": "2026-11-01"
+    },
+    "mevali": {
+      "url": "https://islamansiklopedisi.org.tr/mevali",
+      "title": "TDV İslâm Ansiklopedisi: Mevâlî",
+      "locator": "Velâ ilişkisinin farklı türleri; her mevlâ kaydı otomatik olarak tek ilişki türüne indirgenmez",
+      "accessed_on": "2026-11-01"
+    },
+    "aver": {
+      "url": "https://hadeethenc.com/tr/browse/hadith/5832",
+      "title": "HadeethEnc — a‘ver kelimesinin Arapça/Türkçe kullanım örneği",
+      "locator": "الأعور / bir gözü kör ifadesi; yalnız dil karşılığı, Saîd hakkında biyografik delil değil",
+      "accessed_on": "2026-11-01"
+    },
+    "ames_word": {
+      "url": "https://www.islamweb.org/ar/fatwa/106299/الفرق-بين-الأعمى-والكفيف-والضرير-والأعمش",
+      "title": "Islamweb — الأعمش kelimesi; Lisânü’l-Arab açıklamasını aktaran Arapça madde",
+      "locator": "وأما الأعمش paragrafı; Türkçe çeviri kaynağı değildir, yalnız Arapça kelime açıklaması",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "people": [
+    {
+      "id": 3299,
+      "expected_record_sha256": "240b2f46cf95071802ed35ab6c414a8ff2f3ab892490cabf060950f25e53658e",
+      "expected_source": {
+        "id": 3299,
+        "new_id": 17215,
+        "name": "سعيد بن المسيب بن حزن بن أبي وهب بن عمرو بن عائذ بن عمران بن مخزوم بن يقظة",
+        "shohra": "سعيد بن المسيب القرشي",
+        "badeel": "أبو محمد المدني",
+        "konya": "أبو محمد",
+        "lakab": "ابن أبي وهب",
+        "san3a": "الفقيه",
+        "wasf": "الأعور",
+        "mazhab": "",
+        "nasab": "القرشي،المخزومي،المدني",
+        "rotba": 2,
+        "wasf_rotba": "أحد العلماء الأثبات الفقهاء الكبار",
+        "tabaka": 2,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "17",
+        "death_year": "92",
+        "age": 75,
+        "baladekama": "المدينة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "والد محمد ، جد عمار بن محمد",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1075
+      },
+      "identity_comparison_note": "GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "سعيد بن المسيب بن حزن بن أبي وهب بن عمرو بن عائذ بن عمران بن مخزوم بن يقظة",
+          "text": "Saîd b. Müseyyeb b. Hazn b. Ebû Vehb b. Amr b. Âiz b. İmrân b. Mahzûm b. Yakaza.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "سعيد بن المسيب القرشي",
+          "text": "Saîd b. Müseyyeb el-Kureşî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو محمد المدني",
+          "text": "Ebû Muhammed el-Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو محمد",
+          "text": "Ebû Muhammed.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "ابن أبي وهب",
+          "text": "İbn Ebû Vehb.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،المخزومي،المدني",
+          "text": "Kureşî; Mahzûmî; Medenî (kaynakta geçen nisbeler).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "الفقيه",
+          "text": "Fakih (fıkıh âlimi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf",
+          "expected_arabic": "الأعور",
+          "text": "A‘ver (bir gözü görmeyen; kaynakta geçen niteleme).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "aver": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız kelime karşılığı. Bu kişinin fiziksel durumuna bağımsız delil değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "أحد العلماء الأثبات الفقهاء الكبار",
+          "text": "Rivayette sağlamlığıyla tanınan büyük fakih âlimlerden biri (kaynağın ravi nitelemesi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Ravi nitelemelerinin dil karşılığıdır; kişinin hükmünü bu genel madde kurmaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد محمد ، جد عمار بن محمد",
+          "text": "Muhammed’in babası; Ammâr b. Muhammed’in dedesi (kaynakta verilen kısa adlar).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3299": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 92, TDV başlığı ve ölüm paragrafı 94 verir; TDV ayrıca 89–105 arasında farklı tarihler bulunduğunu belirtir. 92 açıkça teyit edilmiş sayılmadı ve kaynak tarihi değiştirilmedi. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        }
+      ]
+    },
+    {
+      "id": 3629,
+      "expected_record_sha256": "b7699431efe2d1d23f53eef5d161528a90048b14463940b71c82e17a621dc23a",
+      "expected_source": {
+        "id": 3629,
+        "new_id": 18518,
+        "name": "سليمان بن مهران",
+        "shohra": "سليمان بن مهران الأعمش",
+        "badeel": "أبو محمد الكوفي",
+        "konya": "أبو محمد",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "الأعمش",
+        "mazhab": "",
+        "nasab": "الأسدي،الكاهلي،الكوفي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة حافظ",
+        "tabaka": 5,
+        "e5telat": 0,
+        "tadleese": 1,
+        "date_of_birth": "61",
+        "death_year": "148",
+        "age": 87,
+        "baladekama": "الكوفة ، واسط ، مكة",
+        "baladwafa": "",
+        "mawaaly": "مولى بني كاهل",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1737
+      },
+      "identity_comparison_note": "TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "سليمان بن مهران",
+          "text": "Süleyman b. Mihrân.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "سليمان بن مهران الأعمش",
+          "text": "Süleyman b. Mihrân el-A‘meş.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو محمد الكوفي",
+          "text": "Ebû Muhammed el-Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو محمد",
+          "text": "Ebû Muhammed.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الأسدي،الكاهلي،الكوفي",
+          "text": "Esedî; Kâhilî; Kûfî (kaynakta geçen nisbeler).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf",
+          "expected_arabic": "الأعمش",
+          "text": "A‘meş (görmesi zayıf olan; kaynakta geçen niteleme).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "ames_word": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız kelime karşılığı. Bu kişinin fiziksel durumuna bağımsız delil değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة حافظ",
+          "text": "Sika; hadis hâfızı (kaynakta geçen ravi nitelemeleri).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Ravi nitelemelerinin dil karşılığıdır; kişinin hükmünü bu genel madde kurmaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة ، واسط ، مكة",
+          "text": "Kûfe; Vâsıt; Mekke (kaynakta kayıtlı yerler ve sıra).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى بني كاهل",
+          "text": "Benî Kâhil’in mevlâsı (velâ ilişkisi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3629": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Velâ terimi içindir; kişi kimliği veya ilişki taraflarının bağımsız teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. TDV sika değerlendirmesinin yanında tedlîs ve diğer eleştirileri de aktarır. Kısa GK alanını çevirmek bu eleştirileri kaldıran yeni bir hüküm değildir. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        }
+      ]
+    },
+    {
+      "id": 3795,
+      "expected_record_sha256": "580f896313d944f90febb796518c630e9afece6650f99335d78b843ba804254b",
+      "expected_source": {
+        "id": 3795,
+        "new_id": 19175,
+        "name": "شعبة بن الحجاج بن الورد",
+        "shohra": "شعبة بن الحجاج العتكي",
+        "badeel": "أبو بسطام الواسطي",
+        "konya": "أبو بسطام",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "العتكي،الأزدي،الواسطي،البصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة حافظ متقن عابد",
+        "tabaka": 7,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "83",
+        "death_year": "160",
+        "age": 77,
+        "baladekama": "البصرة ، واسط",
+        "baladwafa": "البصرة",
+        "mawaaly": "مولى عبدة بن الأغر",
+        "karaba": "أخو حماد ، والد سعد",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 2132
+      },
+      "identity_comparison_note": "GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "شعبة بن الحجاج بن الورد",
+          "text": "Şu‘be b. Haccâc b. Verd.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "شعبة بن الحجاج العتكي",
+          "text": "Şu‘be b. Haccâc el-Atekî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو بسطام الواسطي",
+          "text": "Ebû Bistâm el-Vâsıtî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو بسطام",
+          "text": "Ebû Bistâm.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "العتكي،الأزدي،الواسطي،البصري",
+          "text": "Atekî; Ezdî; Vâsıtî; Basrî (kaynakta geçen nisbeler).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة حافظ متقن عابد",
+          "text": "Sika; hadis hâfızı; mütkın (rivayetinde titiz); âbid (ibadete düşkün) — kaynak ravi nitelemeleri.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Ravi nitelemelerinin dil karşılığıdır; kişinin hükmünü bu genel madde kurmaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "البصرة ، واسط",
+          "text": "Basra; Vâsıt (kaynakta kayıtlı sıra).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى عبدة بن الأغر",
+          "text": "Abde b. el-Egar’ın mevlâsı (velâ ilişkisi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Velâ terimi içindir; kişi kimliği veya ilişki taraflarının bağımsız teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "أخو حماد ، والد سعد",
+          "text": "Hammâd’ın kardeşi; Sa‘d’ın babası (kaynakta verilen kısa adlar).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person3795": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK el-Atekî nisbesi ve Abde b. el-Egar ile velâ ilişkisi okunan TDV paragraflarında tam karşılıkla teyit edilmedi. Türkçe yazımları Arapça alan aktarımıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        }
+      ]
+    },
+    {
+      "id": 4396,
+      "expected_record_sha256": "f26b1de31cc053528ebaa0c6dbf9c6911030f5852f2eaefe5d99cdca3f7f04e4",
+      "expected_source": {
+        "id": 4396,
+        "new_id": 21833,
+        "name": "عبد الرحمن بن صخر",
+        "shohra": "أبو هريرة الدوسي",
+        "badeel": "أبو هريرة اليماني",
+        "konya": "",
+        "lakab": "أبو هريرة",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الدوسي،اليماني",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "57",
+        "age": null,
+        "baladekama": "اليمن",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 3765
+      },
+      "identity_comparison_note": "GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبد الرحمن بن صخر",
+          "text": "Abdurrahman b. Sahr.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person4396": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "أبو هريرة الدوسي",
+          "text": "Ebû Hüreyre ed-Devsî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4396": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو هريرة اليماني",
+          "text": "Ebû Hüreyre el-Yemânî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4396": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "أبو هريرة",
+          "text": "Ebû Hüreyre (kaynakta lakap alanında kayıtlı künye).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4396": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الدوسي،اليماني",
+          "text": "Devsî; Yemânî (kaynakta geçen nisbeler).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4396": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "صحابي",
+          "text": "Sahâbî (kaynak nitelemesi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4396": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "اليمن",
+          "text": "Yemen (kaynakta kayıtlı yer; bütün hayatının tek yerle sınırlı olduğu anlamına gelmez).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4396": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 57, TDV başlığı 58 verir; metinde 57 ve 59 da anılır. Ad ve baba adı rivayetlerindeki farklılıklar tek tarihsel kesinliğe dönüştürülmedi. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        }
+      ]
+    },
+    {
+      "id": 4967,
+      "expected_record_sha256": "bf8ce9c8a55ba4b746d7eec9ee5b52627a9cbb798c7f8941871adf4c83bb4c64",
+      "expected_source": {
+        "id": 4967,
+        "new_id": 25175,
+        "name": "عبد الله بن عمر بن الخطاب بن نفيل",
+        "shohra": "عبد الله بن عمر العدوي",
+        "badeel": "ابن عمر",
+        "konya": "أبو عبد الرحمن",
+        "lakab": "ابن عمر",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،العدوي،المكي،المدني",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "73",
+        "age": 87,
+        "baladekama": "مكة ، المدينة",
+        "baladwafa": "مكة",
+        "mawaaly": "",
+        "karaba": "أخو حفصة أم المؤمنين ، أمه زينب بنت مظعون ، والد سالم ، خاله عثمان بن مظعون",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 2851
+      },
+      "identity_comparison_note": "Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبد الله بن عمر بن الخطاب بن نفيل",
+          "text": "Abdullah b. Ömer b. Hattâb b. Nüfeyl.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عبد الله بن عمر العدوي",
+          "text": "Abdullah b. Ömer el-Adevî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "ابن عمر",
+          "text": "İbn Ömer.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو عبد الرحمن",
+          "text": "Ebû Abdurrahman.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "ابن عمر",
+          "text": "İbn Ömer.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،العدوي،المكي،المدني",
+          "text": "Kureşî; Adevî; Mekkî; Medenî (kaynakta geçen nisbeler).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "صحابي",
+          "text": "Sahâbî (kaynak nitelemesi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "مكة ، المدينة",
+          "text": "Mekke; Medine (kaynakta kayıtlı sıra).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "مكة",
+          "text": "Mekke.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "أخو حفصة أم المؤمنين ، أمه زينب بنت مظعون ، والد سالم ، خاله عثمان بن مظعون",
+          "text": "Müminlerin annesi Hafsa’nın kardeşi; annesi Zeyneb bint Maz‘ûn; Sâlim’in babası; dayısı Osman b. Maz‘ûn.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4967": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. Aynı kısa adı taşıyan GK 4968 bu kişi değildir: onun babası Ömer b. Hafs, ölüm yılı 171’dir. Çeviri yalnız GK 4967 kaydına bağlıdır. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        }
+      ]
+    },
+    {
+      "id": 6659,
+      "expected_record_sha256": "024c8575fd7d9e6d27fba38eb7c3b3ec98f08d414ee929a01631b28bf993d4cf",
+      "expected_source": {
+        "id": 6659,
+        "new_id": 34888,
+        "name": "مالك بن أنس بن مالك بن أبي عامر بن عمرو",
+        "shohra": "مالك بن أنس الأصبحي",
+        "badeel": "أبو عبد الله المدني",
+        "konya": "أبو عبد الله",
+        "lakab": "إمام دار الهجرة ، ابن أبي عامر",
+        "san3a": "الفقيه",
+        "wasf": "",
+        "mazhab": "المالكية",
+        "nasab": "القرشي،التيمي،الحميري،الأصبحي،المدني",
+        "rotba": 2,
+        "wasf_rotba": "رأس المتقنين وكبير المتثبتين",
+        "tabaka": 7,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "89",
+        "death_year": "179",
+        "age": 90,
+        "baladekama": "المدينة",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1341
+      },
+      "identity_comparison_note": "GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "مالك بن أنس بن مالك بن أبي عامر بن عمرو",
+          "text": "Mâlik b. Enes b. Mâlik b. Ebû Âmir b. Amr.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "مالك بن أنس الأصبحي",
+          "text": "Mâlik b. Enes el-Asbahî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو عبد الله المدني",
+          "text": "Ebû Abdullah el-Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو عبد الله",
+          "text": "Ebû Abdullah.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "إمام دار الهجرة ، ابن أبي عامر",
+          "text": "Dârülhicre’nin imamı; İbn Ebû Âmir (kaynakta geçen lakaplar).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،التيمي،الحميري،الأصبحي،المدني",
+          "text": "Kureşî; Teymî; Himyerî; Asbahî; Medenî (kaynak nisbeleri; hepsinin doğrudan soy bağı olduğu ileri sürülmez).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "الفقيه",
+          "text": "Fakih (fıkıh âlimi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "mazhab",
+          "expected_arabic": "المالكية",
+          "text": "Mâlikîlik (kaynağın mezhep alanı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "رأس المتقنين وكبير المتثبتين",
+          "text": "Rivayetinde titiz olanların önderi, rivayeti dikkatle araştıranların büyüğü (kaynağın ravi nitelemesi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Ravi nitelemelerinin dil karşılığıdır; kişinin hükmünü bu genel madde kurmaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6659": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK nisbeleri arasında Kureşî ve Teymî bulunur; TDV Benî Teym ile halîflik bağını anlatır. Nisbeler doğrudan biyolojik soy iddiası olarak yorumlanmadı. Mezhep alanı mezhebin kurucusunu sonradan mensup olmuş kişi gibi yorumlamaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        }
+      ]
+    },
+    {
+      "id": 7863,
+      "expected_record_sha256": "a186c138ea7d58ef70020f841e89f46424e3981df239b55daacf9c6b174a2fe8",
+      "expected_source": {
+        "id": 7863,
+        "new_id": 46188,
+        "name": "نافع",
+        "shohra": "نافع مولى ابن عمر",
+        "badeel": "نافه بن هرمز المدني",
+        "konya": "أبو عبد الله",
+        "lakab": "",
+        "san3a": "الفقيه",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،العدوي،المدني",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت مشهور",
+        "tabaka": 3,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "116",
+        "age": null,
+        "baladekama": "المدينة",
+        "baladwafa": "",
+        "mawaaly": "مولى عبد الله بن عمر بن الخطاب",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1416
+      },
+      "identity_comparison_note": "GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "نافع",
+          "text": "Nâfi‘.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "نافع مولى ابن عمر",
+          "text": "İbn Ömer’in mevlâsı Nâfi‘.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "نافه بن هرمز المدني",
+          "text": "Nâfe b. Hürmüz el-Medenî (Arapça alternatif ad alanındaki yazım).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو عبد الله",
+          "text": "Ebû Abdullah.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،العدوي،المدني",
+          "text": "Kureşî; Adevî; Medenî (kaynakta geçen nisbeler).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "الفقيه",
+          "text": "Fakih (fıkıh âlimi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت مشهور",
+          "text": "Sika; sebt (rivayetinde titiz); meşhur (tanınmış) — kaynak ravi nitelemeleri.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kişi kimliği ve mevcut kısmi bilgiler için okundu; bu alanın bütün içeriğini bağımsız teyit etmez."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Ravi nitelemelerinin dil karşılığıdır; kişinin hükmünü bu genel madde kurmaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Tam alanın yayımlanmış Türkçe çevirisi okunan biyografi paragraflarında bulunmadı; eldeki kısmi dayanaklar belirtilerek Arapça alan asistan tarafından çevrildi. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى عبد الله بن عمر بن الخطاب",
+          "text": "Abdullah b. Ömer b. Hattâb’ın mevlâsı (biyografide âzatlısı olduğu belirtilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person7863": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın bilgi/yazım karşılığı okunan Türkçe biyografide desteklenir."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Velâ terimi içindir; kişi kimliği veya ilişki taraflarının bağımsız teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı, künye/nisbe/soy ve kaynaklar arası tarih farklarıyla okundu. GK ölüm yılı 116, TDV başlığı 117 verir; TDV metninde 116 da varyanttır. GK alternatif ad alanı نافه بن هرمز المدني diye yazılmıştır; ilk kelime Nâfe olarak korunur, sessizce Nâfi‘ yapılmaz. Bu alanın karşılığı Türkçe biyografide desteklenir. İnceleme belirli alanın dil aktarımı içindir; bütün biyografi, bütün görüşler veya uzman onayı değildir. Birebir kitap alıntısı yapılmadı."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+.venv/
+.local/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.env
+.coverage
+.coverage.*
+htmlcov/
+.superpowers/
+
+# Machine-local credentials and signing material
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Original corpora, generated indexes, backups and local output
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-wal
+*.db-shm
+*.dump
+*.bak
+*.zip
+*.rar
+*.pdf
+output/
+tmp/
+deploy/secrets/
+
+# Large public data parts are attached to the GitHub release
+data/**/workspace.tar.gz.part*

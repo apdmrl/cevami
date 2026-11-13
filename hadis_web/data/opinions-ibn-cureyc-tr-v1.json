@@ -1,0 +1,619 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-cureyc",
+      "title": "İsmail Cerrahoğlu — İbn Cüreyc, TDV 19 (1999), 404–406",
+      "locator": "Başlık/tam madde/kaynakça/matbu künye okundu. Kısa kimlik, iki künye, nisbeler, fıkıh, Atâ talebeliği ve Ümeyye b. Hâlid velâsı. Doğum80/GK74farkı sayısal alanda düzeltilmedi. Bağdat ziyareti ikamet teyidi değildir; iki oğul bu Türkçe maddede yoktur. Yayımlanan her münekkit sözü, diğer aynı lafızlı atıfların yerine konmadı. Yazılı nakil ve tedlîs/irsâl şartları ayrı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/4526/عبد-الملك-بن-عبد-العزيز-بن-جريج",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbn Cüreyc, 18/339–354, nr. 3539",
+      "locator": "Tam harekesiz dijital biyografi/öğretmen-talebe listeleri/devamı okundu. Ali → Yahyâ b. Saîd Nâfi‘ karşılaştırması ve Ali’nin Atâ bilgisi sözü ayrı. Atâ’da en sağlam sözü Ahmed naklidir; Amr b. Dînâr ile İbn Cüreyc ortak özne olarak da geçer. Yezîd b. Zürey‘ için صاحب غثاء. Altı Mescid-i Harâm yaşlı kadını, oğul Abdülazîz ve başka oğul Muhammed açık; GK Velîd kaydı bu biyografide bulunmadı. Belirli matbu tarama veya bütün kaynakların asıl baskıları okunmuş sayılmaz.",
+      "accessed_on": "2026-11-02"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/index.php?ID=1069&bk_no=60&flag=1&page=bookcontents",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, İbn Cüreyc, 6/325–336",
+      "locator": "Tam harekesiz dijital biyografi okundu. Ahmed’in عمرو بن دينار وابن جريج أثبت الناس في عطاء cümlesi iki ortak özneyi verir. Yezîd b. Zürey‘ sözü صاحب غثاء. Ali → Yahyâ b. Saîd nakli, Qattân’ın başka Nâfi‘ karşılaştırması, yazılı şartlar ve tedlîs lafızları birbirine taşınmadı. Belirli matbu tarama karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "jarh_text": {
+      "url": "https://scribetools.com/en/library/rijal/الجرح-والتعديل-لابن-أبي-حاتم/05_1551-05084239/text/0018",
+      "title": "İbn Ebû Hâtim — el-Cerh ve’t-ta‘dîl, dijital 5/356–358, nr. 1687",
+      "locator": "356–358etiketli tam kişi pasajı ve dipnotlar dijital metinden okundu. Atâ halef sorusu, Ali → Yahyâ Nâfi‘ sözü ve Ahmed’in Atâ hükmü ayrı nakillerdir. GK924كلهم قالهوثقةوقدمه...devamı bu tam girişte bulunmadı. Görünür OCR bozulmaları vardır; tarama/tenkitli edisyon tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "jarh_pdf": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/3D/3DE6BCBD095F3AF32A1ED8DD4C9478CC%C6%92%CE%98%C3%B1%E2%8C%90%C3%91%20%CF%86%C6%92%CE%98%C3%B3%CF%80%C2%BA%E2%88%A9%CE%98%205.pdf",
+      "title": "el-Cerh ve’t-ta‘dîl, cilt5 — kamuya açık arşivdeki dijital PDF",
+      "locator": "210PDFsayfası; kapak ve görüntüleyici181–182görüntüden okundu. Bu yeniden dizilmiş dijital metindir; özgün matbu sayfa facsimilesi değildir. [356]–[358]yalnız taşınan sayfa etiketleridir. Metin bozulmaları vardır. Dijital kapaktaki1372/1953Haydarabad/Dârİhyâbilgisi bağımsız baskı doğrulaması değildir; bütün210sayfa okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "amr": {
+      "url": "https://islamansiklopedisi.org.tr/amr-b-dinar",
+      "title": "Mustafa Uzunpostalcı — Amr b. Dînâr, TDV 3 (1991), 83",
+      "locator": "Başlık/ilk hayat/el-Esrem lakabı/126ve125alternatifleri/matbu künye okundu. Kısa ad ve kaynak kimliği bileşenleri karşılaştırılır; İbn Cüreyc görüşünün ona aidiyeti ayrı açık problemdir.",
+      "accessed_on": "2026-11-02"
+    },
+    "yezid": {
+      "url": "https://islamansiklopedisi.org.tr/yezid-b-zurey",
+      "title": "Abdullah Karahan — Yezîd b. Zürey‘, TDV 43 (2013), 523",
+      "locator": "Başlık/ilk hayat/üçlü ad/Ayşî nisbesi/182ölüm ve181/183alternatifleri/matbu künye okundu. Yalnız kısa ad biçimi; bütün soy veya münekkit sözlerinin asıl atfı tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ibn-cureyc-related-records.json",
+      "sha256": "6ac85b731716b1af10fa3f26f814365445ec81a70e5fb717fc2dcd93f40f4af4"
+    },
+    {
+      "path": "references/arabic/classical/ibn-abi-hatim-jarh-tadil-v5.pdf",
+      "sha256": "ee1236a037df132344375794b1fecb8906bb5bfa9e2c1b2100bd4d990eaa8236"
+    },
+    {
+      "path": "research/arabic-source-checks/ibn-abi-hatim-v5-inspection/viewer-181.png",
+      "sha256": "2f75d28273ea9c7b7420c07b12d242125a3623c7edde59fc5e9a4207461ba4ad"
+    }
+  ],
+  "revision": "ibn-cureyc-opinions-tr-v1",
+  "policy": "18tamgörüş10dilkarşılaştırması8açıkproblem;TR3tam9kısmi6okunan bölümde bulunamadı. İki ikincişahit okuması açık; hamGKdeğişmez.",
+  "narrators": [
+    {
+      "id": 5223,
+      "expected_opinion_count": 18,
+      "opinions": [
+        {
+          "key": "5223:1011:a5d5d676e471ff9bd2e80822f4a7d70443645c7c9da518293b38689446d296c6",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة فقيه فاضل ، وكان يدلس ويرسل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d8679a8d8fbb473244b6c5124a6577e35c34b0a593e4d9f0ce75fe23e8acb0a5",
+          "text": "Takrîb’de: Sika, fakih ve fazilet sahibidir; tedlîs ve irsâl yapardı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitap başlığı, olumlu üç niteleme ve tedlîs/irsâl birlikte korunur. TDV güvenilirlik/fıkıh/tedlîs bağlamını verir; bu birleşik tam lafzın bütünü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kitap başlığı, olumlu üç niteleme ve tedlîs/irsâl birlikte korunur. TDV güvenilirlik/fıkıh/tedlîs bağlamını verir; bu birleşik tam lafzın bütünü değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:1264:1543c1db62771d0777343fd68e88bb46fb966f10b4087747089fa065972dcfb3",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "1264",
+            "critic": "علي بن عمر بن أحمد بن مهدي بن مسعود بن النعمان بن دينار بن عبد الله",
+            "opinion": "تجنب تدليسه ، فإنه قبيح التدليس ، لا يدلس إلا فيما سمعه من مجروح",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "548eaa43a4828d7dc67d07a7e2e294cf1e7991c4249d13412cda900eb32d9edc",
+          "text": "Onun tedlîsinden kaçın; çünkü tedlîsi kötü türdendir. Yalnız cerhedilmiş birinden işittiği rivayetlerde tedlîs yapar.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç parça ve yalnızlık sınırlaması korunur. TDV Dârekutnî’nin ağır tedlîs eleştirisini aktarır; bütün bu üçlü sözün aynı lafzını vermez. Eleştiri kaynak münekkidine aittir; uygulamanın yeni hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üç parça ve yalnızlık sınırlaması korunur. TDV Dârekutnî’nin ağır tedlîs eleştirisini aktarır; bütün bu üçlü sözün aynı lafzını vermez. Eleştiri kaynak münekkidine aittir; uygulamanın yeni hükmü değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:1847:8b5cfef828eb897a023172857c3a72fec6b70345c62db7f45538e2551539c26f",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "1847",
+            "critic": "عبد الرحمن بن يوسف بن سعيد بن خراش",
+            "opinion": "كان صدوقا مكيا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "bc9e2bf00b1545050f22edfd67ac744e4933d420adf8d6e00596fc1a66fc025e",
+          "text": "Sadûktu; Mekkeli idi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbn Hırâş’a ait bu tam özel atıf okunan Türkçe maddede bulunmadı; başka münekkidin güvenilirlik sözüyle eşitlenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İbn Hırâş’a ait bu tam özel atıf okunan Türkçe maddede bulunmadı; başka münekkidin güvenilirlik sözüyle eşitlenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:2136:ff014574e688e9c42dc78d6c970f1106eabe49865367b4d584432eebc98d49b1",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "2136",
+            "critic": "علي بن المديني",
+            "opinion": "ابن جريج أثبت من مالك في نافع ومرة : لم يكن في الأرض أعلم بعطاء من ابن جريج",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7f24a4fbed63b6ebe54912c33ac691d0d7e8b4d3832d8b2ed461ad0f9562cc2d",
+          "text": "Nakil bağlamında Yahyâ b. Saîd’in sözü: İbn Cüreyc, Nâfi‘den rivayette Mâlik’ten daha sağlamdır. Ali b. Medînî’den başka bir nakilde: Yeryüzünde Atâ’yı İbn Cüreyc’ten daha iyi bilen yoktu.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Atıf sınırı: GK sözleri Ali b. Medînî kaydında birleştirir. Mizzî18/348veJarh5/357ilk Nâfi‘ sözünü Ali’nin Yahyâ b. Saîd’den işittiği nakil, ikinci Atâ cümlesini Ali’nin kendi sözü olarak verir. Türkçede nakil katmanı açıklandı; münekkit kimliği otomatik değiştirilmedi. Kaynak özetinin atıf kapsamı açık kalır."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sınırı: GK sözleri Ali b. Medînî kaydında birleştirir. Mizzî18/348veJarh5/357ilk Nâfi‘ sözünü Ali’nin Yahyâ b. Saîd’den işittiği nakil, ikinci Atâ cümlesini Ali’nin kendi sözü olarak verir. Türkçede nakil katmanı açıklandı; münekkit kimliği otomatik değiştirilmedi. Kaynak özetinin atıf kapsamı açık kalır."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sınırı: GK sözleri Ali b. Medînî kaydında birleştirir. Mizzî18/348veJarh5/357ilk Nâfi‘ sözünü Ali’nin Yahyâ b. Saîd’den işittiği nakil, ikinci Atâ cümlesini Ali’nin kendi sözü olarak verir. Türkçede nakil katmanı açıklandı; münekkit kimliği otomatik değiştirilmedi. Kaynak özetinin atıf kapsamı açık kalır."
+            },
+            "jarh_text": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sınırı: GK sözleri Ali b. Medînî kaydında birleştirir. Mizzî18/348veJarh5/357ilk Nâfi‘ sözünü Ali’nin Yahyâ b. Saîd’den işittiği nakil, ikinci Atâ cümlesini Ali’nin kendi sözü olarak verir. Türkçede nakil katmanı açıklandı; münekkit kimliği otomatik değiştirilmedi. Kaynak özetinin atıf kapsamı açık kalır."
+            },
+            "jarh_pdf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sınırı: GK sözleri Ali b. Medînî kaydında birleştirir. Mizzî18/348veJarh5/357ilk Nâfi‘ sözünü Ali’nin Yahyâ b. Saîd’den işittiği nakil, ikinci Atâ cümlesini Ali’nin kendi sözü olarak verir. Türkçede nakil katmanı açıklandı; münekkit kimliği otomatik değiştirilmedi. Kaynak özetinin atıf kapsamı açık kalır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Atıf sınırı: GK sözleri Ali b. Medînî kaydında birleştirir. Mizzî18/348veJarh5/357ilk Nâfi‘ sözünü Ali’nin Yahyâ b. Saîd’den işittiği nakil, ikinci Atâ cümlesini Ali’nin kendi sözü olarak verir. Türkçede nakil katmanı açıklandı; münekkit kimliği otomatik değiştirilmedi. Kaynak özetinin atıf kapsamı açık kalır. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:2232:4f6a3a3982920a98a31ab2651bb0aeb3a69f5e1831542398981efd433cbb949d",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "2232",
+            "critic": "عمرو بن دينار",
+            "opinion": "أثبت الناس في عطاء",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f672c554d34bb654e34fd3e80b35f244cf51f1c5ce45fd3f51c2c56a879727f0",
+          "text": "GK’nin Amr b. Dînâr’a atfıyla: Atâ’dan rivayette insanların en sağlamıdır.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Atıf sorunu: GK2232Amr b. Dînâr’ı münekkit olarak bağlar. Siyer6/328Ahmed’in sözünde Amr b. Dînâr ile İbn Cüreyc iki ortak özne olarak sayılır; Jarh5/357İbn Cüreyc için aynı üstünlük lafzı Ahmed’den nakledilir. Bu, Amr’ın o sözü söylediğinin bağımsız teyidi değildir; adı/sözü başka kayda taşınmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK2232Amr b. Dînâr’ı münekkit olarak bağlar. Siyer6/328Ahmed’in sözünde Amr b. Dînâr ile İbn Cüreyc iki ortak özne olarak sayılır; Jarh5/357İbn Cüreyc için aynı üstünlük lafzı Ahmed’den nakledilir. Bu, Amr’ın o sözü söylediğinin bağımsız teyidi değildir; adı/sözü başka kayda taşınmadı."
+            },
+            "jarh_text": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK2232Amr b. Dînâr’ı münekkit olarak bağlar. Siyer6/328Ahmed’in sözünde Amr b. Dînâr ile İbn Cüreyc iki ortak özne olarak sayılır; Jarh5/357İbn Cüreyc için aynı üstünlük lafzı Ahmed’den nakledilir. Bu, Amr’ın o sözü söylediğinin bağımsız teyidi değildir; adı/sözü başka kayda taşınmadı."
+            },
+            "jarh_pdf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK2232Amr b. Dînâr’ı münekkit olarak bağlar. Siyer6/328Ahmed’in sözünde Amr b. Dînâr ile İbn Cüreyc iki ortak özne olarak sayılır; Jarh5/357İbn Cüreyc için aynı üstünlük lafzı Ahmed’den nakledilir. Bu, Amr’ın o sözü söylediğinin bağımsız teyidi değildir; adı/sözü başka kayda taşınmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Atıf sorunu: GK2232Amr b. Dînâr’ı münekkit olarak bağlar. Siyer6/328Ahmed’in sözünde Amr b. Dînâr ile İbn Cüreyc iki ortak özne olarak sayılır; Jarh5/357İbn Cüreyc için aynı üstünlük lafzı Ahmed’den nakledilir. Bu, Amr’ın o sözü söylediğinin bağımsız teyidi değildir; adı/sözü başka kayda taşınmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:2289:d4f0e20d87aed5d2d38244ec11af5761323a4eb663c35fbb1858dca75269dced",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "2289",
+            "critic": "مالك بن أنس",
+            "opinion": "حاطب ليل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "bf1d92dd452e07c79397a7ad80ef322d6620a7f7e3f1d5416216c57d036ad188",
+          "text": "Gece oduncusu gibidir (rivayetleri ayıklamadan toplayan).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "حاطب ليل benzetmesi Mâlik’in kaynak eleştirisidir. TDV güvenilirliğine bakmaksızın rivayet etme anlamını açıklar; benzetmenin tam Türkçe lafzını nakletmez. Mizzî/Siyer asıl Arapça benzetmeyi verir; yeni uygulama sıhhat kararı üretilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "حاطب ليل benzetmesi Mâlik’in kaynak eleştirisidir. TDV güvenilirliğine bakmaksızın rivayet etme anlamını açıklar; benzetmenin tam Türkçe lafzını nakletmez. Mizzî/Siyer asıl Arapça benzetmeyi verir; yeni uygulama sıhhat kararı üretilmedi."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "حاطب ليل benzetmesi Mâlik’in kaynak eleştirisidir. TDV güvenilirliğine bakmaksızın rivayet etme anlamını açıklar; benzetmenin tam Türkçe lafzını nakletmez. Mizzî/Siyer asıl Arapça benzetmeyi verir; yeni uygulama sıhhat kararı üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "حاطب ليل benzetmesi Mâlik’in kaynak eleştirisidir. TDV güvenilirliğine bakmaksızın rivayet etme anlamını açıklar; benzetmenin tam Türkçe lafzını nakletmez. Mizzî/Siyer asıl Arapça benzetmeyi verir; yeni uygulama sıhhat kararı üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:2463:0d0aaab0a025c7925e597c0f3af273b08b5667fc98160043814d7ecad3599e1f",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ثقة ، كثير الحديث جدا",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b76c0bb16e6b4f5b5c1f95458947a5c0f77136b092dcc844a752385a54680f33",
+          "text": "Sikadır; pek çok hadis rivayet etmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV İbn Sa‘d’ın sika nitelemesini ve çok hadis rivayetini birlikte açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV İbn Sa‘d’ın sika nitelemesini ve çok hadis rivayetini birlikte açık verir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:2804:9c40595dc619bc36a478c9c9d117c841113f1ee9e142ee3e852136c739a2f077",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "2804",
+            "critic": "يحيى بن سعيد بن فروخ",
+            "opinion": "كنا نسمي كتب ابن جريج كتب الأمانة ، وإن لم يحدثك ابن جريج من كتابه لم ينتفع به ، ومرة : لم يكن أحد أثبت في نافع من ابن جريج فيما كتب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3aebfb4d447da61d9cf8fdbb2d935d6613eb14e1c30cb1287e5facf326542578",
+          "text": "Biz İbn Cüreyc’in kitaplarını emanet kitapları (güvenilir kitaplar) diye adlandırırdık. İbn Cüreyc sana kitabından rivayet etmezse ondan yararlanılmaz. Başka bir değerlendirmesinde: Yazılı nakillerinde Nâfi‘den rivayette İbn Cüreyc’ten daha sağlam hiç kimse yoktu.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç parça ve yazılı şartı korunur. GK2804tam kişi Yahyâ b. Saîd b. Ferrûh el-Kattân’dır; TDV Nâfi‘deki yazılı üstünlük cümlesini Ensârî adıyla aktarır. Jarh5/357Ali’nin Yahyâ b. Saîd’den nakli, Mizzî/Siyer kitap emanet ve kitap dışı şartını verir; bütün kimlik/lafız farkı sessizce kapatılmadı. Eski Kattân kimliği değişmedi, görüş atfı sorunu açık."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üç parça ve yazılı şartı korunur. GK2804tam kişi Yahyâ b. Saîd b. Ferrûh el-Kattân’dır; TDV Nâfi‘deki yazılı üstünlük cümlesini Ensârî adıyla aktarır. Jarh5/357Ali’nin Yahyâ b. Saîd’den nakli, Mizzî/Siyer kitap emanet ve kitap dışı şartını verir; bütün kimlik/lafız farkı sessizce kapatılmadı. Eski Kattân kimliği değişmedi, görüş atfı sorunu açık."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üç parça ve yazılı şartı korunur. GK2804tam kişi Yahyâ b. Saîd b. Ferrûh el-Kattân’dır; TDV Nâfi‘deki yazılı üstünlük cümlesini Ensârî adıyla aktarır. Jarh5/357Ali’nin Yahyâ b. Saîd’den nakli, Mizzî/Siyer kitap emanet ve kitap dışı şartını verir; bütün kimlik/lafız farkı sessizce kapatılmadı. Eski Kattân kimliği değişmedi, görüş atfı sorunu açık."
+            },
+            "jarh_text": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üç parça ve yazılı şartı korunur. GK2804tam kişi Yahyâ b. Saîd b. Ferrûh el-Kattân’dır; TDV Nâfi‘deki yazılı üstünlük cümlesini Ensârî adıyla aktarır. Jarh5/357Ali’nin Yahyâ b. Saîd’den nakli, Mizzî/Siyer kitap emanet ve kitap dışı şartını verir; bütün kimlik/lafız farkı sessizce kapatılmadı. Eski Kattân kimliği değişmedi, görüş atfı sorunu açık."
+            },
+            "jarh_pdf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üç parça ve yazılı şartı korunur. GK2804tam kişi Yahyâ b. Saîd b. Ferrûh el-Kattân’dır; TDV Nâfi‘deki yazılı üstünlük cümlesini Ensârî adıyla aktarır. Jarh5/357Ali’nin Yahyâ b. Saîd’den nakli, Mizzî/Siyer kitap emanet ve kitap dışı şartını verir; bütün kimlik/lafız farkı sessizce kapatılmadı. Eski Kattân kimliği değişmedi, görüş atfı sorunu açık."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üç parça ve yazılı şartı korunur. GK2804tam kişi Yahyâ b. Saîd b. Ferrûh el-Kattân’dır; TDV Nâfi‘deki yazılı üstünlük cümlesini Ensârî adıyla aktarır. Jarh5/357Ali’nin Yahyâ b. Saîd’den nakli, Mizzî/Siyer kitap emanet ve kitap dışı şartını verir; bütün kimlik/lafız farkı sessizce kapatılmadı. Eski Kattân kimliği değişmedi, görüş atfı sorunu açık. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:281:59707a2c6565587fda6e3299e0b2fdee0cbb444381b7a5550286df0ebcb07449",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "281",
+            "critic": "خلف بن عبد الملك بن مسعود بن موسى بن بشكوال بن يوسف بن داجة بن واكد بن نصر بن عبد الكريم بن وافد",
+            "opinion": "ذكره في شيوخ عبد الله بن وهب ، وقال : ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "cc8880e3327f34624b0f2a702e1a056c5d390f969271534a725c68984602af8b",
+          "text": "Onu Şüyûhu Abdillâh b. Vehb’de zikretti ve şöyle dedi: Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK kitap başlığı korunur. Türkçe maddede bu İbn Beşküvâl sözünün tam karşılığı bulunmadı; asıl Şüyûh pasajı doğrudan okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK kitap başlığı korunur. Türkçe maddede bu İbn Beşküvâl sözünün tam karşılığı bulunmadı; asıl Şüyûh pasajı doğrudan okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:2821:fc6624acb2ec2ab1def3ec2f48ae51deefb3ae26b793d1f637413872ce634cff",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "أصحاب الحديث خمسة فذكر ابن جريج فيهم ، ومرة قال : ابن جريج أثبت من عمرو بن دينار ، ومرة : ابن جريج ثقة في كل ما روى عنه من الكتاب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "fa0f29c8398a525648faba79e7079f0357a539d29adb1b6c83cffade4ae3c8ee",
+          "text": "Hadis ehli beş kişidir, diyerek İbn Cüreyc’i de aralarında saydı. Başka bir değerlendirmesinde: İbn Cüreyc, Amr b. Dînâr’dan daha sağlamdır. Başka birinde: İbn Cüreyc, kendisinden kitaptan nakledilen bütün rivayetlerde sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç ayrı söz, beş kişilik sayı, karşılaştırma ve kitaptan şartı korunur. TDV Maîn’in yazılı nakil şartını destekler; ilk iki sözün bütünü maddede yoktur. Uygulama beş kişiyi kendisi seçmedi veya rivayet şartını kaldırmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üç ayrı söz, beş kişilik sayı, karşılaştırma ve kitaptan şartı korunur. TDV Maîn’in yazılı nakil şartını destekler; ilk iki sözün bütünü maddede yoktur. Uygulama beş kişiyi kendisi seçmedi veya rivayet şartını kaldırmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:2835:eac54aa1fcb8d5214269971ca50e1064a99b08a8b0e5ddba8001b56654bffd6b",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "2835",
+            "critic": "يزيد بن زريع بن يزيد",
+            "opinion": "كان صاحب عطاء",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ad8d8f55ed6bad2674d910106cad2fe7aba2706fb1ca51d4a6e15d7681ab3c66",
+          "text": "İkinci Arapça şahidin okumasıyla: Çer çöp sahibi idi (rivayetleri ayıklamadan toplayan).",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Okuma sorunu: GKكان صاحب عطاء (Atâ’nın yakınında bulunan) yazar. Tam Mizzî18/349veSiyer6/329Yezîd b. Zürey‘ sözünü كان صاحب غثاء biçiminde verir; TDV de çer çöp sahibi karşılığını bu münekkide bağlar. Türkçe ikinci şahit okuması açıkça belirtildi; ham عطاء değiştirilmedi ve diğer sâhibü Atâ lakabıyla birleştirilmedi. GK edisyon/aktarılma hattı kesinleştirilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Okuma sorunu: GKكان صاحب عطاء (Atâ’nın yakınında bulunan) yazar. Tam Mizzî18/349veSiyer6/329Yezîd b. Zürey‘ sözünü كان صاحب غثاء biçiminde verir; TDV de çer çöp sahibi karşılığını bu münekkide bağlar. Türkçe ikinci şahit okuması açıkça belirtildi; ham عطاء değiştirilmedi ve diğer sâhibü Atâ lakabıyla birleştirilmedi. GK edisyon/aktarılma hattı kesinleştirilmedi."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Okuma sorunu: GKكان صاحب عطاء (Atâ’nın yakınında bulunan) yazar. Tam Mizzî18/349veSiyer6/329Yezîd b. Zürey‘ sözünü كان صاحب غثاء biçiminde verir; TDV de çer çöp sahibi karşılığını bu münekkide bağlar. Türkçe ikinci şahit okuması açıkça belirtildi; ham عطاء değiştirilmedi ve diğer sâhibü Atâ lakabıyla birleştirilmedi. GK edisyon/aktarılma hattı kesinleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_source_corrected_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Okuma sorunu: GKكان صاحب عطاء (Atâ’nın yakınında bulunan) yazar. Tam Mizzî18/349veSiyer6/329Yezîd b. Zürey‘ sözünü كان صاحب غثاء biçiminde verir; TDV de çer çöp sahibi karşılığını bu münekkide bağlar. Türkçe ikinci şahit okuması açıkça belirtildi; ham عطاء değiştirilmedi ve diğer sâhibü Atâ lakabıyla birleştirilmedi. GK edisyon/aktarılma hattı kesinleştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:342:301a669780d91f719353c18c91949d2c85625d6172d0eb9a3bd64516def43046",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "342",
+            "critic": "أحمد بن الحسين بن علي بن عبد الله بن موسى",
+            "opinion": "ذكره في معرفة السنن والآثار ، قال : حافظ ثقة ، وفي السنن الكبرى ، وقال : ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7c5f702468e33e47cccb94e7df4d17bd609995fd97632288a86ef3aa8517f19d",
+          "text": "Onu Ma‘rifetü’s-sünen ve’l-âsâr’da zikretti ve şöyle dedi: Hadis hâfızıdır, sikadır. es-Sünenü’l-kübrâ’da da: Sikadır, dedi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Beyhakī’ye ait iki ayrı kitap ve iki değerlendirme korunur. Bu asıl kitap pasajları doğrudan okunmadı; Türkçe kısa maddede tam atıflar bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Beyhakī’ye ait iki ayrı kitap ve iki değerlendirme korunur. Bu asıl kitap pasajları doğrudan okunmadı; Türkçe kısa maddede tam atıflar bulunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:431:ffd0baac1d61f6076b573176d8fac11daeac5fe42c37d86437aec3bc456cde10",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "وثقه ، وقال يدلس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "962be279230328df31447fdd5adccdb6845e4fc8818719c2875c42d05f05b6db",
+          "text": "Onu sika saydı ve tedlîs yaptığını belirtti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV İbn Hibbân’ın hem güvenilirler arasında zikrini hem tedlîs kaydını birlikte verir; iki taraf da korunur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV İbn Hibbân’ın hem güvenilirler arasında zikrini hem tedlîs kaydını birlikte verir; iki taraf da korunur. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:466:4dd6626d25c53a228387337c7a73a6cccdce95204e33df0d23cff9b5578adcb0",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "466",
+            "critic": "أحمد بن الحسين بن علي بن إبراهيم بن الحكم",
+            "opinion": "بخ ، من الأئمة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6a297d858c76b700e0caaa2b6d02588d4bb441f5f26e9ab9ac010ad8ab879a2e",
+          "text": "Ne güzel! İmamlardandır.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Atıf sorunu: GK466tam kişi Ahmed b. Hüseyin b. Ali b. İbrâhim b. Hakem / ölüm375 / rawy9623. Jarh5/358Ebû Zür‘a atfı vardır; reflowPDF ve OCR metninin bu satırı bozulmuştur. Ham بخ övgü ünlemi kaynak sözü olarak aktarılır; ünlü Ebû Zür‘a ile GK tam kimliği birleştirilmedi."
+            },
+            "jarh_text": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK466tam kişi Ahmed b. Hüseyin b. Ali b. İbrâhim b. Hakem / ölüm375 / rawy9623. Jarh5/358Ebû Zür‘a atfı vardır; reflowPDF ve OCR metninin bu satırı bozulmuştur. Ham بخ övgü ünlemi kaynak sözü olarak aktarılır; ünlü Ebû Zür‘a ile GK tam kimliği birleştirilmedi."
+            },
+            "jarh_pdf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Atıf sorunu: GK466tam kişi Ahmed b. Hüseyin b. Ali b. İbrâhim b. Hakem / ölüm375 / rawy9623. Jarh5/358Ebû Zür‘a atfı vardır; reflowPDF ve OCR metninin bu satırı bozulmuştur. Ham بخ övgü ünlemi kaynak sözü olarak aktarılır; ünlü Ebû Zür‘a ile GK tam kimliği birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Atıf sorunu: GK466tam kişi Ahmed b. Hüseyin b. Ali b. İbrâhim b. Hakem / ölüm375 / rawy9623. Jarh5/358Ebû Zür‘a atfı vardır; reflowPDF ve OCR metninin bu satırı bozulmuştur. Ham بخ övgü ünlemi kaynak sözü olarak aktarılır; ünlü Ebû Zür‘a ile GK tam kimliği birleştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:751:fb75ec522eb6e5cd425cf601d31217c2f02bd142c9389910f1e2d5ebf75a3d71",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "كان ابن جريج من أوعية العلم ، وثبت الناس في عطاء ، ومرة : روى عن ست عجائز من عجائز المسجد الحرام وكان صاحب علم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0e16c787ac11e7d8713bc97ec86e0d2c4e9487d3760c0ef155c1a33f89f7c5d4",
+          "text": "İbn Cüreyc ilim hazinelerindendi. İkinci Arapça şahidin okumasıyla: Atâ’dan rivayette insanların en sağlamıdır. Başka bir değerlendirmesinde: Mescid-i Harâm’daki altı yaşlı kadından rivayet etmiştir; ilim sahibi idi.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Okuma sorunu: GKوثبت الناس في عطاء biçimindedir; Jarh5/357Ahmed’in sözü أثبت الناس في عطاء olarak, Siyer6/328de üstünlük lafzıyla nakledilir. İkinci şahit okuması belirtildi, ham kelimeye elif eklenmedi. İlim hazinesi ve altı yaşlı kadın parçası Mizzî/Siyer’de ayrı nakillerdir; tümü korundu. Türkçe madde bütün bu birleşik sözü vermez."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Okuma sorunu: GKوثبت الناس في عطاء biçimindedir; Jarh5/357Ahmed’in sözü أثبت الناس في عطاء olarak, Siyer6/328de üstünlük lafzıyla nakledilir. İkinci şahit okuması belirtildi, ham kelimeye elif eklenmedi. İlim hazinesi ve altı yaşlı kadın parçası Mizzî/Siyer’de ayrı nakillerdir; tümü korundu. Türkçe madde bütün bu birleşik sözü vermez."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Okuma sorunu: GKوثبت الناس في عطاء biçimindedir; Jarh5/357Ahmed’in sözü أثبت الناس في عطاء olarak, Siyer6/328de üstünlük lafzıyla nakledilir. İkinci şahit okuması belirtildi, ham kelimeye elif eklenmedi. İlim hazinesi ve altı yaşlı kadın parçası Mizzî/Siyer’de ayrı nakillerdir; tümü korundu. Türkçe madde bütün bu birleşik sözü vermez."
+            },
+            "jarh_text": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Okuma sorunu: GKوثبت الناس في عطاء biçimindedir; Jarh5/357Ahmed’in sözü أثبت الناس في عطاء olarak, Siyer6/328de üstünlük lafzıyla nakledilir. İkinci şahit okuması belirtildi, ham kelimeye elif eklenmedi. İlim hazinesi ve altı yaşlı kadın parçası Mizzî/Siyer’de ayrı nakillerdir; tümü korundu. Türkçe madde bütün bu birleşik sözü vermez."
+            },
+            "jarh_pdf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Okuma sorunu: GKوثبت الناس في عطاء biçimindedir; Jarh5/357Ahmed’in sözü أثبت الناس في عطاء olarak, Siyer6/328de üstünlük lafzıyla nakledilir. İkinci şahit okuması belirtildi, ham kelimeye elif eklenmedi. İlim hazinesi ve altı yaşlı kadın parçası Mizzî/Siyer’de ayrı nakillerdir; tümü korundu. Türkçe madde bütün bu birleşik sözü vermez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_source_corrected_rendering",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Okuma sorunu: GKوثبت الناس في عطاء biçimindedir; Jarh5/357Ahmed’in sözü أثبت الناس في عطاء olarak, Siyer6/328de üstünlük lafzıyla nakledilir. İkinci şahit okuması belirtildi, ham kelimeye elif eklenmedi. İlim hazinesi ve altı yaşlı kadın parçası Mizzî/Siyer’de ayrı nakillerdir; tümü korundu. Türkçe madde bütün bu birleşik sözü vermez. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:769:29943b168b286cf746391392a606e534d36e7bfcce247314c3bb531a98bae2b2",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "769",
+            "critic": "أحمد بن صالح",
+            "opinion": "إذا أخبر الخبر فهو جيد وإذا لم يخبر فلا يعبأ به",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "cd565533c0b4e545bd93fc259ef7b64db9d3625f754668f3f3c6c4a044fed1e3",
+          "text": "Eğer haberi açıkça bildirirse iyidir; bildirmezse ona itibar edilmez.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Atıf/kimlik sorunu: GK769Ahmed b. Sâlih kaydı rawy9885الشمومي bağlantısını taşır; eski ad problemi korunur. Ham أخبر lafzı kendiliğinden أخبرني veya سمعت biçimine çevrilmedi. TDV Ahmed b. Hanbel’in şartlı başka sözünü verir; benzer kelimelerle bu Ahmed b. Sâlih sözüne tam Türkçe destek veya yeni kimlik üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Atıf/kimlik sorunu: GK769Ahmed b. Sâlih kaydı rawy9885الشمومي bağlantısını taşır; eski ad problemi korunur. Ham أخبر lafzı kendiliğinden أخبرني veya سمعت biçimine çevrilmedi. TDV Ahmed b. Hanbel’in şartlı başka sözünü verir; benzer kelimelerle bu Ahmed b. Sâlih sözüne tam Türkçe destek veya yeni kimlik üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:779:7586a4a97fd4830e1cf2a09450714c80188e3039a1af5570ac57958a9766bcaa",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "ثقة في كل ما روي عنه من الكتاب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b76fd86f476d73bed5426dbcbe51f5f1571e42f1e3b4c1a3feeabf00a757553f",
+          "text": "Kendisinden kitaptan nakledilen bütün rivayetlerde sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İclî’nin yazılı nakil şartı korunur. TDV İclî’nin sika nitelemesini verir; kitaptan şartını Maîn bağlamında anlatır. Bir münekkidin şartı başka kişiye kaynak desteği olarak taşınmadı; yalnız sika parçası Türkçe desteklidir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İclî’nin yazılı nakil şartı korunur. TDV İclî’nin sika nitelemesini verir; kitaptan şartını Maîn bağlamında anlatır. Bir münekkidin şartı başka kişiye kaynak desteği olarak taşınmadı; yalnız sika parçası Türkçe desteklidir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "5223:924:39fa55af28961e49eb314c0d670b3b67bb4c01613fa7a5eb392ec7c841611b2a",
+          "expected_source": {
+            "narrator_id": 5223,
+            "alem_id": "924",
+            "critic": "عبد الرحمن بن محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "قيل لعطاء : من ترى صاحب مجلسك بعدك؟ فقال : هذا ، وأشار إلى ابن جريج ، كلهم قال : هو ثقة ، وقدمه في الأئمة الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d6c7bd211a02ad05feda881c0ffac85dfcb9b07b14d3c14141a21e3f2c0b322c",
+          "text": "Atâ’ya, “Senden sonra meclisinde kimi görmek istersin?” diye soruldu. “Bu” diyerek İbn Cüreyc’i işaret etti. [Özne bağı kaynak kaydında belirsiz olan devam:] Hepsi, “O sikadır” dedi; onu sika imamlar arasında öne geçirdi.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kaynak/sözdizimi sorunu: GKكلهم قال : هو ثقة ، وقدمه في الأئمة الثقات devamının özne bağı açık değildir. Jarh5/356–358tam girişte Atâ’nın halef sorusu bulunur, bu birleşik devam bulunmadı. Türkçe ilk kısım TDV’de desteklidir; kuyruk cümle literal ve açık belirsizlik notuyla korundu. Hepsi sözüne yeni münekkit listesi veya Atâ öznesi uydurulmadı."
+            },
+            "jarh_text": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Kaynak/sözdizimi sorunu: GKكلهم قال : هو ثقة ، وقدمه في الأئمة الثقات devamının özne bağı açık değildir. Jarh5/356–358tam girişte Atâ’nın halef sorusu bulunur, bu birleşik devam bulunmadı. Türkçe ilk kısım TDV’de desteklidir; kuyruk cümle literal ve açık belirsizlik notuyla korundu. Hepsi sözüne yeni münekkit listesi veya Atâ öznesi uydurulmadı."
+            },
+            "jarh_pdf": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Kaynak/sözdizimi sorunu: GKكلهم قال : هو ثقة ، وقدمه في الأئمة الثقات devamının özne bağı açık değildir. Jarh5/356–358tam girişte Atâ’nın halef sorusu bulunur, bu birleşik devam bulunmadı. Türkçe ilk kısım TDV’de desteklidir; kuyruk cümle literal ve açık belirsizlik notuyla korundu. Hepsi sözüne yeni münekkit listesi veya Atâ öznesi uydurulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kaynak/sözdizimi sorunu: GKكلهم قال : هو ثقة ، وقدمه في الأئمة الثقات devamının özne bağı açık değildir. Jarh5/356–358tam girişte Atâ’nın halef sorusu bulunur, bu birleşik devam bulunmadı. Türkçe ilk kısım TDV’de desteklidir; kuyruk cümle literal ve açık belirsizlik notuyla korundu. Hepsi sözüne yeni münekkit listesi veya Atâ öznesi uydurulmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

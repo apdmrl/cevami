@@ -1,0 +1,259 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "onuk": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/892455#page=7",
+      "title": "Sümeyye Onuk Demirci — Ömer b. Abülaziz’in Danışma Meclisi, Marife 19/2 (2019), 721–738; DOI 10.33420/marife.631659",
+      "locator": "Tam §2.3 Ubeydullah b. Abdullah b. Utbe paragrafı/devamı/dipnot26–34 okundu; yerel PDF görüntüleyici7–8 / basılı727–728 görüntüden doğrulandı. Başlıktaki Abülaziz yazımı makaledeki biçimdir. Metin98/716ölümünü seçer, dipnot29başka tarihler de verir; GK94değiştirilmedi. Kısa ad/nisbeler/fıkıh/şiir bağlamı bütün uzun soy, künye, dört kardeş ve beş atıflı görüşün tam Türkçe karşılığı değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/4659/عبيد-الله-بن-عتبة-بن-مسعود-الهذلي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, 19/73–77, nr. 3653, Ubeydullah",
+      "locator": "Tam harekesiz dijital biyografi okundu. Site başlığı Abdullah halkasını düşürür; gövde babasını Abdullah b. Utbe, kardeşini Avn olarak verir. GK adı değiştirilmedi. Ebû Abdullah el-Medenî künyesi/nisbesi ve Vâkıdî/İclî/Ebû Zür‘a sözleri karşılaştırıldı. Yalnız Avn açık; dört kardeşin bağımsız tasdiki değildir. Dijital sayfa işaretleri belirli matbu taramayla eşitlenmedi; Ebû Zür‘a atfı GK466tamkimliğini doğrulamaz.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    },
+    {
+      "path": "references/turkish/academic/onuk-demirci-2019-omer-danisma.pdf",
+      "sha256": "8f29571ee23019107bb95873dcd551403e13a0549eaecc5543761fa79aa7a1ea"
+    }
+  ],
+  "revision": "assistant-person-field-review-v19",
+  "policy": "9alan3tam4kısmi2okunan Türkçe bölümde bulunamadı; bütün uzun soy/dört kardeş/ikamet bağı bağımsız teyit edilmedi. Yalnız dil aktarımı.",
+  "people": [
+    {
+      "id": 5409,
+      "expected_source": {
+        "id": 5409,
+        "new_id": 27414,
+        "name": "عبيد الله بن عبد الله بن عتبة بن مسعود بن حبيب بن شمخ بن مخزوم بن صاهلة بن كاهل بن الحارث بن تميم بن سعد بن هذيل بن مدركة بن إلياس بن مضر",
+        "shohra": "عبيد الله بن عبد الله الهذلي",
+        "badeel": "أبو عبد الله المدني",
+        "konya": "أبو عبد الله",
+        "lakab": "",
+        "san3a": "الفقيه",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الهذلي،المدني",
+        "rotba": 2,
+        "wasf_rotba": "ثقة فقيه ثبت",
+        "tabaka": 3,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "94",
+        "age": null,
+        "baladekama": "المدينة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "أخو عبد الرحمن ، أخو عون ، أخو حمزة ، أخو ناجية",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 305
+      },
+      "expected_record_sha256": "a2d0b28282d2cfea739e9d61d62b11f836a78d9d6dba8a49c31a3730070d0288",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبيد الله بن عبد الله بن عتبة بن مسعود بن حبيب بن شمخ بن مخزوم بن صاهلة بن كاهل بن الحارث بن تميم بن سعد بن هذيل بن مدركة بن إلياس بن مضر",
+          "text": "Ubeydullah b. Abdullah b. Utbe b. Mes‘ûd b. Habîb b. Şemh b. Mahzûm b. Sâhile b. Kâhil b. Hâris b. Temîm b. Sa‘d b. Hüzeyl b. Müdrike b. İlyâs b. Mudar.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Makale yalnız kısa kimlik biçimini verir. GK uzun soyunun bütün halkaları kısaltılmadan aktarılır; kısa Türkçe ad uzun soyun veya bütün harekelemenin bağımsız tasdiki değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Makale yalnız kısa kimlik biçimini verir. GK uzun soyunun bütün halkaları kısaltılmadan aktarılır; kısa Türkçe ad uzun soyun veya bütün harekelemenin bağımsız tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عبيد الله بن عبد الله الهذلي",
+          "text": "Ubeydullah b. Abdullah el-Hüzelî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Makale kişi başlığı ve ilk paragrafındaki el-Hüzelî nisbesi kısa tanınan adın bileşenlerini destekler; aynı adlı başka kişiye taşınmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Makale kişi başlığı ve ilk paragrafındaki el-Hüzelî nisbesi kısa tanınan adın bileşenlerini destekler; aynı adlı başka kişiye taşınmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو عبد الله المدني",
+          "text": "Ebû Abdullah el-Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Makale el-Medenî nisbesini açık verir, Ebû Abdullah künyesini vermez. Mizzî dijital gövdesi Arapça bileşimi destekler; Türkçe tam karşılık bulundu denmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Makale el-Medenî nisbesini açık verir, Ebû Abdullah künyesini vermez. Mizzî dijital gövdesi Arapça bileşimi destekler; Türkçe tam karşılık bulundu denmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Makale el-Medenî nisbesini açık verir, Ebû Abdullah künyesini vermez. Mizzî dijital gövdesi Arapça bileşimi destekler; Türkçe tam karşılık bulundu denmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو عبد الله",
+          "text": "Ebû Abdullah.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "onuk": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK künyesi ve Mizzî Arapça karşılığı okunarak aktarılır; okunan Türkçe kişi bölümünde yoktur. Künyeden oğul veya başka akraba üretilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK künyesi ve Mizzî Arapça karşılığı okunarak aktarılır; okunan Türkçe kişi bölümünde yoktur. Künyeden oğul veya başka akraba üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK künyesi ve Mizzî Arapça karşılığı okunarak aktarılır; okunan Türkçe kişi bölümünde yoktur. Künyeden oğul veya başka akraba üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "الفقيه",
+          "text": "Fakih (fıkıh âlimi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Makale şer‘î ahkâm/helal-haram bilgisi ve fıkıh öğrenim/öğretim bağlamını açık verir. Fıkıh âlimi alanının dil karşılığıdır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Makale şer‘î ahkâm/helal-haram bilgisi ve fıkıh öğrenim/öğretim bağlamını açık verir. Fıkıh âlimi alanının dil karşılığıdır. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الهذلي،المدني",
+          "text": "Hüzelî; Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Makale iki nisbe biçimini açık verir. Nisbe kan bağı veya ikamet alanının bağımsız kesinliği olarak genişletilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Makale iki nisbe biçimini açık verir. Nisbe kan bağı veya ikamet alanının bağımsız kesinliği olarak genişletilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة فقيه ثبت",
+          "text": "Sika, fakih, sebt (güvenilir, fıkıh âlimi, rivayetinde sağlam).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Makale fıkıh bilgisini destekler; bu tam teknik sika/fakih/sebt birleşimini aynı biçimde nakletmez. Yeni ravi hükmü üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Makale fıkıh bilgisini destekler; bu tam teknik sika/fakih/sebt birleşimini aynı biçimde nakletmez. Yeni ravi hükmü üretilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "onuk": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Makale Medine’de ders, meclis, şehir bilgisi ve ölüm bağlamı verir. Bu bağlam ikamet alanının tamamını bağımsız kesinleştirmez; Medenî nisbesinden tek başına ikamet çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Makale Medine’de ders, meclis, şehir bilgisi ve ölüm bağlamı verir. Bu bağlam ikamet alanının tamamını bağımsız kesinleştirmez; Medenî nisbesinden tek başına ikamet çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "أخو عبد الرحمن ، أخو عون ، أخو حمزة ، أخو ناجية",
+          "text": "Abdurrahman’ın, Avn’ın, Hamza’nın ve Nâciye’nin kardeşi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "onuk": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK kendi dört kardeşini sayar. Makaledeki dede Utbe ile Abdullah b. Mes‘ûd kardeşliği ayrı nesildir ve bu alana taşınmadı. Mizzî Arapça biyografisi yalnız Avn kardeşliğini açık verir; dört kardeşin tümünü doğrulamaz. Türkçe paragrafta bu dört kişilik kayıt bulunmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GK kendi dört kardeşini sayar. Makaledeki dede Utbe ile Abdullah b. Mes‘ûd kardeşliği ayrı nesildir ve bu alana taşınmadı. Mizzî Arapça biyografisi yalnız Avn kardeşliğini açık verir; dört kardeşin tümünü doğrulamaz. Türkçe paragrafta bu dört kişilik kayıt bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK kendi dört kardeşini sayar. Makaledeki dede Utbe ile Abdullah b. Mes‘ûd kardeşliği ayrı nesildir ve bu alana taşınmadı. Mizzî Arapça biyografisi yalnız Avn kardeşliğini açık verir; dört kardeşin tümünü doğrulamaz. Türkçe paragrafta bu dört kişilik kayıt bulunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir kitap alıntısı, tarihsel kimlik/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

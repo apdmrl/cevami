@@ -1,0 +1,87 @@
+/* Screen reading improvements; printed source layout keeps its own rules. */
+@media screen {
+  :root{--muted:#53634e}
+  .home-intro>p,.search-status,.search-scope,.search-examples,.home-footer,
+  .search-source-note,.suggestion-meta{color:#52634b}
+  .home-intro>p{font-size:15px}
+  .home-intro .eyebrow{font-size:11px;color:#52634b}
+  .home-searchbar input::placeholder{font-size:14px;color:#596a50}
+  .search-status,.search-scope,.search-source-note,.home-footer,.home-footer p{font-size:13px;line-height:1.8}
+  .search-languages span{font-size:13px;color:#52634b;padding:11px 13px;min-height:44px}
+  .search-languages span[lang=ar]{font-size:18px;padding:7px 12px}
+  .search-scope button,.search-examples button{font-size:13px;min-height:44px;color:#456039}
+  .suggestion-book strong{font-size:14px;color:#405936}
+  .suggestion-meta>b{font-size:12px}
+  .suggestion-snippet{font-size:15px}
+  .search-source-note{padding:14px 18px;margin:0;border-bottom:1px solid #dde5d6;background:#f1f5ea}
+  .source-record-label{display:block;font-size:12px;line-height:1.7;color:#52634b;margin:4px 0}
+  .source-navigation-hint,.source-navigation-label{font-size:12px;line-height:1.8;color:#536349;margin:9px 0}
+  .source-navigation-note{font-size:13px;line-height:1.8;color:#405338;border-left:3px solid #9cac8b;padding:8px 12px;margin:8px 0;background:#f2f5ed;white-space:pre-wrap}
+  .original-source-text{font-size:13px;line-height:1.8;margin:12px 0}
+  .original-source-text summary{cursor:pointer;color:#405936}
+  .original-source-body{font-size:14px;line-height:1.9;white-space:pre-wrap;overflow-wrap:anywhere;color:#344c32;margin:12px 0}
+  .reading-links,.section-navigation a,.research-search-help,.record-jump-help,
+  .research-search-status,.auxiliary-status,.library-status{font-size:13px;color:#52634b}
+  .reading-links a,.section-navigation a{min-height:44px;display:inline-flex;align-items:center}
+  .section-navigation{flex-wrap:wrap}
+  .library-heading .muted,.library-label,.library-label span,.book-copy small,
+  .library-foot,.library-foot small{font-size:11px;color:#53634e}
+  .book-search input{font-size:14px;min-width:0}
+  .book-copy .author-line{font-size:14px;color:#53634e}
+  .text-button{font-size:12px;min-height:44px;color:#456039}
+  .main-search input{font-size:14px;min-width:0}
+  .main-search button{font-size:13px;min-height:40px}
+  .breadcrumbs,.reader-topline>.muted,.record-identity,.record-identity summary span,
+  .record-identity dt,.paper-top .eyebrow{font-size:12px;color:#53634e}
+  .record-identity dd{font-size:14px;color:#405936}
+  .paper-tools{height:auto;min-height:56px;flex-wrap:wrap;padding:6px 20px;gap:4px 12px}
+  .view-tabs{height:auto;min-height:44px;gap:14px;flex-wrap:wrap}
+  .view-tabs>button{font-size:12px;color:#53634e;min-height:44px;padding:7px 0}
+  .count-pill{font-size:11px;color:#435b37;background:#e5eddb}
+  .font-tools button{min-height:44px;min-width:36px;color:#456039}
+  .arabic-hint,.section-note,.chain-source{font-size:12px;line-height:1.8;color:#53634e}
+  #translations-panel .translation-text,#translations-panel .component-translation{font-size:16px;line-height:1.95;color:#344d31}
+  .translation-notice,.translation-provenance,.translation-status,.component-overview,.component-origin,.component-status,
+  .translation-source-details,.component-evidence,.field-evidence,.field-status,.source-support,
+  .source-link,.localization-intro,.pending-fields{font-size:12px;line-height:1.85;color:#53634e}
+  .translation-languages button{font-size:13px;min-height:44px;padding:8px 12px}
+  .translation-source-details summary,.component-evidence summary,.field-evidence summary{color:#405936}
+  .localized-text{font-size:15px;line-height:1.9;color:#344d31}
+  .localized-field h4,.narrator-facts dt{font-size:12px;color:#53634e}
+  .chain-node .position-number,.chain-node small,.person-name-tr,.rank-tr{font-size:12px;line-height:1.6;color:#465b3c}
+  .chain-node small.rank-tr{font-size:12px;color:#465b3c}
+  .section-heading .eyebrow,.reference-card .eyebrow,.hadith-number small{font-size:11px;color:#53634e}
+  .hadith-number small{letter-spacing:.5px}
+  .heading-count,.sanad-label>span:not(.chain-icon){font-size:12px;color:#465b3c}
+  .sanad-label{flex-wrap:wrap}
+  .sanad-label small,.judgement small,.reference-note p,.raw-details summary,.library-stat span{font-size:12px;color:#53634e}
+  .judgement{color:#465b3c}
+  .judgement.weak{color:#735b2f}
+  .judgement.unspecified{color:#555}
+  .judgement small{color:inherit}
+  .pending-badge,.subtle-badge{font-size:12px;color:#69572b}
+  .reference-card dt,.reference-note,.record-details,.raw-details,.reader-footer{font-size:12px;line-height:1.8;color:#53634e}
+  .reference-card dd{color:#405936}
+  .reference-card dd.latin{font-size:13px}
+  .citation-line .eyebrow{font-size:11px;color:#53634e}
+  .citation-line button,#print-record{font-size:12px;min-height:44px}
+  .citation-actions{gap:12px;align-items:center}
+  .record-navigation{flex-wrap:wrap;gap:12px}
+  .record-navigation>button{font-size:12px;min-height:44px;padding:8px 10px}
+  #jump-form label{font-size:12px;color:#53634e}
+  #jump-number{font-size:14px;min-height:44px}
+  #jump-form button{font-size:13px;min-width:44px;min-height:44px;padding:8px}
+  .reader-footer{flex-wrap:wrap;gap:8px}
+  .stage-badge{font-size:11px;color:#465c3e}
+}
+@media screen and (max-width:760px){
+  .book-search input,.main-search input,.home-searchbar input{font-size:16px}
+  .reading-links,.research-search-help,.record-jump-help{font-size:12px}
+  .paper-tools{padding:6px 16px}
+  .view-tabs{gap:12px}
+  .section-navigation{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:3px}
+  .section-navigation a{font-size:11px;padding:8px 3px;min-width:0;text-align:center;justify-content:center}
+  .record-navigation{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  #jump-form{grid-column:1/-1;grid-row:1;justify-content:center;gap:8px}
+  .record-navigation>button{white-space:normal}
+}

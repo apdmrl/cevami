@@ -1,0 +1,2089 @@
+{
+  "revision": "narrators-tr-v3-source-audit",
+  "reviewed_on": "2026-10-31",
+  "sources": {
+    "bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "isnad_study": {
+      "url": "https://isamveri.org/pdfdrg/G00115/2017_3/2017_3_KOYCUE1.pdf",
+      "title": "E. Köycü; International Journal of Cultural and Social Studies, 3 (SI), 2017",
+      "locator": "Buhârî’nin ilk hadisinin isnadı; s. 408, dipnot 40",
+      "accessed_on": "2026-10-31"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31"
+    },
+    "kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed"
+    },
+    "tapan2022": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/2642297#page=13",
+      "title": "Nuri Tapan, Akîka’da Erkek Çocuk İçin İki, Kız Çocuk İçin Bir Koyun Kesilmesini Bildiren Hadis Üzerine İnceleme, Nisar 1 (2022), 29–63",
+      "locator": "Basılı s. 41; PDF s. 13; dipnot 43",
+      "accessed_on": "2026-10-31",
+      "publication_type": "journal_article",
+      "language": "tr",
+      "content_access": "local_pdf_text_verified",
+      "local_artifact": "references/turkish/verified-sources/tapan-2022-akika.pdf",
+      "artifact_sha256": "65ce12f207ccd48352f349573a79c00afb7b72d445f417aeac1731c0e4a0f179"
+    },
+    "emir": {
+      "url": "https://islamansiklopedisi.org.tr/emirul-muminin",
+      "title": "Mustafa Fayda, Emîrü’l-mü’minîn, TDV İslâm Ansiklopedisi 11 (İstanbul 1995), 156–157",
+      "locator": "Unvanın Türkçe anlamı ve Hz. Ömer’e verilmesi",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "audit_6817_shohra_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_konya_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_baladekama_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Türkçe hayat anlatısı listenin bir bölümünü destekler; bütün yerler ve ikamet sırası doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_baladwafa_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_wasf_rotba_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "terminology_only",
+      "support_note": "Genel hadis otoritesi ve terimler desteklenir; GK’deki övgü ifadesinin tam Türkçe karşılığı bulunamadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_wasf_rotba_sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31",
+      "support_scope": "terminology_only",
+      "support_note": "Genel hadis otoritesi ve terimler desteklenir; GK’deki övgü ifadesinin tam Türkçe karşılığı bulunamadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_biography_note_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "source_based_summary",
+      "support_note": "Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_name_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Türkçe kaynakta son ata Berdizbeh biçiminde; GK yazımıyla farkı giderilmedi.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_badeel_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_lakab_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "bukhari_fiqh": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#3-fikih-ilmindeki-yeri",
+      "title": "Salim Öğüt, Buhârî / Fıkıh İlmindeki Yeri, TDV İslâm Ansiklopedisi 6 (1992), 375–376",
+      "locator": "Fıkıh ilmindeki yeri; giriş paragrafı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr"
+    },
+    "audit_6817_san3a_bukhari_fiqh": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#3-fikih-ilmindeki-yeri",
+      "title": "Salim Öğüt, Buhârî / Fıkıh İlmindeki Yeri, TDV İslâm Ansiklopedisi 6 (1992), 375–376",
+      "locator": "Fıkıh ilmindeki yeri; giriş paragrafı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_nasab_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6817_mawaaly_bukhari": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil; M. Mustafa el-A‘zamî",
+      "locator": "TDV İslâm Ansiklopedisi 6 (İstanbul 1992), 368–372; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Cu‘fî nisbesinin gerekçesi desteklenir; mevlâ ifadesinin aynı lafızla Türkçe karşılığı bu taramada okunamadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_shohra_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_konya_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_baladekama_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_baladwafa_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_wasf_rotba_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Sika/hâfız ve İbn Uyeyne ile ilişkisi desteklenir; en seçkin talebelerinden ifadesinin tam Türkçe karşılığı doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_wasf_rotba_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Sika/hâfız ve İbn Uyeyne ile ilişkisi desteklenir; en seçkin talebelerinden ifadesinin tam Türkçe karşılığı doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_wasf_rotba_sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Sika/hâfız ve İbn Uyeyne ile ilişkisi desteklenir; en seçkin talebelerinden ifadesinin tam Türkçe karşılığı doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_biography_note_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "source_based_summary",
+      "support_note": "Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_name_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "TDV ve tez ilk ad halkalarını verir; uzun soy zincirinin tamamını doğrulamaz.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_badeel_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_4698_nasab_humaydi": {
+      "url": "https://islamansiklopedisi.org.tr/humeydi-abdullah-b-zubeyr",
+      "title": "TDV İslâm Ansiklopedisi: Humeydî; Ahmet Yücel",
+      "locator": "TDV İslâm Ansiklopedisi 18 (İstanbul 1998), 357; ad başlığı ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Kureşî, Humeydî ve Mekkî desteklenir; alanın bütün nisbe dizisi aynı kayıtta doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_shohra_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_konya_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_baladekama_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Kûfe ve Mekke desteklenir; bütün Şam ikamet iddiası doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_baladwafa_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_wasf_rotba_tapan2022": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/2642297#page=13",
+      "title": "Nuri Tapan, Akîka’da Erkek Çocuk İçin İki, Kız Çocuk İçin Bir Koyun Kesilmesini Bildiren Hadis Üzerine İnceleme, Nisar 1 (2022), 29–63",
+      "locator": "Basılı s. 41; PDF s. 13; dipnot 43",
+      "accessed_on": "2026-10-31",
+      "publication_type": "journal_article",
+      "language": "tr",
+      "content_access": "local_pdf_text_verified",
+      "local_artifact": "references/turkish/verified-sources/tapan-2022-akika.pdf",
+      "artifact_sha256": "65ce12f207ccd48352f349573a79c00afb7b72d445f417aeac1731c0e4a0f179",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_wasf_rotba_sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_biography_note_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "source_based_summary",
+      "support_note": "Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_name_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_badeel_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "İbn Uyeyne adı desteklenir; Ebî İmrân halkasının bu biçimi kullanılan kaynakta teyit edilmedi.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_lakab_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "İbn Uyeyne desteklenir; İbn Ebî İmrân için tam karşılık bulunamadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_wasf_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_nasab_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Hilâlî ve Kûfe/Mekke bağlamı desteklenir; tam nisbe dizisi birebir aktarım değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_3443_karaba_sufyan": {
+      "url": "https://islamansiklopedisi.org.tr/sufyan-b-uyeyne",
+      "title": "TDV İslâm Ansiklopedisi: Süfyân b. Uyeyne; İbrâhim Hatiboğlu",
+      "locator": "TDV İslâm Ansiklopedisi 38 (İstanbul 2010), 28–29; hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_shohra_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_konya_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_baladekama_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Medine/Bağdat bağlamı desteklenir; Enbâr dahil bütün alan teyit edilmedi.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_baladwafa_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_wasf_rotba_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_wasf_rotba_sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_biography_note_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "source_based_summary",
+      "support_note": "Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_name_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Başlıkta kısa ad ve Kays halkası var; uzun soy dizisinin tamamı yok.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_badeel_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Kahd halkası farklılığı kullanılan Türkçe başlıkla çözülmedi.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_san3a_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_8272_nasab_yahya": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Ensârî; Hayati Yılmaz",
+      "locator": "TDV İslâm Ansiklopedisi 43 (İstanbul 2013), 261–262; hayatı ve kadılık bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Ensârî ve şehir bağlamı desteklenir; tam nisbe dizisi aynı lafızla doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_shohra_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_konya_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_baladekama_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Medenî nisbesi bulunuyor; bu, tek başına tüm ikamet alanının doğrulaması sayılmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_baladwafa_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Medenî nisbesi vefat yerini kanıtlamaz; vefat yeri için tam dayanak bulunamadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_wasf_rotba_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_wasf_rotba_sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_name_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Tezde adın ilk halkaları var; bütün soy dizisi yok. Tez ölüm yılını 120 verir, GK 119 kaydı korunur.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_badeel_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_6796_nasab_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_shohra_alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_baladekama_alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Medenî nisbesi mevcut; açık ikamet alanının tamamına eşit sayılmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_wasf_rotba_kirtil2010": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5A/T0069485.pdf#page=104",
+      "title": "Mustafa Kırtıl, Takvîmü’l-edille Hadislerinin Değerlendirilmesi, YL tezi, Marmara Üniversitesi, İstanbul 2010",
+      "locator": "Basılı s. 92–93; PDF s. 103–104; ravi alt başlıkları ve dipnot 386–390",
+      "accessed_on": "2026-10-31",
+      "publication_type": "thesis",
+      "language": "tr",
+      "content_access": "web_pdf_text_verified; local_download_failed",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_wasf_rotba_sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Ta‘dîl lafızları: sika, hâfız, hüccet, sebt",
+      "accessed_on": "2026-10-31",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_biography_note_alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "source_based_summary",
+      "support_note": "Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_name_alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Türkçe başlık ilk soy halkalarını verir; Kelde ve Abdüyâlîl halkaları bu kaynakta yok.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_nasab_alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5719_karaba_alqama": {
+      "url": "https://islamansiklopedisi.org.tr/alkame-b-vakkas",
+      "title": "TDV İslâm Ansiklopedisi: Alkame b. Vakkās; M. Yaşar Kandemir",
+      "locator": "TDV İslâm Ansiklopedisi 2 (İstanbul 1989), 468; ad, nisbe ve hayatı bölümü",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "İki oğlu Türkçe maddede bulunuyor; toruna ilişkin alanın tamamı aynı kaynakta doğrulanmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_shohra_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_konya_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_baladekama_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_baladwafa_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_wasf_rotba_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_biography_note_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "source_based_summary",
+      "support_note": "Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_name_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Başlık uzun soy dizisinin yalnız bir bölümünü veriyor.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_badeel_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_lakab_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_san3a_emir": {
+      "url": "https://islamansiklopedisi.org.tr/emirul-muminin",
+      "title": "Mustafa Fayda, Emîrü’l-mü’minîn, TDV İslâm Ansiklopedisi 11 (İstanbul 1995), 156–157",
+      "locator": "Unvanın Türkçe anlamı ve Hz. Ömer’e verilmesi",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_full_field",
+      "support_note": "Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_nasab_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Kureşî/Adevî desteklenir; tam üçlü nisbe dizisi birebir bulunmadı.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    },
+    "audit_5913_karaba_umar": {
+      "url": "https://islamansiklopedisi.org.tr/omer#1",
+      "title": "TDV İslâm Ansiklopedisi: Ömer; Mustafa Fayda",
+      "locator": "TDV İslâm Ansiklopedisi 34 (İstanbul 2007), 44–51; 1. bölüm, hayatı",
+      "accessed_on": "2026-10-31",
+      "publication_type": "printed_encyclopedia",
+      "language": "tr",
+      "support_scope": "supports_part_of_field",
+      "support_note": "Annesi Hanteme bint Hâşim desteklenir; Mugīre halkası bu pasajda yok.",
+      "text_origin": "assistant_authored",
+      "verbatim_quote": false
+    }
+  },
+  "narrators": [
+    {
+      "id": 6817,
+      "expected_source": {
+        "shohra": "محمد بن إسماعيل البخاري",
+        "death_year": "256"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Muhammed b. İsmâil el-Buhârî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "audit_6817_shohra_bukhari"
+          ],
+          "rationale": "TDV Arapça başlığı ve 256 ölüm tarihi GK kişi kaydıyla karşılaştırıldı; kısa Türkçe ad biçimi. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "08449d4b-0b3f-52ac-b855-bfc00dcf1e6c",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Abdullah",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6817_konya_bukhari"
+          ],
+          "rationale": "GK künyesinin Türkçe yazımı; TDV başlığındaki Ebû Abdillâh biçimiyle aynı künye. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "5e4d6592-3593-525e-ab88-d01eb70eb11f",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladekama",
+          "text": "Buhara, Mekke, Medine, Mısır, Hicaz, Şam bölgesi, Rey, Horasan, Irak, Nîşâbur, Basra, Kûfe, Belh, Merv, Vâsıt, Dımaşk, Kaysâriye, Askalân, Humus, Mâverâünnehir, Bağdat",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6817_baladekama_bukhari"
+          ],
+          "status": "needs_review",
+          "rationale": "GK yer adları aynı sırayla Türkçe yazıldı. TDV bütün bu yerleri tek tek doğrulamadığı ve Kaysâriye’nin yer kimliği netleştirilmediği için alan inceleme bekliyor; modern konum veya kesin ikamet iddiası değildir. Türkçe kaynak kontrolü (31.10.2026): Türkçe hayat anlatısı listenin bir bölümünü destekler; bütün yerler ve ikamet sırası doğrulanmadı.",
+          "supersedes_id": "9b9f1157-9a38-51dc-9461-8f0f5af06892",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "baladwafa",
+          "text": "Hartenk",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6817_baladwafa_bukhari"
+          ],
+          "rationale": "Kaynakta خرتنك yer adı; TDV hayatı bölümündeki Hartenk ile karşılaştırıldı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "8f8603b5-a4cf-5df2-b651-8b25235597f0",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Hadis ezberinde zirve; hadis fıkhında önde gelen imam.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_6817_wasf_rotba_bukhari",
+            "audit_6817_wasf_rotba_sika"
+          ],
+          "rationale": "GK övgü ifadesinin asistan çevirisi; yeni bir sıhhat veya ravi hükmü değildir. Türkçe kaynak kontrolü (31.10.2026): Genel hadis otoritesi ve terimler desteklenir; GK’deki övgü ifadesinin tam Türkçe karşılığı bulunamadı.",
+          "supersedes_id": "d9d83385-e064-589e-ba76-26c2b2fd0ffe",
+          "turkish_source_status": "terminology_only",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "biography_note",
+          "text": "Buhara’da yetişen Buhârî, hadis öğrenmek için farklı ilim merkezlerine gitti. el-Câmiu’s-sahîh onun en çok tanınan eseridir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "audit_6817_biography_note_bukhari"
+          ],
+          "rationale": "TDV hayatı bölümünden asistanın kısa özeti; tam madde veya GK biyografisinin tercümesi değildir. Türkçe kaynak kontrolü (31.10.2026): Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+          "supersedes_id": "e808e161-9156-5562-92c9-daa2f7280d95",
+          "turkish_source_status": "source_based_summary",
+          "text_origin": "assistant_source_summary",
+          "status": "source_compared"
+        },
+        {
+          "field": "name",
+          "text": "Muhammed b. İsmâil b. İbrâhim b. Mugīre b. Bezdizbe",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6817_name_bukhari"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Son ata adının GK yazımı ile Türkçe kaynaklardaki Berdizbeh biçimi farklı olduğundan inceleme bekliyor; özgün yazım düzeltilmedi. Türkçe kaynak kontrolü (31.10.2026): Türkçe kaynakta son ata Berdizbeh biçiminde; GK yazımıyla farkı giderilmedi.",
+          "supersedes_id": "5f8be074-02e8-5ccb-9084-a022a0c7be3d",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "badeel",
+          "text": "Ebû Abdullah el-Buhârî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6817_badeel_bukhari"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "a1ca2e21-4404-59c0-add4-a90ad204b3b4",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "lakab",
+          "text": "İmam Buhârî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6817_lakab_bukhari"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "3104549b-63c5-5c23-95a2-3c02484a8783",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "san3a",
+          "text": "Fakih",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_6817_san3a_bukhari_fiqh"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "cc810beb-afca-52a7-8e5a-2e856ddca857",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "nasab",
+          "text": "Buhârî, Cu‘fî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6817_nasab_bukhari"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "7472b7e0-e62a-5764-b9e1-48ed9973cb1a",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "mawaaly",
+          "text": "Cu‘fîlerin mevlâsı.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_6817_mawaaly_bukhari"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Cu‘fî nisbesinin gerekçesi desteklenir; mevlâ ifadesinin aynı lafızla Türkçe karşılığı bu taramada okunamadı.",
+          "supersedes_id": "9fa04237-b29c-5011-8ba7-e2972f71438c",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        }
+      ],
+      "expected_record_sha256": "4e51cb671eb07378723335b53dfd0f549b226c7a3d41adc25291aa06867b1939"
+    },
+    {
+      "id": 4698,
+      "expected_source": {
+        "shohra": "الحميدي عبد الله بن الزبير",
+        "badeel": "عبد الله بن الزبير الحميدي",
+        "death_year": "219"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Humeydî, Abdullah b. Zübeyr",
+          "rendering_kind": "name_form",
+          "sources": [
+            "audit_4698_shohra_humaydi"
+          ],
+          "rationale": "Arapça ad, alternatif ad, künye ve 219 ölüm tarihi birlikte eşleştirildi; aynı adlı sahâbî Abdullah b. Zübeyr değildir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "69c961a0-ac4b-58f0-a712-5491fd87aba8",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Bekir",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_4698_konya_humaydi"
+          ],
+          "rationale": "GK أبو بكر künyesinin Türkçe yazımı; TDV başlığıyla karşılaştırıldı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "a1cafa43-6db6-5d26-afc2-71747fdd2059",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladekama",
+          "text": "Mekke",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_4698_baladekama_humaydi"
+          ],
+          "rationale": "GK مكة alanının Türkçe yazımı; TDV Mekke’de öğretim faaliyetini kaydeder. Alan başka yerlerde hiç bulunmadığı anlamına gelmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "abb25703-b7f5-56bf-9365-886a1f400f55",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladwafa",
+          "text": "Mekke",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_4698_baladwafa_humaydi"
+          ],
+          "rationale": "GK vefat yeri ve TDV vefat yeri karşılaştırıldı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "681d4d9e-8ad3-573f-94b3-51ddd932d48c",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika ve hâfız; İbn Uyeyne’nin talebelerinin en seçkinlerinden.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_4698_wasf_rotba_kirtil2010",
+            "audit_4698_wasf_rotba_humaydi",
+            "audit_4698_wasf_rotba_sika"
+          ],
+          "rationale": "GK derece ifadesinin tamamının çevirisi; terimler TDV Sika maddesiyle karşılaştırıldı. Uygulamanın yeni hükmü değildir. Türkçe kaynak kontrolü (31.10.2026): Sika/hâfız ve İbn Uyeyne ile ilişkisi desteklenir; en seçkin talebelerinden ifadesinin tam Türkçe karşılığı doğrulanmadı.",
+          "supersedes_id": "e85108e9-b2c2-55f7-97e6-4c57aa14d926",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "biography_note",
+          "text": "Süfyân b. Uyeyne’den uzun süre hadis öğrenen Humeydî, Buhârî’nin hocalarındandır. Şâfiî ile de çalışmış, Mekke’de ders vermiştir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "audit_4698_biography_note_humaydi"
+          ],
+          "rationale": "TDV’den kısa asistan özeti; tam biyografi çevirisi değildir. Ölüm yılı hakkındaki 219/220 ihtilafı burada giderilmiş sayılmaz. Türkçe kaynak kontrolü (31.10.2026): Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+          "supersedes_id": "730e6e2b-2419-51bd-9e8d-895df8528d55",
+          "turkish_source_status": "source_based_summary",
+          "text_origin": "assistant_source_summary",
+          "status": "source_compared"
+        },
+        {
+          "field": "name",
+          "text": "Abdullah b. Zübeyr b. Îsâ b. Ubeydullah b. Üsâme b. Abdullah b. Humeyd b. Züheyr b. Hâris b. Esed b. Abdüluzzâ",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_4698_name_humaydi"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): TDV ve tez ilk ad halkalarını verir; uzun soy zincirinin tamamını doğrulamaz.",
+          "supersedes_id": "07170a7d-2996-5b3f-8fb3-e016cee65a2d",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "badeel",
+          "text": "Abdullah b. Zübeyr el-Humeydî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_4698_badeel_humaydi"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "a973872d-c9f0-5c43-8803-eed52efb0826",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "nasab",
+          "text": "Kureşî, Humeydî, Esedî, Mekkî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_4698_nasab_humaydi"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Kureşî, Humeydî ve Mekkî desteklenir; alanın bütün nisbe dizisi aynı kayıtta doğrulanmadı.",
+          "supersedes_id": "c9cbd7c4-7e03-512d-9ba5-e468160a0e06",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        }
+      ],
+      "expected_record_sha256": "6adb6f04decb16025d59fafcd061aab19b6e2aefa2f49b1ae290b28efc00a7ad"
+    },
+    {
+      "id": 3443,
+      "expected_source": {
+        "shohra": "سفيان بن عيينة الهلالي",
+        "death_year": "198"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Süfyân b. Uyeyne el-Hilâlî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "audit_3443_shohra_sufyan"
+          ],
+          "rationale": "Arapça ad, Hilâlî nisbesi, künye ve 198 ölüm tarihi karşılaştırıldı; Süfyân es-Sevrî ile birleştirilmedi. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "1cdec797-9da9-5d5d-b47b-c89adf584579",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Muhammed",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_3443_konya_sufyan"
+          ],
+          "rationale": "GK künyesi TDV başlığıyla karşılaştırıldı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "a209cf03-661e-5405-ab34-5e77e0b3d242",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladekama",
+          "text": "Kûfe, Mekke, Şam bölgesi",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_3443_baladekama_sufyan"
+          ],
+          "rationale": "GK yer adlarının sırası korunarak Türkçe yazıldı; Şam ifadesi modern tek bir şehir diye daraltılmadı. İkamet iddiasının kaynağı GK’dır. Türkçe kaynak kontrolü (31.10.2026): Kûfe ve Mekke desteklenir; bütün Şam ikamet iddiası doğrulanmadı.",
+          "supersedes_id": "353baf24-0ff5-5d84-a71f-f4ab5ce48961",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "baladwafa",
+          "text": "Mekke",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_3443_baladwafa_sufyan"
+          ],
+          "rationale": "GK ve TDV’deki vefat yeri aynı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "53c38044-3288-54ba-b2f3-db94a4aad5f4",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika, hâfız ve hüccet.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_3443_wasf_rotba_tapan2022",
+            "audit_3443_wasf_rotba_sika"
+          ],
+          "rationale": "Kaynak derece ifadesinin terimleri Türkçe hadis terminolojisiyle aktarıldı; yeni değerlendirme değildir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "b739f61c-9c05-5fa9-a1f6-99105b95b4a5",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "biography_note",
+          "text": "Kûfe doğumlu Süfyân b. Uyeyne, daha sonra Mekke’ye yerleşmiştir. Hadis rivayetindeki birikimi ve güçlü hafızasıyla tanınır.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "audit_3443_biography_note_sufyan"
+          ],
+          "rationale": "TDV hayatı bölümünden kısa asistan özeti; tam biyografi çevirisi değildir. Türkçe kaynak kontrolü (31.10.2026): Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+          "supersedes_id": "8c374eb0-d1af-5ee7-9567-bca6adadd45c",
+          "turkish_source_status": "source_based_summary",
+          "text_origin": "assistant_source_summary",
+          "status": "source_compared"
+        },
+        {
+          "field": "name",
+          "text": "Süfyân b. Uyeyne b. Meymûn",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_3443_name_sufyan"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "73a74391-3263-5270-8ab8-d005ef29de97",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "badeel",
+          "text": "Süfyân b. Uyeyne b. Ebî İmrân el-Kûfî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_3443_badeel_sufyan"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): İbn Uyeyne adı desteklenir; Ebî İmrân halkasının bu biçimi kullanılan kaynakta teyit edilmedi.",
+          "supersedes_id": "3595f5e7-e99e-5ca6-b35e-206b6d8e4b18",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "lakab",
+          "text": "İbn Uyeyne, İbn Ebî İmrân",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_3443_lakab_sufyan"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): İbn Uyeyne desteklenir; İbn Ebî İmrân için tam karşılık bulunamadı.",
+          "supersedes_id": "af5140c7-41ee-5971-8dc8-b95ffb5a4f5e",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "wasf",
+          "text": "Bir gözü görmeyen.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_3443_wasf_sufyan"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "60563c97-ce85-5aaf-a518-5ca3777acabd",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "nasab",
+          "text": "Hilâlî, Kûfî, Mekkî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_3443_nasab_sufyan"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Hilâlî ve Kûfe/Mekke bağlamı desteklenir; tam nisbe dizisi birebir aktarım değildir.",
+          "supersedes_id": "18c98d59-351d-59bd-b13e-73387ce02d15",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "mawaaly",
+          "text": "Dahhâk b. Müzâhim’in kardeşi Muhammed b. Müzâhim’in mevlâsı.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Bu taramada alanın içeriğini doğrulayan yeterli Türkçe kaynak bulunamadı; asistan taslağı olarak kalır.",
+          "supersedes_id": "ecc1211e-13a3-5988-a4c8-54274498fe4b",
+          "turkish_source_status": "not_found",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "karaba",
+          "text": "Muhammed b. Uyeyne, Âdem b. Uyeyne, İmrân b. Uyeyne ve İbrâhim b. Uyeyne’nin kardeşi.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_3443_karaba_sufyan"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "d05806df-de88-54e0-b868-6e8bbc722e00",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        }
+      ],
+      "expected_record_sha256": "c67570a3f1f0828286fb92b88b7d286f47dd0bc6290d836fd1cc22289ef58b9d"
+    },
+    {
+      "id": 8272,
+      "expected_source": {
+        "shohra": "يحيى بن سعيد الأنصاري",
+        "death_year": "143"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Yahyâ b. Saîd el-Ensârî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "audit_8272_shohra_yahya"
+          ],
+          "rationale": "Ensârî nisbesi, künye ve 143 ölüm tarihi karşılaştırıldı; Yahyâ b. Saîd el-Kattân değildir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "1b1fa541-92a5-5cef-8db8-f49266350ea1",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Saîd",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_8272_konya_yahya"
+          ],
+          "rationale": "GK künyesi TDV başlığındaki ilk künye ile karşılaştırıldı; alternatif Ebû Nasr ayrıca eklenmedi. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "f38a509a-5bfe-57e2-814d-d553346bbfe5",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladekama",
+          "text": "Enbâr, Medine, Bağdat",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_8272_baladekama_yahya"
+          ],
+          "rationale": "Kaynak yer adları aynı sırayla Türkçe yazıldı; buradaki yer iddiası GK kaydına aittir. Türkçe kaynak kontrolü (31.10.2026): Medine/Bağdat bağlamı desteklenir; Enbâr dahil bütün alan teyit edilmedi.",
+          "supersedes_id": "396e6f18-6829-51ef-964c-fe3b2d7066bd",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "baladwafa",
+          "text": "Hâşimiye",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_8272_baladwafa_yahya"
+          ],
+          "rationale": "GK الهاشمية yer adının Türkçe yazımı; aynı yer adı TDV kadılık bölümünde bulunur. Modern koordinat tayini değildir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "a5ac1395-398e-5723-8bfb-526ce8e578fe",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika ve sebt; güvenilir ve rivayetinde titiz.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_8272_wasf_rotba_kirtil2010",
+            "audit_8272_wasf_rotba_sika"
+          ],
+          "rationale": "GK ثقة ثبت ifadesi TDV’de açıklanan hadis terimleriyle çevrildi. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "b04e1250-9af0-52fa-afd1-a9fef43d541b",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "biography_note",
+          "text": "Medine’nin hadis çevresinde yetişen Yahyâ el-Ensârî, farklı dönemlerde kadılık görevlerinde de bulunmuştur. Hadisleri birçok tanınmış muhaddis tarafından aktarılmıştır.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "audit_8272_biography_note_yahya"
+          ],
+          "rationale": "TDV hayatı bölümünden kısa asistan özeti; tam biyografi çevirisi değildir. Türkçe kaynak kontrolü (31.10.2026): Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+          "supersedes_id": "7ebfe7d5-0e89-5152-b916-27f3c9da03ab",
+          "turkish_source_status": "source_based_summary",
+          "text_origin": "assistant_source_summary",
+          "status": "source_compared"
+        },
+        {
+          "field": "name",
+          "text": "Yahyâ b. Saîd b. Kays b. Amr b. Sehl b. Sa‘lebe b. Hâris b. Zeyd b. Sa‘lebe b. Ganm b. Mâlik b. Neccâr",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_8272_name_yahya"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Başlıkta kısa ad ve Kays halkası var; uzun soy dizisinin tamamı yok.",
+          "supersedes_id": "3a29b9ae-ebd8-51bc-9418-1c737f77d7f9",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "badeel",
+          "text": "Yahyâ b. Saîd b. Kays b. Kahd el-Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_8272_badeel_yahya"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Kahd halkası farklılığı kullanılan Türkçe başlıkla çözülmedi.",
+          "supersedes_id": "c1720b2a-8f08-5696-928d-9188d6c11526",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "san3a",
+          "text": "Kadı; Medine kadısı, Irak kadısı.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_8272_san3a_yahya"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "96aafb1a-9664-52c7-81b3-347ddfca23de",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "nasab",
+          "text": "Ensârî, Medenî, Bağdâdî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_8272_nasab_yahya"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Ensârî ve şehir bağlamı desteklenir; tam nisbe dizisi aynı lafızla doğrulanmadı.",
+          "supersedes_id": "bba8f03f-f813-5f1b-abf8-dd2d236ac06e",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "karaba",
+          "text": "Abdürabbih’in kardeşi.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Bu taramada alanın içeriğini doğrulayan yeterli Türkçe kaynak bulunamadı; asistan taslağı olarak kalır.",
+          "supersedes_id": "de521922-6697-57bb-a128-5f8d66c8c30b",
+          "turkish_source_status": "not_found",
+          "text_origin": "assistant_rendering"
+        }
+      ],
+      "expected_record_sha256": "81d350498502c1206e0f9760b3912e1c18001a18cc9c9ccd52378f619719d899"
+    },
+    {
+      "id": 6796,
+      "expected_source": {
+        "shohra": "محمد بن إبراهيم القرشي",
+        "badeel": "محمد بن إبراهيم التيمي",
+        "death_year": "119"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Muhammed b. İbrâhim el-Kureşî (et-Teymî)",
+          "rendering_kind": "name_form",
+          "sources": [
+            "audit_6796_shohra_kirtil2010"
+          ],
+          "rationale": "GK asıl ve alternatif adları ilk Buhârî isnadını aktaran Türkçe makaledeki et-Teymî ile karşılaştırıldı. İbrâhim et-Teymî adlı başka raviyle birleştirilmedi. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "7b9f73d4-b0f9-5e59-890a-f37dfe0884cf",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Abdullah",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6796_konya_kirtil2010"
+          ],
+          "rationale": "Künye GK kaydından doğrudan Türkçe yazıldı; makale kişinin sened bağlamını destekler, bu künyeyi ayrıca doğrulamaz. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "89f6fb4c-83e3-5f65-ae73-48a05281aee3",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladekama",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6796_baladekama_kirtil2010"
+          ],
+          "rationale": "GK المدينة alanının Türkçe yazımı; kişi/yer iddiasının birincil kaynağı GK’dır. Türkçe kaynak kontrolü (31.10.2026): Medenî nisbesi bulunuyor; bu, tek başına tüm ikamet alanının doğrulaması sayılmadı.",
+          "supersedes_id": "7102839e-883e-5010-ae7c-3a6bc9994504",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "baladwafa",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6796_baladwafa_kirtil2010"
+          ],
+          "rationale": "GK vefat yeri alanının Türkçe yazımı; yeni tarihsel doğrulama iddiası değildir. Türkçe kaynak kontrolü (31.10.2026): Medenî nisbesi vefat yerini kanıtlamaz; vefat yeri için tam dayanak bulunamadı.",
+          "supersedes_id": "3d1ce655-6a2d-54b0-b525-206c146617be",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika; güvenilir ravi.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_6796_wasf_rotba_kirtil2010",
+            "audit_6796_wasf_rotba_sika"
+          ],
+          "rationale": "Kaynak ثقة ifadesinin Türkçe karşılığı; yeni ravi derecelendirmesi değildir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "45baf5d4-ce4a-5ba0-80f7-919732c2224e",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "name",
+          "text": "Muhammed b. İbrâhim b. Hâris b. Hâlid b. Sahr b. Âmir b. Kâ‘b b. Sa‘d b. Teym b. Mürre",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6796_name_kirtil2010"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Tezde adın ilk halkaları var; bütün soy dizisi yok. Tez ölüm yılını 120 verir, GK 119 kaydı korunur.",
+          "supersedes_id": "84c92291-cabe-50b5-a0ef-c689e02fff4e",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "badeel",
+          "text": "Muhammed b. İbrâhim et-Teymî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6796_badeel_kirtil2010"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "7002598f-6349-51f3-8b06-72048d8c3a49",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "nasab",
+          "text": "Kureşî, Teymî, Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_6796_nasab_kirtil2010"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "81c3153a-ec3f-50e7-8e7a-a700a449cdc0",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "karaba",
+          "text": "Mûsâ b. Muhammed b. İbrâhim’in babası; Ebû Bekir es-Sıddîk’ın amcaoğlu; Hâris b. Hâlid’in torunu.",
+          "rendering_kind": "translation",
+          "sources": [],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Ebû Bekir’e ilişkin akrabalık ifadesinin nesil ve kişi bağlamı ayrıca incelenecek; burada kesinleştirilmedi. Türkçe kaynak kontrolü (31.10.2026): Bu taramada alanın içeriğini doğrulayan yeterli Türkçe kaynak bulunamadı; asistan taslağı olarak kalır.",
+          "supersedes_id": "b2cca061-ae5d-51f0-9eb8-1dffdc5ac624",
+          "turkish_source_status": "not_found",
+          "text_origin": "assistant_rendering"
+        }
+      ],
+      "expected_record_sha256": "707d133843b47d662eb32fd7c096791385b905ef14080bc4c5385bba7aef5347"
+    },
+    {
+      "id": 5719,
+      "expected_source": {
+        "shohra": "علقمة بن وقاص العتواري",
+        "death_year": ""
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Alkame b. Vakkās el-Utvârî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "audit_5719_shohra_alqama"
+          ],
+          "rationale": "GK Utvârî nisbesi, TDV maddesindeki alternatif nisbe ve Ömer’den rivayet bağlamıyla karşılaştırıldı; Leysî biçimi aynı kişiye aittir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "4df65e3b-ba4e-5f51-be9f-febe65df59ef",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Yahyâ",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "rationale": "GK أبو يحيى künyesinin Türkçe yazımı; TDV kişi eşleştirmesinin dayanağıdır, künyenin ikinci bağımsız kanıtı diye sunulmaz. Türkçe kaynak kontrolü (31.10.2026): Bu taramada alanın içeriğini doğrulayan yeterli Türkçe kaynak bulunamadı; asistan taslağı olarak kalır.",
+          "supersedes_id": "a78845ee-74e0-56f4-a633-b41896197e62",
+          "turkish_source_status": "not_found",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "baladekama",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5719_baladekama_alqama"
+          ],
+          "rationale": "GK yer adı Türkçe yazıldı; TDV başlığındaki Medenî nisbesiyle uyumlu. Türkçe kaynak kontrolü (31.10.2026): Medenî nisbesi mevcut; açık ikamet alanının tamamına eşit sayılmadı.",
+          "supersedes_id": "f58f5db9-8f4f-5479-a040-592dab692836",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "baladwafa",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "rationale": "GK vefat yeri Türkçe yazıldı; ölüm yılı kaynakta boş bırakılmaya devam eder. Türkçe kaynak kontrolü (31.10.2026): Bu taramada alanın içeriğini doğrulayan yeterli Türkçe kaynak bulunamadı; asistan taslağı olarak kalır.",
+          "supersedes_id": "cc78d75a-1b08-5e85-b078-f3e6c5dadbfb",
+          "turkish_source_status": "not_found",
+          "text_origin": "assistant_rendering",
+          "status": "needs_review"
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sika ve sebt; güvenilir ve rivayetinde titiz.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_5719_wasf_rotba_kirtil2010",
+            "audit_5719_wasf_rotba_sika"
+          ],
+          "rationale": "GK derece ifadesinin çevirisi; yeni ravi hükmü değildir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "08eab0b9-67ec-5416-b4d9-6d2a425fc1f0",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "biography_note",
+          "text": "Ömer ve Âişe gibi sahâbîlerden hadis aktaran Alkame, tâbiîn içinde değerlendirilir. Ölüm tarihi hakkında kesin bilgi bulunmadığı belirtilmektedir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "audit_5719_biography_note_alqama"
+          ],
+          "rationale": "TDV’den kısa asistan özeti; yaklaşık 86 tarihini kesinleştirmez ve GK’deki boş ölüm yılını doldurmaz. Türkçe kaynak kontrolü (31.10.2026): Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+          "supersedes_id": "c4afc525-b005-5c55-b3c8-e928679239e2",
+          "turkish_source_status": "source_based_summary",
+          "text_origin": "assistant_source_summary",
+          "status": "source_compared"
+        },
+        {
+          "field": "name",
+          "text": "Alkame b. Vakkās b. Muhsin b. Kelde b. Abdüyâlîl",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5719_name_alqama"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Türkçe başlık ilk soy halkalarını verir; Kelde ve Abdüyâlîl halkaları bu kaynakta yok.",
+          "supersedes_id": "064abef1-38bd-5539-a65b-001e4c29e252",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "badeel",
+          "text": "Ebû Yahyâ el-Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Bu taramada alanın içeriğini doğrulayan yeterli Türkçe kaynak bulunamadı; asistan taslağı olarak kalır.",
+          "supersedes_id": "88817abe-3e25-5a3c-a6d1-1cad3ff2f51f",
+          "turkish_source_status": "not_found",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "nasab",
+          "text": "Leysî, Utvârî, Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5719_nasab_alqama"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "a24f37e6-8ac6-542c-a28d-444eb06cbeed",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "karaba",
+          "text": "Amr b. Alkame b. Vakkās ile Abdullah b. Alkame b. Vakkās’ın babası; Muhammed b. Amr b. Alkame’nin dedesi.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_5719_karaba_alqama"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): İki oğlu Türkçe maddede bulunuyor; toruna ilişkin alanın tamamı aynı kaynakta doğrulanmadı.",
+          "supersedes_id": "fc8a2813-070d-5979-ac56-9eeebc59503a",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        }
+      ],
+      "expected_record_sha256": "7f1c9725c887bef532669fc1592b9f7b535fc466c4f01bdc682c313e0e26aa1f"
+    },
+    {
+      "id": 5913,
+      "expected_source": {
+        "shohra": "عمر بن الخطاب العدوي",
+        "death_year": "23"
+      },
+      "fields": [
+        {
+          "field": "shohra",
+          "text": "Ömer b. Hattâb el-Adevî",
+          "rendering_kind": "name_form",
+          "sources": [
+            "audit_5913_shohra_umar"
+          ],
+          "rationale": "Ad, Adevî nisbesi, Ebû Hafs künyesi ve 23 ölüm tarihi TDV başlığıyla karşılaştırıldı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "6a17608a-603c-53d9-86dd-d89bf6563f2e",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "konya",
+          "text": "Ebû Hafs",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5913_konya_umar"
+          ],
+          "rationale": "GK künyesinin Türkçe yazımı; TDV başlığıyla aynı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "e6f632bd-fed2-5691-a27a-00a275c1fd02",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladekama",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5913_baladekama_umar"
+          ],
+          "rationale": "GK ikamet yerinin Türkçe yazımı; doğum yeriyle karıştırılmadı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "c77b5099-7b4e-55d4-b190-0a8e13dbb9f9",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "baladwafa",
+          "text": "Medine",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5913_baladwafa_umar"
+          ],
+          "rationale": "GK vefat yerinin Türkçe yazımı. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "c5e13da8-5cf3-53e9-b1b7-5e472ad56a2e",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "wasf_rotba",
+          "text": "Sahâbî.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_5913_wasf_rotba_umar"
+          ],
+          "rationale": "Kaynak صحابي ifadesinin Türkçe karşılığı; sayısal ravi notu değildir. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "5312e733-cc23-5ea8-846e-0ea3f35806c0",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering",
+          "status": "source_compared"
+        },
+        {
+          "field": "biography_note",
+          "text": "Ebû Hafs künyesi ve Fârûk lakabıyla anılan Ömer, Hz. Peygamber’in sahâbîlerindendir. Ebû Bekir’den sonra halifelik görevini üstlenmiştir.",
+          "rendering_kind": "source_summary",
+          "sources": [
+            "audit_5913_biography_note_umar"
+          ],
+          "rationale": "TDV’den kısa asistan özeti; tam biyografi çevirisi değildir. Türkçe kaynak kontrolü (31.10.2026): Türkçe kaynaklara dayanan asistan özeti; kitaptan alınmış tam çeviri veya birebir alıntı değildir.",
+          "supersedes_id": "61b024aa-a736-59cf-ac83-7c5f94694e16",
+          "turkish_source_status": "source_based_summary",
+          "text_origin": "assistant_source_summary",
+          "status": "source_compared"
+        },
+        {
+          "field": "name",
+          "text": "Ömer b. Hattâb b. Nüfeyl b. Abdüluzzâ b. Riyâh b. Abdullah b. Kurt b. Rezâh b. Adî b. Kâ‘b",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5913_name_umar"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Başlık uzun soy dizisinin yalnız bir bölümünü veriyor.",
+          "supersedes_id": "ae19d439-8ac7-5d2b-a33f-3517d2412eec",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "badeel",
+          "text": "Ebû Hafs el-Fârûk",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5913_badeel_umar"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "fcd5d7e2-1fe3-5607-9e23-d784d409433e",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "lakab",
+          "text": "Fârûk",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5913_lakab_umar"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "a84912cc-a55c-5c83-bb3f-6cfbe4aca634",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "san3a",
+          "text": "Müminlerin emîri.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_5913_san3a_emir"
+          ],
+          "status": "source_compared",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Alan bilgisini destekleyen Türkçe yayımlanmış metin okundu; uygulamadaki ifade asistanın aktarımıdır, birebir kitap alıntısı değildir.",
+          "supersedes_id": "5ab0b417-87a8-5de5-850e-29cb6e2b1e42",
+          "turkish_source_status": "supports_full_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "nasab",
+          "text": "Kureşî, Adevî, Medenî",
+          "rendering_kind": "transliteration",
+          "sources": [
+            "audit_5913_nasab_umar"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Kureşî/Adevî desteklenir; tam üçlü nisbe dizisi birebir bulunmadı.",
+          "supersedes_id": "e6f0069f-8254-574f-aaf7-e122d4010129",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        },
+        {
+          "field": "karaba",
+          "text": "Hanteme bint Hâşim b. Mugīre’nin oğlu.",
+          "rendering_kind": "translation",
+          "sources": [
+            "audit_5913_karaba_umar"
+          ],
+          "status": "needs_review",
+          "rationale": "GK alanının Arapça özgünü üzerinden asistanın Türkçe aktarımı; tarihsel iddia GK kaydına aittir. Bu alan için ikinci bağımsız tarihsel teyit veya uzman onayı ileri sürülmez. Türkçe kaynak kontrolü (31.10.2026): Annesi Hanteme bint Hâşim desteklenir; Mugīre halkası bu pasajda yok.",
+          "supersedes_id": "fca93cb4-521d-5bd9-912a-f6ef02aee097",
+          "turkish_source_status": "supports_part_of_field",
+          "text_origin": "assistant_rendering"
+        }
+      ],
+      "expected_record_sha256": "aacce85ad5b5b47ae340e820199c9bbdc87132db02c8d53e4cb7afa6d020665e"
+    }
+  ],
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "history_files": [
+    "narrators-tr-v2.json"
+  ]
+}

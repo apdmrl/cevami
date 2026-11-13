@@ -1,0 +1,135 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-cureyc",
+      "title": "İsmail Cerrahoğlu — İbn Cüreyc, TDV 19 (1999), 404–406",
+      "locator": "Başlık/tam madde/kaynakça/matbu künye okundu. Kısa kimlik, iki künye, nisbeler, fıkıh, Atâ talebeliği ve Ümeyye b. Hâlid velâsı. Doğum80/GK74farkı sayısal alanda düzeltilmedi. Bağdat ziyareti ikamet teyidi değildir; iki oğul bu Türkçe maddede yoktur. Yayımlanan her münekkit sözü, diğer aynı lafızlı atıfların yerine konmadı. Yazılı nakil ve tedlîs/irsâl şartları ayrı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/4526/عبد-الملك-بن-عبد-العزيز-بن-جريج",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbn Cüreyc, 18/339–354, nr. 3539",
+      "locator": "Tam harekesiz dijital biyografi/öğretmen-talebe listeleri/devamı okundu. Ali → Yahyâ b. Saîd Nâfi‘ karşılaştırması ve Ali’nin Atâ bilgisi sözü ayrı. Atâ’da en sağlam sözü Ahmed naklidir; Amr b. Dînâr ile İbn Cüreyc ortak özne olarak da geçer. Yezîd b. Zürey‘ için صاحب غثاء. Altı Mescid-i Harâm yaşlı kadını, oğul Abdülazîz ve başka oğul Muhammed açık; GK Velîd kaydı bu biyografide bulunmadı. Belirli matbu tarama veya bütün kaynakların asıl baskıları okunmuş sayılmaz.",
+      "accessed_on": "2026-11-02"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/index.php?ID=1069&bk_no=60&flag=1&page=bookcontents",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, İbn Cüreyc, 6/325–336",
+      "locator": "Tam harekesiz dijital biyografi okundu. Ahmed’in عمرو بن دينار وابن جريج أثبت الناس في عطاء cümlesi iki ortak özneyi verir. Yezîd b. Zürey‘ sözü صاحب غثاء. Ali → Yahyâ b. Saîd nakli, Qattân’ın başka Nâfi‘ karşılaştırması, yazılı şartlar ve tedlîs lafızları birbirine taşınmadı. Belirli matbu tarama karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "jarh_text": {
+      "url": "https://scribetools.com/en/library/rijal/الجرح-والتعديل-لابن-أبي-حاتم/05_1551-05084239/text/0018",
+      "title": "İbn Ebû Hâtim — el-Cerh ve’t-ta‘dîl, dijital 5/356–358, nr. 1687",
+      "locator": "356–358etiketli tam kişi pasajı ve dipnotlar dijital metinden okundu. Atâ halef sorusu, Ali → Yahyâ Nâfi‘ sözü ve Ahmed’in Atâ hükmü ayrı nakillerdir. GK924كلهم قالهوثقةوقدمه...devamı bu tam girişte bulunmadı. Görünür OCR bozulmaları vardır; tarama/tenkitli edisyon tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "jarh_pdf": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/3D/3DE6BCBD095F3AF32A1ED8DD4C9478CC%C6%92%CE%98%C3%B1%E2%8C%90%C3%91%20%CF%86%C6%92%CE%98%C3%B3%CF%80%C2%BA%E2%88%A9%CE%98%205.pdf",
+      "title": "el-Cerh ve’t-ta‘dîl, cilt5 — kamuya açık arşivdeki dijital PDF",
+      "locator": "210PDFsayfası; kapak ve görüntüleyici181–182görüntüden okundu. Bu yeniden dizilmiş dijital metindir; özgün matbu sayfa facsimilesi değildir. [356]–[358]yalnız taşınan sayfa etiketleridir. Metin bozulmaları vardır. Dijital kapaktaki1372/1953Haydarabad/Dârİhyâbilgisi bağımsız baskı doğrulaması değildir; bütün210sayfa okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "amr": {
+      "url": "https://islamansiklopedisi.org.tr/amr-b-dinar",
+      "title": "Mustafa Uzunpostalcı — Amr b. Dînâr, TDV 3 (1991), 83",
+      "locator": "Başlık/ilk hayat/el-Esrem lakabı/126ve125alternatifleri/matbu künye okundu. Kısa ad ve kaynak kimliği bileşenleri karşılaştırılır; İbn Cüreyc görüşünün ona aidiyeti ayrı açık problemdir.",
+      "accessed_on": "2026-11-02"
+    },
+    "yezid": {
+      "url": "https://islamansiklopedisi.org.tr/yezid-b-zurey",
+      "title": "Abdullah Karahan — Yezîd b. Zürey‘, TDV 43 (2013), 523",
+      "locator": "Başlık/ilk hayat/üçlü ad/Ayşî nisbesi/182ölüm ve181/183alternatifleri/matbu künye okundu. Yalnız kısa ad biçimi; bütün soy veya münekkit sözlerinin asıl atfı tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ibn-cureyc-related-records.json",
+      "sha256": "6ac85b731716b1af10fa3f26f814365445ec81a70e5fb717fc2dcd93f40f4af4"
+    },
+    {
+      "path": "references/arabic/classical/ibn-abi-hatim-jarh-tadil-v5.pdf",
+      "sha256": "ee1236a037df132344375794b1fecb8906bb5bfa9e2c1b2100bd4d990eaa8236"
+    },
+    {
+      "path": "research/arabic-source-checks/ibn-abi-hatim-v5-inspection/viewer-181.png",
+      "sha256": "2f75d28273ea9c7b7420c07b12d242125a3623c7edde59fc5e9a4207461ba4ad"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v9",
+  "policy": "İki kısa ad karşılaştırması; görüş atfı ve tam tarihsel biyografi tasdiki değildir.",
+  "critics": [
+    {
+      "alem_id": "2232",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2232",
+        "name": "عمرو بن دينار",
+        "rawy_shohra": "عمرو بن دينار الأثرم",
+        "rotba": 2,
+        "tabaka": "4",
+        "death_date": "126",
+        "rawy_id": "6123",
+        "opinion_count": 9,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": "الأثرم"
+      },
+      "expected_record_sha256": "cb8a3ffd518b71056da395e8c4c1f828af3f4d3431c4ef2c39e1051f8f611aeb",
+      "text": "Amr b. Dînâr",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "amr": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tam GK2232/Esrem/126/rawy6123 ve bağlı6123Cumahî/EbûMuhammedMekkî26alan kaydı TDV ile kısa ad düzeyinde karşılaştırıldı.126/125alternatifleri ve velâ ayrıntısı düzeltilmedi; görüş atfı ayrı problem."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tam GK2232/Esrem/126/rawy6123 ve bağlı6123Cumahî/EbûMuhammedMekkî26alan kaydı TDV ile kısa ad düzeyinde karşılaştırıldı.126/125alternatifleri ve velâ ayrıntısı düzeltilmedi; görüş atfı ayrı problem. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    },
+    {
+      "alem_id": "2835",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2835",
+        "name": "يزيد بن زريع بن يزيد",
+        "rawy_shohra": "يزيد بن زريع العيشي",
+        "rotba": 2,
+        "tabaka": "8",
+        "death_date": "182",
+        "rawy_id": "8418",
+        "opinion_count": 17,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "6b72302f502f6c1be1f6c656513f73f99172c33dc683c9fc9a871cce2c5c41f8",
+      "text": "Yezîd b. Zürey‘",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "yezid": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tam GK2835üçlü adı/Ayşî/182/rawy8418 ve bağlı8418tam26alan kaydı TDV kısa kimlikle karşılaştırıldı.181/183alternatifleri korunur; bütün biyografi veya özel eleştiri atfı tasdiki değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tam GK2835üçlü adı/Ayşî/182/rawy8418 ve bağlı8418tam26alan kaydı TDV kısa kimlikle karşılaştırıldı.181/183alternatifleri korunur; bütün biyografi veya özel eleştiri atfı tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kişi/atıf tasdiki veya uzman onayı değildir. Okunan Türkçe bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/tebuzeki",
+      "title": "Abdullah Karahan — Tebûzekî, TDV 40 (2011), 227",
+      "locator": "Tam madde ve matbu künye okundu. Mûsâ’nın genel güvenilirliği ve Ebû Hâtim’in Basra karşılaştırması; her bir özel sözün tam Türkçe karşılığı değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "hidir": {
+      "url": "https://acikerisim.bartin.edu.tr/bitstream/handle/11772/16484/Eymen%20h%C4%B1d%C4%B1r.pdf?isAllowed=y&sequence=1#page=141",
+      "title": "Eymen Hıdır — İkrime el-Berberî rivayetleri üzerine yüksek lisans tezi, Bartın, 2024",
+      "locator": "§3.8.4.18 Mûsâ b. İsmail ve dipnot 402–406 tam okundu. Yerel PDF görüntüsü: görüntüleyici 141, basılı 118. Yalnız Ebü’l-Velîd’in sika/sadûk ve İbn Maîn’in sika/me’mûn sözlerine destek. Tarih/velâ/köken farklılıkları aktarılmadı. Ebû Hâtim karşılaştırmasının bu tezdeki çevirisi kullanılmadı. Dipnot 406’daki İstiğnâ 2/910 asıl baskısı doğrudan okunmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "kand": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/8D/5dfa1b45aea43.pdf",
+      "title": "Yakup Kandıralı — Ukbe b. Âmir el-Cühenî’nin Hayatı ve Rivâyetleri, Marmara, YL, 2019",
+      "locator": "Hadis 33 / Hadisin Sened ve Râvileri / 3. Ukayl b. Halid el-Eylî: tam kişi bölümü ve dipnotlar web PDF metninden okundu. Basılı sayfa numarası doğrulanmadı. Yerel PDF/görüntü iddiası yok. İbn Sa‘d/İclî’nin sika sözü ve dipnot 10 es-Sikât kaydı; diğer birleşik sözler için kapsam sınırlıdır.",
+      "accessed_on": "2026-11-02"
+    },
+    "erel": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/1E/T0059535.pdf#page=78",
+      "title": "Sare Nur Erel — Fâtıma Bint Kays’ın Hayatı ve Rivayetleri, Marmara, YL, 2008",
+      "locator": "Yirmi Dördüncü Rivayet / Tahkik / Sened / 3. Ukayl: tam kişi bölümü ve kaynakları web PDF metninden okundu; PDF görüntüleyici 78. Basılı sayfa numarası ve tarama görüntüsü doğrulanmadı. Yahyâ b. Saîd adı burada tam kimlikle ayrıştırılmamıştır.",
+      "accessed_on": "2026-11-02"
+    },
+    "kashif": {
+      "url": "https://ablibrary.net/book_content/b/3301/32?lang=ar",
+      "title": "Zehebî — el-Kâşif, 2/32, nr. 3860; nşr. Muhammed Avvâme, Dârü’l-Kıble / Müessesetü Ulûmi’l-Kur’ân, Cidde",
+      "locator": "Tam dijital madde ve eser bilgileri okundu; baskı yılı görünmüyor. حافظ صاحب كتاب okuması. Basılı tarama görüntüsü görülmedi; GK حافظ صاح كتاب ham kaydı değiştirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "ms": {
+      "url": "https://ar.wikisource.org/wiki/ملف:مشتبه_النسبة_خ.pdf",
+      "title": "Abdülganî b. Saîd’e nispet edilen Müştebihü’n-nisbe yazması",
+      "locator": "Yerel 51 sayfalık PDF’nin kapak ve başlangıç sayfaları görüntüden okundu. PDF görüntüleyici 3 sağ sayfa, Ukayl maddesi öğrenci satırı: روى عنه يونس بن يزيد والليث بن سعد وسلامة بن روح. Tarihsel varak/sayfa numarası ileri sürülmedi. Karaviyyîn 80/174 bilgisi yalnız Wikisource katalog iddiasıdır; eser aidiyeti/raf numarası bağımsız tasdik edilmedi. Tam yazma okunmadı, uzman paleografi veya tenkitli neşir onayı değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/5050/عقيل-بن-خالد-بن-عقيل-الأيلي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Ukayl, nr. 4001, 20/242–245",
+      "locator": "Tam dijital biyografi okundu. Bu ana metin Kattân’ın zayıflatma sözünü içermez. Dijital sayfa işareti belirli matbu tarama ile eşitlenmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "editor": {
+      "url": "https://ablibrary.net/book_content/b/6054/245?lang=ar",
+      "title": "Tehzîbü’l-Kemâl, 20/245, nşr. Beşşâr Avvâd Ma‘rûf, editör dipnotu 3",
+      "locator": "Tam dijital sayfadaki editör dipnotu 3 okundu. Ahmed → Yahyâ b. Saîd zayıflatması ve Ahmed’in karşı sözü; el-İlel 49,360 atfı. Mizzî ana metni değildir. Atıf yapılan el-İlel asıl baskısı doğrudan okunmadı; tam kişi kimliği bu dipnottan kesinleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "siyar": {
+      "url": "https://islamweb.net/ar/library/index.php?ID=1058&bk_no=60&flag=1&page=bookcontents",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Ukayl, 6/302–303",
+      "locator": "Tam dijital biyografi okundu; Ebû Zür‘a sika/sadûk, Leys ve Selâme ilişkisi. GK466 tam kimliğini veya bozuk Müştebih satırının GK edisyon soyunu doğrulamaz.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnmuhriz": {
+      "url": "https://shamela.ws/book/101/72",
+      "title": "İbn Muharriz — Ma‘rifetü’r-ricâl an Yahyâ b. Maîn, 1/121–122; nşr. Muhammed Kâmil Kassâr, Dımaşk, 1405/1985",
+      "locator": "Dijital 1/121–122 ve eser kartı okundu; Ziyâd b. Sa‘d’ın Ukayl için كان يحفظ الحديث sözü ve Maîn’in karşılaştırma bağlamı. Basılı tarama görülmedi; kısa Arapça ad bütün soyun bağımsız kimlik tasdiki değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "tayalisi": {
+      "url": "https://islamansiklopedisi.org.tr/ebul-velid-et-tayalisi",
+      "title": "Abdulkadir Şenel — Ebü’l-Velîd et-Tayâlisî, TDV 10 (1994), 349–350",
+      "locator": "Başlık, tam hayat bölümü ve matbu künye okundu. Hişâm b. Abdülmelik et-Tayâlisî / 227 (226 alternatifi de vardır). Yalnız kısa ad biçimi; 125’te ölen aynı adlı halife değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "ensari": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-ensari",
+      "title": "Hayati Yılmaz — Yahyâ b. Saîd el-Ensârî, TDV 43 (2013), 261–262",
+      "locator": "Başlık, ilk hayat bölümü ve matbu künye okundu. Yahyâ b. Saîd b. Kays / 143; GK2803 kısa ad biçimi. Ukayl hakkındaki görüşün bu kişiye aidiyeti bununla tasdik edilmez.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    },
+    {
+      "path": "references/arabic/manuscripts/azdi-mushtabih-nisba-qarawiyyin.pdf",
+      "sha256": "ba801a8c3e0afb702d55ee02befbebb89330b9071ca04b6fa197e1fc10729166"
+    },
+    {
+      "path": "research/arabic-source-checks/azdi-mushtabih-manuscript/viewer-3-ukayl-entry.png",
+      "sha256": "5081680380e44768e00d0aeea58785cb1283cca14a3aeb203ed3d4ddef3d0d59"
+    },
+    {
+      "path": "references/turkish/academic/hidir-2024-ikrime-rivayetleri.pdf",
+      "sha256": "454dcda1a4273933cf02dd3a29ed444ae1f3b369234daf1307e33d6768391bc0"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v7",
+  "policy": "4kısaad3dilkarşılaştırması1kimlikproblemi. Ensârî adı ile Ukayl görüş atfı ayrı; eski466/864kayıtları değişmez.",
+  "critics": [
+    {
+      "alem_id": "2757",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2757",
+        "name": "هشام بن عبد الملك",
+        "rawy_shohra": "هشام بن عبد الملك الطيالسي",
+        "rotba": 2,
+        "tabaka": "9",
+        "death_date": "227",
+        "rawy_id": "8053",
+        "opinion_count": 28,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "e5c5254f5b3e137dfdea7c6381eb7f252527d231797461d2ca9bc983ab9f1dd9",
+      "text": "Ebü’l-Velîd et-Tayâlisî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "tayalisi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "GK tam kayıt Tayâlisî şöhreti, ölüm227 ve rawy8053 ile TDV maddesi karşılaştırıldı. 125’te ölen Hişâm b. Abdülmelik adlı halife değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "GK tam kayıt Tayâlisî şöhreti, ölüm227 ve rawy8053 ile TDV maddesi karşılaştırıldı. 125’te ölen Hişâm b. Abdülmelik adlı halife değildir. Asistan ad aktarımıdır; bütün biyografi veya söz atfı için uzman onayı değildir."
+    },
+    {
+      "alem_id": "1635",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1635",
+        "name": "زياد بن سعد بن عبد الرحمن",
+        "rawy_shohra": "زياد بن سعد",
+        "rotba": 2,
+        "tabaka": "6",
+        "death_date": "",
+        "rawy_id": "40925",
+        "opinion_count": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "621c9fb4eb2e6606cceac0c904211213014ae5fedc6672ec2283246aa576c3aa",
+      "text": "Ziyâd b. Sa‘d",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibnmuhriz": {
+          "support_scope": "arabic_source_comparison",
+          "evidence_note": "İbn Muharriz 1/121 kısa Arapça Ziyâd b. Sa‘d adı ve Ukayl sözüyle karşılaştırıldı. GK tam soy kaydı korunur; kısa ad dil aktarımı bütün soyu tasdik etmez. Okunan Türkçe bölümlerde özel kısa ad desteği bulunmadı."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "İbn Muharriz 1/121 kısa Arapça Ziyâd b. Sa‘d adı ve Ukayl sözüyle karşılaştırıldı. GK tam soy kaydı korunur; kısa ad dil aktarımı bütün soyu tasdik etmez. Okunan Türkçe bölümlerde özel kısa ad desteği bulunmadı. Asistan ad aktarımıdır; bütün biyografi veya söz atfı için uzman onayı değildir."
+    },
+    {
+      "alem_id": "2803",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2803",
+        "name": "يحيى بن سعيد بن قيس بن عمرو بن سهل بن ثعلبة بن الحارث بن زيد بن ثعلبة بن غنم بن مالك بن النجار",
+        "rawy_shohra": "يحيى بن سعيد الأنصاري",
+        "rotba": 2,
+        "tabaka": "6",
+        "death_date": "143",
+        "rawy_id": "8272",
+        "opinion_count": 11,
+        "wasf_rotba": "ثقة ثبت",
+        "wasf": ""
+      },
+      "expected_record_sha256": "224b44242ec7220cbe4d262795efb9d9b6d6f89f116b34ccdea79ef8288c5eeb",
+      "text": "Yahyâ b. Saîd el-Ensârî [GK münekkit kaydı]",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ensari": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "TDV başlık/ilk hayat ile GK2803 Yahyâ b. Saîd b. Kays / Ensârî / 143 / rawy8272 karşılaştırıldı. Kısa ad doğru aktarılır; Ukayl görüşünün bu kişiye aidiyeti ayrı problemdir, Kattân’a çevrilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "TDV başlık/ilk hayat ile GK2803 Yahyâ b. Saîd b. Kays / Ensârî / 143 / rawy8272 karşılaştırıldı. Kısa ad doğru aktarılır; Ukayl görüşünün bu kişiye aidiyeti ayrı problemdir, Kattân’a çevrilmedi. Asistan ad aktarımıdır; bütün biyografi veya söz atfı için uzman onayı değildir."
+    },
+    {
+      "alem_id": "855",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "855",
+        "name": "إسحاق بن إبراهيم بن شاذان",
+        "rawy_shohra": "إسحاق بن إبراهيم الفارسي",
+        "rotba": 7,
+        "tabaka": "13",
+        "death_date": "",
+        "rawy_id": "52987",
+        "opinion_count": 6,
+        "wasf_rotba": "مجهول الحال",
+        "wasf": ""
+      },
+      "expected_record_sha256": "c0bbae56e65481b27c014afdd5e45161542906d1f659b89141d9bd00358a6b5e",
+      "text": "İshak b. İbrâhim b. Şâzân [GK kaydı]",
+      "rendering_kind": "name_form",
+      "status": "problem_detected",
+      "review_scope": "arabic_critic_name",
+      "source_support": {},
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "GK855 tam literal adı, Fârisî şöhreti / rawy52987 / mechûlü’l-hâl / ölümboş olarak korundu. 864 İbn Râhûye ayrı tam kayıttır. Kısa adın tarihsel kimlik bağı çözülmedi; Türkçe bölümde bu tam kişiye destek bulunmadı. Asistan ad aktarımıdır; bütün biyografi veya söz atfı için uzman onayı değildir."
+    }
+  ]
+}

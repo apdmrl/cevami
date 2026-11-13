@@ -1,0 +1,207 @@
+{
+  "revision": "assistant-person-field-review-v4-corrections",
+  "reviewed_on": "2026-11-01",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "İki açıklanmış yazım okuması ve açık kalan bir tarihsel kaynak ihtilafı. Önceki üç iddia supersedes_id ile korunur. GK Arapça yazımı değiştirilmez; uzman onayı veya bütün biyografi tamamlanması değildir.",
+  "review_artifacts": [
+    {
+      "path": "references/arabic/taqrib-dar-al-asimah-20261101/taqrib.pdf",
+      "sha256": "a1681bbb32462c3ef907505d2788ac2594b7402e2d40f6992aa7084b53898c5e"
+    },
+    {
+      "path": "GK4.5/GK4.5/Data/Rawy.zip",
+      "sha256": "dd8bf6aee0981b0c4d92c05ef249aeb2fac873103f63bf063885fe58890f6238"
+    }
+  ],
+  "sources": {
+    "person720": {
+      "url": "https://islamansiklopedisi.org.tr/enes-b-malik",
+      "title": "TDV İslâm Ansiklopedisi: Enes b. Mâlik",
+      "locator": "Ebû Hamza/Enes–Mâlik–Nadr/93; Neccâr–Hazrec, iki künye, hizmet, Basra ve zü’l-üzüneyn paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person746": {
+      "url": "https://islamansiklopedisi.org.tr/eyyub-es-sahtiyani",
+      "title": "TDV İslâm Ansiklopedisi: Eyyûb es-Sahtiyânî",
+      "locator": "Ebû Bekir/Keysân–Ebû Temîme/131, Basra, sahtiyan ticareti, velâ; sebt/hüccet ve Basra’da ölüm paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Sika, hâfız, sebt, hüccet ve rivayette titizlik anlamları; yalnız terim desteği",
+      "accessed_on": "2026-11-01"
+    },
+    "taqrib_anas": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/48/489F5BC87E7B9EB213EDD333F7B1FFC3_tkribt.pdf#page=154",
+      "title": "İbn Hacer — Takrîbü’t-Tehzîb, Dâru’l-Âsıme neşri (Arapça tarama)",
+      "locator": "Sağîr Ahmed b. Muhammed neşri, basılı s. 154, kayıt 570; PDF sayfası aynı; görsel olarak okundu. Baskı yılı ayrıca doğrulanmadı.",
+      "accessed_on": "2026-11-01",
+      "artifact_sha256": "a1681bbb32462c3ef907505d2788ac2594b7402e2d40f6992aa7084b53898c5e",
+      "local_artifact": "references/arabic/taqrib-dar-al-asimah-20261101/taqrib.pdf"
+    },
+    "taqrib_ayyub": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/48/489F5BC87E7B9EB213EDD333F7B1FFC3_tkribt.pdf#page=158",
+      "title": "İbn Hacer — Takrîbü’t-Tehzîb, Dâru’l-Âsıme neşri (Arapça tarama)",
+      "locator": "Sağîr Ahmed b. Muhammed neşri, basılı s. 158, kayıt 610; PDF sayfası aynı; görsel olarak okundu. Baskı yılı ayrıca doğrulanmadı.",
+      "accessed_on": "2026-11-01",
+      "artifact_sha256": "a1681bbb32462c3ef907505d2788ac2594b7402e2d40f6992aa7084b53898c5e",
+      "local_artifact": "references/arabic/taqrib-dar-al-asimah-20261101/taqrib.pdf"
+    },
+    "tamhid": {
+      "url": "https://islamweb.net/ar/library/content/78/66/أيوب-السختياني",
+      "title": "İbn Abdülber — et-Temhîd (Arapça metin, Islamweb dijital aktarımı)",
+      "locator": "Cilt 1, s. 341; Eyyûb es-Sahtiyânî tercemesi, vefat paragrafı. Dijital metin okundu, bu eserin basılı sayfa görüntüsü görülmedi.",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "people": [
+    {
+      "id": 720,
+      "expected_record_sha256": "96b9ca63dabd01a6beb75c32f01780f67eaf4fcaf58017b088c30f5f4de23260",
+      "expected_source": {
+        "id": 720,
+        "new_id": 8518,
+        "name": "أنس بن مالك بن النضر بن ضمضم بن زيد بن حرام",
+        "shohra": "أنس بن مالك الأنصاري",
+        "badeel": "أبو حمزة النجاري خادم النبي",
+        "konya": "أبو حمزة ، أبو النضر",
+        "lakab": "ذو الأدنين",
+        "san3a": "الخادم : خادم النبي صلى الله عليه وسلم",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الأنصاري،النجاري،الخزرجي",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "93",
+        "age": 103,
+        "baladekama": "البصرة",
+        "baladwafa": "البصرة",
+        "mawaaly": "",
+        "karaba": "والد أمينة ، والد أبي بكر ، والد النضر ، والد موسى ، أمه أم سليم بنت ملحان بن خالد بن زيد بن حرام",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 3618
+      },
+      "fields": [
+        {
+          "field": "lakab",
+          "expected_arabic": "ذو الأدنين",
+          "supersedes_id": "9bb64b45-7768-57cb-a3a7-fdd4d54ce3cd",
+          "text": "Zü’l-üzüneyn (iki kulaklı; karşılaştırılan kaynak yazımı).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person720": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Türkçe biyografide iki kulaklı lakabı açıkça bulunur."
+            },
+            "taqrib_anas": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "s.154/no570: ذو الأذنين yazımı görsel olarak okundu; aynı Enes kimliği Nadr/Ensârî/Hazrecî ile kontrol edildi."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_source_corrected_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "GK ve özgün Rawy.tbx alanı ذو الأدنين diye yazılmıştır. İbn Hacer’in kontrol edilen Arapça neşri s.154/no570 ذو الأذنين okumasını verir; TDV de iki kulaklı karşılığını aktarır. Türkçe okuma bu iki dayanakla açıklanarak düzeltildi; GK yazımı hâlâ görünür. GK’nin metni veya kitapta hangi nüshanın kullanıldığı hakkında yeni bir iddia kurulmadı. Birebir Türkçe kitap alıntısı veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "expected_record_sha256": "2f5183e5e85efd40b682feaefe1bebe7d57698c2f7c5ffa1821cedb6cbf74839",
+      "expected_source": {
+        "id": 746,
+        "new_id": 8705,
+        "name": "أيوب بن كيسان",
+        "shohra": "أيوب السختياني",
+        "badeel": "أيوب بن أبي تميمة السختياني",
+        "konya": "أبو بكر ، أبو عثمان",
+        "lakab": "ابن أبي تميمة",
+        "san3a": "السختياني",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "البصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبتت حجة",
+        "tabaka": 5,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "66",
+        "death_year": "131",
+        "age": 65,
+        "baladekama": "البصرة",
+        "baladwafa": "طريق مكة راجعا إلى البصرة",
+        "mawaaly": "مولى عنزة",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 983
+      },
+      "fields": [
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبتت حجة",
+          "supersedes_id": "f5c9004d-67b5-56a5-9137-67a9ad4b3f13",
+          "text": "Sika (güvenilir); sebt (rivayetinde titiz); hüccet (rivayeti delil sayılan) — karşılaştırılan kaynak nitelemeleri.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person746": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Türkçe biyografide Eyyûb için sika, sebt ve hüccet nitelemeleri bulunur."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Üç ravi teriminin Türkçe anlamı; belirli bir hadisin sıhhat kararı değildir."
+            },
+            "taqrib_ayyub": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "s.158/no610: ثقة ثبت حجة okuması görsel olarak okundu; Keysân/Ebû Temîme, Ebû Bekir ve 131 ile kimlik bağı kontrol edildi."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_source_corrected_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "GK ve özgün Rawy.tbx alanı ثقة ثبتت حجة yazar. Kontrol edilen Takrîb neşri s.158/no610 aynı kişinin nitelemesini ثقة ثبت حجة olarak verir; TDV Eyyûb ve Sika maddeleri anlamı destekler. Aradaki sözcük sebt olarak başka Arapça şahit yardımıyla açıkça okunmuştur; özgün ثبتت yazımı değiştirilmedi. Yeni ravi hükmü, yeni hadis derecesi veya kaynak nüshası hakkında hüküm verilmedi. Birebir Türkçe kitap alıntısı veya uzman onayı değildir."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "طريق مكة راجعا إلى البصرة",
+          "supersedes_id": "313c74b2-a70c-53d3-a287-ff492bd2213c",
+          "text": "Mekke yolunda, Basra’ya dönerken (GK kaydındaki anlatım; kaynaklar arasında ihtilaf var).",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "person746": {
+              "support_scope": "identity_only",
+              "evidence_note": "TDV Basra’da vebadan ölüm ve 131 yılını aktarır; GK yol anlatımını bütünüyle desteklemez."
+            },
+            "tamhid": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "et-Temhîd1/341 yol anlatımını ve132 yılını verir. GK/TDV131 ile yıl farkı korunur; tek bir anlatım seçilmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Yeni Arapça karşılaştırma kaynağı bulundu: İbn Abdülber et-Temhîd1/341, Mekke yolunda Basra’ya dönüş sırasında ölüm anlatımını verir. Bu metinde yıl132, GK ve TDV’de131; TDV’nin yer anlatımı Basra’dır. Dolayısıyla GK yol ifadesi yalnız başına anlamsız bir yazım sayılmadı, fakat kaynak ihtilafı çözülmüş veya tek bir ölüm yeri kesinleşmiş sayılmaz. Türkçe aktarım korunur ve inceleme sorunu açık kalır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir."
+        }
+      ]
+    }
+  ]
+}

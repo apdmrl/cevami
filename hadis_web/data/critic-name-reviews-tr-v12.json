@@ -1,0 +1,153 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-nuaym-fazl-b-dukeyn",
+      "title": "M. Yaşar Kandemir — Ebû Nuaym, Fazl b. Dükeyn, TDV 10 (1994), 200–201",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Dükeyn babası Amr’ın lakabı, Ahvel şehlâ, Şiî nitelemesi Ali sevgisi bağlamında. Dört nisbe/meslek/Talha ailesi/Kûfe açık. Maîn ilk karşılaştırması, Ahmed ve Ebû Hâtim bağlamı var; bütün23özel atfın Türkçesi değildir. Uyum sözü Yahyâ Kattân’a, kitap övgüsü Abdullah b.Mübârek’e atfedilir. Uzun son soy halkaları/torun yok.130doğum/219ölüm GK boşdoğum/218ölüm yerine geçirilmedi.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/5844/الفضل-بن-دكين-أبو-نعيم-الملائي-الكوفي-الأحول",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Fazl b. Dükeyn, 23/197–220, nr. 4732",
+      "locator": "Giriş başlığı ve değerlendirme/hayat sonu bölümü okundu; ilk uzun hoca-talebe listesinin tamamı okunmuş sayılmaz. İbn Ammâr şartı, Osman’ın aslan teşbihi, gerçek Ebû Zür‘a’nın Kabîsa karşılaştırması, Ahmed Sâlih olumlu sözü ve İbn Mübârek kitap övgüsü ayrı. Bu, GK466375/2507Muhammed/769Şemmûmî kimliklerinin aynı kişiler olduğunu tasdik etmez. Matbu facsimile karşılaştırılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/1696/أبو-نعيم",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Ebû Nuaym, 10/142–157",
+      "locator": "Tam harekesiz dijital biyografi okundu. Uyum sözünün konuşmacısı Yahyâ Kattân; kitap övgüsü İbn Mübârek; Osman’ın aslan teşbihi, şartlı İbn Ammâr sözü ve diğer değerlendirmeler ayrı. Doğum129130/ölüm218219nakilleri korunur. Bütün biyografi ve mihne anlatıları yeni veri alanları veya uygulama hükmü yapılmadı; matbu baskı doğrulanmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnhibban": {
+      "url": "https://www.islamweb.net/ar/library/content/1079/10465/الفضل-بن-دكين",
+      "title": "İbn Hibbân — es-Sikât, Fazl b. Dükeyn dijital tam girişi",
+      "locator": "Tam kısa harekesiz/harekeli dijital giriş okundu. Son ولم يدرك من روى عنه bu şahitte de vardır. Harflerin başka şahitte bulunması özne ve aktarım yönünü çözmez. KaynakGK’deki218ölümkorunur; iki dijital sistemin2019/10261numaraları tek numara diye birleştirilmedi. Fiziksel baskı/sayfa tasdiki değildir.",
+      "accessed_on": "2026-11-03"
+    },
+    "sehavi": {
+      "url": "https://islamansiklopedisi.org.tr/sehavi-semseddin",
+      "title": "Cengiz Tomar — Sehâvî, Şemseddin, TDV 36 (2009), 313–316",
+      "locator": "Tam madde, kaynakça ve matbu künye okundu. Sehâvî kısa yazımı ve902ölümuyuşur; eser listesinde lakaplar kitabı vardır. GK1279yalnız kısa adını uzun Muhammed soyuna çevirmedi. Kaynakta dönmeyen81272bağlı ravi gövdesi üretilmedi; asıl el-Elkāb kişi pasajı okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "osman": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-ebu-seybe-ebul-hasan",
+      "title": "Selman Başaran — İbn Ebû Şeybe, Ebü’l-Hasan, TDV 19 (1999), 444",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Osman/Muhammed/Ebû Şeybe İbrahim/Absî/Kûfî/239, kardeşler ve oğul bağlamı kaynak2067ve5551ile karşılaştırıldı. Kısa adın Türkçe desteğidir; burada Osman hakkında söylenen hükümler onun Fazl hakkındaki aslan teşbihinin Türkçe teyidi değildir.",
+      "accessed_on": "2026-11-03"
+    },
+    "ibnshahin": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/C0/C08D4B61E1E2CCA37515D5424465B470_%C3%B3%C6%92%E2%8C%90%E2%88%A9%C2%AA%20%C3%9C%C2%BD%CE%A9%C6%92%C3%BF%20%C6%92%CE%98%C3%BA%CF%84%C6%92%C3%B3%20%CE%98%C6%92%C3%A1%CE%B4%20%C2%BC%C6%92%E2%88%9E%E2%88%A9%CE%B4.pdf",
+      "title": "İbn Şâhîn — Târîhu esmâi’s-sikât, dijital giriş 1130",
+      "locator": "Tam1130girişivekomşuları okundu; yerel109sayfalık PDFkapak/viewer73görüldü. Ahmed Sâlih olumlu cümlesi ardından وقال أحمد ile ikinci kısım gelir; GK’nin bütününü tek kişiye bağlaması bu yüzden otomatik tasdik edilmedi. Dijital yeniden dizim/OCR; kapaktaki yayın bilgileri bağımsız baskı otantifikasyonu değildir. Bütün kitap okunmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "jarh9": {
+      "url": "https://www.cia.gov/library/abbottabad-compound/CD/CDB4D639ABCD85D46E9E2A0252BE4AD0%C6%92%CE%98%C3%B1%E2%8C%90%C3%91%20%CF%86%C6%92%CE%98%C3%B3%CF%80%C2%BA%E2%88%A9%CE%98%209.pdf",
+      "title": "İbn Ebû Hâtim — el-Cerh ve’t-ta‘dîl, cilt 9, Ebû Cenâb girişi 587",
+      "locator": "Tam587girişi sonraki sayfadaki devamıyla588başlığına kadar okundu; yerel229sayfalık PDFkapak/viewer6869görüldü. Ebû Nuaym burada Ebû Cenâb’ın tedlîsinden söz eden kişidir; Abdullah→Ahmed→Ebû Nuaym katmanları açık. Bu başka bağlam, GK769son cümlesinin kesin sahibini veya Ebû Nuaym’ın hiç tedlîs yapmadığını tek başına tasdik etmez. Yeniden dizim/OCR; eski138139etiketleri matbu facsimile değildir.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ebu-nuaym-critic-records.json",
+      "sha256": "1b0aad72479717812d30b04f122ce50cc184bedca467a1d43317f758592e895e"
+    },
+    {
+      "path": "research/arabic-source-checks/ebu-nuaym-related-records.json",
+      "sha256": "d907b7d4d827cda242f8b9ef8f12441b3302d2c2fc0ffdabe42e336346217438"
+    },
+    {
+      "path": "references/arabic/classical/ibn-shahin-thiqat.pdf",
+      "sha256": "11a746f9c7636d61327116fcaf4d33fefe1933e9427e08fde0f38567fb0a648a"
+    },
+    {
+      "path": "references/arabic/classical/ibn-shahin-thiqat.json",
+      "sha256": "d2ce238be7b2f0b9191148558c06fc82741aa2e3d574d8c37da34708db06d092"
+    },
+    {
+      "path": "references/arabic/classical/ibn-abi-hatim-jarh-tadil-v9.pdf",
+      "sha256": "87e12a4438ce9ef88220354ea839de6e54ee7b28ba9b14318eecf0553ca976c8"
+    },
+    {
+      "path": "references/arabic/classical/ibn-abi-hatim-jarh-tadil-v9.json",
+      "sha256": "8cbd1cd7999d32d97a2030e53e442149292aea022ec6fbda124e8709a922523c"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v12",
+  "policy": "İki kısa adın dil karşılaştırması; bütün tarihsel/bağlı kişi kimliği veya uzman tasdiki değil.",
+  "critics": [
+    {
+      "alem_id": "1279",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1279",
+        "name": "السخاوي",
+        "rawy_shohra": "السخاوي",
+        "rotba": 2,
+        "tabaka": "36",
+        "death_date": "902",
+        "rawy_id": "81272",
+        "opinion_count": 469,
+        "wasf_rotba": "ثقة إمام متقن",
+        "wasf": ""
+      },
+      "expected_record_sha256": "55ef1a9c29c3eef265b067d262d47194b632391363620c0b9eeb1863a7c414c2",
+      "text": "Sehâvî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "sehavi": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Kısa ad yazımı karşılaştırıldı. GK yalnızالسخاويadı/902ölüm/tabaka36taşır; TDV Sehâvî kısa adıyla karşılaştırıldı. Kaynakta dönmeyen81272için kişi gövdesi veya uzun Muhammed soyu üretilmedi. Bu, bağlı kimliğin bütün tarihsel doğruluğu veya özel el-Elkāb sözünün tasdiki değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Kısa ad yazımı karşılaştırıldı. GK yalnızالسخاويadı/902ölüm/tabaka36taşır; TDV Sehâvî kısa adıyla karşılaştırıldı. Kaynakta dönmeyen81272için kişi gövdesi veya uzun Muhammed soyu üretilmedi. Bu, bağlı kimliğin bütün tarihsel doğruluğu veya özel el-Elkāb sözünün tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    },
+    {
+      "alem_id": "2067",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2067",
+        "name": "عثمان بن محمد بن إبراهيم بن عثمان بن خواستي",
+        "rawy_shohra": "عثمان بن أبي شيبة العبسي",
+        "rotba": 2,
+        "tabaka": "10",
+        "death_date": "239",
+        "rawy_id": "5551",
+        "opinion_count": 66,
+        "wasf_rotba": "ثقة حافظ شهير ، وله أوهام",
+        "wasf": ""
+      },
+      "expected_record_sha256": "df214cae1c48d2153ec573ae529c7d3d30ca2ba49b4722a284c258e0c24fca7a",
+      "text": "Osman b. Ebû Şeybe",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "osman": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tam on alanlı2067gövdesi ve5551tam26alan kaydı kaynaklarıyla karşılaştırıldı; Muhammed/İbrahim/Osman/Havstî soyu,239veAbsîbilgileri korundu. TDV kısa Osman b.Ebû Şeybe yazımını ve aile/ölüm bağlamını destekler. Kardeşi Ebû Bekir veya oğlu Muhammed’le birleştirme yapılmadı; yeni uzman kimlik tasdiki değildir."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tam on alanlı2067gövdesi ve5551tam26alan kaydı kaynaklarıyla karşılaştırıldı; Muhammed/İbrahim/Osman/Havstî soyu,239veAbsîbilgileri korundu. TDV kısa Osman b.Ebû Şeybe yazımını ve aile/ölüm bağlamını destekler. Kardeşi Ebû Bekir veya oğlu Muhammed’le birleştirme yapılmadı; yeni uzman kimlik tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+    }
+  ]
+}

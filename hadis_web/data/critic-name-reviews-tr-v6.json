@@ -1,0 +1,261 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "uluman": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/9F/10246213.pdf#page=63",
+      "title": "Gülşah Uluman — Zü’l-yedeyn Hadisi:Tahrîc ve Tahlil,Marmara,YL2019",
+      "locator": "36.Yunus,basılı52–53/PDF63–64tam kişi bölümü/dipnot258–260webPDFmetninden okundu. Ma‘mer benzetmesi ve olumlu/olumsuz değerlendirmeler birlikte;152/745tarih çifti burada düzeltilmedi veya yeni alana taşınmadı. YerelPDF/hash/görüntü iddiası yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnmuhriz": {
+      "url": "https://shamela.ws/book/101/73",
+      "title": "İbn Muharriz — Ma‘rifetü’r-ricâl an Yahyâ b.Maîn;I.ciltMuhammedKâmilKassâr,Mecmau’l-lugati’l-Arabiyye,Dımaşk,1.baskı1405/1985",
+      "locator": "Dijitalbasılı1/121–122: /72sonundan/73başına taşan tam pasaj ve eser kartı okundu. İbnMehdî/İbnMübârek aktarımı ve AliMedînî’nin همام همامbiçimindeki tekrarını açık verir. Basılıtarama/PDFgörüntüsü karşılaştırılmadı.",
+      "accessed_on": "2026-11-02"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/8562/يونس-بن-يزيد-بن-أبي-النجاد-يونس-يزيد-القرشي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl,Yûnus b.Yezîd,nr7188",
+      "locator": "Dijital32/552–558tam biyografi/özellikle554–557görüş paragrafları okundu.554İbnMübârek/İbnMehdî;556AhmedSâlihMısrî;557EbûZür‘a. Sayfa işaretleri dijital metne aittir; belirli matbu baskı/görüntüyle eşitlenmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "evzai": {
+      "url": "https://islamansiklopedisi.org.tr/evzai",
+      "title": "Salim Öğüt — Evzâî,TDV11(1995),546–548",
+      "locator": "Başlık/ilk hayat ve matbu künye: Abdurrahmanb.Amrb.Yuhmid/157. Yalnız kısa ad biçimi, Yûnus hakkındaki sözün asıl atfı değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnmubarek": {
+      "url": "https://islamansiklopedisi.org.tr/abdullah-b-mubarek",
+      "title": "Raşit Küçük — Abdullah b.Mübârek,TDV1(1988),122–124",
+      "locator": "Başlık/ilk hayat/181ölüm ve matbu künye okundu. Abdullahb.Mübârekb.Vâzıh;2507Muhammedb.Abdullahb.Mübârek ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "veki": {
+      "url": "https://islamansiklopedisi.org.tr/veki-b-cerrah",
+      "title": "Mehmet Emin Özafşar — Vekî‘ b.Cerrâh,TDV43(2013),8–9",
+      "locator": "Başlık/ilk hayat/ölüm paragrafı ve matbu künye. TDV197ölümü,GK196kaydı; kısa ad biçimi dışında tarih onayı verilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "beskuval": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-beskuval",
+      "title": "Nadir Özkuyumcu — İbn Beşküvâl,TDV19(1999),377–378",
+      "locator": "Başlık/ilk hayat/578ölüm ve matbu künye okundu. Halefb.Abdilmelikb.Mes‘ûdb.Mûsâb.Beşküvâl; yalnız kısa ad biçimi.",
+      "accessed_on": "2026-11-02"
+    },
+    "suri_candidate": {
+      "url": "https://islamansiklopedisi.org.tr/suri-muhammed-b-ali",
+      "title": "Nuri Topaloğlu — Sûrî,Muhammed b.Ali,TDV37(2009),541",
+      "locator": "Başlık/ilk hayat/441ölüm ve matbu künye okundu. Muhammedb.Alib.Abdullah441kişisi adaydır; GK2545rawy61450tabaka10/mechûlü’l-hâl/ölümboş kaydıyla kimlik eşitliği kanıtlanmadı. Türkçe kısa yazım kimlik doğrulaması sayılmaz.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    },
+    {
+      "path": "research/arabic-source-checks/yunus-related-records.json",
+      "sha256": "899565b32227fb435eb37819b029a0b764bf3b8f6c552b82427f10b8184d2beb"
+    }
+  ],
+  "revision": "assistant-critic-name-review-v6",
+  "policy": "6yenikısaad4karşılaştırma2kimlikproblemi;2507ve466eski kayıtları değiştirilmedi.",
+  "critics": [
+    {
+      "alem_id": "1121",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1121",
+        "name": "عبد الرحمن بن عمرو بن يحمد",
+        "rawy_shohra": "الأوزاعي",
+        "rotba": 2,
+        "tabaka": "7",
+        "death_date": "157",
+        "rawy_id": "4457",
+        "opinion_count": 25,
+        "wasf_rotba": "ثقة مأمون",
+        "wasf": ""
+      },
+      "expected_record_sha256": "120fe81a4c8d209b70e67c93fceca44e4fb5509fcbd5fcf6dc3a372f1cf46a33",
+      "text": "Evzâî",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "evzai": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "TDVbaşlığı Abdurrahmanb.Amrb.Yuhmid/157ile tamGKkaydı karşılaştırıldı; yalnız kısa isim biçimi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "TDVbaşlığı Abdurrahmanb.Amrb.Yuhmid/157ile tamGKkaydı karşılaştırıldı; yalnız kısa isim biçimi. Asistanın kaynak kaydına bağlı ad aktarımıdır; bütün biyografi, söz atfı veya uzman tasdiki değildir."
+    },
+    {
+      "alem_id": "1935",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "1935",
+        "name": "عبد الله بن المبارك بن واضح",
+        "rawy_shohra": "عبد الله بن المبارك",
+        "rotba": 2,
+        "tabaka": "8",
+        "death_date": "181",
+        "rawy_id": "61587",
+        "opinion_count": 16,
+        "wasf_rotba": "ثقة ثبت فقيه عالم جواد مجاهد جمعت فيه خصال الخير",
+        "wasf": ""
+      },
+      "expected_record_sha256": "fdf58bf62d0a54badc451b2c9dc1f8166f37e461fcb292c8cedba26cb7eeb61e",
+      "text": "Abdullah b. Mübârek",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "ibnmubarek": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "Tamadı Abdullahb.Mübârekb.Vâzıh/181;2507Muhammedb.Abdullahb.Mübârek ile birleştirilmedi. Yalnız kısa ad."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "Tamadı Abdullahb.Mübârekb.Vâzıh/181;2507Muhammedb.Abdullahb.Mübârek ile birleştirilmedi. Yalnız kısa ad. Asistanın kaynak kaydına bağlı ad aktarımıdır; bütün biyografi, söz atfı veya uzman tasdiki değildir."
+    },
+    {
+      "alem_id": "2545",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2545",
+        "name": "محمد بن علي",
+        "rawy_shohra": "محمد بن علي الصوري",
+        "rotba": 7,
+        "tabaka": "10",
+        "death_date": "",
+        "rawy_id": "61450",
+        "opinion_count": 26,
+        "wasf_rotba": "مجهول الحال",
+        "wasf": ""
+      },
+      "expected_record_sha256": "cd87888bef1c460eee5ac04fd79d59330f38a29a27838600796ece99d67efc1c",
+      "text": "Muhammed b. Ali es-Sûrî [GK kaydı]",
+      "rendering_kind": "name_form",
+      "status": "problem_detected",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "suri_candidate": {
+          "support_scope": "identity_only",
+          "evidence_note": "GK2545rawy61450ölümboş/tabaka10/mechûlü’l-hâl kaydıdır. TDV441ölümlü Muhammedb.Alib.Abdullahes-Sûrî adayını verir; bu tam kayıtla aynı kişi olduğu kanıtlanmadı. LiteralGKad biçimi, kimlik sorunu açık; otomatik ünlü kişi etiketi verilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "GK2545rawy61450ölümboş/tabaka10/mechûlü’l-hâl kaydıdır. TDV441ölümlü Muhammedb.Alib.Abdullahes-Sûrî adayını verir; bu tam kayıtla aynı kişi olduğu kanıtlanmadı. LiteralGKad biçimi, kimlik sorunu açık; otomatik ünlü kişi etiketi verilmedi. Asistanın kaynak kaydına bağlı ad aktarımıdır; bütün biyografi, söz atfı veya uzman tasdiki değildir."
+    },
+    {
+      "alem_id": "2769",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "2769",
+        "name": "وكيع بن الجراح بن مليح بن عدى بن فرس بن جمجمة بن سفيان بن عمرو بن الحارث بن عمرو",
+        "rawy_shohra": "وكيع بن الجراح",
+        "rotba": 2,
+        "tabaka": "9",
+        "death_date": "196",
+        "rawy_id": "8160",
+        "opinion_count": 107,
+        "wasf_rotba": "ثقة حافظ إمام",
+        "wasf": ""
+      },
+      "expected_record_sha256": "2edb4abdc1bbbb8ec57084e22dad7763d589645a8364aef0478cc776f66549cd",
+      "text": "Vekî‘ b. Cerrâh",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "veki": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "TDVilküçlüad Vekî‘b.Cerrâhb.Melîh ile GKtamkaydı karşılaştırıldı. GK196,TDV197ölüm farkı korunur; yalnız kısa ad biçimi doğrulandı, uzun soy/tarih değil."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "TDVilküçlüad Vekî‘b.Cerrâhb.Melîh ile GKtamkaydı karşılaştırıldı. GK196,TDV197ölüm farkı korunur; yalnız kısa ad biçimi doğrulandı, uzun soy/tarih değil. Asistanın kaynak kaydına bağlı ad aktarımıdır; bütün biyografi, söz atfı veya uzman tasdiki değildir."
+    },
+    {
+      "alem_id": "281",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "281",
+        "name": "خلف بن عبد الملك بن مسعود بن موسى بن بشكوال بن يوسف بن داجة بن واكد بن نصر بن عبد الكريم بن وافد",
+        "rawy_shohra": "أبو القاسم بن بشكوال",
+        "rotba": 2,
+        "tabaka": "24",
+        "death_date": "578",
+        "rawy_id": "67315",
+        "opinion_count": 289,
+        "wasf_rotba": "ثقة حجة",
+        "wasf": ""
+      },
+      "expected_record_sha256": "395f2772e93a1ded5207cfc1d0c641ef31c7b0d038127935dc3b80ce82f7631b",
+      "text": "İbn Beşküvâl",
+      "rendering_kind": "name_form",
+      "status": "source_compared",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "beskuval": {
+          "support_scope": "supports_full_field",
+          "evidence_note": "TDVbaşlığı Halefb.Abdilmelikb.Mes‘ûdb.Mûsâb.Beşküvâl/578ile GKtamkaydı karşılaştırıldı. Yalnız kısa ad, eser atfı tasdiki değil."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "source_support_found"
+      },
+      "rationale": "TDVbaşlığı Halefb.Abdilmelikb.Mes‘ûdb.Mûsâb.Beşküvâl/578ile GKtamkaydı karşılaştırıldı. Yalnız kısa ad, eser atfı tasdiki değil. Asistanın kaynak kaydına bağlı ad aktarımıdır; bütün biyografi, söz atfı veya uzman tasdiki değildir."
+    },
+    {
+      "alem_id": "769",
+      "field": "name",
+      "expected_source": {
+        "alem_id": "769",
+        "name": "أحمد بن صالح",
+        "rawy_shohra": "أحمد بن صالح المصري",
+        "rotba": 10,
+        "tabaka": "10",
+        "death_date": "",
+        "rawy_id": "9885",
+        "opinion_count": 95,
+        "wasf_rotba": "منكر الحديث",
+        "wasf": ""
+      },
+      "expected_record_sha256": "944d10c961d2ae94d86174c53a454927afc6b777bfd354625c4c65cbee03281b",
+      "text": "Ahmed b. Sâlih [GK bağlantısı: الشمومي]",
+      "rendering_kind": "name_form",
+      "status": "problem_detected",
+      "review_scope": "arabic_critic_name",
+      "source_support": {
+        "mizzi": {
+          "support_scope": "arabic_source_comparison",
+          "evidence_note": "GK769rawy_id9885bağı, tamravi kaydında الشمومي şöhretine gider. Mizzî32/556sözü Ahmedb.Sâlihel-Mısrî’ye verir; bu kısa ad, Şemmûmî ile ünlü aynı adlı hâfızı eşitlemeye yetmez. Sözün kişi bağı açıkproblem, ham kimlik değiştirilmedi."
+        }
+      },
+      "translation_provenance": {
+        "translation_origin": "assistant_reviewed_translation",
+        "turkish_availability": "not_found_in_checked_sources"
+      },
+      "rationale": "GK769rawy_id9885bağı, tamravi kaydında الشمومي şöhretine gider. Mizzî32/556sözü Ahmedb.Sâlihel-Mısrî’ye verir; bu kısa ad, Şemmûmî ile ünlü aynı adlı hâfızı eşitlemeye yetmez. Sözün kişi bağı açıkproblem, ham kimlik değiştirilmedi. Asistanın kaynak kaydına bağlı ad aktarımıdır; bütün biyografi, söz atfı veya uzman tasdiki değildir."
+    }
+  ]
+}

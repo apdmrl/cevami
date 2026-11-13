@@ -1,0 +1,657 @@
+{
+  "revision": "hadith-source-reviews-tr-v1",
+  "language": "tr",
+  "actor": "assistant-hadith-source-review",
+  "actor_kind": "assistant_source_review",
+  "reviewed_on": "2026-11-01",
+  "cases": [
+    {
+      "bhid": "146_1",
+      "alignment": {
+        "id": "401b3c30-43af-53eb-bc22-a49b2983475e",
+        "case_id": "bff79384-4792-52dd-ad45-d5eab3467fff",
+        "revision": 1,
+        "scope": "unclassified",
+        "sealed": true,
+        "relation_type": "proposed"
+      },
+      "members": [
+        {
+          "role": "bridge_arabic",
+          "ordinal": 0,
+          "id": "ea6ac42a-992d-5ae5-8fa6-bc39e6e30e75",
+          "unit_id": "a10e3ea7-a87d-53ea-aeba-69f98709cb61",
+          "snapshot_id": "85a2bb02-ba83-55bd-89a9-a6f2c3296a8d",
+          "language": "ar",
+          "raw_sha256": "ce2d3dfca13ad59e0c61d84a0a8882fda446e046c042d128e1ec0fb6e4be5e1f",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "reference": {
+              "book": 1,
+              "hadith": 1
+            },
+            "arabicnumber": 1,
+            "hadithnumber": 1,
+            "json_pointer": "/hadiths/0",
+            "bibliography_status": "unverified"
+          },
+          "namespace": "fawaz:ara-bukhari",
+          "source_key": "1",
+          "provider": "fawazahmed0",
+          "source_revision": "df57907be35291c91ad6a6691180e22ca9920784",
+          "artifact_sha256": "e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+          "artifact_name": "ara-bukhari.json",
+          "display_sha256": "ce2d3dfca13ad59e0c61d84a0a8882fda446e046c042d128e1ec0fb6e4be5e1f"
+        },
+        {
+          "role": "target_arabic",
+          "ordinal": 0,
+          "id": "dde9774f-ba6e-59c7-a9c9-e44bce84df95",
+          "unit_id": "d5425059-44a2-51aa-831e-8c1d5eb5a904",
+          "snapshot_id": "44d5e772-3b82-585c-a43e-0f0b0aa28a33",
+          "language": "ar",
+          "raw_sha256": "977530d27381f4d45af2bdc028e5df8641ccbcd2d1ef3562309843189bdaf707",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "key": "146_1",
+            "table": "hadith_text",
+            "book_id": "146"
+          },
+          "namespace": "gk45:ar",
+          "source_key": "146_1",
+          "provider": "gk45",
+          "source_revision": "4.5",
+          "artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+          "artifact_name": "jawami.db",
+          "display_sha256": "5d8150966c1caa55c057f47c52c77596f22d7527f07883ec742d227187f26db3"
+        },
+        {
+          "role": "translation",
+          "ordinal": 0,
+          "id": "3dd6a823-d62a-572a-9fea-d4fd3065ad16",
+          "unit_id": "19cf970a-a68d-54bf-9474-67773718373f",
+          "snapshot_id": "1926cf4b-34b6-5be4-b254-98ff7f0ec084",
+          "language": "tr",
+          "raw_sha256": "8e7dcb085baf388d7d4cf638e05892cb266a0f55f826e97bdff082cc0627f4fd",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "reference": {
+              "book": 1,
+              "hadith": 1
+            },
+            "arabicnumber": 1,
+            "hadithnumber": 1,
+            "json_pointer": "/hadiths/0",
+            "bibliography_status": "unverified"
+          },
+          "namespace": "fawaz:tur-bukhari",
+          "source_key": "1",
+          "provider": "fawazahmed0",
+          "source_revision": "df57907be35291c91ad6a6691180e22ca9920784",
+          "artifact_sha256": "b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+          "artifact_name": "tur-bukhari.json",
+          "display_sha256": "8e7dcb085baf388d7d4cf638e05892cb266a0f55f826e97bdff082cc0627f4fd"
+        }
+      ],
+      "reviews": [
+        {
+          "dimension": "arabic_relation",
+          "outcome": "pass",
+          "rationale": "GK Arapça rivayet ile ara-bukhari/1 bütünüyle okundu: Humeydî → Süfyân → Yahyâ b. Saîd → Muhammed b. İbrâhim → Alkame → Ömer senedi ve niyet/hicret metni aynı rivayettir. Numara eşitliği delil sayılmadı; ham kaynaklar ve metin sürümleri ayrı bağlandı.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_1",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_1; sha256=977530d27381f4d45af2bdc028e5df8641ccbcd2d1ef3562309843189bdaf707",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=ce2d3dfca13ad59e0c61d84a0a8882fda446e046c042d128e1ec0fb6e4be5e1f; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=8e7dcb085baf388d7d4cf638e05892cb266a0f55f826e97bdff082cc0627f4fd; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "translation_meaning",
+          "outcome": "pass",
+          "rationale": "Yalnız hadis metninin (matnın) anlamı karşılaştırıldı: amellerin niyetlere göre olması, herkesin niyet ettiği karşılık ve dünya/evlilik amacıyla hicret bölümü Türkçede korunuyor. Bu karar, üst senedin çevrildiği veya metnin tamamının aktarıldığı anlamına gelmez.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_1",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_1; sha256=977530d27381f4d45af2bdc028e5df8641ccbcd2d1ef3562309843189bdaf707",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=ce2d3dfca13ad59e0c61d84a0a8882fda446e046c042d128e1ec0fb6e4be5e1f; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=8e7dcb085baf388d7d4cf638e05892cb266a0f55f826e97bdff082cc0627f4fd; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "translation_completeness",
+          "outcome": "pending",
+          "rationale": "Türkçe kayıt Alkame b. Vakkâs el-Leysî’den başlıyor. Arapçadaki Humeydî, Süfyân, Yahyâ b. Saîd ve Muhammed b. İbrâhim basamakları Türkçede aktarılmamış. Kapsam unclassified olarak korunuyor; sened dâhil tam çeviri tamamlanmadı.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_1",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_1; sha256=977530d27381f4d45af2bdc028e5df8641ccbcd2d1ef3562309843189bdaf707",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=ce2d3dfca13ad59e0c61d84a0a8882fda446e046c042d128e1ec0fb6e4be5e1f; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=8e7dcb085baf388d7d4cf638e05892cb266a0f55f826e97bdff082cc0627f4fd; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "notes_separation",
+          "outcome": "fail",
+          "rationale": "Türkçe kayıtta niyet/hicret sözünün ardından Tekrar ve Diğer Tahric başlıklarıyla numaralar ve kaynak listesi aynı metin alanına karışmış; son Ahmed b. Hanbel, I atfı kesik. Bunlar hadis sözü gibi sunulmamalı. Ham kayıt korundu, ayrıştırılmış bir metin üretildiği iddia edilmedi.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_1",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_1; sha256=977530d27381f4d45af2bdc028e5df8641ccbcd2d1ef3562309843189bdaf707",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=ce2d3dfca13ad59e0c61d84a0a8882fda446e046c042d128e1ec0fb6e4be5e1f; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=8e7dcb085baf388d7d4cf638e05892cb266a0f55f826e97bdff082cc0627f4fd; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "bibliography",
+          "outcome": "pending",
+          "rationale": "Dondurulmuş tur-bukhari.json kaynak kaydı ve sürüm/hash doğrulandı. Kaynak kapsam kaydında çevirmen Unknown, baskı/yayınevi bilgisi yok; Türkçe basılı eserin künyesi henüz doğrulanmadı. Bu aktarım yayımlanmış Türkçe kitapla doğrulanmış sayılmaz.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_1",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_1; sha256=977530d27381f4d45af2bdc028e5df8641ccbcd2d1ef3562309843189bdaf707",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=ce2d3dfca13ad59e0c61d84a0a8882fda446e046c042d128e1ec0fb6e4be5e1f; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/0; hadithnumber=1; raw_sha256=8e7dcb085baf388d7d4cf638e05892cb266a0f55f826e97bdff082cc0627f4fd; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bhid": "146_2",
+      "alignment": {
+        "id": "80e7d2ab-8a1c-5c76-a692-8dcb10782125",
+        "case_id": "33aaf95e-4e66-556c-a1dc-f0417c5afd99",
+        "revision": 1,
+        "scope": "unclassified",
+        "sealed": true,
+        "relation_type": "proposed"
+      },
+      "members": [
+        {
+          "role": "bridge_arabic",
+          "ordinal": 0,
+          "id": "0e6ea2db-d2a6-5d0d-b124-3cc8b7d6a626",
+          "unit_id": "63730249-e037-5827-8400-32ebd4fd0167",
+          "snapshot_id": "85a2bb02-ba83-55bd-89a9-a6f2c3296a8d",
+          "language": "ar",
+          "raw_sha256": "8d7cb3746c1ece6ec0502ea1e4c9b4ee850fe4005fe86a441180d9064240d7d1",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "reference": {
+              "book": 1,
+              "hadith": 2
+            },
+            "arabicnumber": 2,
+            "hadithnumber": 2,
+            "json_pointer": "/hadiths/1",
+            "bibliography_status": "unverified"
+          },
+          "namespace": "fawaz:ara-bukhari",
+          "source_key": "2",
+          "provider": "fawazahmed0",
+          "source_revision": "df57907be35291c91ad6a6691180e22ca9920784",
+          "artifact_sha256": "e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+          "artifact_name": "ara-bukhari.json",
+          "display_sha256": "8d7cb3746c1ece6ec0502ea1e4c9b4ee850fe4005fe86a441180d9064240d7d1"
+        },
+        {
+          "role": "target_arabic",
+          "ordinal": 0,
+          "id": "7f513ba8-eee4-5b31-9794-4ee129b02cf6",
+          "unit_id": "4fb5cd72-cbdb-58e1-9aff-da3754dce78d",
+          "snapshot_id": "44d5e772-3b82-585c-a43e-0f0b0aa28a33",
+          "language": "ar",
+          "raw_sha256": "eb11c3582977bfc18b54e07f9bfbb0e42209480453183582f0f272fc754644c7",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "key": "146_2",
+            "table": "hadith_text",
+            "book_id": "146"
+          },
+          "namespace": "gk45:ar",
+          "source_key": "146_2",
+          "provider": "gk45",
+          "source_revision": "4.5",
+          "artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+          "artifact_name": "jawami.db",
+          "display_sha256": "db31595c3db0f2268754645e486691c6cddd54b693ff818eb016df03b8c16c0f"
+        },
+        {
+          "role": "translation",
+          "ordinal": 0,
+          "id": "4f73824a-cfc6-512e-9dd1-c3411add204d",
+          "unit_id": "ad1a821a-7ec2-555e-93e5-56085e7d524c",
+          "snapshot_id": "1926cf4b-34b6-5be4-b254-98ff7f0ec084",
+          "language": "tr",
+          "raw_sha256": "b38d385bbd1e34c2342fb5359504187be6736cfe8f10c49a42b46c55984b6218",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "reference": {
+              "book": 1,
+              "hadith": 2
+            },
+            "arabicnumber": 2,
+            "hadithnumber": 2,
+            "json_pointer": "/hadiths/1",
+            "bibliography_status": "unverified"
+          },
+          "namespace": "fawaz:tur-bukhari",
+          "source_key": "2",
+          "provider": "fawazahmed0",
+          "source_revision": "df57907be35291c91ad6a6691180e22ca9920784",
+          "artifact_sha256": "b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+          "artifact_name": "tur-bukhari.json",
+          "display_sha256": "b38d385bbd1e34c2342fb5359504187be6736cfe8f10c49a42b46c55984b6218"
+        }
+      ],
+      "reviews": [
+        {
+          "dimension": "arabic_relation",
+          "outcome": "pass",
+          "rationale": "GK Arapça rivayet ile ara-bukhari/2 bütünüyle okundu: Abdullah b. Yûsuf → Mâlik → Hişâm → Urve → Âişe senedi; Hâris b. Hişâm’ın vahyin gelişi sorusu, çan sesi/insan suretinde melek ve soğuk günde terleme bölümleri aynı rivayettir. Salt numara üzerinden bağ kurulmadı.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_2",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_2; sha256=eb11c3582977bfc18b54e07f9bfbb0e42209480453183582f0f272fc754644c7",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=8d7cb3746c1ece6ec0502ea1e4c9b4ee850fe4005fe86a441180d9064240d7d1; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=b38d385bbd1e34c2342fb5359504187be6736cfe8f10c49a42b46c55984b6218; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "translation_meaning",
+          "outcome": "pass",
+          "rationale": "Yalnız matn anlamı karşılaştırıldı: vahyin çan sesine benzer gelişinin ağırlığı, söyleneni kavrama, meleğin insan sureti ve Âişe’nin soğuk günde alın teri gözlemi Türkçede aktarılıyor. Bu karar üst senedi veya çeviri bütünlüğünü onaylamaz.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_2",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_2; sha256=eb11c3582977bfc18b54e07f9bfbb0e42209480453183582f0f272fc754644c7",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=8d7cb3746c1ece6ec0502ea1e4c9b4ee850fe4005fe86a441180d9064240d7d1; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=b38d385bbd1e34c2342fb5359504187be6736cfe8f10c49a42b46c55984b6218; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "translation_completeness",
+          "outcome": "pending",
+          "rationale": "Türkçe kayıt Âişe’den başlıyor; Abdullah b. Yûsuf → Mâlik → Hişâm → Urve üst zinciri Türkçe metinde yok. Sened dâhil tam çeviri ve kapsam incelemesi açık; mevcut unclassified kapsam değiştirilmedi.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_2",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_2; sha256=eb11c3582977bfc18b54e07f9bfbb0e42209480453183582f0f272fc754644c7",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=8d7cb3746c1ece6ec0502ea1e4c9b4ee850fe4005fe86a441180d9064240d7d1; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=b38d385bbd1e34c2342fb5359504187be6736cfe8f10c49a42b46c55984b6218; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "notes_separation",
+          "outcome": "fail",
+          "rationale": "Türkçe metnin sonuna Tekrarı: 3215 ve İZAHI İÇİN BURAYA TIKLA gezinme/açıklama ifadeleri eklenmiş. Bunlar rivayet metni değildir; mevcut ham kaynakta aynı alanda kaldıkları için ayrım başarısız. Kaynak değiştirilmedi.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_2",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_2; sha256=eb11c3582977bfc18b54e07f9bfbb0e42209480453183582f0f272fc754644c7",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=8d7cb3746c1ece6ec0502ea1e4c9b4ee850fe4005fe86a441180d9064240d7d1; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=b38d385bbd1e34c2342fb5359504187be6736cfe8f10c49a42b46c55984b6218; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "bibliography",
+          "outcome": "pending",
+          "rationale": "tur-bukhari.json/2 ve sabit depo sürümüyle kaynak bağı mevcut; çevirmen, yayınevi ve basılı baskı doğrulanmış değil. Unknown künyesi yerine kişi veya kitap tahmin edilmedi.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_2",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_2; sha256=eb11c3582977bfc18b54e07f9bfbb0e42209480453183582f0f272fc754644c7",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=8d7cb3746c1ece6ec0502ea1e4c9b4ee850fe4005fe86a441180d9064240d7d1; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/1; hadithnumber=2; raw_sha256=b38d385bbd1e34c2342fb5359504187be6736cfe8f10c49a42b46c55984b6218; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bhid": "146_5",
+      "alignment": {
+        "id": "dc49c581-1f79-5b79-ada8-b668497d1ac9",
+        "case_id": "e9e6ee31-c6a3-5a54-bfcf-c162da95bbb1",
+        "revision": 1,
+        "scope": "unclassified",
+        "sealed": true,
+        "relation_type": "proposed"
+      },
+      "members": [
+        {
+          "role": "bridge_arabic",
+          "ordinal": 0,
+          "id": "c6d392cd-1938-509c-ba5c-7588653cf30d",
+          "unit_id": "09152efb-ca69-51c4-970a-f7bd0497bd01",
+          "snapshot_id": "85a2bb02-ba83-55bd-89a9-a6f2c3296a8d",
+          "language": "ar",
+          "raw_sha256": "9b5b044ca7ecb37f40c50bfee79c68f630c721d745cdc4265df7f4c0406ac420",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "reference": {
+              "book": 1,
+              "hadith": 6
+            },
+            "arabicnumber": 6,
+            "hadithnumber": 6,
+            "json_pointer": "/hadiths/5",
+            "bibliography_status": "unverified"
+          },
+          "namespace": "fawaz:ara-bukhari",
+          "source_key": "6",
+          "provider": "fawazahmed0",
+          "source_revision": "df57907be35291c91ad6a6691180e22ca9920784",
+          "artifact_sha256": "e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+          "artifact_name": "ara-bukhari.json",
+          "display_sha256": "9b5b044ca7ecb37f40c50bfee79c68f630c721d745cdc4265df7f4c0406ac420"
+        },
+        {
+          "role": "target_arabic",
+          "ordinal": 0,
+          "id": "be527576-f49f-5e83-9dac-ffa5c36f7798",
+          "unit_id": "31f281ee-2d64-5e5e-93be-ed0fc2c1b07b",
+          "snapshot_id": "44d5e772-3b82-585c-a43e-0f0b0aa28a33",
+          "language": "ar",
+          "raw_sha256": "612bd7c20e34f5c6c3981c8b29d1e5f9834f26e11a027ffdb2dc980ff4e2e4af",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "key": "146_5",
+            "table": "hadith_text",
+            "book_id": "146"
+          },
+          "namespace": "gk45:ar",
+          "source_key": "146_5",
+          "provider": "gk45",
+          "source_revision": "4.5",
+          "artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+          "artifact_name": "jawami.db",
+          "display_sha256": "c91c923546ee4963c4e9533be7e48b4df264bfd2cf78470cbe8892956b8d48a1"
+        },
+        {
+          "role": "translation",
+          "ordinal": 0,
+          "id": "739a199e-d266-5eb9-81a5-417b12dba957",
+          "unit_id": "d1679338-a45b-5c4c-ad4e-56fa067c04f6",
+          "snapshot_id": "1926cf4b-34b6-5be4-b254-98ff7f0ec084",
+          "language": "tr",
+          "raw_sha256": "c81553ae0daa43b9dbdbff5d79c3d48aed6025a1e1e823c8ff1ee2efb10a63fb",
+          "derivation_version": "reader-v1",
+          "locator": {
+            "reference": {
+              "book": 1,
+              "hadith": 6
+            },
+            "arabicnumber": 6,
+            "hadithnumber": 6,
+            "json_pointer": "/hadiths/5",
+            "bibliography_status": "unverified"
+          },
+          "namespace": "fawaz:tur-bukhari",
+          "source_key": "6",
+          "provider": "fawazahmed0",
+          "source_revision": "df57907be35291c91ad6a6691180e22ca9920784",
+          "artifact_sha256": "b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+          "artifact_name": "tur-bukhari.json",
+          "display_sha256": "c81553ae0daa43b9dbdbff5d79c3d48aed6025a1e1e823c8ff1ee2efb10a63fb"
+        }
+      ],
+      "reviews": [
+        {
+          "dimension": "arabic_relation",
+          "outcome": "pass",
+          "rationale": "GK 146_5 ile ara-bukhari/6 bütünüyle okundu. Abdân → Abdullah → Yûnus → Zührî kolu ve ح sonrası Bişr b. Muhammed → Abdullah → Yûnus/Ma‘mer → Zührî kolu; Ubeydullah b. Abdullah → İbn Abbas ve cömertlik/Ramazan/Cebrâil/Kur’an metni aynı rivayettir. Kaynak numaraları 5 ve 6 farklıdır; bağ metne dayanır.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_5",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_5; sha256=612bd7c20e34f5c6c3981c8b29d1e5f9834f26e11a027ffdb2dc980ff4e2e4af",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=9b5b044ca7ecb37f40c50bfee79c68f630c721d745cdc4265df7f4c0406ac420; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=c81553ae0daa43b9dbdbff5d79c3d48aed6025a1e1e823c8ff1ee2efb10a63fb; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "translation_meaning",
+          "outcome": "pass",
+          "rationale": "Yalnız matn anlamı karşılaştırıldı: Resûlullah’ın cömertliği, Ramazan’da Cebrâil’le her gece buluşup Kur’an’ı müzakere etmesi ve esen rüzgârdan daha cömert olması Türkçede korunuyor. Üst ve çift sened kolu bu anlam kararının kapsamında değildir.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_5",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_5; sha256=612bd7c20e34f5c6c3981c8b29d1e5f9834f26e11a027ffdb2dc980ff4e2e4af",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=9b5b044ca7ecb37f40c50bfee79c68f630c721d745cdc4265df7f4c0406ac420; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=c81553ae0daa43b9dbdbff5d79c3d48aed6025a1e1e823c8ff1ee2efb10a63fb; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "translation_completeness",
+          "outcome": "pending",
+          "rationale": "Türkçe kayıt İbn Abbas’tan başlıyor; Arapça kaynakta ح ile ayrılan iki üst sened kolu ve Ubeydullah basamağı Türkçe olarak aktarılmamış. Sened dâhil bütünlük tamamlanmadı; unclassified kapsam korunuyor.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_5",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_5; sha256=612bd7c20e34f5c6c3981c8b29d1e5f9834f26e11a027ffdb2dc980ff4e2e4af",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=9b5b044ca7ecb37f40c50bfee79c68f630c721d745cdc4265df7f4c0406ac420; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=c81553ae0daa43b9dbdbff5d79c3d48aed6025a1e1e823c8ff1ee2efb10a63fb; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "notes_separation",
+          "outcome": "pass",
+          "rationale": "Bu Türkçe kaynak kaydı baştan sona okundu; İbn Abbas rivayeti ve cömertlik/Ramazan matnı dışında Tekrar/Tahric/gezinme kuyruğu bulunmuyor. Bu dar karar, eksik senedi veya doğrulanmamış künyeyi onaylamaz.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_5",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_5; sha256=612bd7c20e34f5c6c3981c8b29d1e5f9834f26e11a027ffdb2dc980ff4e2e4af",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=9b5b044ca7ecb37f40c50bfee79c68f630c721d745cdc4265df7f4c0406ac420; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=c81553ae0daa43b9dbdbff5d79c3d48aed6025a1e1e823c8ff1ee2efb10a63fb; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "dimension": "bibliography",
+          "outcome": "pending",
+          "rationale": "Bağlanan Türkçe kaynak tur-bukhari/6; GK numarasıyla eşitlenmedi. Dosya ve depo sürümü belli fakat Türkçe kitabın çevirmeni/baskısı henüz doğrulanmadı; basılı kitap doğrulaması sayılmaz.",
+          "sources": [
+            {
+              "url": "gk45:hadith:146_5",
+              "title": "Cevâmiu’l-Kelim 4.5 — Arapça rivayet ve sened",
+              "locator": "hadith_text.bhid=146_5; sha256=612bd7c20e34f5c6c3981c8b29d1e5f9834f26e11a027ffdb2dc980ff4e2e4af",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — ara-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "ara-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=9b5b044ca7ecb37f40c50bfee79c68f630c721d745cdc4265df7f4c0406ac420; artifact_sha256=e34a3402889ca378871da3c5984b7875c680920e93f1c8738ac7afe502179562",
+              "accessed_on": "2026-11-01"
+            },
+            {
+              "url": "https://github.com/fawazahmed0/hadith-api/tree/df57907be35291c91ad6a6691180e22ca9920784",
+              "title": "Hadith API — tur-bukhari.json kaynak kaydı (çevirmen/baskı doğrulanmadı)",
+              "locator": "tur-bukhari.json/hadiths/5; hadithnumber=6; raw_sha256=c81553ae0daa43b9dbdbff5d79c3d48aed6025a1e1e823c8ff1ee2efb10a63fb; artifact_sha256=b79f407cecbf587bfcb86e5427cec70fc804cdb8da9b555e6f8f92764d3756cb",
+              "accessed_on": "2026-11-01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

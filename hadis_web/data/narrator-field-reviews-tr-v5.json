@@ -1,0 +1,1854 @@
+{
+  "revision": "assistant-person-field-review-v5",
+  "reviewed_on": "2026-11-01",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "Sekiz yeni kişi/73 dolu alan. Dil aktarımı ve tarihsel bilginin teyidi ayrıdır; bir velâ ihtilafı problem_detected kalır. İlk dört dosya, tarihler ve kaynak Arapçası değiştirilmez; uzman onayı değildir.",
+  "sources": {
+    "person6861": {
+      "url": "https://islamansiklopedisi.org.tr/ibnul-musenna",
+      "title": "TDV İslâm Ansiklopedisi: İbnü’l-Müsennâ",
+      "locator": "Ebû Mûsâ/Muhammed–Müsennâ–Ubeyd/Anezî/252 başlığı; Basra, Zemîn ve sika/sebt paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person6879": {
+      "url": "https://islamansiklopedisi.org.tr/bundar-muhammed-b-bessar",
+      "title": "TDV İslâm Ansiklopedisi: Bündâr, Muhammed b. Beşşâr",
+      "locator": "Ebû Bekir/Muhammed–Beşşâr–Osman/Abdî–Basrî/252 başlığı; Bündâr lakabı, Basra ve sika/hadis ezberi paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person4820": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-kilabe-el-cermi",
+      "title": "TDV İslâm Ansiklopedisi: Ebû Kılâbe el-Cermî",
+      "locator": "Abdullah–Zeyd–Amr/Cermî/104 başlığı; Basra, Dâriyyâ’ya yerleşme, sika ve vefat paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person6460": {
+      "url": "https://islamansiklopedisi.org.tr/kuteybe-b-said",
+      "title": "TDV İslâm Ansiklopedisi: Kuteybe b. Saîd",
+      "locator": "Ebû Recâ/Kuteybe–Saîd–Cemîl/Sekafî/240 başlığı; Yahyâ ad varyantı, Bağlân–Belh nisbeleri, velâ ve güvenilirlik paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "person8271": {
+      "url": "https://islamansiklopedisi.org.tr/yahya-b-said-el-kattan",
+      "title": "TDV İslâm Ansiklopedisi: Yahyâ b. Saîd el-Kattân",
+      "locator": "Ebû Saîd/Yahyâ–Saîd–Ferruh/Temîmî–Basrî/198 başlığı; pamuk ticareti, Ahvel, güvenilirlik ve velâ hakkını reddetme paragrafı",
+      "accessed_on": "2026-11-01"
+    },
+    "person5421": {
+      "url": "https://islamansiklopedisi.org.tr/ubeydullah-b-omer-b-hafs",
+      "title": "TDV İslâm Ansiklopedisi: Ubeydullah b. Ömer b. Hafs",
+      "locator": "Ebû Osman/Ubeydullah–Ömer–Hafs–Âsım–Ömer–Hattâb/Kureşî–Adevî–Ömerî başlığı; Medine, sika/sebt ve144/145/147 vefat varyantları",
+      "accessed_on": "2026-11-01"
+    },
+    "person8160": {
+      "url": "https://islamansiklopedisi.org.tr/veki-b-cerrah",
+      "title": "TDV İslâm Ansiklopedisi: Vekî‘ b. Cerrâh",
+      "locator": "Ebû Süfyân/Vekî‘–Cerrâh–Melîh/Ruâsî başlığı; Kûfe, hadis hafızası ve hactan dönüşte Feyd’de vefat paragrafı",
+      "accessed_on": "2026-11-01"
+    },
+    "person4493": {
+      "url": "https://islamansiklopedisi.org.tr/abdurrahman-b-mehdi",
+      "title": "TDV İslâm Ansiklopedisi: Abdurrahman b. Mehdî",
+      "locator": "Ebû Saîd/Abdurrahman–Mehdî–Hassân/Basrî–Anberî/198 başlığı; Lü’lüî, güvenilirlik ve ricâl bilgisi, Basra’da vefat paragrafları",
+      "accessed_on": "2026-11-01"
+    },
+    "sika": {
+      "url": "https://islamansiklopedisi.org.tr/sika",
+      "title": "TDV İslâm Ansiklopedisi: Sika",
+      "locator": "Güvenilirlik ve zabt, sebt/mütkın gibi ravi nitelemeleri; yalnız terim desteği",
+      "accessed_on": "2026-11-01"
+    },
+    "mevali": {
+      "url": "https://islamansiklopedisi.org.tr/mevali",
+      "title": "TDV İslâm Ansiklopedisi: Mevâlî",
+      "locator": "Velâ kavramının farklı anlamları; genel kavram belirli kişide kişisel kölelik/âzat olayını kanıtlamaz",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "people": [
+    {
+      "id": 6861,
+      "expected_record_sha256": "960c50409cc837d1d3e898996e08fb2b5faeddd64c94ef539872c4a98eec3c23",
+      "expected_source": {
+        "id": 6861,
+        "new_id": 38043,
+        "name": "محمد بن المثنى بن عبيد بن قيس بن دينار",
+        "shohra": "محمد بن المثنى العنزي",
+        "badeel": "أبو موسى البصري",
+        "konya": "أبو موسى",
+        "lakab": "الزمن",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "العنزي،البصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 10,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "167",
+        "death_year": "252",
+        "age": 85,
+        "baladekama": "البصرة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1927
+      },
+      "identity_comparison_note": "Baba/dede, künye, Anezî nisbesi ve252 yılı karşılaştırıldı; aynı adı taşıyan başka kişilere aktarılmaz.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "محمد بن المثنى بن عبيد بن قيس بن دينار",
+          "text": "Muhammed b. Müsennâ b. Ubeyd b. Kays b. Dînâr.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe başlık Ubeyd’e kadar destekler; Kays ve Dînâr bölümü Arapça alandan çevriyazıdır."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe başlık Ubeyd’e kadar destekler; Kays ve Dînâr bölümü Arapça alandan çevriyazıdır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "محمد بن المثنى العنزي",
+          "text": "Muhammed b. Müsennâ el-Anezî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو موسى البصري",
+          "text": "Ebû Mûsâ el-Basrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو موسى",
+          "text": "Ebû Mûsâ.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "الزمن",
+          "text": "Zemîn (Türkçe kaynak yazımı; Arapça kaynakta الزمن).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "GK الزمن yazımı korundu. Türkçe biyografi bu lakabı Zemîn biçiminde verir; bu Türkçe ad biçimi kaynak Arapçasını düzeltme iddiası taşımaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. GK الزمن yazımı korundu. Türkçe biyografi bu lakabı Zemîn biçiminde verir; bu Türkçe ad biçimi kaynak Arapçasını düzeltme iddiası taşımaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "العنزي،البصري",
+          "text": "Anezî; Basrî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika (güvenilir); sebt (rivayetinde titiz) — kaynak ravi nitelemeleri.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6861": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    },
+    {
+      "id": 6879,
+      "expected_record_sha256": "e67b20ced62ba9af43d032bb2b4e2cf6496b6dce63ef184812475f4be5cd2335",
+      "expected_source": {
+        "id": 6879,
+        "new_id": 38193,
+        "name": "محمد بن بشار بن عثمان بن داود بن كيسان",
+        "shohra": "محمد بن بشار العبدي",
+        "badeel": "أبو بكر البصري",
+        "konya": "أبو بكر",
+        "lakab": "بندار",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "العبدي،البصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة حافظ",
+        "tabaka": 10,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "167",
+        "death_year": "252",
+        "age": 85,
+        "baladekama": "البصرة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1775
+      },
+      "identity_comparison_note": "Baba/dede, künye, Bündâr lakabı ve252 yılıyla kimlik karşılaştırıldı.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "محمد بن بشار بن عثمان بن داود بن كيسان",
+          "text": "Muhammed b. Beşşâr b. Osman b. Dâvûd b. Keysân.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dâvûd ve Keysân bölümü okunan Türkçe başlıkta yoktur; kaynak Arapçasından çevriyazıdır."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Dâvûd ve Keysân bölümü okunan Türkçe başlıkta yoktur; kaynak Arapçasından çevriyazıdır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "محمد بن بشار العبدي",
+          "text": "Muhammed b. Beşşâr el-Abdî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو بكر البصري",
+          "text": "Ebû Bekir el-Basrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو بكر",
+          "text": "Ebû Bekir.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "بندار",
+          "text": "Bündâr.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "العبدي،البصري",
+          "text": "Abdî; Basrî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة حافظ",
+          "text": "Sika (güvenilir); hadis hâfızı (kaynak ravi nitelemeleri).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Kaynak alanı sika/hâfız olarak aktarılır; Türkçe biyografideki farklı münekkit görüşleri yeni tek bir hükme dönüştürülmez."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Kaynak alanı sika/hâfız olarak aktarılır; Türkçe biyografideki farklı münekkit görüşleri yeni tek bir hükme dönüştürülmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6879": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    },
+    {
+      "id": 4820,
+      "expected_record_sha256": "f6c28b4ef3036ae87a70b7463cd9b835917aa3f91fd056c99ae00d59bc4b089f",
+      "expected_source": {
+        "id": 4820,
+        "new_id": 24545,
+        "name": "عبد الله بن زيد بن عمرو بن ناتل بن مالك بن عبيد",
+        "shohra": "عبد الله بن زيد الجرمي",
+        "badeel": "عبد الله بن زيد بن عامر البصري",
+        "konya": "أبو قلابة ، أبو كلابة",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الجرمي،الأزدي،البصري",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 3,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "104",
+        "age": null,
+        "baladekama": "داريا ، البصرة",
+        "baladwafa": "الشام",
+        "mawaaly": "",
+        "karaba": "ابن أخي أبي المهلب الجرمي",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 328
+      },
+      "identity_comparison_note": "104 yılı, Abdullah–Zeyd, künye ve Cermî nisbesiyle karşılaştırıldı; Rekāşî künyedaşıyla birleştirilmedi.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبد الله بن زيد بن عمرو بن ناتل بن مالك بن عبيد",
+          "text": "Abdullah b. Zeyd b. Amr b. Nâtil b. Mâlik b. Ubeyd.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe başlık Amr’a kadar destekler; Nâtil–Mâlik–Ubeyd devamı Arapça alandan çevriyazıdır."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe başlık Amr’a kadar destekler; Nâtil–Mâlik–Ubeyd devamı Arapça alandan çevriyazıdır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عبد الله بن زيد الجرمي",
+          "text": "Abdullah b. Zeyd el-Cermî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "عبد الله بن زيد بن عامر البصري",
+          "text": "Abdullah b. Zeyd b. Âmir el-Basrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK bu alternatif alanda عامر / Âmir yazar; tam ad alanında عمرو / Amr vardır. TDV başlığı Amr der. İki alan tekleştirilmedi; mevcut alternatif ad okundu."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. GK bu alternatif alanda عامر / Âmir yazar; tam ad alanında عمرو / Amr vardır. TDV başlığı Amr der. İki alan tekleştirilmedi; mevcut alternatif ad okundu. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو قلابة ، أبو كلابة",
+          "text": "Ebû Kılâbe; Ebû Kilâbe (ikinci biçim kaynakta ك harfiyle yazılmıştır).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe biyografide Ebû Kılâbe bulunur. GK’nin ikinci أبو كلابة biçimi ك harfini taşır; bu ek biçim okunan biyografide teyit edilmedi, ayrı gösterildi."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe biyografide Ebû Kılâbe bulunur. GK’nin ikinci أبو كلابة biçimi ك harfini taşır; bu ek biçim okunan biyografide teyit edilmedi, ayrı gösterildi. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الجرمي،الأزدي،البصري",
+          "text": "Cermî; Ezdî; Basrî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Cermî ve Basra bağı desteklenir; Ezdî kısmı bu paragraflarda ayrıca doğrulanmadı."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Cermî ve Basra bağı desteklenir; Ezdî kısmı bu paragraflarda ayrıca doğrulanmadı. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "داريا ، البصرة",
+          "text": "Dâriyyâ; Basra (kaynak sırası).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "الشام",
+          "text": "Şam bölgesi (kaynak kaydı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK geniş Şam bölgesini, Türkçe biyografi Dâriyyâ’yı belirtir. Geniş ve dar yer kayıtları aynı ayrıntı düzeyi sayılmadı; kaynak alanına Dâriyyâ yazılmadı."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. GK geniş Şam bölgesini, Türkçe biyografi Dâriyyâ’yı belirtir. Geniş ve dar yer kayıtları aynı ayrıntı düzeyi sayılmadı; kaynak alanına Dâriyyâ yazılmadı. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "ابن أخي أبي المهلب الجرمي",
+          "text": "Ebû Mühelleb el-Cermî’nin erkek kardeşinin oğlu (kaynağın akrabalık kaydı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4820": {
+              "support_scope": "identity_only",
+              "evidence_note": "Ebû Mühelleb ile bu amcalık ilişkisi okunan Türkçe paragraflarda bulunmadı; akrabanın kimliği başka bir kayda bağlanmadı."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Ebû Mühelleb ile bu amcalık ilişkisi okunan Türkçe paragraflarda bulunmadı; akrabanın kimliği başka bir kayda bağlanmadı. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    },
+    {
+      "id": 6460,
+      "expected_record_sha256": "ac9e3597dabd173827cf0204ea09bba56c682f53355fc53d0af01f4fc16c5d29",
+      "expected_source": {
+        "id": 6460,
+        "new_id": 34206,
+        "name": "قتيبة بن سعيد بن جميل بن طريف بن عبد الله",
+        "shohra": "قتيبة بن سعيد الثقفي",
+        "badeel": "يحيى بن سعيد بن جميل بن طريف البغلاني",
+        "konya": "أبو رجاء",
+        "lakab": "قتيبة",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الثقفي،البلخي،البغلاني",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 10,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "150",
+        "death_year": "240",
+        "age": 90,
+        "baladekama": "بغلان",
+        "baladwafa": "",
+        "mawaaly": "مولى ثقيف",
+        "karaba": "ابن أخي الوسيم بن جميل الثقفي",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1661
+      },
+      "identity_comparison_note": "Baba/dede, künye, Bağlân ve240 yılıyla karşılaştırıldı; diğer Kuteybe b. Saîd kayıtlarına aktarılmaz.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "قتيبة بن سعيد بن جميل بن طريف بن عبد الله",
+          "text": "Kuteybe b. Saîd b. Cemîl b. Tarîf b. Abdullah.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe başlık Cemîl’e kadar destekler; Tarîf ve Abdullah devamı kaynak Arapçasından çevriyazıdır."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe başlık Cemîl’e kadar destekler; Tarîf ve Abdullah devamı kaynak Arapçasından çevriyazıdır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "قتيبة بن سعيد الثقفي",
+          "text": "Kuteybe b. Saîd es-Sekafî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "يحيى بن سعيد بن جميل بن طريف البغلاني",
+          "text": "Yahyâ b. Saîd b. Cemîl b. Tarîf el-Bağlânî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV Yahyâ adını olası bir ad olarak aktarır; bu alanın bütün uzun ad zinciri ve ad varyantı kesin tek ad yapılmadı."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. TDV Yahyâ adını olası bir ad olarak aktarır; bu alanın bütün uzun ad zinciri ve ad varyantı kesin tek ad yapılmadı. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو رجاء",
+          "text": "Ebû Recâ.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "قتيبة",
+          "text": "Kuteybe (kaynak lakap kaydı).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Türkçe biyografi Kuteybe’nin lakap olduğu yönünde bir rivayet bulunduğunu söyler. Yeni kesin ad/lakap kararı verilmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Türkçe biyografi Kuteybe’nin lakap olduğu yönünde bir rivayet bulunduğunu söyler. Yeni kesin ad/lakap kararı verilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الثقفي،البلخي،البغلاني",
+          "text": "Sekafî; Belhî; Bağlânî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika (güvenilir); sebt (rivayetinde titiz) — kaynak ravi nitelemeleri.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe biyografi güvenilirliğini destekler; sebt sözcüğünün burada ayrıca kişi özelinde aynen kullanıldığı ileri sürülmez."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe biyografi güvenilirliğini destekler; sebt sözcüğünün burada ayrıca kişi özelinde aynen kullanıldığı ileri sürülmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "بغلان",
+          "text": "Bağlân.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى ثقيف",
+          "text": "Sakīf’in mevlâsı (kaynak velâ kaydı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Sakīf mevlâlığı desteklenir; bundan kişisel kölelik veya âzat eden bir kişi çıkarılmaz."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Velâ kavramı; tarafları veya kişinin statüsünü tek başına doğrulamaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Sakīf mevlâlığı desteklenir; bundan kişisel kölelik veya âzat eden bir kişi çıkarılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "ابن أخي الوسيم بن جميل الثقفي",
+          "text": "Vesîm b. Cemîl es-Sekafî’nin erkek kardeşinin oğlu (kaynağın akrabalık kaydı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person6460": {
+              "support_scope": "identity_only",
+              "evidence_note": "Vesîm b. Cemîl ile bu amcalık bağı okunan Türkçe paragraflarda bulunmadı; kaynakta verilen ilişki aktarılır."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Vesîm b. Cemîl ile bu amcalık bağı okunan Türkçe paragraflarda bulunmadı; kaynakta verilen ilişki aktarılır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    },
+    {
+      "id": 8271,
+      "expected_record_sha256": "7b42f42f4444bf4512c481af34701d13f7fc05de19d7ac4d6c8d7bd905d8dd1b",
+      "expected_source": {
+        "id": 8271,
+        "new_id": 48292,
+        "name": "يحيى بن سعيد بن فروخ",
+        "shohra": "يحيى بن سعيد القطان",
+        "badeel": "أبو سعيد البصري",
+        "konya": "أبو سعيد",
+        "lakab": "",
+        "san3a": "القطان",
+        "wasf": "الأحول",
+        "mazhab": "",
+        "nasab": "التميمي،البصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة متقن حافظ إمام قدوة",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "120",
+        "death_year": "198",
+        "age": 78,
+        "baladekama": "البصرة",
+        "baladwafa": "",
+        "mawaaly": "مولى بني تميم",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1582
+      },
+      "identity_comparison_note": "Baba/dede, künye, meslek ve198 yılıyla karşılaştırıldı; Medineli Yahyâ b. Saîd el-Ensârî değildir.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "يحيى بن سعيد بن فروخ",
+          "text": "Yahyâ b. Saîd b. Ferruh.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "يحيى بن سعيد القطان",
+          "text": "Yahyâ b. Saîd el-Kattân.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو سعيد البصري",
+          "text": "Ebû Saîd el-Basrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو سعيد",
+          "text": "Ebû Saîd.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "القطان",
+          "text": "Kattân (pamuk ticaretiyle uğraşan).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf",
+          "expected_arabic": "الأحول",
+          "text": "Şaşı (kaynak nitelemesi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "التميمي،البصري",
+          "text": "Temîmî; Basrî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة متقن حافظ إمام قدوة",
+          "text": "Sika (güvenilir); mütkın (rivayetinde sağlam ve titiz); hadis hâfızı; imam; örnek alınan kişi (kaynak ravi nitelemeleri).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV birçok üst düzey nitelemeyi aktarır; mütkın ve kudve dahil GK’nin beş sözcüğü Arapça alandan eksiksiz çevrilir, her sözcük Türkçe biyografide aynen bulunmuş sayılmaz."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. TDV birçok üst düzey nitelemeyi aktarır; mütkın ve kudve dahil GK’nin beş sözcüğü Arapça alandan eksiksiz çevrilir, her sözcük Türkçe biyografide aynen bulunmuş sayılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى بني تميم",
+          "text": "Benî Temîm’in mevlâsı (GK kaydı; kişinin velâ durumuna ilişkin kaynak açıklaması ihtilaflı).",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "person8271": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "GK Benî Temîm mevlâsı yazar. TDV atalarının muhtemel bağını aktarırken Yahyâ’nın kendi üzerinde kimsenin velâ hakkı bulunmadığını söylediğini, yani böyle bir hakkı reddettiğini de belirtir. Atalara ilişkin ihtimal kişinin kesin velâ durumuna çevrilmedi; kaynaklar arasındaki gerilim açık inceleme sorunudur."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Velâ kavramı; tarafları veya kişinin statüsünü tek başına doğrulamaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. GK Benî Temîm mevlâsı yazar. TDV atalarının muhtemel bağını aktarırken Yahyâ’nın kendi üzerinde kimsenin velâ hakkı bulunmadığını söylediğini, yani böyle bir hakkı reddettiğini de belirtir. Atalara ilişkin ihtimal kişinin kesin velâ durumuna çevrilmedi; kaynaklar arasındaki gerilim açık inceleme sorunudur. Kaynak ihtilafı çözülmedi; inceleme sorunu açık kalır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    },
+    {
+      "id": 5421,
+      "expected_record_sha256": "e1679a0d1adef6ff8509b8191cd69db7ec707cddf05bf033406546a905e4f59b",
+      "expected_source": {
+        "id": 5421,
+        "new_id": 27460,
+        "name": "عبيد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب",
+        "shohra": "عبيد الله بن عمر العدوي",
+        "badeel": "أبو عثمان المدني",
+        "konya": "أبو عثمان",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "العدوي،العمري،المدني",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 6,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "143",
+        "age": null,
+        "baladekama": "المدينة",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 701
+      },
+      "identity_comparison_note": "Uzun soy, künye ve Medine bağlamı karşılaştırıldı; Ubeydullah b. Ömer el-Kavârîrî ile birleştirilmedi.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبيد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب",
+          "text": "Ubeydullah b. Ömer b. Hafs b. Âsım b. Ömer b. Hattâb.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عبيد الله بن عمر العدوي",
+          "text": "Ubeydullah b. Ömer el-Adevî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Kimlik soy ve künye ile karşılaştırılır. GK ölüm yılı143 olarak korunur; TDV147 yılını tercih eder ve144/145 alternatiflerini belirtir. Bu farklılık giderilmiş veya143 teyit edilmiş sayılmaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Kimlik soy ve künye ile karşılaştırılır. GK ölüm yılı143 olarak korunur; TDV147 yılını tercih eder ve144/145 alternatiflerini belirtir. Bu farklılık giderilmiş veya143 teyit edilmiş sayılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو عثمان المدني",
+          "text": "Ebû Osman el-Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو عثمان",
+          "text": "Ebû Osman.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "العدوي،العمري،المدني",
+          "text": "Adevî; Ömerî; Medenî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika (güvenilir); sebt (rivayetinde titiz) — kaynak ravi nitelemeleri.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person5421": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    },
+    {
+      "id": 8160,
+      "expected_record_sha256": "8a461706d4ab4da50a5dde4b20cdddbdbc15a56c53db73a8e6bd1cf6a2a107b6",
+      "expected_source": {
+        "id": 8160,
+        "new_id": 47693,
+        "name": "وكيع بن الجراح بن مليح بن عدى بن فرس بن جمجمة بن سفيان بن عمرو بن الحارث بن عمرو",
+        "shohra": "وكيع بن الجراح الرؤاسي",
+        "badeel": "أبو سفيان الكوفي",
+        "konya": "أبو سفيان",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الرؤاسي،الكوفي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة حافظ إمام",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "128",
+        "death_year": "196",
+        "age": 68,
+        "baladekama": "الكوفة",
+        "baladwafa": "فيد",
+        "mawaaly": "",
+        "karaba": "والد عبيد ، والد الجراح ، والد سفيان ، أخو مليح ، جد عبد الرحمن بن سفيان ، أمه بنت عمرة بن شداد بن ثور من رؤاس",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 2421
+      },
+      "identity_comparison_note": "Baba/dede, künye ve Ruâsî nisbesiyle karşılaştırıldı; ölüm yılı farkı kaynak metnine yazılmaz.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "وكيع بن الجراح بن مليح بن عدى بن فرس بن جمجمة بن سفيان بن عمرو بن الحارث بن عمرو",
+          "text": "Vekî‘ b. Cerrâh b. Melîh b. Adî b. Feres b. Cümcüme b. Süfyân b. Amr b. Hâris b. Amr.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe başlık Melîh’e kadar destekler; uzun soyun devamı GK Arapçasından çevriyazıdır."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe başlık Melîh’e kadar destekler; uzun soyun devamı GK Arapçasından çevriyazıdır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "وكيع بن الجراح الرؤاسي",
+          "text": "Vekî‘ b. Cerrâh er-Ruâsî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو سفيان الكوفي",
+          "text": "Ebû Süfyân el-Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو سفيان",
+          "text": "Ebû Süfyân.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الرؤاسي،الكوفي",
+          "text": "Ruâsî; Kûfî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة حافظ إمام",
+          "text": "Sika (güvenilir); hadis hâfızı; imam (kaynak ravi nitelemeleri).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "فيد",
+          "text": "Feyd.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Feyd yeri Türkçe biyografiyle desteklenir; GK yılı196, TDV vefatı197 verir ve196’yı hac yılı olarak anar. Yer desteği yılın da teyidi sayılmaz; iki yıl korunur."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir. Feyd yeri Türkçe biyografiyle desteklenir; GK yılı196, TDV vefatı197 verir ve196’yı hac yılı olarak anar. Yer desteği yılın da teyidi sayılmaz; iki yıl korunur. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد عبيد ، والد الجراح ، والد سفيان ، أخو مليح ، جد عبد الرحمن بن سفيان ، أمه بنت عمرة بن شداد بن ثور من رؤاس",
+          "text": "Ubeyd’in, Cerrâh’ın ve Süfyân’ın babası; Melîh’in kardeşi; Abdurrahman b. Süfyân’ın dedesi; annesi Ruâs’tan Amre b. Şeddâd b. Sevr’in kızıdır (kaynağın akrabalık kaydı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person8160": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe biyografi Ubeyd ve Süfyân’ı oğulları arasında sayar; GK’nin bütün diğer adları, roller ve anne soyu okunan paragraflarda teyit edilmedi. Melîh adlı oğul bulunması, kaynakta kardeş diye verilen aynı kısa adlı kişiyi otomatik tek kimliğe dönüştürmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe biyografi Ubeyd ve Süfyân’ı oğulları arasında sayar; GK’nin bütün diğer adları, roller ve anne soyu okunan paragraflarda teyit edilmedi. Melîh adlı oğul bulunması, kaynakta kardeş diye verilen aynı kısa adlı kişiyi otomatik tek kimliğe dönüştürmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    },
+    {
+      "id": 4493,
+      "expected_record_sha256": "40f6f0fa8680c8e7896895def7090675d3c9f9644329833ce0ef8a101936ca61",
+      "expected_source": {
+        "id": 4493,
+        "new_id": 22455,
+        "name": "عبد الرحمن بن مهدي بن حسان بن عبد الرحمن",
+        "shohra": "عبد الرحمن بن مهدي العنبري",
+        "badeel": "أبو سعيد البصري",
+        "konya": "أبو سعيد",
+        "lakab": "",
+        "san3a": "اللؤلؤي",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "العنبري،الأزدي،البصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت حافظ عارف بالرجال والحديث",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "135",
+        "death_year": "198",
+        "age": 63,
+        "baladekama": "البصرة",
+        "baladwafa": "البصرة",
+        "mawaaly": "مولى الأزد",
+        "karaba": "ابن أخت إبراهيم بن أبي الوزير",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 1346
+      },
+      "identity_comparison_note": "Baba/dede, künye, Basra ve198 yılıyla karşılaştırıldı.",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبد الرحمن بن مهدي بن حسان بن عبد الرحمن",
+          "text": "Abdurrahman b. Mehdî b. Hassân b. Abdurrahman.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe başlık Hassân’a kadar destekler; sondaki Abdurrahman GK Arapçasından çevriyazıdır."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Türkçe başlık Hassân’a kadar destekler; sondaki Abdurrahman GK Arapçasından çevriyazıdır. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عبد الرحمن بن مهدي العنبري",
+          "text": "Abdurrahman b. Mehdî el-Anberî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو سعيد البصري",
+          "text": "Ebû Saîd el-Basrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو سعيد",
+          "text": "Ebû Saîd.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "san3a",
+          "expected_arabic": "اللؤلؤي",
+          "text": "Lü’lüî (inci ticaretiyle uğraşan).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "العنبري،الأزدي،البصري",
+          "text": "Anberî; Ezdî; Basrî (kaynak nisbeleri).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Anberî ve Basrî desteklenir; Ezdî kısmı bu biyografi paragraflarında ayrıca teyit edilmedi."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Anberî ve Basrî desteklenir; Ezdî kısmı bu biyografi paragraflarında ayrıca teyit edilmedi. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت حافظ عارف بالرجال والحديث",
+          "text": "Sika (güvenilir); sebt (rivayetinde titiz); hadis hâfızı; ricâl ve hadis bilgisine vâkıf (kaynak ravi nitelemeleri).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            },
+            "sika": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Yalnız ravi nitelemelerinin anlamı; yeni ravi veya hadis hükmü değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "البصرة",
+          "text": "Basra.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Bu alanın Türkçe bilgi/yazım dayanağı; diğer alanların tam teyidi değildir."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Alan bilgi/yazımı Türkçe kaynakla desteklenir.  Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى الأزد",
+          "text": "Ezd’in mevlâsı (kaynak velâ kaydı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "identity_only",
+              "evidence_note": "Ezd mevlâlığı okunan Türkçe biyografi paragraflarında bulunmadı; Arapça alan aktarılır, kişisel âzat olayı çıkarılmaz."
+            },
+            "mevali": {
+              "support_scope": "terminology_only",
+              "evidence_note": "Velâ kavramı; tarafları veya kişinin statüsünü tek başına doğrulamaz."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. Ezd mevlâlığı okunan Türkçe biyografi paragraflarında bulunmadı; Arapça alan aktarılır, kişisel âzat olayı çıkarılmaz. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "ابن أخت إبراهيم بن أبي الوزير",
+          "text": "İbrâhim b. Ebü’l-Vezîr’in kız kardeşinin oğlu (kaynağın akrabalık kaydı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "person4493": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbrâhim b. Ebü’l-Vezîr ile kız kardeş üzerinden yeğenlik ilişkisi okunan Türkçe paragraflarda bulunmadı; erkek kardeşin oğlu diye değiştirilmez."
+            }
+          },
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Tam Arapça kişi kaydı ve belirtilen Türkçe biyografinin ilgili paragrafları karşılaştırıldı. Tam alan karşılığı okunan Türkçe paragraflarda bulunmadı veya bütünüyle desteklenmedi; kalan aktarım Arapça alandan yapıldı. İbrâhim b. Ebü’l-Vezîr ile kız kardeş üzerinden yeğenlik ilişkisi okunan Türkçe paragraflarda bulunmadı; erkek kardeşin oğlu diye değiştirilmez. Birebir Türkçe kitap alıntısı veya uzman onayı değildir; inceleme kapsamı bu alanın dil aktarımıdır."
+        }
+      ]
+    }
+  ]
+}

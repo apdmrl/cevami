@@ -1,0 +1,289 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibnul-mutemir",
+      "title": "Salih Karacabey — İbnü’l-Mu‘temir, TDV 21 (2000), 143",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Kısa ad/künye/Sülemî-Kûfî/Kûfe/death132; güçlü hafıza, sika, karıştırmama, tedlîs yapmama, güvenilir hocalara titizlik ve zühd bağlamı. Uzun on parçalı soy, Attâb’lı tam alternatif ve iki akrabalık aynı dizilerle verilmez. Şiîlik meyli tarihsel ve aşırılık dışı anlatılır. Yaşlılıkta unutma anlatısı,751meşâyih şartının birebir Türkçesi değildir; bütün16özel münekkit atfı nakledilmiş sayılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/7460/منصور-بن-المعتمر-بن-عبد-الله-بن-ربيعة-السلمي-أبو-عتاب-الكوفي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Mansûr b. Mu‘temir, 28/546–555, nr. 6201",
+      "locator": "Tam harekesiz dijital kişi girişi/hoca-talebe listeleri okundu. Üç soy varyantı, Utbe kuzen/Muhammed Ali anne bir kardeş ilişkileri açık. Ahmed’e Zührî’de Mâlik’ten üstünlük iddiası sorulunca meşâyih şartını söyler; yaşlılık cümlesi değildir.1708A‘meş tutumu Süfyân anlatısı;44sözünü Ebû Zür‘a İbrâhim Mûsâ’dan nakleder. Fiziksel baskı/sayfa tasdiki yapılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/890/منصور-بن-المعتمر",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Mansûr b. Mu‘temir, dijital 5/402–409",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Sayfa etiketleri402–409; TDV kaynakçasındaki402–412ile fiziksel baskı eşitliği tasdik edilmedi. Şiîlik bağlamını sevgi/velâ diye açıklar, aile ve farklı132133ölüm nakilleri ayrıdır. Unutma/pişmanlık anlatısı ile farklı hocalardan rivayet şartı aynı cümle değildir. Bütün şerh/kitaplar veya matbu facsimile okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "ames": {
+      "url": "https://islamansiklopedisi.org.tr/ames",
+      "title": "Mücteba Uğur — A‘meş, TDV 3 (1991), 54",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Süleymân b.Mihrân/A‘meş/Kûfî/148kimliği kısa ad yazımı için karşılaştırıldı. Bu madde başka münekkitlerin bütün Mansûr sözlerini veya yeni hadis/mezhep hükümlerini tasdik etmez; Mansûr’un tedlîs yapmama sözü A‘meş’e taşınmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "ibrahim": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-zura-er-razi",
+      "title": "M. Yaşar Kandemir — Ebû Zür‘a er-Râzî, TDV 10 (1994), 274–275, hayat/seyahat paragrafı",
+      "locator": "Yalnız hayat/seyahat bölümünde Ebû Zür‘a’nın İbrâhim b.Mûsâ el-Ferrâ’dan hadis yazmasını belirten paragraf ve başlık/matbu künye okundu. Kısa Türkçe ad içindir; bütün makale/İbrâhim’in tam uzun soyu veya bütün225kimliği doğrulanmış sayılmadı. Madde sahibi264ölümlü Ebû Zür‘adır; eskiGK466375Ahmed Hüseyin kaydıyla birleştirilmedi.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/mansur-mutemir-critic-records.json",
+      "sha256": "02553105ddfa5ed0c0d4cf087da1ea6c805b369a3d23d16f98d64887e6c3b696"
+    },
+    {
+      "path": "research/arabic-source-checks/mansur-mutemir-related-records.json",
+      "sha256": "19ff1cd7a9629ac312e992554ccd8d3bb332024b8c04a407fb180e9e25f62eee"
+    }
+  ],
+  "revision": "assistant-person-field-review-v26",
+  "policy": "9alanın dil karşılaştırması;TR4tam4kısmi1okunan bölümde bulunamadı; tarihsel soy tasdiki değildir.",
+  "people": [
+    {
+      "id": 7673,
+      "expected_source": {
+        "id": 7673,
+        "new_id": 45393,
+        "name": "منصور بن المعتمر بن عبد الله بن ربيعة بن حريث بن مالك بن رفاعة بن الحارث بن بهثة بن سليم",
+        "shohra": "منصور بن المعتمر السلمي",
+        "badeel": "منصور بن المعتمر بن عتاب بن عبد الله بن ربيعة الكوفي",
+        "konya": "أبو عتاب",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "الشيعة",
+        "nasab": "السلمي،الكوفي",
+        "rotba": 2,
+        "wasf_rotba": "ثقة ثبت",
+        "tabaka": 5,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "132",
+        "age": null,
+        "baladekama": "الكوفة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "ابن عم عتبة بن فرقد ، أخو محمد بن علي السلمي لأمه",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 650
+      },
+      "expected_record_sha256": "45fcb514ba48d3a686a2084f6e75ed1fd0699bf82e9a5e14b3e684547940dc85",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "منصور بن المعتمر بن عبد الله بن ربيعة بن حريث بن مالك بن رفاعة بن الحارث بن بهثة بن سليم",
+          "text": "Mansûr b. Mu‘temir b. Abdullah b. Rebîa b. Hureys b. Mâlik b. Rifâa b. Hâris b. Buhse b. Süleym.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "On ad halkası tam çevriyazıldı; TDV kısa ilk üçlü adı verir, uzun dizinin bütününü aynı satırla nakletmez. Bu GK Arapça kaydının dil aktarımıdır, yeni soy tasdiki değildir."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "On ad halkası tam çevriyazıldı; TDV kısa ilk üçlü adı verir, uzun dizinin bütününü aynı satırla nakletmez. Bu GK Arapça kaydının dil aktarımıdır, yeni soy tasdiki değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "On ad halkası tam çevriyazıldı; TDV kısa ilk üçlü adı verir, uzun dizinin bütününü aynı satırla nakletmez. Bu GK Arapça kaydının dil aktarımıdır, yeni soy tasdiki değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "منصور بن المعتمر السلمي",
+          "text": "Mansûr b. Mu‘temir es-Sülemî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV kısa tanınan ad ve Sülemî nisbesini açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV kısa tanınan ad ve Sülemî nisbesini açık verir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "منصور بن المعتمر بن عتاب بن عبد الله بن ربيعة الكوفي",
+          "text": "Mansûr b. Mu‘temir b. Attâb b. Abdullah b. Rebîa el-Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Beş ad halkalı alternatifteki Attâb korundu; asıl uzun ad dizisiyle tek bir çözülmüş soy yapılmadı. Mizzî bu varyantı açık verir. TDV kısa ad/Kûfî bağlantısını destekler; bütün alternatifin tam Türkçesi değildir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Beş ad halkalı alternatifteki Attâb korundu; asıl uzun ad dizisiyle tek bir çözülmüş soy yapılmadı. Mizzî bu varyantı açık verir. TDV kısa ad/Kûfî bağlantısını destekler; bütün alternatifin tam Türkçesi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Beş ad halkalı alternatifteki Attâb korundu; asıl uzun ad dizisiyle tek bir çözülmüş soy yapılmadı. Mizzî bu varyantı açık verir. TDV kısa ad/Kûfî bağlantısını destekler; bütün alternatifin tam Türkçesi değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو عتاب",
+          "text": "Ebû Attâb.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV künye açık. Attâb adlı yeni çocuk veya aile ilişkisi türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV künye açık. Attâb adlı yeni çocuk veya aile ilişkisi türetilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "mazhab",
+          "expected_arabic": "الشيعة",
+          "text": "Şîa (kaynakta kullanılan aidiyet etiketi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV tarihsel Şiîlik meylini aşırılık dışı olarak anlatır; Siyer sevgi/velâ açıklaması yapar. Ham kısa etiketten günümüz mezhep/siyaset kimliği veya uygulamanın yeni hükmü çıkarılmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV tarihsel Şiîlik meylini aşırılık dışı olarak anlatır; Siyer sevgi/velâ açıklaması yapar. Ham kısa etiketten günümüz mezhep/siyaset kimliği veya uygulamanın yeni hükmü çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV tarihsel Şiîlik meylini aşırılık dışı olarak anlatır; Siyer sevgi/velâ açıklaması yapar. Ham kısa etiketten günümüz mezhep/siyaset kimliği veya uygulamanın yeni hükmü çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "السلمي،الكوفي",
+          "text": "Sülemî; Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV ad satırı iki nisbenin tamamını verir. Yeni kan bağı veya kişi birleştirmesi oluşturulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV ad satırı iki nisbenin tamamını verir. Yeni kan bağı veya kişi birleştirmesi oluşturulmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة ثبت",
+          "text": "Sika, sebt (güvenilir; rivayetinde sağlam).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki teknik terim korunur. TDV güvenilirlik/güçlü hafıza bağlamını destekler; aynı bağımsız iki terimli alanın birebir nakli sayılmadı. Kaynak e5telat0ve doğum/ölüm alanları değişmedi; bu niteleme her rivayette hiç karışıklık olmadığını veya yeni hadis derecesini göstermez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki teknik terim korunur. TDV güvenilirlik/güçlü hafıza bağlamını destekler; aynı bağımsız iki terimli alanın birebir nakli sayılmadı. Kaynak e5telat0ve doğum/ölüm alanları değişmedi; bu niteleme her rivayette hiç karışıklık olmadığını veya yeni hadis derecesini göstermez. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Kûfe’de yaşadığını açık anlatır. Mekke’de görülmesi yeni ikamet alanına eklenmedi; kaynak boş doğum ve132ölümkorunur."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Kûfe’de yaşadığını açık anlatır. Mekke’de görülmesi yeni ikamet alanına eklenmedi; kaynak boş doğum ve132ölümkorunur. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "ابن عم عتبة بن فرقد ، أخو محمد بن علي السلمي لأمه",
+          "text": "Utbe b. Ferkad’ın baba tarafından kuzeni; Muhammed b. Ali es-Sülemî’nin anne bir kardeşi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Her iki ilişki ve anne bir ayrımı çevrildi. Mizzî iki bağı açık verir; kuzenlikten doğrulanmış yeni bir derece veya aile kenarı çıkarılmadı. İncelenen Türkçe maddede bu birleşik akrabalık kaydı bulunmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Her iki ilişki ve anne bir ayrımı çevrildi. Mizzî iki bağı açık verir; kuzenlikten doğrulanmış yeni bir derece veya aile kenarı çıkarılmadı. İncelenen Türkçe maddede bu birleşik akrabalık kaydı bulunmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Her iki ilişki ve anne bir ayrımı çevrildi. Mizzî iki bağı açık verir; kuzenlikten doğrulanmış yeni bir derece veya aile kenarı çıkarılmadı. İncelenen Türkçe maddede bu birleşik akrabalık kaydı bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Her iki ilişki ve anne bir ayrımı çevrildi. Mizzî iki bağı açık verir; kuzenlikten doğrulanmış yeni bir derece veya aile kenarı çıkarılmadı. İncelenen Türkçe maddede bu birleşik akrabalık kaydı bulunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

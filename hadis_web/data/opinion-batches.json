@@ -1,0 +1,27 @@
+{
+  "revision": "assistant-opinions-20261103-v22",
+  "files": [
+    "critic-opinions-tr-v1.json",
+    "opinions-6817-tr-v1.json",
+    "opinions-3443-tr-v1.json",
+    "opinions-chain-rest-tr-v1.json",
+    "opinions-v9-ravis-tr-v1.json",
+    "opinions-companions-tr-v1.json",
+    "opinions-deferred-companions-tr-v1.json",
+    "opinions-high-frequency-tr-v1.json",
+    "opinions-abdullah-yusuf-tr-v1.json",
+    "opinions-yahya-bukayr-tr-v1.json",
+    "opinions-yunus-yazid-tr-v1.json",
+    "opinions-musa-ukayl-tr-v1.json",
+    "opinions-ubeydullah-utba-tr-v1.json",
+    "opinions-musnedi-tr-v1.json",
+    "opinions-ibn-cureyc-tr-v1.json",
+    "opinions-adem-ebu-iyas-tr-v1.json",
+    "opinions-ibrahim-sad-tr-v1.json",
+    "opinions-sakik-seleme-tr-v1.json",
+    "opinions-ebu-nuaym-tr-v1.json",
+    "opinions-mansur-mutemir-tr-v1.json",
+    "opinions-ibrahim-nehai-tr-v1.json",
+    "opinions-ebu-usame-tr-v1.json"
+  ]
+}

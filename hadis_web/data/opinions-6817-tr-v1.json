@@ -1,0 +1,1703 @@
+{
+  "revision": "bukhari-6817-critic-opinions-tr-v1",
+  "reviewed_on": "2026-10-31",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "Arapça kaynak asıldır. Birebir Türkçe kitap alıntısı değildir. Kısmi destek tam çeviri kaynağı sayılmaz. Uzman onayı yoktur. not_found yalnız belirtilen kaynak bölümlerindeki arama sonucudur; Türkçe çevirinin hiçbir yerde bulunmadığı anlamına gelmez.",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/buhari-muhammed-b-ismail#1",
+      "title": "Muhammed Mustafa el-A‘zamî, TDV İslâm Ansiklopedisi: Buhârî, Muhammed b. İsmâil (1992)",
+      "locator": "6/368–372; Şahsiyeti, ilmî otorite ve Nîşâbur’a geliş paragrafları",
+      "accessed_on": "2026-10-31"
+    },
+    "tas": {
+      "url": "https://dergipark.org.tr/en/download/article-file/494110",
+      "title": "Mustafa Taş, Buhârî’nin İlmî Şahsiyeti ve Cerh-Ta‘dîl İlmindeki Yeri, Marife 16/1 (2016), 87–109",
+      "locator": "Basılı s.91–92 ve 105; PDF s.5–6 ve 19",
+      "accessed_on": "2026-10-31"
+    },
+    "asar": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/4034421",
+      "title": "Muhammet Ali Asar, Buhârî ile İlişkisi Bağlamında Muhammed b. Selâm el-Bîkendî’nin Hadis İlmindeki Yeri, Kocatepe İslami İlimler Dergisi 7/2 (2024), 620–647",
+      "locator": "Basılı s.631–632; PDF s.12–13; Buhârî ile İlişkisi bölümü",
+      "accessed_on": "2026-10-31"
+    },
+    "kutluay": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/2401097",
+      "title": "İbrahim Kutluay, İmâmiyye Şîası’nda İlelü’l-Hadîs İlmi ve Zayıf Hadisle Münasebeti, Mîzânü’l-Hak 15 (2022), 1–32",
+      "locator": "Basılı s.13–14; PDF s.13–14; Müslim’in Buhârî’ye hitabı",
+      "accessed_on": "2026-10-31"
+    },
+    "karabacak": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/884833",
+      "title": "Mustafa Karabacak, Tirmizî’nin es-Sünen’i Çerçevesinde Buhârî’nin Kullandığı Hadis Usûlü Terimleri, Mütefekkir 6/12 (2019), 345–378",
+      "locator": "Basılı s.347, dipnot 2; PDF s.3",
+      "accessed_on": "2026-10-31"
+    }
+  },
+  "checked_sources": [
+    "tdv",
+    "tas",
+    "asar",
+    "kutluay",
+    "karabacak"
+  ],
+  "inaccessible_candidates": [
+    {
+      "url": "https://sehitomerhalisdemiriho762348.meb.k12.tr/meb_iys_dosyalar/33/09/762348/dosyalar/2017_05/05193632_sahih-i_buhari_1.pdf?CHK=aa37de2737aab3395ef37d39e2429508",
+      "reason": "Arama sonucunda Türkçe girişten ilgili ifadeler görüldü; tam PDF web aracıyla açılamadı. Yayın künyesi ve sayfalar doğrulanmadı; destek kaynağı sayılmadı."
+    },
+    {
+      "url": "https://15temmuzsehitlerihoo.meb.k12.tr/meb_iys_dosyalar/07/12/762091/dosyalar/2017_11/05133450_sahih-i_buhari_1.pdf?CHK=62a357027fe365cc4815b61dc0de2841",
+      "reason": "Aynı adlı PDF için alternatif resmî okul bağlantısı da açılamadı. Arama kesiti tam çeviriyi doğrulamak için kullanılmadı."
+    }
+  ],
+  "narrators": [
+    {
+      "id": 6817,
+      "expected_opinion_count": 41,
+      "opinions": [
+        {
+          "key": "6817:1011:bcd16ee164f3d236a59fe27f50f5b5fe286ddad2ab9613f411863990568e01d2",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : جبل الحفظ وإمام الدنيا في فقه الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "aa8fc766c5f245924876d34b51e18bd07a18f0f105e12183918678d9634c7fcf",
+          "text": "Takrîb’de şöyle demiştir: Hıfzda bir dağ, hadis fıkhında dünyanın imamıdır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:1260:1e8abd643c0c853d2a1618ca3773db5232dbe32dd94547364c52749fbdc985c7",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1260",
+            "critic": "أحمد بن علي بن ثابت بن أحمد بن مهدي",
+            "opinion": "الإمام في علم الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9ef54ff910e3b69175b011af884042b0389bf49a3dc40c23b6b0fe3923461b7b",
+          "text": "Hadis ilminde imamdır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:1268:0b469e8decc1c4b16e361050de92b7432c1b8a0e2a149b4071e448abcfc55b50",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "الإمام صاحب الصحيح ، وكان إماما حافظا حجة رأسا في الفقه والحديث ، مجتهدا ، من أفراد العلم مع الدين والورع",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "352f1cd1c36c580c7e7f904487f8f6aca7f0efafd6083aa0a52aee07a4822317",
+          "text": "İmamdır, Sahîh’in müellifidir. Hâfız, hüccet, fıkıh ve hadiste önde gelen bir imam ve müctehid idi; dindarlığı ve veraı ile birlikte ilimde eşsiz kimselerdendi.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:1385:4fa4e363452f229db2a8491741981c4d489e05f2445081c5ddb693eec1abc7eb",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1385",
+            "critic": "يوسف بن عبد الرحمن بن يوسف بن علي بن عبد الملك بن علي بن أبي الزهر",
+            "opinion": "الحافظ صاحب الصحيح إمام هذا الشأن والمقتدي به فيه والمعول على كتابه بين أهل الإسلام",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ccc1ae43a4c9215be53dd653968ef461e346ce1b611f72b86b87342129d8f52e",
+          "text": "Hâfızdır, Sahîh’in müellifidir. Bu ilmin imamı, bu alanda kendisine uyulan ve müslümanlar arasında kitabına dayanılan kişidir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:1612:132d2c0cc8b7c1c397322e89c05e38e54b818d4b1e2f5facf468257c2f382033",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1612",
+            "critic": "رجاء بن المرجي بن رافع",
+            "opinion": "فضل محمد بن إسماعيل على العلماء كفضل الرجال على النساء ، هو آية من آيات الله يمشي على ظهر الأرض",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "275fc931e032140ffd6acb054b9dc3f8381203a84264cb32aa9574ff4a34078d",
+          "text": "Muhammed b. İsmâil’in âlimlere üstünlüğü, erkeklerin kadınlara üstünlüğü gibidir. O, yeryüzünde yürüyen, Allah’ın âyetlerinden bir âyettir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Erkek-kadın karşılaştırması ve âyet benzetmesi kaynağın kendi sözüdür; değerlendirme olarak benimsenmedi veya yumuşatılmadı."
+        },
+        {
+          "key": "6817:1762:64d4a271f7994b10857d2434b0a3143e5801f016fae017b5d4e347d64df1cc15",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1762",
+            "critic": "صالح بن محمد بن عمرو بن حبيب بن حسان بن المنذر بن عمار",
+            "opinion": "لما سئل عن محمد بن إسماعيل وأبي زرعة وعبد الله بن عبد الرحمن من أعلمهم بالحديث قال : محمد بن إسماعيل وأبو زرعة أحفظهم وأكثرهم حديثا ، ومرة : ما رأيت خراسانيا أفهم منه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5f5375010a1037674c91fc487d944753cbee249bfc4effe831f6dbaf704351d0",
+          "text": "Muhammed b. İsmâil, Ebû Zür‘a ve Abdullah b. Abdurrahman’dan hangisinin hadisi daha iyi bildiği sorulunca şöyle demiştir: Muhammed b. İsmâil ile Ebû Zür‘a, onların hıfzı en güçlü ve hadis birikimi en çok olanlarıdır. Bir başka defa da: Ondan daha derin kavrayışlı bir Horasanlı görmedim, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:1892:7377b22c8d387174ea979f8c9d26402f78f1fb975aaa28aa07474d99c8dacca3",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1892",
+            "critic": "عبد الغني بن سعيد بن علي بن سعيد بن بشر بن مروان بن عبد العزيز بن مروان",
+            "opinion": "ذكره في مشتبه النسبة ، وقال : ونسبه البخاري",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1899c3b00d3169a158b55807eecaddce70d2eb9c5ddff1a14901c8005700c84e",
+          "text": "Onu Müştebihü’n-nisbe’de anmış ve nisbesinin el-Buhârî olduğunu belirtmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Harekesiz ونسبه البخاري ibaresi nisbe bildirimi olarak çevrildi; ilave bir soy bağı veya kişi kimliği üretilmedi. İbarenin okunuşu uzman incelemesine açıktır."
+        },
+        {
+          "key": "6817:1959:3c42bbccd5593663f2c2969c697663da9fa1da5a0e803c5a28bb4734202dbb3e",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "1959",
+            "critic": "عبد الله بن عبد الرحمن بن الفضل بن بهرام بن عبد الصمد",
+            "opinion": "قد رأيت العلماء بالحرمين والحجاز والشام والعراقين فما رأيت فيهم أجمع من أبي عبد الله محمد بن إسماعيل البخاري",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3411a1d8a5d024f0dccf8c667edb19a5eb731c828b86584a779ff49ce8c7fc07",
+          "text": "Haremeyn, Hicaz, Şam ve iki Irak bölgesindeki âlimleri gördüm; aralarında Ebû Abdullah Muhammed b. İsmâil el-Buhârî’den daha kuşatıcı ilme sahip birini görmedim.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. العراقين ifadesi iki Irak bölgesi olarak korundu; metinde verilmeyen şehir isimleri eklenmedi."
+        },
+        {
+          "key": "6817:2037:640b1c2093702a2ab7f24f1d094f1b246bec466966d33207e3bfafdd9cb139c6",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2037",
+            "critic": "عبد الله بن أحمد بن موسى بن زياد",
+            "opinion": "ما رأيت بعيني شابا أبصر من هذا وأشار بيده إلى محمد بن إسماعيل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ac0bfba78ce9029f4e8dd273b5389c7175f6b9975dceea3871796039def9804d",
+          "text": "Eliyle Muhammed b. İsmâil’i işaret ederek: Gözlerimle bundan daha basiretli bir genç görmedim, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2136:fef6c11fdae39617c9afe41ddd797fbdf1e0ab90dd6f0bd909978f6ebcb220d7",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2136",
+            "critic": "علي بن المديني",
+            "opinion": "كان إذا حدث التفت إليه كأنه يهابه ، ومرة : لم ير مثل نفسه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1255e42a61b7818e3bfb4b53ea75f3160532d1592ccabfb7d1047aea1ade2d27",
+          "text": "Hadis rivayet ettiği zaman, ondan çekinir gibi ona dönerdi. Bir başka defa da: Kendi benzerini görmemiştir, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Benzerini görmeme kısmı mevcut; ilk cümledeki dönüp bakma yok."
+            },
+            "tas": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.91: Yalnız kendi benzerini görmeme kısmı aktarılır."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. İlk cümlenin açıkça yazılmamış özne ve zamir göndergelerine kişi adı eklenmedi; Türkçe biyografideki başka anlatımla yeniden kurulmadı."
+        },
+        {
+          "key": "6817:2141:a58ed9d080d9ee4d6a1ff8b00934677763ab07767306e085c72b7cdbf04da285",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2141",
+            "critic": "علي بن حجر بن إياس بن مقاتل بن مخادش بن مشمرج بن خالد",
+            "opinion": "أخرجت خراسان ثلاثة أبا زرعة الرازي بالري ومحمد بن إسماعيل البخاري ببخارى وعبد الله بن عبد الرحمن بسمرقند ومحمد بن إسماعيل عندي أبصرهم وأعلمهم وأفقههم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d5042c66281df18be161395838e9f7e728d8cc09284285f69e5245415f35fedf",
+          "text": "Horasan üç kişi yetiştirdi: Rey’de Ebû Zür‘a er-Râzî, Buhara’da Muhammed b. İsmâil el-Buhârî ve Semerkant’ta Abdullah b. Abdurrahman. Bence Muhammed b. İsmâil onların en basiretlisi, en bilgili ve en fakih olanıdır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2233:4fd2c38a7850487308f9ebd75ec92730a5f67567a59f63ed40187bff1bf77d58",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2233",
+            "critic": "عمرو بن زرارة",
+            "opinion": "لا تخدعوا عن أبي عبد الله فإنه أفقه منا وأعلم وأبصر",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b89fc1ac0fc6e9666ac9e11b568135f364e718b96808b283a25b9c25e4a49a0e",
+          "text": "Ebû Abdullah hakkında aldanmayın; o bizden daha fakih, daha bilgili ve daha basiretlidir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2238:58c08d2780e8696a0aff6e45231dc62b0f8a6dce6dc67292bdbf2f3b5160afce",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2238",
+            "critic": "عمرو بن علي بن بحر بن كنيز",
+            "opinion": "حديث لا يعرفه محمد بن إسماعيل ليس بحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "de95edc1d6a4d7b83a7c7e4c07b4a7b18b6de74af4cbd0f2a2671bc6e6597543",
+          "text": "Muhammed b. İsmâil’in bilmediği bir hadis, hadis değildir.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Amr b. Ali’ye atfedilen kısa hükmün tamamı aktarılır."
+            },
+            "tas": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.91: Amr b. Ali’nin kısa hükmü bütünüyle aktarılır."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Görüşün bütün bilgi içeriği belirtilen Türkçe kaynakla karşılaştırıldı; metin bağımsız Türkçe anlatımdır, birebir kitap alıntısı değildir. Uzman onayı yoktur."
+        },
+        {
+          "key": "6817:2262:af9e7e49dd065a102f61a096ad20ba2b58690d6edec619f4a950460bcd3fd9c0",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2262",
+            "critic": "فضل بن العباس",
+            "opinion": "سئل عن أبي زرعة ومحمد بن إسماعيل أيهما أحفظ فقال لم أكن التقيت مع محمد بن إسماعيل فاستقبلني ما بين حلوان وبغداد قال فرجعت معه مرحلة قال وجهدت الجهد على أن أجيء بحديث لا يعرفه فما أمكنني قال وأنا أغرب على أبي زرعة عدد شعره",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "24205c6a28c1861f98e1c15d98fa25a1a8496bdbdf276181654944a81cbea81c",
+          "text": "Ebû Zür‘a ile Muhammed b. İsmâil’den hangisinin hıfzının daha güçlü olduğu sorulunca şöyle demiştir: Muhammed b. İsmâil ile daha önce karşılaşmamıştım. Hulvân ile Bağdat arasında karşıma çıktı. Onunla birlikte bir menzil geri döndüm. Bilmediği bir hadis getirmek için bütün gücümle uğraştım, fakat bunu başaramadım. Oysa Ebû Zür‘a’ya saçlarının sayısı kadar bilmediği hadis naklederim.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Bir menzil, mübalağalı saç sayısı ifadesi ve Ebû Zür‘a karşılaştırması korundu; sayısal veri veya yeni kimlik eklenmedi."
+        },
+        {
+          "key": "6817:2269:be51a8a9f3e60f68e100c52c12e958a8cc235589ee4d43caf39fa673b1d07a82",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2269",
+            "critic": "قتيبة بن سعيد بن جميل بن طريف بن عبد الله",
+            "opinion": "شباب خراسان أربعة محمد بن إسماعيل وعبد الله بن عبد الرحمن وزكريا بن يحيى اللؤلؤي والحسن بن شجاع البلخي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "c82c0824bf4c818383134e9d1b56dee5b2065e3b6e54d6783a058066962234ce",
+          "text": "Horasan’ın gençleri dört kişidir: Muhammed b. İsmâil, Abdullah b. Abdurrahman, Zekeriyyâ b. Yahyâ el-Lü’lüî ve Hasan b. Şücâ‘ el-Belhî.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2365:fa9903b7e8b1efe128f395a04c349a37e476e166ef31b104f974ad556f632940",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2365",
+            "critic": "محمد بن إسحاق بن خزيمة بن المغيرة بن صالح بن بكر",
+            "opinion": "ما رأيت تحت أديم السماء أعلم بحديث رسول الله صلى الله عليه وآله وسلم ولا أحفظ له من البخاري",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d91fad3e1e95fffda20dba6f18b7af69c85fc29583583b3967b67c4ae403164a",
+          "text": "Gökkubbenin altında Resûlullah’ın —Allah ona ve ailesine salât ve selâm etsin— hadislerini Buhârî’den daha iyi bilen ve daha iyi ezberleyen birini görmedim.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İbn Huzeyme’nin bilgi ve hıfz hükmü var; Arapça dua formülü aktarılmıyor."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kaynak karşılaştırmanın tamamını destekler; Arapça salât ve selâm duasını aktarmaz. Dua dahil kaydın tamamı Arapça asıldan asistan tarafından çevrildi; tam alan kaynağı olarak kabul edilmedi. Uzman incelemesi bekler; birebir kitap alıntısı değildir."
+        },
+        {
+          "key": "6817:2421:6a0070e045e4751a9140abe1f815e2ca31fd667b064347d3afaf28db9742779b",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2421",
+            "critic": "محمد بن بشار بن عثمان بن داود بن كيسان",
+            "opinion": "حفاظ الدنيا أربعة أبو زرعة بالري ومسلم بن الحجاج بنيسابور وعبد الله بن عبد الرحمن الدارمي بسمرقند ومحمد بن إسماعيل البخاري ببخارى ، و مرة : عبد الله بن عبد الرحمن السمرقندي ومحمد بن إسماعيل البخاري وأبو زرعة عبيد الله بن عبد الكريم الرازي غلماني خرجوا من تحت كرسي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "544e784bc0219a96ec784cc7d6afb3f2250afb7ec6de9ec7a6620bf87f767904",
+          "text": "Dünyanın hadis hâfızları dört kişidir: Rey’de Ebû Zür‘a, Nîşâbur’da Müslim b. Haccâc, Semerkant’ta Abdullah b. Abdurrahman ed-Dârimî ve Buhara’da Muhammed b. İsmâil el-Buhârî. Bir başka defa da: Abdullah b. Abdurrahman es-Semerkandî, Muhammed b. İsmâil el-Buhârî ve Ebû Zür‘a Ubeydullah b. Abdülkerîm er-Râzî, kürsümün altından yetişip çıkan talebelerimdir, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Her iki varyantın farklı kişi listeleri ayrı ayrı korundu. Kürsünün altından çıkma ifadesi talebelik bağlamında çevrildi."
+        },
+        {
+          "key": "6817:2455:4fd2c38a7850487308f9ebd75ec92730a5f67567a59f63ed40187bff1bf77d58",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2455",
+            "critic": "محمد بن رافع بن سابور",
+            "opinion": "لا تخدعوا عن أبي عبد الله فإنه أفقه منا وأعلم وأبصر",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "baeba34cd22f69b4e110bf9a74b293ab4942edb889000d021550fd29f5532721",
+          "text": "Ebû Abdullah hakkında aldanmayın; o bizden daha fakih, daha bilgili ve daha basiretlidir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2468:25f5ed97aa61f6a1391e052eb897c2cfadcc324783ffbfed4158fa8439d3d2c3",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2468",
+            "critic": "محمد بن سلام بن عبيد الله بن سالم",
+            "opinion": "قال لمحمد بن إسماعيل : انظر في كتبي فما وجدت فيها من خطأ فأضرب عليه كي لا أرويه وكان محمد بن سلام كتب عند الأحاديث التي أحكمها محمد بن إسماعيل رضي الفتى وفي الأحاديث الضعيفة لم يرض الفتى فقال له بعض أصحابه من هذا الفتى فقال هو الذي ليس مثله محمد بن إسماعيل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e573978f6a2499be61cfa024ec5052f269afa89f3b29adb23d50cdeab3a3c09b",
+          "text": "Muhammed b. İsmâil’e: Kitaplarımı incele; bulduğun her yanlışın üstünü çiz ki onu rivayet etmeyeyim, demiştir. Muhammed b. Selâm, Muhammed b. İsmâil’in sağlam bulduğu hadislerin yanına “Genç razı oldu”, zayıf hadislerin yanına ise “Genç razı olmadı” yazardı. Arkadaşlarından biri: Bu genç kimdir? diye sorunca: O, benzeri bulunmayan Muhammed b. İsmâil’dir, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitapları tashih ettirme var; notlar ve konuşma yok."
+            },
+            "tas": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.91: Kitap tashihi var; notlar ve konuşma yok."
+            },
+            "asar": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.631: Hataları düzeltme isteği var; kaydın devamı yok."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2515:00a66979931e1152655ce2353ccf86c2d2382b43e5d772167558f85ee80aaca6",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2515",
+            "critic": "محمد بن عبد الله بن نمير",
+            "opinion": "ما رأينا مثله",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "eef51f9ecbe733ef3a6d66f69e6ac01b2f649cbc82799e413d30ed7c6153dbae",
+          "text": "Onun benzerini görmedik.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2618:4453c238171a052208fa2cefdbc63623fea019a04cfa133cff4bf0d555a8ba1e",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2618",
+            "critic": "محمد بن يحيى بن عبد الله بن خالد بن فارس بن ذؤيب",
+            "opinion": "أوصى بالسماع منه لما قدم نيسابور",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "54c3f1d26ad881e6b65b706a549a4457155f65dfc9f956bfe72ec6fd4fb9abff",
+          "text": "Nîşâbur’a geldiğinde ondan hadis dinlenmesini tavsiye etmiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Karşılamayı tavsiye eder; hadis dinleme tavsiyesi açık değil."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2622:960f01a22d9186e159c775028976a1ba658697dd68189370122242f0560477b7",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2622",
+            "critic": "يحيى بن محمد بن صاعد بن كاتب",
+            "opinion": "الكبش النطاح",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "148731650d8f4f3eddbf16959a1b4d7badbd013dc39ba975327ffca62a87e7b1",
+          "text": "Boynuz vuran koçtur (el-kebşü’n-nattâh).",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Koç benzetmesi çevrilerek terim formu korundu; bağlamda verilmeyen başarı veya çatışma hikâyesi eklenmedi."
+        },
+        {
+          "key": "6817:2661:885d0d002304442196ab5327cbd96bc2f4cf76b972fa2a4cfe9ee7fbadea4420",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2661",
+            "critic": "مسلم بن الحجاج بن مسلم",
+            "opinion": "لا يبغضه إلا حاسد وأشهد أن ليس في الدنيا مثله ، ومرة : أستاذ الأستاذين ، وسيد المحدثين ، وطبيب الحديث في علله",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b847f420fd3b41e0bcd8fd1401d05db84182b1ecd79b33bc09d082a4681232a3",
+          "text": "Ondan ancak haset eden biri nefret eder. Dünyada onun benzerinin bulunmadığına şahitlik ederim. Bir başka defa da: Hocaların hocası, muhaddislerin efendisi ve hadislerin illetleri konusunda hadis tabibidir, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Haset ve benzersizlik var; ikinci değerlendirme yok."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.632: İkinci kısımdaki sıfatlar var; ilk hüküm yok."
+            },
+            "kutluay": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.13: İkinci kısımdaki üç sıfat aktarılır; ilk hüküm yok."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2665:5dad39f480b1e2888a0639fab46d4e9087d2fc9ae799922042f4fb8a9e51dc58",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2665",
+            "critic": "مسلمة بن القاسم بن إبراهيم بن عبد الله بن حاتم",
+            "opinion": "ثقة جليل القدر عالم بالحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f9e9eb985e2cd40ef226d05ab9d15f64f7439868b95a1e377f94c769ee290b19",
+          "text": "Sika, değeri yüksek, hadisi bilen bir âlimdir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2733:42ddc14e976441ae0676d6dfeaf5c5aca52589c6167f030d96565122ceed199d",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2733",
+            "critic": "نعيم بن حماد بن معاوية بن الحارث بن همام بن سلمة بن مالك",
+            "opinion": "فقيه هذه الأمة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "bde0c8417695787011b281a168e26bf8900cad25d73a9682b2d9ccb428d0823a",
+          "text": "Bu ümmetin fakihidir.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Nuaym b. Hammâd’ın kısa hükmü bütünüyle aktarılır."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Görüşün bütün bilgi içeriği belirtilen Türkçe kaynakla karşılaştırıldı; metin bağımsız Türkçe anlatımdır, birebir kitap alıntısı değildir. Uzman onayı yoktur."
+        },
+        {
+          "key": "6817:2795:1811f398695ee32fe4fc33cc8c9c5a15042c2c56dd6f449f28951c5b0db1065e",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2795",
+            "critic": "يحيى بن جعفر بن أعين",
+            "opinion": "لو قدرت أن ازيد في عمر محمد بن إسماعيل لفعلت فإن موتي يكون موت رجل واحد وموت محمد بن إسماعيل ذهاب العلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f4152a29474d3a37d1de41c35cc8fe388ac05bf9e5b66eacc430682234268d85",
+          "text": "Muhammed b. İsmâil’in ömrünü uzatabilseydim bunu yapardım. Çünkü benim ölümüm bir kişinin ölümü olur; Muhammed b. İsmâil’in ölümü ise ilmin gitmesi demektir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:2845:42ddc14e976441ae0676d6dfeaf5c5aca52589c6167f030d96565122ceed199d",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "2845",
+            "critic": "يعقوب بن إبراهيم بن كثير بن زيد بن أفلح بن منصور بن مزاحم",
+            "opinion": "فقيه هذه الأمة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "eebab5737306b2c1690bb347f9a5c83c631db73acf9279738a806ad1914505d9",
+          "text": "Bu ümmetin fakihidir.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Ya‘kūb b. İbrâhim’in kısa hükmü bütünüyle aktarılır."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Görüşün bütün bilgi içeriği belirtilen Türkçe kaynakla karşılaştırıldı; metin bağımsız Türkçe anlatımdır, birebir kitap alıntısı değildir. Uzman onayı yoktur."
+        },
+        {
+          "key": "6817:371:e4cc6ef50b733b1734c6fae9912ef42e5b4075e5cd2c5d4b89a130842c2f921c",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "371",
+            "critic": "عبد الله بن محمد بن إبراهيم بن عثمان بن خواستي",
+            "opinion": "ما رأينا مثل محمد بن إسماعيل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "cce0b92d2c1915c1c4a5386e97dff0df8053edbbf2cec504aafecb8efaf2fdc2",
+          "text": "Muhammed b. İsmâil’in benzerini görmedik.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:429:6e139e8f37b5c19e7716ad424979430037c9e50f0f983d2b56e5c40c862dfa51",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "قال : في سنة سبع وأربعين ومائتين يقدم عليكم رجل من أهل خراسان لم يخرج منها أحفظ منه ولا قدم العراق أعلم منه فقدم علينا بعد ذلك محمد بن إسماعيل بأشهر",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "af81612fd6d967f55b1f10b2dce374271372014100cfb99361253e056dbd766f",
+          "text": "Şöyle demiştir: 247 yılında yanınıza Horasanlı bir kişi gelecek; oradan hıfzı ondan daha güçlü biri çıkmamış, Irak’a da ondan daha bilgili biri gelmemiştir. Bundan birkaç ay sonra Muhammed b. İsmâil yanımıza geldi.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. 247 sayısı kaynakta geçtiği gibi bırakıldı; miladî tarih hesaplanmadı ve konuşan için yeni bir kimlik eklenmedi."
+        },
+        {
+          "key": "6817:431:203f324525a4a156d34d2f977f3ca80a3a40de8d88284529bb2d66a0d38809bb",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات ، وقال : كان من خيار الناس ممن جمع وصنف ورحل وحفظ وذاكر وحث عليه ، وكثرت عنايته بالأخبار وحفظه للآثار مع علمه بالتاريخ ومعرفة أيام الناس ، ولزوم الورع الخفى والعبادة الدائمة إلى أن مات رحمه الله",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5668286731b6da5ed69fb87bf6e686a37d8197f29823c66961d13f37ff8b4a2b",
+          "text": "Onu es-Sikât’ta anmış ve şöyle demiştir: İnsanların hayırlılarındandı. Hadisleri derlemiş, eser tasnif etmiş, yolculuk yapmış, ezberlemiş, müzakere etmiş ve buna teşvik etmiştir. Tarih bilgisi ve insanların geçmişteki hâdiselerini bilmesi yanında, haberlerle çok ilgilenir ve âsârı ezberlerdi. Vefatına kadar gösterişten uzak bir veraa ve sürekli ibadete bağlı kaldı. Allah ona rahmet etsin.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:527:b5c0a3ef3b902a39182abaf29546d94a93be690d85b7c38a655f546a660b6073",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "527",
+            "critic": "محمد بن عبد الله بن حمدويه بن نعيم بن الحكم",
+            "opinion": "إمام أهل الحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1bf12e6e50a906366b986910bdae47c464e11d0e6f99cfd3a0675dda09122710",
+          "text": "Hadis ehlinin imamıdır.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:583:08b95b1fad5c243bdee288c9621a59c7e1033414b101398812b6b1886c299326",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "583",
+            "critic": "حسين بن محمد بن أحمد",
+            "opinion": "ما رأيت مثل محمد بن إسماعيل ومسلم الحافظ لم يكن يبلغ محمد بن إسماعيل ورأيت أبا زرعة وأبا حاتم يستمعون إلى محمد بن إسماعيل ، و مرة : كان محمد بن إسماعيل أمة من الأمم وكان أعلم من محمد بن يحيى بكذا وكذا وكان محمد بن إسماعيل دينا فاضلا يحسن كل شيء",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0dee36bfd8b2ac409b1bddbbf39344c4c85468b685f90e407ab10ab977fe83f4",
+          "text": "Muhammed b. İsmâil’in benzerini görmedim. Hâfız Müslim, Muhammed b. İsmâil’in seviyesine ulaşamazdı. Ebû Zür‘a ile Ebû Hâtim’in Muhammed b. İsmâil’i dinlediklerini gördüm. Bir başka defa da: Muhammed b. İsmâil başlı başına bir topluluk gibiydi; Muhammed b. Yahyâ’dan şu kadar şu kadar daha bilgiliydi. Muhammed b. İsmâil dindar, faziletli ve her şeyi iyi bilen biriydi, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. بكذا وكذا ifadesi şu kadar şu kadar olarak korundu; kaynakta bulunmayan ölçü veya sayı üretilmedi. Ümmet benzetmesi topluluk olarak çevrildi."
+        },
+        {
+          "key": "6817:62:1f95a3926cc28bf9a0767745c3fe16fe838c7df1d7c3d47da522d87a7bb50404",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "62",
+            "critic": "عبد الله بن عدي بن عبد الله بن محمد بن مبارك",
+            "opinion": "أقر له الناس بالحفظ وأذعنوا له بالفضل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "3e7c3c137159ce602ace6980a6b0ce0ad7d8e1d40b0ccdc01a589e240e0cf780",
+          "text": "İnsanlar onun hıfzını kabul etmiş ve üstünlüğünü teslim etmişlerdir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:621:0c851376b190a8dfe2e53c7c8d1c49aea215a803f21d3c21569a158abb96b9ad",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "621",
+            "critic": "محمد بن عيسى بن سورة بن موسى بن الضحاك",
+            "opinion": "ولم أر أحدا بالعراق ولا بخراسان في معنى العلل والتاريخ ومعرفة الأسانيد أعلم من محمد بن إسماعيل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "c0bc491f126eaba1d97d57cf96baf1856fdc165c0fd5628850928814875c3744",
+          "text": "Irak’ta da Horasan’da da illetler, tarih ve isnadları bilme konusunda Muhammed b. İsmâil’den daha bilgili birini görmedim.",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "S.105: Konular ve iki bölge var; daha bilgili yerine benzerlik ifadesi kullanılmış."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "S.347 dn.2: İki bölge, üç bilgi alanı ve daha bilgili olmama hükmü mevcut."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "source_supported_rendering",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Görüşün bütün bilgi içeriği belirtilen Türkçe kaynakla karşılaştırıldı; metin bağımsız Türkçe anlatımdır, birebir kitap alıntısı değildir. Uzman onayı yoktur."
+        },
+        {
+          "key": "6817:667:543bed0a6a66812acdde98ddb7ae62c5d7b8ae667af861761116fe0bfa14bb0d",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "667",
+            "critic": "أحمد بن القاسم بن الحارث بن زرارة بن مصعب بن عبد الرحمن بن عوف",
+            "opinion": "محمد بن إسماعيل أفقه عندنا وأبصر من ابن حنبل ، و مرة : لو أدركت مالكا ونظرت إلى وجهه ووجه محمد بن إسماعيل لقلت كلاهما واحدا في الفقه والحديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2d4eb48ba2d59075990329c8c0b5e1ca5291413ddcd9e5ec6dd8c694940e17f8",
+          "text": "Bize göre Muhammed b. İsmâil, İbn Hanbel’den daha fakih ve daha basiretlidir. Bir başka defa da: Mâlik’in zamanına yetişip onun yüzüne ve Muhammed b. İsmâil’in yüzüne baksaydın, fıkıh ve hadiste ikisinin de bir olduğunu söylerdin, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Mâlik ile yüz yüze karşılaştırma ve iki ilim alanı korundu; muhataba kimlik eklenmedi."
+        },
+        {
+          "key": "6817:751:8202fe102e6adf02781dacb3fc1a12bc23159a12ae0fe0d2801ab2e7d3396794",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "انتهى الحفظ إلى أربعة من أهل خراسان أبو زرعة الرازي ومحمد بن إسماعيل البخاري وعبد الله بن عبد الرحمن السمرقندي والحسن بن شجاع البلخي ، و مرة : ما أخرجت خراسان مثل محمد بن إسماعيل",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "be73ba012f94fec97e9c3e26a8a41f16baadd09c5ce6525f7a36c39ef2819a95",
+          "text": "Hıfzın zirvesi Horasanlı dört kişiye ulaşmıştır: Ebû Zür‘a er-Râzî, Muhammed b. İsmâil el-Buhârî, Abdullah b. Abdurrahman es-Semerkandî ve Hasan b. Şücâ‘ el-Belhî. Bir başka defa da: Horasan, Muhammed b. İsmâil’in benzerini yetiştirmemiştir, demiştir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:765:e9997f73c15401246363bdcfa170a7001550208b1d2167fbbb718bdba96d6f1f",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "765",
+            "critic": "أحمد بن سيار بن أيوب بن عبد الرحمن",
+            "opinion": "رحل في الحديث ومهر فيه وأبصر وكان حسن المعرفة حسن الحفظ و كان يتفقه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "06b5b3bdc20699eebe4ec62b664550aecbf79e6aa3eba7a66d299d890f152eb9",
+          "text": "Hadis öğrenmek için yolculuk yapmış, bu alanda maharet ve basiret kazanmıştır. Bilgisi ve hıfzı iyiydi; fıkıh öğrenip derinleşirdi.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:767:a00b627824a85a64a987a911db1c881671321b917c89975683e35864a32951f6",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "ثقة مأمون ، صاحب حديث ، كيس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5959094ed50f96fc2725306c67ca1121ee066d4208a13bc88272dff72c606bdb",
+          "text": "Sika, güvenilir, hadisle uğraşan, akıllı ve anlayışlı bir kimsedir.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:839:cbd9e34f40a141569d859a62e220c5c19d1151c6883324b0160973918b94d603",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "839",
+            "critic": "أحمد بن نصر بن إبراهيم",
+            "opinion": "التقي النقي العالم الذي لم أر مثله محمد بن إسماعيل ، وهو أعلم بالحديث من إسحاق وأحمد وغيرهما بعشرين درجة ، ومن قال فيه شيئا فعليه مني ألف لعنة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "1055e033f40c636b0e41bc65f44f6166192c82d986c6ac19b646689707c92351",
+          "text": "Benzerini görmediğim takvâ sahibi, tertemiz âlim Muhammed b. İsmâil’dir. Hadisi İshak, Ahmed ve başkalarından yirmi derece daha iyi bilir. Onun hakkında söz söyleyene benden bin lanet olsun.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Yirmi derece ve bin lanet ifadeleri kaynakta geçtiği biçimde korundu; İshak ve Ahmed’e kayıtta bulunmayan soyadı eklenmedi."
+        },
+        {
+          "key": "6817:864:bc7f4e289e86d099a310a1f12319114e305ed990271fd754193e3f3e58476f8e",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "864",
+            "critic": "إسحاق بن إبراهيم بن مخلد بن إبراهيم بن مطر",
+            "opinion": "يا معشر أصحاب الحديث انظروا إلى هذا الشاب واكتبوا عنه فإنه لو كان في زمن الحسن بن أبي الحسن لاحتاج إليه الناس لمعرفته بالحديث وفقهه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "45767ca63e529b58d6196cb8778e8f2009c66a53a05cf6bdab02e4c2f280c55d",
+          "text": "Ey hadis ehli! Şu gence bakın ve ondan hadis yazın. Hadis bilgisi ve fıkhı sebebiyle, Hasan b. Ebü’l-Hasan zamanında yaşamış olsaydı insanlar ona ihtiyaç duyardı.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Hadis yazma, Hasan dönemi ve ihtiyaç var; başlangıç hitabı eksik."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz."
+        },
+        {
+          "key": "6817:879:85d028c901502708dc175249a25bc7f16f135b29121e85c591e55b32ed4d6f9e",
+          "expected_source": {
+            "narrator_id": 6817,
+            "alem_id": "879",
+            "critic": "إسماعيل بن عبد الله بن عبد الله بن أويس بن مالك بن أبي عامر",
+            "opinion": "كان إذا انتخب البخاري من كتابه ، نسخ إسماعيل تلك الأحاديث لنفسه وقال هذه أحاديث انتخبها محمد بن إسماعيل من حديثي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "fe67b7bdd4524bae446b3b5be5d8fa992577605dd081b0cf2c6713f810dbf8c1",
+          "text": "Buhârî onun kitabından hadis seçtiğinde İsmâil bu hadisleri kendisi için kopyalar ve: Bunlar Muhammed b. İsmâil’in benim hadislerim arasından seçtiği hadislerdir, derdi.",
+          "status": "needs_review",
+          "source_support": {
+            "tdv": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "tas": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "asar": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "kutluay": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            },
+            "karabacak": {
+              "support_scope": "not_found",
+              "evidence_note": "Bu kaynağın yukarıda belirtilen bölümlerinde bu görüşün Türkçe karşılığı saptanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu görüşün tamamının Türkçe karşılığı incelenen kaynak bölümlerinde doğrulanmadı. Arapça kaynak kaydı esas alınarak asistan tarafından çevrildi; uzman incelemesi bekler. Kısmi destek tam çeviri kaynağı sayılmaz. Kitabın sahibine kayıtta bulunmayan tam isim eklenmedi; İsmâil ve Muhammed b. İsmâil ayrı tutuldu."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#173f35">
+  <meta name="description" content="Hadisleri Türkçe, İngilizce ve Arapça arayın. Arapça asıl metni, çevirileri, kaynakları ve ravi zincirlerini birlikte okuyun.">
+  <title>Cevâmi — Hadis ara</title>
+  <link rel="stylesheet" href="/assets/style.css?v=20261112-request-recovery">
+  <link rel="stylesheet" href="/assets/home.css?v=20261112-request-recovery">
+  <script type="module" src="/assets/home.js?v=20261113-audit-fixes1"></script>
+  <link rel="stylesheet" href="/assets/guide.css?v=20261112-friendly-v3">
+  <script type="module" src="/assets/guide.js?v=20261112-friendly-v3"></script>
+  <link rel="stylesheet" href="/assets/readability.css?v=20261113-audit-fixes3">
+</head>
+<body class="search-home">
+  <header class="home-header">
+    <a class="home-brand" href="/" aria-label="Cevâmi ana sayfa"><span aria-hidden="true">❧</span> cevâmi</a>
+    <a class="research-link" href="/research">Araştırma alanı <span aria-hidden="true">↗</span></a>
+  </header>
+  <main class="home-main" id="home-main">
+    <div class="home-intro"><span class="eyebrow">HADİS KÜTÜPHANESİ</span><h1>Bir sözün izinde.</h1><p>Hadisi bulun. Aslıyla, kaynaklarıyla okuyun.</p><button id="open-guide" class="guide-open" type="button">Kullanım rehberi</button></div>
+    <form id="home-search" role="search" autocomplete="off">
+      <label class="sr-only" for="home-query">Hadis ara</label>
+      <div class="home-searchbar"><span aria-hidden="true">⌕</span><input id="home-query" type="search" dir="auto" maxlength="160" placeholder="Bir kelime, bir ifade veya kayıt kimliği…" role="combobox" aria-autocomplete="list" aria-controls="suggestions" aria-expanded="false" spellcheck="false"><button type="submit" aria-label="Hadis ara">Ara <span aria-hidden="true">↵</span></button></div>
+      <fieldset class="search-languages"><legend class="sr-only">Arama dili</legend><label><input type="radio" name="language" value="auto" checked><span>Tüm diller</span></label><label><input type="radio" name="language" value="tr"><span>Türkçe</span></label><label><input type="radio" name="language" value="en"><span>English</span></label><label><input type="radio" name="language" value="ar"><span lang="ar">العربية</span></label></fieldset>
+      <div id="search-scope" class="search-scope" hidden><label for="search-book">Eser</label><select id="search-book" name="book_id" aria-label="Aranacak eser"><option value="">Tüm eserler</option></select><button id="clear-book" type="button" hidden>Filtreyi kaldır</button></div>
+    </form>
+    <p id="search-status" class="search-status" role="status" aria-live="polite">Türkçe, İngilizce veya Arapça yazmaya başlayın.</p>
+    <div class="home-retry-row"><button id="home-retry" class="secondary-button" type="button" aria-describedby="search-status" hidden>Aramayı yeniden dene</button></div>
+    <section id="suggestion-panel" hidden aria-label="Bulunan kaynak kayıtları"><p class="search-source-note">Sonuçlar kaynak metni kayıtlarıdır; hadis alıntısı, açıklama veya bölüm başlığı içerebilir. Çevirilerin anlam ve kapsam durumu kaynak ayrıntılarında gösterilir.</p><div id="suggestions" role="listbox" aria-label="Kaynak kayıtları"></div><p id="home-page-status" role="status"></p><button id="home-page-retry" class="secondary-button" type="button" aria-describedby="home-page-status" hidden>Bu sayfayı yeniden dene</button><button id="home-more" class="secondary-button" hidden>Daha fazla sonuç</button></section>
+    <div class="search-examples" id="search-examples"><span>Örneğin</span><button type="button" data-query="niyet">niyet</button><button type="button" data-query="mercy" lang="en">mercy</button><button type="button" data-query="إنما الأعمال" lang="ar" dir="rtl">إنما الأعمال</button></div>
+  </main>
+  <footer class="home-footer"><span>Asıl metin · Çeviri · Sened · Râvi</span><p>Ayrıntılı kaynak ve zincir incelemesi için <a href="/research">araştırma alanını</a> ziyaret edin.</p></footer>
+</body>
+</html>

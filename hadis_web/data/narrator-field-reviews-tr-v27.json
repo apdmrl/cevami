@@ -1,0 +1,289 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/nehai",
+      "title": "Şükrü Özen — Nehaî, TDV 32 (2006), 535–538",
+      "locator": "Tam madde gövdesi/kaynakça/matbu künye okundu. Kısa ad/künye/iki nisbe/Kûfe, tek gözün görmemesi, anne ve iki dayı, sika/fıkıh, A‘meş hadis sarrafı ve mürsel kabulündeki Beyhakī sınırı karşılaştırıldı. Ham50/96/46tarihler değiştirilmedi; görme işitme değildir. Uzun adın Kays halkası kısa başlıkta yok; İbn Hibbân akrabalık varyantı ayrı. Bütün özel münekkit sözlerinin tam Türkçesi veya yeni tarihsel hüküm sayılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/283/إبراهيم-بن-يزيد-بن-قيس-بن-الأسود",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, İbrâhim en-Nehaî, dijital 2/234–240, nr. 265",
+      "locator": "Tam harekesiz dijital giriş/hoca-talebe listeleri/eklenen Tirmizî isnadı okundu; son241etiketi sonraki gösterim sınırı. Uzun soy/anne/iki dayı, Âişe işitmesinin sabit olmaması, İclî beş nitelemesi ve A‘meş sarraf sözü açık. Fiziksel baskı/sayfa tasdiki yok; bu kitap GK1385ölüm749ile TDVmüellif742çelişkisini gidermiyor.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/663/إبراهيم-النخعي",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, İbrâhim en-Nehaî, dijital 4/521–529",
+      "locator": "Tam harekesiz kişi girişi okundu. Görme/işitme ve yaş nakilleri farklı raporlar olarak korunur; hepsinden yeni muttasıl sened hükmü çıkarılmadı. A‘meş sarraf sözü/İclî değerlendirmesi karşılaştırıldı; bütün kaynak kitaplar veya fiziksel baskı doğrulanmış sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "tahsil": {
+      "url": "https://islamicbook.ws/hadeth/alum/jama-001.html",
+      "title": "Alâî — Câmi‘u’t-tahsîl, çevrim içi İbrâhim en-Nehaî girişi, nr. 13",
+      "locator": "Yalnız tam13numaralı kişi girişi okundu: çok irsâl/bir grup imamın kabulü/Beyhakī’nin İbn Mes‘ûd sınırı ve ayrı işitme raporları. Çevrim içi yeniden akıtılmış metindir; bütün kitap/faksimile/fiziksel sayfa tasdiki değildir. Önceki tedlîs atfı kaynak cümlesinde anılır; hamGKtadleese0değiştirilmedi.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi_name": {
+      "url": "https://islamansiklopedisi.org.tr/mizzi-yusuf-b-abdurrahman",
+      "title": "M. Yaşar Kandemir — Mizzî, TDV elektronik künye 30 (2020), 220–221",
+      "locator": "Tam madde/kaynakça/başlık/künye okundu; elektronik footer2020olarak gösterilir, başka baskı yılı varsayılmadı. Müellif Yûsuf Abdurrahman Yûsuf/654–742; oğlu Abdurrahman Yûsuf’un ölümü749ayrı kişidir. GK1385ve51027ölüm749sorunu saklanmadı; kısa Mizzî biçiminin desteği tarih çelişkisini çözmez.",
+      "accessed_on": "2026-11-03"
+    },
+    "heysemi": {
+      "url": "https://islamansiklopedisi.org.tr/heysemi",
+      "title": "M. Yaşar Kandemir — Heysemî, TDV 17 (1998), 292–293",
+      "locator": "Tam madde/kaynakça/başlık/künye okundu. Ali Ebû Bekir Süleyman/735–807kimliği kısa ad içindir;974ölümlü Heytemî değildir. Mecma‘u’z-zevâid’deki üç özgün Nehaî cümlesinin yerleri bu maddeden okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "alai": {
+      "url": "https://islamansiklopedisi.org.tr/alai",
+      "title": "Selman Başaran — Alâî, TDV 2 (1989), 331–332",
+      "locator": "Tam madde/kaynakça/başlık/künye okundu. Halîl Keykeldî/Ebû Saîd/694–761ve Câmi‘u’t-tahsîl bağlantısı kısa ad için karşılaştırıldı. GK67919akrabalık dizisi yeni aile ilişkilerine dönüştürülmedi.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-nehai-critic-records.json",
+      "sha256": "49a7e35d14d63e0598b134fa83c6348c82ade1ef11f22ce87d99bbcaedf93142"
+    },
+    {
+      "path": "research/arabic-source-checks/ibrahim-nehai-related-records.json",
+      "sha256": "d8e2e057c0c4253eab11ed8b59f31f8b45532c60eb66944ba81da85e7ad6a8d8"
+    }
+  ],
+  "revision": "assistant-person-field-review-v27",
+  "policy": "9alanın dil karşılaştırması/TR8tam1kısmi; ham tarihler değişmez.",
+  "people": [
+    {
+      "id": 902,
+      "expected_source": {
+        "id": 902,
+        "new_id": 1312,
+        "name": "إبراهيم بن يزيد بن قيس بن الأسود بن عمرو بن ربيعة",
+        "shohra": "إبراهيم النخعي",
+        "badeel": "أبو عمران الكوفي",
+        "konya": "أبو عمران",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "الأعور",
+        "mazhab": "",
+        "nasab": "النخعي،الكوفي",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 5,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "50",
+        "death_year": "96",
+        "age": 46,
+        "baladekama": "الكوفة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "أمه مليكة بنت يزيد أخت الأسود بن يزيد وعبد الرحمن بن يزيد",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 642
+      },
+      "expected_record_sha256": "b32b0dce7fa1672b4c7cedff8a491c7ceb6ac39cc8ed0ba7e22952a39ef9b227",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "إبراهيم بن يزيد بن قيس بن الأسود بن عمرو بن ربيعة",
+          "text": "İbrâhim b. Yezîd b. Kays b. Esved b. Amr b. Rebîa.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Altı ad halkası korunur; kısa TDV başlığında bulunmayan Kays silinmedi. Mizzî uzun diziyi verir; farklı kısa başlıkla tek bir düzeltilmiş soy oluşturulmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Altı ad halkası korunur; kısa TDV başlığında bulunmayan Kays silinmedi. Mizzî uzun diziyi verir; farklı kısa başlıkla tek bir düzeltilmiş soy oluşturulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Altı ad halkası korunur; kısa TDV başlığında bulunmayan Kays silinmedi. Mizzî uzun diziyi verir; farklı kısa başlıkla tek bir düzeltilmiş soy oluşturulmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "إبراهيم النخعي",
+          "text": "İbrâhim en-Nehaî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlık ve gövdede kısa ad açık."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlık ve gövdede kısa ad açık. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو عمران الكوفي",
+          "text": "Ebû İmrân el-Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlıktaki künye ve Kûfî nisbesi karşılaştırıldı; yeni kişi veya çocuk türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlıktaki künye ve Kûfî nisbesi karşılaştırıldı; yeni kişi veya çocuk türetilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو عمران",
+          "text": "Ebû İmrân.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV künye açık; İmrân adlı yeni çocuk ilişkisi eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV künye açık; İmrân adlı yeni çocuk ilişkisi eklenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf",
+          "expected_arabic": "الأعور",
+          "text": "Bir gözü görmeyen.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV küçükken geçirdiği rahatsızlık nedeniyle bir gözünün görmediğini belirtir. الأعور bütünüyle kör olarak çevrilmedi; yeni tıbbî teşhis yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV küçükken geçirdiği rahatsızlık nedeniyle bir gözünün görmediğini belirtir. الأعور bütünüyle kör olarak çevrilmedi; yeni tıbbî teşhis yapılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "النخعي،الكوفي",
+          "text": "Nehaî; Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlıkta iki nisbe açık. Kabile nisbesinden yeni aile kenarı çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlıkta iki nisbe açık. Kabile nisbesinden yeni aile kenarı çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV sika niteliğini açık verir. Kaynak nitelemesinin dil aktarımıdır; bütün hadislerin veya mürsellerin sahih olduğu hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV sika niteliğini açık verir. Kaynak nitelemesinin dil aktarımıdır; bütün hadislerin veya mürsellerin sahih olduğu hükmü değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV hayatın Kûfe bağlamını açık verir; hac seyahati yeni ikamet olarak eklenmedi. Kaynak50/96/46korundu, farklı doğum/yaş nakilleri değiştirme gerekçesi yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV hayatın Kûfe bağlamını açık verir; hac seyahati yeni ikamet olarak eklenmedi. Kaynak50/96/46korundu, farklı doğum/yaş nakilleri değiştirme gerekçesi yapılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "أمه مليكة بنت يزيد أخت الأسود بن يزيد وعبد الرحمن بن يزيد",
+          "text": "Annesi, Esved b. Yezîd ile Abdurrahman b. Yezîd’in kız kardeşi Müleyke bint Yezîd’dir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV anne ve iki dayıyı ayrı bölümlerde açık verir; Mizzî birleşik ifadeyi taşır. İbn Hibbân’daki farklı hala/kız kardeş ilişki nakli not edildi; kesin tarihsel aile grafiği veya yeni ilişki eklenmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV anne ve iki dayıyı ayrı bölümlerde açık verir; Mizzî birleşik ifadeyi taşır. İbn Hibbân’daki farklı hala/kız kardeş ilişki nakli not edildi; kesin tarihsel aile grafiği veya yeni ilişki eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV anne ve iki dayıyı ayrı bölümlerde açık verir; Mizzî birleşik ifadeyi taşır. İbn Hibbân’daki farklı hala/kız kardeş ilişki nakli not edildi; kesin tarihsel aile grafiği veya yeni ilişki eklenmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel kimlik/işitme bağlantısı veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

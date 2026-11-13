@@ -1,0 +1,251 @@
+{
+  "revision": "assistant-person-field-review-v12",
+  "reviewed_on": "2026-11-01",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "policy": "Saîd b. Zeyd10alan:5tam4kısmi1okunanbölümdebulunamadı;9dilkarşılaştırması1açıkcoğrafikapsamsorunu. Kaynakların bütün tarihsel ayrıntıları onaylandığı iddia edilmez.",
+  "sources": {
+    "thesis": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/2A/T0060516.pdf",
+      "title": "Ebûbekir Tatlı — Aşere-i Mübeşşere’den Said b. Zeyd’in Hayâtı ve Rivâyetleri, Marmara Üniversitesi, yüksek lisans tezi, 2008",
+      "locator": "Basılı s.4–5,21–22,36,43 (PDF indeksleri16–17,33–34,48,55). İlgili metin paragrafları okundu; PDF görüntü denetimi ve yerel hashli nüsha yok.",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "people": [
+    {
+      "id": 3331,
+      "expected_record_sha256": "e96c48c32304f4eef2ecd18e91895e8ee48f87515a6870bebc35e0fa358f221c",
+      "expected_source": {
+        "id": 3331,
+        "new_id": 17314,
+        "name": "سعيد بن زيد بن عمرو بن نفيل",
+        "shohra": "سعيد بن زيد القرشي",
+        "badeel": "أبو الأعور العدوي",
+        "konya": "أبو الأعور",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "الأعور",
+        "mazhab": "",
+        "nasab": "القرشي،العدوي،المدني",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "50",
+        "age": null,
+        "baladekama": "المدينة ، الشام",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "والد زيد ، والد أسماء ، ابن عم عمر بن الخطاب بن نفيل ، صهر عمر بن الخطاب علي أخته فاطمة بنت الخطاب",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 55
+      },
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "سعيد بن زيد بن عمرو بن نفيل",
+          "text": "Saîd b. Zeyd b. Amr b. Nüfeyl.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez s.21 kısa ad zincirini bütünüyle içerir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez s.21 kısa ad zincirini bütünüyle içerir. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "سعيد بن زيد القرشي",
+          "text": "Saîd b. Zeyd el-Kureşî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez başlığı ve s.22 Kureşî nisbesi birlikte bu ad biçimini destekler."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez başlığı ve s.22 Kureşî nisbesi birlikte bu ad biçimini destekler. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو الأعور العدوي",
+          "text": "Ebü’l-A‘ver el-Adevî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez s.22 künye ve Adevî nisbesini birlikte verir; künye yeni çocuk veya fiziksel özellik kanıtı sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez s.22 künye ve Adevî nisbesini birlikte verir; künye yeni çocuk veya fiziksel özellik kanıtı sayılmadı. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو الأعور",
+          "text": "Ebü’l-A‘ver.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez s.22 bu künyeyi ve Ebû Sevr alternatifini açıkça verir; GK alanında olmayan Ebû Sevr alternatifi bu alana eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez s.22 bu künyeyi ve Ebû Sevr alternatifini açıkça verir; GK alanında olmayan Ebû Sevr alternatifi bu alana eklenmedi. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "wasf",
+          "expected_arabic": "الأعور",
+          "text": "A‘ver (tek gözü görmeyen; Arapça kaynak sıfatı, fiziksel durum bağımsız teyit edilmedi).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "thesis": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK fiziksel sıfatı dil olarak aktarıldı. Tezin okunan s.5 ve21–22 bölümleri bu fiziksel durumu bağımsız doğrulamaz; künye varlığı fiziksel özellik delili sayılmadı. Okunan bölümlerde bu sıfatın tam Türkçe karşılığı bulunamadı; bütün literatürde yokluk iddiası değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK fiziksel sıfatı dil olarak aktarıldı. Tezin okunan s.5 ve21–22 bölümleri bu fiziksel durumu bağımsız doğrulamaz; künye varlığı fiziksel özellik delili sayılmadı. Okunan bölümlerde bu sıfatın tam Türkçe karşılığı bulunamadı; bütün literatürde yokluk iddiası değildir. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،العدوي،المدني",
+          "text": "Kureşî; Adevî; Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.22 ilk iki nisbe için dayanak; Medenî biçimi okunan paragrafta tam verilmiyor ve GK’den açık asistan aktarımı olarak korunuyor."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.22 ilk iki nisbe için dayanak; Medenî biçimi okunan paragrafta tam verilmiyor ve GK’den açık asistan aktarımı olarak korunuyor. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "صحابي",
+          "text": "Sahâbî (kaynak sınıflaması).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez başlık ve s.4–5 kişiyi sahâbî olarak tanıtır; kaynak sınıflaması aktarılır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez başlık ve s.4–5 kişiyi sahâbî olarak tanıtır; kaynak sınıflaması aktarılır. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة ، الشام",
+          "text": "Medine; Şam bölgesi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.36 Medine’ye hicreti destekler. Okunan paragraf Şam ikametini açıkça doğrulamaz; GK’nin Şam kaydı bölge olarak aktarılır, Dımaşk şehri diye daraltılmaz."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.36 Medine’ye hicreti destekler. Okunan paragraf Şam ikametini açıkça doğrulamaz; GK’nin Şam kaydı bölge olarak aktarılır, Dımaşk şehri diye daraltılmaz. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "المدينة",
+          "text": "Medine (GK’nin yer kaydı; Akīk’ta ölüm / Medine’de defin ayrımı açık).",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.43 Akīk’ta ölüm ve cenazenin Medine’ye nakli/defin ayrımını açık verir. GK genel Medine kaydının şehir mi bölge mi olduğu bu alandan çözülemiyor; ölüm ve defin eşitlenmedi, kaynak yer kaydı değiştirilmedi. Bu açık coğrafi kapsam sorunudur; kesin tarihsel hata hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.43 Akīk’ta ölüm ve cenazenin Medine’ye nakli/defin ayrımını açık verir. GK genel Medine kaydının şehir mi bölge mi olduğu bu alandan çözülemiyor; ölüm ve defin eşitlenmedi, kaynak yer kaydı değiştirilmedi. Bu açık coğrafi kapsam sorunudur; kesin tarihsel hata hükmü değildir. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد زيد ، والد أسماء ، ابن عم عمر بن الخطاب بن نفيل ، صهر عمر بن الخطاب علي أخته فاطمة بنت الخطاب",
+          "text": "Zeyd ve Esmâ’nın babası; Ömer b. Hattâb b. Nüfeyl’in amcazadesi ve onun kız kardeşi Fâtıma bint Hattâb’la evliliği sebebiyle eniştesidir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "thesis": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.5 Ömer’le baba tarafından akrabalığı, Fâtıma’yla evliliği ve çocuk listesindeki Zeyd’i destekler. Esmâ adı okunan listede görünmez; eksik liste tek başına çelişki sayılmadı. GK’deki Esmâ korunur; ابن عم için yeni kuşak/soy ağacı veya öz amcaoğlu derecesi üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.5 Ömer’le baba tarafından akrabalığı, Fâtıma’yla evliliği ve çocuk listesindeki Zeyd’i destekler. Esmâ adı okunan listede görünmez; eksik liste tek başına çelişki sayılmadı. GK’deki Esmâ korunur; ابن عم için yeni kuşak/soy ağacı veya öz amcaoğlu derecesi üretilmedi. Tam GK kaydı ve Arapça alan kişi özelinde okundu. Türkçe, GK alanının asistan aktarımıdır; tezden birebir alıntı veya uzman onayı değildir."
+        }
+      ]
+    }
+  ]
+}

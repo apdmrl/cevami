@@ -1,0 +1,430 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "durmus": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/680592#page=30",
+      "title": "Üzeyir Durmuş — İmâm Buhârî’nin Sahîh’ine Kaynaklık Bakımından İmâm Mâlik’in Muvatta’sı,ÇOMÜİFD14(2019),171–212",
+      "locator": "2.2.7Yahyâ,basılı200/PDF30tam kısa bölüm; İbnHibbân olumlu ve EbûHâtim/Nesâî farklı görüşleri. Tam atıflı15sözün birebir Türkçe çevirisi değildir.",
+      "accessed_on": "2026-11-02"
+    },
+    "hanek": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/4096493#page=3",
+      "title": "İbrahim Hanek — Buhârî’nin Leys b.Sa‘d’dan Yaptığı Ta‘lîklerin Kaynaklarını Analiz,Dergiabant12/2(2024)",
+      "locator": "2.1.1ilkYahyâparagrafı/PDF3: baba/dede, Leys komşuluğu ve çok rivayet. Yalnız ilgili bölüm okundu.",
+      "accessed_on": "2026-11-02"
+    },
+    "sarhi": {
+      "url": "https://www.tadween.sa/documents/researchDatabase/osamkhkvfw.pdf#page=157",
+      "title": "Muhammed Fevzî Hasan es-Serhî — رجال صحيح مسلم الذين تكلم فيهم أبو حاتم الرازي...,Gazze,YL2010",
+      "locator": "Yahyâ bölümü basılı155–158/PDF156–159metni; kapak/PDF157(basılı156)/PDF158(basılı157)görüntüleri de kontrol edildi. Dârekutnî sözü ekلاolmadan156/13dipnot; Buhârîأتقيه+في التاريخ157/6–7dipnot. Şahit tezdir; asıl Suâlât/Hedy baskıları doğrudan denetlenmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnkani": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-kani",
+      "title": "Halil İbrahim Kutlay — İbnKāni‘,TDV20(1999),104–105",
+      "locator": "Başlık/ilgili ilk hayat/footer: Ebü’l-Hüseyn Abdülbâkī b.Kāni‘ b.Merzûk/351. Yalnız kısa ad biçimi, bütün uzun soy veya Yahyâ hakkındaki söz tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "revision": "yahya-bukayr-opinions-tr-v1",
+  "policy": "15kök13dilkarşılaştırması2açıkkaynakokumasorunu;10kısmiTR5bulunamadı. İki okuma ikinci Arapça şahide bağlıdır, asıl atıf baskıları kapanmadı.",
+  "review_artifacts": [
+    {
+      "path": "references/arabic/academic/sarhi-2010-muslim-abu-hatim.pdf",
+      "sha256": "1bae96a881b548b90cf605354144700e12ec682744df31f5f829acc82197c975"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 8297,
+      "expected_opinion_count": 15,
+      "opinions": [
+        {
+          "key": "8297:1011:ae1225daea7da08ed097c042274c4e0cd7a6ddae6c8a9d428385638103552629",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "ثقة في الليث وتكلموا في سماعه من مالك",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f4cac2c3d4f754d7cb1353594580f9a2b53e0f8d03de16fff074e17208cb833b",
+          "text": "Leys’ten rivayetlerinde sikadır; Mâlik’ten semâı hakkında tenkitler yapılmıştır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "hanek": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Leys rivayetleri/Mâlik ilişkisi kısa Türkçe bölümlerde var; bu teknik atıflı sözün bütünü verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Leys rivayetleri/Mâlik ilişkisi kısa Türkçe bölümlerde var; bu teknik atıflı sözün bütünü verilmez. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:1125:c6e745ea0fd6af51f9c36347fd1bda422fa9d882ce358341681f0d212a55d8d5",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "1125",
+            "critic": "محمد بن إسماعيل بن إبراهيم بن المغيرة بن بذدزبة",
+            "opinion": "ما روى عن أهل الحجاز فإني أنقيه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "bfb6ea4c5475a4002b886fc5563e6515568f440998d551faba2419e5c3bfd738",
+          "text": "Onun Hicazlılardan yaptığı rivayetlere ihtiyatla yaklaşırım [ikinci şahitte في التاريخ kaydı da vardır; kapsamı kesinleştirilmedi].",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "GKأنقيهbiçimindedir ve في التاريخkaydı yoktur. Serhî basılı157/PDF158görüntüsünde أتقيهve في التاريخokunur. Fi’t-târîh kaydının eser atfı mı konu kapsamı mı olduğu kesinleştirilmedi; tarih türündeki rivayetler diye daraltılmadı. Asıl Hedyü’s-sârî/Fethü’l-bârî baskıları doğrudan denetlenmedi, varyant sorunu açık kalır; bütün Hicaz hadislerine yeni ret hükmü değildir."
+            },
+            "sarhi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GKأنقيهbiçimindedir ve في التاريخkaydı yoktur. Serhî basılı157/PDF158görüntüsünde أتقيهve في التاريخokunur. Fi’t-târîh kaydının eser atfı mı konu kapsamı mı olduğu kesinleştirilmedi; tarih türündeki rivayetler diye daraltılmadı. Asıl Hedyü’s-sârî/Fethü’l-bârî baskıları doğrudan denetlenmedi, varyant sorunu açık kalır; bütün Hicaz hadislerine yeni ret hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_source_corrected_rendering",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GKأنقيهbiçimindedir ve في التاريخkaydı yoktur. Serhî basılı157/PDF158görüntüsünde أتقيهve في التاريخokunur. Fi’t-târîh kaydının eser atfı mı konu kapsamı mı olduğu kesinleştirilmedi; tarih türündeki rivayetler diye daraltılmadı. Asıl Hedyü’s-sârî/Fethü’l-bârî baskıları doğrudan denetlenmedi, varyant sorunu açık kalır; bütün Hicaz hadislerine yeni ret hükmü değildir. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:1264:fc4626d98be7f07e5dfbb32144f9dc263cf20b7a65abc5b8585b50880d84a012",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "1264",
+            "critic": "علي بن عمر بن أحمد بن مهدي بن مسعود بن النعمان بن دينار بن عبد الله",
+            "opinion": "قال في سؤالات أبي عبد الله بن بكير البغدادي : ما عندي به لا بأس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "167d66c1323c385d337029abf618f14e473ba9451226bdcd36754b24797480df",
+          "text": "GK’nin atfı, Ebû Abdullah b. Bükeyr el-Bağdâdî’nin Suâlât’ına yöneliktir. İkinci Arapça şahidin okumasıyla: Benim nezdimde onun hakkında bir sakınca yoktur.",
+          "rendering_kind": "translation",
+          "status": "problem_detected",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "GKما عندي به لا بأسbiçiminde ekلاiçerir. Serhî basılı156/PDF157görüntüsünde ما عندي به بأسokunur.13dipnot Zehebî’nin Zikrüesmâ197/374veDîvân1/435/4655kayıtlarına gider. Asıl GK’nin adlandırdığı Suâlât neşri doğrudan okunmadı; eser atfı yalnız GK’den aktarılır, Türkçe değerlendirme ikinci şahide dayanır ve kaynak sorunu kapanmadı."
+            },
+            "sarhi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "GKما عندي به لا بأسbiçiminde ekلاiçerir. Serhî basılı156/PDF157görüntüsünde ما عندي به بأسokunur.13dipnot Zehebî’nin Zikrüesmâ197/374veDîvân1/435/4655kayıtlarına gider. Asıl GK’nin adlandırdığı Suâlât neşri doğrudan okunmadı; eser atfı yalnız GK’den aktarılır, Türkçe değerlendirme ikinci şahide dayanır ve kaynak sorunu kapanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_source_corrected_rendering",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GKما عندي به لا بأسbiçiminde ekلاiçerir. Serhî basılı156/PDF157görüntüsünde ما عندي به بأسokunur.13dipnot Zehebî’nin Zikrüesmâ197/374veDîvân1/435/4655kayıtlarına gider. Asıl GK’nin adlandırdığı Suâlât neşri doğrudan okunmadı; eser atfı yalnız GK’den aktarılır, Türkçe değerlendirme ikinci şahide dayanır ve kaynak sorunu kapanmadı. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:1268:a2d7f1b78e98fc81fb0c1fba91bd4d24460d7e14cbcb49db0f257c754311c026",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "كان غزير العلم ، عارفا بالحديث وأيام الناس ، بصيرا بالفتوي ، صادقا في دينه ، تعنت فيه أبو حاتم ، وما أدري ما لاح للنسائي منه حتى ضعفه احتج به البخاري ومسلم",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "7a6f2daf4d378bbb8d8ca5b9ee1af1fac745084db21a7d1a590cbc35b294582e",
+          "text": "İlmi genişti; hadisi ve insanların tarihini bilen, fetvaya vâkıf, dininde doğru bir kimseydi. Ebû Hâtim onun hakkında katı davrandı. Nesâî’nin onda ne gördüğünü de bilmiyorum ki onu zayıf saydı. Buhârî ve Müslim onun rivayetleriyle ihticâc etti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe kaynak karşıt değerlendirmeleri kaydeder; Zehebî’nin burada itiraz eden tam sözü birebir Türkçe alıntı değildir. Tenkitçiye itiraz Zehebî’nin görüşüdür, uygulamanın yeni hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kaynak karşıt değerlendirmeleri kaydeder; Zehebî’nin burada itiraz eden tam sözü birebir Türkçe alıntı değildir. Tenkitçiye itiraz Zehebî’nin görüşüdür, uygulamanın yeni hükmü değildir. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:1627:66ff602db5b53e6a840d4b82f0bea888d498004e275312c69691c1a1c28f4991",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "1627",
+            "critic": "زكريا بن يحيى بن خلاد",
+            "opinion": "صدوق روى عن الليث فأكثر",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "2cb827e30e529ba29c493acadf2fa19b738432570b16549759c3d1913ebdecdf",
+          "text": "Sadûktur; Leys’ten çokça rivayette bulunmuştur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "hanek": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Leys rivayetlerinin çokluğu Türkçe bağlamda var.1627literal münekkit adı ayrı açık kimlik sorunu taşır; Sâcî diye yeniden adlandırılmadı. Bu, GK’de atfedilen sözün dil aktarımıdır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Leys rivayetlerinin çokluğu Türkçe bağlamda var.1627literal münekkit adı ayrı açık kimlik sorunu taşır; Sâcî diye yeniden adlandırılmadı. Bu, GK’de atfedilen sözün dil aktarımıdır. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:1796:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "1796",
+            "critic": "عبد الباقي بن قانع بن مرزوق بن واثق",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8d704c6da0b7e27deaf53c6a02cb623e8fddf75164bfe734a96d944a3f9b0eaf",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe paragrafta genel güvenilirlik değerlendirmesi var; İbnKāni‘in bu özel atıflı sözü orada verilmez. Kısa ad teyidi sözün bağımsız teyidi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe paragrafta genel güvenilirlik değerlendirmesi var; İbnKāni‘in bu özel atıflı sözü orada verilmez. Kısa ad teyidi sözün bağımsız teyidi değildir. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:239:d6fef368d100ded60644d3d3e55bc8e52b9fcc7c0d4a6dc4f4fae64205f5b191",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "239",
+            "critic": "عبد الرحمن بن علي بن محمد بن علي بن عبيد الله بن عبد الله بن حمادي بن أحمد بن محمد بن جعفر بن عبد الله بن القاسم بن النضر بن القاسم بن محمد بن عبد الله بن عبد الرحمن بن القاسم بن محمد بن أبي بكر الصديق",
+            "opinion": "ذكره في الضعفاء والمتروكين",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e007a9803fb81f16366643cdc7ed852a7b812092f3b8724a0dcbae45010839e4",
+          "text": "Onu ed-Duafâ ve’l-metrûkîn’de zikretti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "İbnü’l-Cevzî’nin bu özel kitap kaydı okunan Türkçe bölümde yoktur; başka münekkidin aynı adlı kitabı bu kayıtla eşitlenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İbnü’l-Cevzî’nin bu özel kitap kaydı okunan Türkçe bölümde yoktur; başka münekkidin aynı adlı kitabı bu kayıtla eşitlenmedi. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:2665:e77dcf366596bb4eab9d4462a682ce0ebf2ade13a6468c0cbe0ceec8fff61c21",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "2665",
+            "critic": "مسلمة بن القاسم بن إبراهيم بن عبد الله بن حاتم",
+            "opinion": "تكلم فيه لأن سماعه من مالك إنما كان بعرض حبيب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f5be9530ef0e2f4d01bfdeba8da61b3b54b04a7bc4010347367ace742becfa38",
+          "text": "Mâlik’ten semâı yalnız Habîb’in arzı (Mâlik’e okuduğunun dinlenmesi) yoluyla gerçekleştiği için hakkında tenkit edilmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Okunan Türkçe bölüm bu tam sebep/atıf cümlesini vermez. Arz, Yahyâ’nın bizzat Mâlik’e okuması diye değiştirilmedi; tenkidin doğruluğu hakkında yeni hüküm verilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Okunan Türkçe bölüm bu tam sebep/atıf cümlesini vermez. Arz, Yahyâ’nın bizzat Mâlik’e okuması diye değiştirilmedi; tenkidin doğruluğu hakkında yeni hüküm verilmedi. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:2671:6711d135497e40502d3ab8f49343c9eb97bca85e8e6925b314845e717f789244",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "2671",
+            "critic": "مصنفوا تحرير تقريب التهذيب",
+            "opinion": "ثقة ، وثقه غير واحد ، وقد احتج به الشيخان",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "8e7cf4d25d3a212c4761abab9577883b41e2933325685845e56e99e3e634a9db",
+          "text": "Sikadır; birden fazla âlim onu güvenilir saymıştır. Buhârî ve Müslim onun rivayetleriyle ihticâc etmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Türkçe kısa kaynak tüm bu atıflı sözü vermez.2671Tahrîr müellifleri ortak etiketidir, tek insan yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Türkçe kısa kaynak tüm bu atıflı sözü vermez.2671Tahrîr müellifleri ortak etiketidir, tek insan yapılmadı. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:2821:8851a8daad155c663819b3208421034477e4f876bec76507e1c7373d2292d60e",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "ليس بشيء وفي رواية ابن محرز ، قال : لا يحسن يقرأ حديث ابن وهب ؟ فكيف يقرأ الموطأ ، ومرة قال في سؤالات عثمان بن طالوت البصري : قال أبو مسهر : ثقة ، صحيح الحديث عن الليث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "028649de8a63aa59d4ea44860399a2df709285647beadcc30dc09288c24e83d9",
+          "text": "Bir şey sayılmaz. İbn Muhriz rivayetinde: İbn Vehb’in hadisini güzel okuyamıyor; Muvatta’yı nasıl okusun? Başka bir nakilde, Osman b. Talût el-Basrî’nin Suâlât’ında: Ebû Müshir şöyle dedi: Sikadır; Leys’ten rivayet ettiği hadisler sahihtir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Leys/Muvatta bağlamı desteklenir; tam Maîn nakilleri Türkçe paragrafta yoktur. Ayrı olumsuz sözler, soru ve EbûMüshir’e bağlı Leys’e özel olumlu söz birlikte korundu; son söz doğrudan Maîn’in yeni hükmü yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Leys/Muvatta bağlamı desteklenir; tam Maîn nakilleri Türkçe paragrafta yoktur. Ayrı olumsuz sözler, soru ve EbûMüshir’e bağlı Leys’e özel olumlu söz birlikte korundu; son söz doğrudan Maîn’in yeni hükmü yapılmadı. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:429:32a9ffcb3e2bce4c69197b622a47de9c4dbfc2c317fd4f4a37596fe308cdaee7",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "يكتب حديثه ولا يحتج به وكان يفهم هذا الشأن",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "23c09a09c161d781c1d01c0a91a889d6073f45dd95ca531695beb236b0e99049",
+          "text": "Hadisi yazılır, fakat onunla ihticâc edilmez; hadis işini anlardı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "EbûHâtim’in bu teknik iki aşamalı lafzı kısa Türkçe bölümde tam verilmez. Yazılabilir olma, delil sayılma diye çevrilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "EbûHâtim’in bu teknik iki aşamalı lafzı kısa Türkçe bölümde tam verilmez. Yazılabilir olma, delil sayılma diye çevrilmedi. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:431:357a5e596d4afdb69d0289def5adc789d69e95b73e659320b2368d3f7079f88a",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9241e39193b3a5a456e75d982fdddf1dfac9cb007ec66b44e9bd1705e818adb7",
+          "text": "Onu es-Sikât’ta zikretti.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Durmuş İbnHibbân’ın sika raviler arasında saydığını verir; kitap satırı birebir Türkçe alıntı değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Durmuş İbnHibbân’ın sika raviler arasında saydığını verir; kitap satırı birebir Türkçe alıntı değildir. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:62:193add69f388aecf05c8358fe799c69425f95318779ff6b7081ba18cab8d7acb",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "62",
+            "critic": "عبد الله بن عدي بن عبد الله بن محمد بن مبارك",
+            "opinion": "أثبت الناس في الليث بن سعد وعنده عنه ما ليس عند أحد",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b0a2cda543a558c0485ac9dd535efe68c01f819d709cccc6b8a2c1ef4301761d",
+          "text": "Leys b. Sa‘d rivayetlerinde insanların en sağlamıdır; Leys’ten naklettiği, başkasında bulunmayan rivayetleri vardır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "hanek": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Leys komşuluğu ve rivayet çokluğu Türkçe paragrafta var; bu tam üstünlük/tekillik cümlesi verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Leys komşuluğu ve rivayet çokluğu Türkçe paragrafta var; bu tam üstünlük/tekillik cümlesi verilmez. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:700:b82447024f447845ea7ccbea6e21f5082560afab303683bc35c29f5b1dcd89af",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "700",
+            "critic": "خليل بن عبد الله بن أحمد بن الخليل",
+            "opinion": "ثقة وتفرد عن مالك بأحاديث",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "067950a9d335045278c7135b10c2f8dc8a4b557916954e55c4f2c47ff24783e5",
+          "text": "Sikadır; Mâlik’ten bazı hadisleri tek başına rivayet etmiştir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Genel güvenilirlik bağlamı var; Halîlî’nin Mâlik’ten teferrüd lafzı kısa Türkçe bölümde verilmez. Teferrüd yeni sıhhat veya zayıflık hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Genel güvenilirlik bağlamı var; Halîlî’nin Mâlik’ten teferrüd lafzı kısa Türkçe bölümde verilmez. Teferrüd yeni sıhhat veya zayıflık hükmü değildir. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        },
+        {
+          "key": "8297:767:96e667a6b8285b37b13b1a13641ef9a466c8862d46a8eed2ecc24810e3b1a68e",
+          "expected_source": {
+            "narrator_id": 8297,
+            "alem_id": "767",
+            "critic": "أحمد بن شعيب بن علي بن سنان بن بحر بن دينار",
+            "opinion": "ضعيف ، ومرة : ليس بثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "e0a3b79d9526f3b8eb592bc06f3fd89ab9b9024cccf399ac9f048d63d9229212",
+          "text": "Zayıftır. Başka bir değerlendirmesinde: Sika değildir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Durmuş Nesâî’nin sika olmadığı görüşünü aktarır; ayrı iki niteleme tek söze indirgenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Durmuş Nesâî’nin sika olmadığı görüşünü aktarır; ayrı iki niteleme tek söze indirgenmedi. Tam Arapça kaynak sözü okundu. Asistan aktarımı, tarihsel atıf tasdiki veya uzman onayı değildir; ilgili Türkçe bölümde bulunamadı durumu bütün literatürde yokluk anlamı taşımaz."
+        }
+      ]
+    }
+  ]
+}

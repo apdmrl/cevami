@@ -1,0 +1,229 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/sakik-b-seleme",
+      "title": "Erdinç Ahatlı — Şakīk b. Seleme, TDV 38 (2010), 306",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Ad/künye/Esedî-Kûfî/yerleşim/muhadram açık. Sika/kesîrü’l-hadîs genel nitelemesi bütün münekkitlerin ayrı atfı değildir. Maîn sözündeki Türkçe parantez (onun gibisi bulunmaz) Arapça olumsuz soru anlamıyla aynı sayılmadı. Doğum1isabetsiz görülür; GK1/82/81değiştirilmedi. İki oğul ve biyografi anlatıları boş kaynak alanlarına yeni ilişki olarak yazılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/3001/شقيق-بن-سلمة-،-أبو-وائل-الأسدي-الكوفي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Şakīk b. Seleme, 12/548–554, nr. 2767",
+      "locator": "Tam harekesiz dijital kişi girişi ve hoca-talebe listeleri okundu. Vekî‘, Maîn ve İbn Sa‘d sözleri ayrı atıflarla mevcut. Döneme yetişme/görmeme ve farklı yaş/ölüm nakilleri açık. Sayfa etiketleri dijital metnindir; fiziksel baskı karşılaştırılmadı, TDV kaynakçasındaki555etiketi yeni sayfa tasdiki değildir.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/502/شقيق-بن-سلمة",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Şakīk b. Seleme, 4/161–166",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Muhadram/görmeme, Maîn’in ثقة لا يسأل عن مثله ve İbn Sa‘d’ın çok rivayet kaydı, yaş/ölüm alternatifleri görülür. Bütün nakillerden yeni uzman veya tarihsel kesinlik hükmü üretilmedi. Matbu facsimile karşılaştırılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "marasil": {
+      "url": "https://arabic-keyboard.info/books/ar/read-book/المراسيل-لابن-أبي-حاتم",
+      "title": "İbn Ebû Hâtim — el-Merâsîl, kişi 140, haberler 318–321",
+      "locator": "Dijital yeniden basımda tam kişi140/haber318–321okundu.319İbn Ebû Hâtim babası Ebû Hâtim’e Ebû Vâil’in Ebü’d-Derdâ’dan işitmesini ve tedlîsini sorar; tedlîse hayır cevabı verir ve Ahmed’in sözünü anar.318Âişe/321Ebû Bekir mürsel haberleri ayrıdır. Bu bağlam bütün hocalardan işitme veya bütün senedlere ittisal tasdiki değildir. Bütün eser/baskı/fiziksel sayfa okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "kashif": {
+      "url": "https://arabic-keyboard.info/books/ar/read-book/الكاشف",
+      "title": "Zehebî — el-Kâşif, nr. 2303, Şakīk b. Seleme",
+      "locator": "Dijital yeniden basımdaki tam2303girişi okundu. من العلماء العاملين vardır; GK1268من كبار العاملينaynı lafız değildir. Her ikisi ayrı kaydedildi; ham GK değiştirilmedi. Tezhîb girişi ayrıca okunmadı; editör/baskı/fiziksel sayfa otantifikasyonu yapılmadı.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    }
+  ],
+  "revision": "assistant-person-field-review-v24",
+  "policy": "Yedi alan6tam1kısmi Türkçe destek; muhadram kuşaktır, sıhhat derecesi değildir.",
+  "people": [
+    {
+      "id": 3825,
+      "expected_source": {
+        "id": 3825,
+        "new_id": 19294,
+        "name": "شقيق بن سلمة",
+        "shohra": "شقيق بن سلمة الأسدي",
+        "badeel": "أبو وائل الكوفي",
+        "konya": "أبو وائل",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الأسدي،الكوفي",
+        "rotba": 3,
+        "wasf_rotba": "مخضرم",
+        "tabaka": 2,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "1",
+        "death_year": "82",
+        "age": 81,
+        "baladekama": "الكوفة",
+        "baladwafa": "",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 434
+      },
+      "expected_record_sha256": "799c34bfd282bb8551ad7b2962a7e36f02d8d44277f7e145a0fdbc5a9f45f2af",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "شقيق بن سلمة",
+          "text": "Şakīk b. Seleme.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlık ve ad satırı iki parçalı adı açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlık ve ad satırı iki parçalı adı açık verir. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "شقيق بن سلمة الأسدي",
+          "text": "Şakīk b. Seleme el-Esedî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV başlık ve ad satırı kısa ad ile Esedî nisbesini açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV başlık ve ad satırı kısa ad ile Esedî nisbesini açık verir. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو وائل الكوفي",
+          "text": "Ebû Vâil el-Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV künye ve Kûfî nisbesini verir; bu alternatif ad dizisi aynı birleşik satırla aktarılmış sayılmadı. Mizzî tam birleşik Arapça biçimi verir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV künye ve Kûfî nisbesini verir; bu alternatif ad dizisi aynı birleşik satırla aktarılmış sayılmadı. Mizzî tam birleşik Arapça biçimi verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV künye ve Kûfî nisbesini verir; bu alternatif ad dizisi aynı birleşik satırla aktarılmış sayılmadı. Mizzî tam birleşik Arapça biçimi verir. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو وائل",
+          "text": "Ebû Vâil.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV künye açık; künyeden Vâil adlı çocuk veya yeni akrabalık üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV künye açık; künyeden Vâil adlı çocuk veya yeni akrabalık üretilmedi. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الأسدي،الكوفي",
+          "text": "Esedî; Kûfî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV ad satırında iki nisbe açık. Nisbe yer ve aidiyet biçimidir; yeni tarihsel soy veya hukuki velâ ilişkisi oluşturulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV ad satırında iki nisbe açık. Nisbe yer ve aidiyet biçimidir; yeni tarihsel soy veya hukuki velâ ilişkisi oluşturulmadı. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "مخضرم",
+          "text": "Muhadram: Câhiliye ve İslâm dönemlerinde yaşadığı halde Hz. Peygamber’i müslüman olarak göremeyenlerden.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV muhadram olmasını açıklar. Bu kuşak/karşılaşma kategorisi güvenilirlik derecesi değildir; tek başına sika veya sahâbî hükmü değildir. Kaynak1doğum/82ölüm/81yaş alanları TDV doğum tartışmasına göre değiştirilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV muhadram olmasını açıklar. Bu kuşak/karşılaşma kategorisi güvenilirlik derecesi değildir; tek başına sika veya sahâbî hükmü değildir. Kaynak1doğum/82ölüm/81yaş alanları TDV doğum tartışmasına göre değiştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV muhadram olmasını açıklar. Bu kuşak/karşılaşma kategorisi güvenilirlik derecesi değildir; tek başına sika veya sahâbî hükmü değildir. Kaynak1doğum/82ölüm/81yaş alanları TDV doğum tartışmasına göre değiştirilmedi. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "الكوفة",
+          "text": "Kûfe.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "TDV Kûfe’nin kurulmasından sonra oraya yerleştiğini açık anlatır. Şam/Filistin savaş ve seyahatleri ikamet alanına eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "TDV Kûfe’nin kurulmasından sonra oraya yerleştiğini açık anlatır. Şam/Filistin savaş ve seyahatleri ikamet alanına eklenmedi. Tam GK Arapça kayıt okundu. Asistanın dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel atıf tasdiki veya uzman onayı değildir. İncelenen Türkçe bölümde bulunamadı bütün literatürde yok demek değildir."
+        }
+      ]
+    }
+  ]
+}

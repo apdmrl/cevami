@@ -1,0 +1,473 @@
+{
+  "reviewed_on": "2026-11-01",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "risale": {
+      "url": "https://isamveri.org/pdfdrg/D03434/2017_20/2017_20_KULEKCIC.pdf",
+      "title": "Hilmî-zâde İbrâhim Rıfat / Cahit Külekçi (sadeleştiren) — Sa’d b. Ebî Vakkas İsimli Risâlesi, Hikmet Yurdu10/20(2017),253–275; DOI10.17540/hikmet.2017.70",
+      "locator": "s.253–255 başlık ve ilk biyografi paragrafları (PDF0–2). Baba Mâlik/künyesi Ebî Vakkas; dar bölüm uzun soy/çocuk listesi/ölüm yeri için tam kaynak değildir. PDF metni okundu, görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "diyanet": {
+      "url": "https://dijital.diyanet.gov.tr/File/Download?id=3572&path=3572_1.pdf",
+      "title": "Diyanet İşleri Başkanlığı — Isınan Kürede Çevre Ahlâkı,1.baskıAnkara2013,ISBN978-975-19-5604-0",
+      "locator": "s.57, Ömer’in Sa‘d’a Ebûİshak hitabı. Resmî73sayfalık PDF yerelde okundu; SHA25617780774f76f146971a39272bca2fceeb921300d8ac062b09f02aab5ba2b393e. Künye s.2. PDF metin kontrolü; görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "sehl": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5B/E0C708CB-675A-F340-90CD-4447180680E5.pdf",
+      "title": "Şule Şahin Ünlü — Camilerin Eğitim ve Öğretim İşlevine Vurgu Yapan Bir Hadisin Tahrîci, Tenkîdi ve Değerlendirilmesi, MarmaraÜniversitesi,YLtezi2015",
+      "locator": "Basılı s.47(PDF59), Sehl b.Sa‘d biyografi paragrafı bütünüyle okundu. Kısa ad/künye/üç nisbe/sahâbîlik; uzun soy ve ikinci künye burada verilmez. PDF görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    },
+    "said": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/2A/T0060516.pdf",
+      "title": "Ebûbekir Tatlı — Aşere-i Mübeşşere’den Said b. Zeyd’in Hayâtı ve Rivâyetleri, MarmaraÜniversitesi,YLtezi2008",
+      "locator": "s.38–39(PDF50–51), Bedir görevi ve ganimet payı; s.66–67(PDF78–79), Sa‘d ve Saîd’in aşere rivayetleri/listesi. İlgili webPDFmetni okundu; yeni yerel hashli nüsha veya görüntü denetimi yok.",
+      "accessed_on": "2026-11-01"
+    }
+  },
+  "revision": "assistant-person-field-review-v13",
+  "policy": "2kişi18dolu alan;5tam9kısmi4okunan bölümde tam Türkçe karşılığı bulunamayan alan.18dil karşılaştırması; tarihsel uzman onayı yok.",
+  "review_artifacts": [
+    {
+      "path": "references/turkish/academic/diyanet-2013-isinan-kurede-cevre-ahlaki.pdf",
+      "sha256": "17780774f76f146971a39272bca2fceeb921300d8ac062b09f02aab5ba2b393e"
+    },
+    {
+      "path": "research/turkish-sources/deferred-companion-inventory.json",
+      "sha256": "a2cb8f0b0633b09fa8a7d4622f96ff6283e96e5499edeaf1694ea23462a3c472"
+    }
+  ],
+  "people": [
+    {
+      "id": 3232,
+      "expected_source": {
+        "id": 3232,
+        "new_id": 17010,
+        "name": "سعد بن مالك بن وهيب بن عبد مناف بن زهرة بن كلاب بن مرة بن كعب بن لؤي بن غالب",
+        "shohra": "سعد بن أبي وقاص الزهري",
+        "badeel": "سعد بن مالك بن أهيب بن عبد مناف الزهري",
+        "konya": "أبو إسحاق",
+        "lakab": "ابن أبي وقاص",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،الزهري",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "55",
+        "age": null,
+        "baladekama": "المدينة",
+        "baladwafa": "العقيق",
+        "mawaaly": "",
+        "karaba": "والد إسحاق ، والد عمر ، والد إبراهيم ، والد محمد ، والد موسى ، والد الحارث ، والد عامر ، والد عبد الله",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 383
+      },
+      "expected_record_sha256": "d76ca1e0603c6322d516326f356cbd8d77268a218e7b1d11d92bb61727a6b5f8",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "سعد بن مالك بن وهيب بن عبد مناف بن زهرة بن كلاب بن مرة بن كعب بن لؤي بن غالب",
+          "text": "Sa‘d b. Mâlik b. Vüheyb [وهيب] b. Abdümenâf b. Zühre b. Kilâb b. Mürre b. Kâ‘b b. Lüey b. Gālib.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "risale": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sadeleştirilmiş risale s.254 Sa‘d ve baba Mâlik için dayanak; uzun soyun tamamı değil. وهيب(Vüheyb) biçimi أهيب(Üheyb) alternatifiyle birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sadeleştirilmiş risale s.254 Sa‘d ve baba Mâlik için dayanak; uzun soyun tamamı değil. وهيب(Vüheyb) biçimi أهيب(Üheyb) alternatifiyle birleştirilmedi. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "سعد بن أبي وقاص الزهري",
+          "text": "Sa‘d b. Ebî Vakkās ez-Zührî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "risale": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Risale başlığı ve s.254 Sa‘d b. Ebî Vakkās biçimini verir; Zührî nisbesi bu bölümde bütünüyle doğrulanmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Risale başlığı ve s.254 Sa‘d b. Ebî Vakkās biçimini verir; Zührî nisbesi bu bölümde bütünüyle doğrulanmadı. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "سعد بن مالك بن أهيب بن عبد مناف الزهري",
+          "text": "Sa‘d b. Mâlik b. Üheyb [أهيب] b. Abdümenâf ez-Zührî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "risale": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Sa‘d/Mâlik bağlantısı s.254’te var; Üheyb ve uzun devam GK’den aktarılır. Kısa kaynak uzun soyun tamamı sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Sa‘d/Mâlik bağlantısı s.254’te var; Üheyb ve uzun devam GK’den aktarılır. Kısa kaynak uzun soyun tamamı sayılmadı. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو إسحاق",
+          "text": "Ebû İshak.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "diyanet": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Diyanet kitabı s.57’de Ömer’in Sa‘d’a Ebû İshak hitabı açıkça okundu. Ebû Vakkās babanın künyesidir; bu künye alanıyla karıştırılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Diyanet kitabı s.57’de Ömer’in Sa‘d’a Ebû İshak hitabı açıkça okundu. Ebû Vakkās babanın künyesidir; bu künye alanıyla karıştırılmadı. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "ابن أبي وقاص",
+          "text": "İbn Ebî Vakkās (Ebû Vakkās’ın oğlu).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "risale": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Risale başlığı ve s.254 baba Mâlik/künyesi Ebî Vakkas açıklaması bu ad biçimini destekler; yeni kişi/akrabalık üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Risale başlığı ve s.254 baba Mâlik/künyesi Ebî Vakkas açıklaması bu ad biçimini destekler; yeni kişi/akrabalık üretilmedi. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،الزهري",
+          "text": "Kureşî; Zührî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "risale": {
+              "support_scope": "identity_only",
+              "evidence_note": "Okunan risale biyografi bölümünde bu iki nisbenin açık Türkçe biçimi birlikte tespit edilmedi. Arapça GK nisbeleri doğrudan aktarılır; bütün Türkçe literatürde yokluk iddiası değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Okunan risale biyografi bölümünde bu iki nisbenin açık Türkçe biçimi birlikte tespit edilmedi. Arapça GK nisbeleri doğrudan aktarılır; bütün Türkçe literatürde yokluk iddiası değildir. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "صحابي",
+          "text": "Sahâbî (kaynak sınıflaması).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "risale": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Risale s.254 fukahâ-yı ashâbdan olduğunu belirtir; kişi sınıflaması için Türkçe dayanak vardır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Risale s.254 fukahâ-yı ashâbdan olduğunu belirtir; kişi sınıflaması için Türkçe dayanak vardır. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "risale": {
+              "support_scope": "identity_only",
+              "evidence_note": "Okunan risale kısmı bu ikamet alanına açık Türkçe karşılık vermez; seferde bir yerden geçmek veya askerî bağlam ikamet kanıtı sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Okunan risale kısmı bu ikamet alanına açık Türkçe karşılık vermez; seferde bir yerden geçmek veya askerî bağlam ikamet kanıtı sayılmadı. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "العقيق",
+          "text": "Akīk.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "risale": {
+              "support_scope": "identity_only",
+              "evidence_note": "Okunan risale kısmında Akīk ölüm kaydının Türkçe karşılığı tespit edilmedi; yer adı GK’den çevriyazıyla aktarıldı. Bütün kaynaklarda bulunmadığı iddia edilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Okunan risale kısmında Akīk ölüm kaydının Türkçe karşılığı tespit edilmedi; yer adı GK’den çevriyazıyla aktarıldı. Bütün kaynaklarda bulunmadığı iddia edilmez. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد إسحاق ، والد عمر ، والد إبراهيم ، والد محمد ، والد موسى ، والد الحارث ، والد عامر ، والد عبد الله",
+          "text": "İshak, Ömer, İbrâhim, Muhammed, Mûsâ, Hâris, Âmir ve Abdullah’ın babasıdır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "risale": {
+              "support_scope": "identity_only",
+              "evidence_note": "Sekiz çocuk adı GK’de açıkça var; Ebû İshak künyesinden oğul varlığı çıkarılmadı. Okunan Türkçe bölüm bu listenin tamamını desteklemez; yeni çocuk eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Sekiz çocuk adı GK’de açıkça var; Ebû İshak künyesinden oğul varlığı çıkarılmadı. Okunan Türkçe bölüm bu listenin tamamını desteklemez; yeni çocuk eklenmedi. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        }
+      ]
+    },
+    {
+      "id": 3672,
+      "expected_source": {
+        "id": 3672,
+        "new_id": 18702,
+        "name": "سهل بن سعد بن مالك بن خالد بن ثعلبة بن حارثة بن عمرو بن الخزرج بن ساعدة بن كعب بن الخزرج",
+        "shohra": "سهل بن سعد الساعدي",
+        "badeel": "أبو العباس المدني",
+        "konya": "أبو العباس ، أبو يحيى",
+        "lakab": "",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الأنصاري،الساعدي،الخزرجي،المدني",
+        "rotba": 1,
+        "wasf_rotba": "صحابي",
+        "tabaka": 1,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "88",
+        "age": 96,
+        "baladekama": "المدينة",
+        "baladwafa": "المدينة",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 287
+      },
+      "expected_record_sha256": "c408b9803854e2be5237a9ac8afb411d1bfe54a670037cf8f9397b6c1e52a4c0",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "سهل بن سعد بن مالك بن خالد بن ثعلبة بن حارثة بن عمرو بن الخزرج بن ساعدة بن كعب بن الخزرج",
+          "text": "Sehl b. Sa‘d b. Mâlik b. Hâlid b. Sa‘lebe b. Hârise b. Amr b. Hazrec b. Sâide b. Kâ‘b b. Hazrec.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 ilk dört ad basamağını verir; devam GK’den aktarılır. İki Hazrec basamağı kaynakta iki ayrı yerde bulunduğundan biri silinmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 ilk dört ad basamağını verir; devam GK’den aktarılır. İki Hazrec basamağı kaynakta iki ayrı yerde bulunduğundan biri silinmedi. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "سهل بن سعد الساعدي",
+          "text": "Sehl b. Sa‘d es-Sâidî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez s.47 kişi adı ve Sâidî nisbesini açıkça verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez s.47 kişi adı ve Sâidî nisbesini açıkça verir. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "أبو العباس المدني",
+          "text": "Ebü’l-Abbâs el-Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 Ebü’l-Abbâs’ı verir; Medine ashâbı bağlamı vardır fakat bu alternatif ad biçiminin tamamı aynen verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 Ebü’l-Abbâs’ı verir; Medine ashâbı bağlamı vardır fakat bu alternatif ad biçiminin tamamı aynen verilmez. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو العباس ، أبو يحيى",
+          "text": "Ebü’l-Abbâs; Ebû Yahyâ.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 ilk künyeyi destekler; Ebû Yahyâ bu paragrafta yoktur. GK alternatifi korundu; okunan kısa paragraf diğer künyeyi reddetmek için kullanılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 ilk künyeyi destekler; Ebû Yahyâ bu paragrafta yoktur. GK alternatifi korundu; okunan kısa paragraf diğer künyeyi reddetmek için kullanılmadı. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الأنصاري،الساعدي،الخزرجي،المدني",
+          "text": "Ensârî; Sâidî; Hazrecî; Medenî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 ilk üç nisbe için dayanak; Medenî biçimi burada açık nisbe olarak verilmediği için alan tam Türkçe destek sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 ilk üç nisbe için dayanak; Medenî biçimi burada açık nisbe olarak verilmediği için alan tam Türkçe destek sayılmadı. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "صحابي",
+          "text": "Sahâbî (kaynak sınıflaması).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez s.47 kişiyi açıkça sahâbî olarak tanımlar; sınıflama yeni hadis sıhhat hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez s.47 kişiyi açıkça sahâbî olarak tanımlar; sınıflama yeni hadis sıhhat hükmü değildir. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 Medine ashâbının sonuncusu bağlamını verir; bağımsız ve ayrıntılı ikamet tarihi bu paragraftan üretilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 Medine ashâbının sonuncusu bağlamını verir; bağımsız ve ayrıntılı ikamet tarihi bu paragraftan üretilmedi. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "المدينة",
+          "text": "Medine.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "sehl": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez s.47 ölüm tarihiyle Medine ashâbının sonuncusu bağlamını birlikte verir; ayrı ve açık şehirde ölüm cümlesi gibi genişletilmedi. GK’nin yer alanı aynen aktarılır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez s.47 ölüm tarihiyle Medine ashâbının sonuncusu bağlamını birlikte verir; ayrı ve açık şehirde ölüm cümlesi gibi genişletilmedi. GK’nin yer alanı aynen aktarılır. Tam Arapça GK kaydı ve alan tek tek okundu; Türkçe GK’nin asistan aktarımıdır. Tam Türkçe destek dışındaki ayrıntılar bağımsız teyit edilmiş sayılmaz; yayımlanmış birebir alıntı veya uzman onayı değildir."
+        }
+      ]
+    }
+  ]
+}

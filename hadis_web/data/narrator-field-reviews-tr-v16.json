@@ -1,0 +1,571 @@
+{
+  "revision": "assistant-person-field-review-v16",
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "uluman": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/9F/10246213.pdf#page=63",
+      "title": "Gülşah Uluman — Zü’l-yedeyn Hadisi:Tahrîc ve Tahlil, Marmara,YL2019",
+      "locator": "36Yunus b.Yezîd, basılı52–53/PDF63–64tam bölüm/dipnot258–260webPDFmetninden okundu. Tezin152/745çifti GK159ile eşitlenmedi; tarih bu alan incelemesine alınmadı. YerelPDF/hash/görüntü denetimi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "durmus": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/680592#page=30",
+      "title": "Üzeyir Durmuş — İmâm Buhârî’nin Sahîh’ine Kaynaklık Bakımından İmâm Mâlik’in Muvatta’sı, ÇOMÜİFD14(2019),171–212",
+      "locator": "2.2.7Yahyâ b.Abdullah b.Bükeyr, basılı200/PDF30; ilgili bölüm yerel42sayfalık dosyadan okundu. İbnHibbân’ın sika kaydı ile EbûHâtim/Nesâî tenkitleri birlikte. PDFgörüntü denetimi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "hanek": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/4096493#page=3",
+      "title": "İbrahim Hanek — Buhârî’nin Leys b.Sa‘d’dan Yaptığı Ta‘lîklerin Kaynaklarını Analiz, Dergiabant12/2(2024)",
+      "locator": "2.1.1ilkYahyâ paragrafı/PDF3yerel20sayfalık dosyadan okundu: babaAbdullah/dedeBükeyr, Mahzûmî, Leys komşuluğu. Bütün makale veya PDFgörüntü denetimi iddiası yok.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    },
+    {
+      "path": "references/turkish/academic/durmus-2019-muvatta-buhari.pdf",
+      "sha256": "333dbef18d58be399eca42aac2297bde773df7e7560320293d42960384a28fff"
+    },
+    {
+      "path": "references/turkish/academic/hanek-2024-leys-talik.pdf",
+      "sha256": "cbbd05a1cb553747025aaf23f52f185ef37cd078e0bd5546fd15cf7a36b631d8"
+    }
+  ],
+  "policy": "2kişi21alan:5tam5kısmi11okunan Türkçe bölümde bulunamadı. Yalnız dil karşılaştırması; tarihsel kişi/uzman tasdiki değil.36görüş bu dilimde yeni aktarılmadı.",
+  "people": [
+    {
+      "id": 8621,
+      "expected_source": {
+        "id": 8621,
+        "new_id": 49841,
+        "name": "يونس بن يزيد بن مشكان",
+        "shohra": "يونس بن يزيد الأيلي",
+        "badeel": "يونس بن يزيد بن أبي المخارق القرشي",
+        "konya": "أبو يزيد ، أبو بكر",
+        "lakab": "ابن أبي نجاد ، ابن أبي المخارق ، صاحب الزهري",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،الأيلي",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 7,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "159",
+        "age": null,
+        "baladekama": "أيلة",
+        "baladwafa": "مصر",
+        "mawaaly": "مولى معاوية بن أبي سفيان",
+        "karaba": "والد يزيد ، أخو أبي علي بن يزيد ، عم عنبسة بن خالد بن يزيد",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 795
+      },
+      "expected_record_sha256": "45429a9f3abd1809aa78077faae62b4cbc2dfdb03c8679921b81f25830a14ba4",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "يونس بن يزيد بن مشكان",
+          "text": "Yûnus b. Yezîd b. Mişkân.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tez kısa Yûnus b.Yezîd adını verir; Mişkân dahil uzun adın bütünü bağımsız teyit edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Tez kısa Yûnus b.Yezîd adını verir; Mişkân dahil uzun adın bütünü bağımsız teyit edilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "يونس بن يزيد الأيلي",
+          "text": "Yûnus b. Yezîd el-Eylî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kısa ad desteklenir; Eylî nisbesi bu bölümde ayrı lafızla verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kısa ad desteklenir; Eylî nisbesi bu bölümde ayrı lafızla verilmez. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "يونس بن يزيد بن أبي المخارق القرشي",
+          "text": "Yûnus b. Yezîd b. Ebî’l-Muhârik [أبي المخارق] el-Kureşî (GK alternatif ad kaydı).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK alternatif ad zinciri olduğu gibi aktarılır; Mişkân ile aynı baba zincirine tahminen düzeltilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK alternatif ad zinciri olduğu gibi aktarılır; Mişkân ile aynı baba zincirine tahminen düzeltilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو يزيد ، أبو بكر",
+          "text": "Ebû Yezîd; Ebû Bekir.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "İki künye GK’den aktarılır; kısa tez paragrafı bunları vermez. Künyeden oğul ismi çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İki künye GK’den aktarılır; kısa tez paragrafı bunları vermez. Künyeden oğul ismi çıkarılmadı. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "ابن أبي نجاد ، ابن أبي المخارق ، صاحب الزهري",
+          "text": "İbn Ebî Necâd [ابن أبي نجاد]; İbn Ebî’l-Muhârik [ابن أبي المخارق]; Sâhibü’z-Zührî (Zührî’nin yakın talebesi).",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Zührî talebeliği desteklenir; iki baba lakabının tam biçimi bu bölümde yoktur. Ham ad yazımı korunur; yeni tarihsel kimlik türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Zührî talebeliği desteklenir; iki baba lakabının tam biçimi bu bölümde yoktur. Ham ad yazımı korunur; yeni tarihsel kimlik türetilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،الأيلي",
+          "text": "Kureşî; Eylî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "İki nisbenin tam lafızları okunan Türkçe bölümde bulunamadı; nisbeden yeni soy/ikamet bilgisi türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "İki nisbenin tam lafızları okunan Türkçe bölümde bulunamadı; nisbeden yeni soy/ikamet bilgisi türetilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez Nesâî ve İclî’nin sika nitelemesini verir; farklı tenkitleri de kaydeder. GK alanının aktarımı yeni bir bütüncül ravi hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez Nesâî ve İclî’nin sika nitelemesini verir; farklı tenkitleri de kaydeder. GK alanının aktarımı yeni bir bütüncül ravi hükmü değildir. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "أيلة",
+          "text": "Eyle (Ayla).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK أيلةyer adı aktarılır; kısa Türkçe bölüm bu ikamet bilgisini vermez. Güncel ülke veya ikamet süresi eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK أيلةyer adı aktarılır; kısa Türkçe bölüm bu ikamet bilgisini vermez. Güncel ülke veya ikamet süresi eklenmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "مصر",
+          "text": "Mısır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK ölüm yeri aktarılır; tezdeki tarih cümlesi ölüm yerinin bağımsız teyidi sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK ölüm yeri aktarılır; tezdeki tarih cümlesi ölüm yerinin bağımsız teyidi sayılmadı. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى معاوية بن أبي سفيان",
+          "text": "Muâviye b. Ebî Süfyân’ın mevlâsı (velâ bağıyla bağlı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez bu kişiye bağlı âzatlı kaydını açık verir. Arapça alanın velâ bağı aktarılır; hür/köle statüsüne ilişkin ek ayrıntı metne ilave edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez bu kişiye bağlı âzatlı kaydını açık verir. Arapça alanın velâ bağı aktarılır; hür/köle statüsüne ilişkin ek ayrıntı metne ilave edilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد يزيد ، أخو أبي علي بن يزيد ، عم عنبسة بن خالد بن يزيد",
+          "text": "Yezîd’in babası; Ebû Ali b. Yezîd’in kardeşi; Anbese b. Hâlid b. Yezîd’in amcası.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Üç ilişki GK’den literal aktarılır. EbûAli künyesiyle zincirdeki farklı Yezîdler birleştirilmedi; amcalık nesli veya yeni soy ağacı tahmin edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Üç ilişki GK’den literal aktarılır. EbûAli künyesiyle zincirdeki farklı Yezîdler birleştirilmedi; amcalık nesli veya yeni soy ağacı tahmin edilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        }
+      ]
+    },
+    {
+      "id": 8297,
+      "expected_source": {
+        "id": 8297,
+        "new_id": 48402,
+        "name": "يحيى بن عبد الله بن بكير",
+        "shohra": "يحيى بن بكير القرشي",
+        "badeel": "ابن بكير",
+        "konya": "أبو زكريا",
+        "lakab": "الحافظ",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "القرشي،المخزومي،المصري،الشامي",
+        "rotba": 3,
+        "wasf_rotba": "ثقة",
+        "tabaka": 10,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "154",
+        "death_year": "231",
+        "age": 77,
+        "baladekama": "مصر ، الشام",
+        "baladwafa": "",
+        "mawaaly": "مولى بني مخزوم",
+        "karaba": "والد عبد الملك",
+        "bokhary": 1,
+        "moslem": 1,
+        "marweyaat": 975
+      },
+      "expected_record_sha256": "6d454f1b71bc3e050586f974cdd59868e31e9ba7c0e9bc5f2cb8faccb46862d4",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "يحيى بن عبد الله بن بكير",
+          "text": "Yahyâ b. Abdullah b. Bükeyr.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "İki Türkçe kaynak babaAbdullah/dedeBükeyr zincirini verir. Yahyâ b. Yahyâ el-Minkarî başka kişidir; kayıtlar birleştirilmedi."
+            },
+            "hanek": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "İki Türkçe kaynak babaAbdullah/dedeBükeyr zincirini verir. Yahyâ b. Yahyâ el-Minkarî başka kişidir; kayıtlar birleştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "İki Türkçe kaynak babaAbdullah/dedeBükeyr zincirini verir. Yahyâ b. Yahyâ el-Minkarî başka kişidir; kayıtlar birleştirilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "يحيى بن بكير القرشي",
+          "text": "Yahyâ b. Bükeyr el-Kureşî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dedeye nisbetle kısa ad açık; Kureşî nisbesi bu paragraflarda ayrı lafızla verilmez."
+            },
+            "hanek": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dedeye nisbetle kısa ad açık; Kureşî nisbesi bu paragraflarda ayrı lafızla verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Dedeye nisbetle kısa ad açık; Kureşî nisbesi bu paragraflarda ayrı lafızla verilmez. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "ابن بكير",
+          "text": "İbn Bükeyr.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Durmuş bir rivayetteki İbnBükeyr biçimini açık verir; Hanek dedeBükeyr’e nisbeti açıklar. Baba/dede düşürülerek başka kimlik kurulmadı."
+            },
+            "hanek": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Durmuş bir rivayetteki İbnBükeyr biçimini açık verir; Hanek dedeBükeyr’e nisbeti açıklar. Baba/dede düşürülerek başka kimlik kurulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Durmuş bir rivayetteki İbnBükeyr biçimini açık verir; Hanek dedeBükeyr’e nisbeti açıklar. Baba/dede düşürülerek başka kimlik kurulmadı. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو زكريا",
+          "text": "Ebû Zekeriyyâ.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK künyesi aktarılır; okunan iki kısa paragrafta verilmez."
+            },
+            "hanek": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK künyesi aktarılır; okunan iki kısa paragrafta verilmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK künyesi aktarılır; okunan iki kısa paragrafta verilmez. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "الحافظ",
+          "text": "Hadis hâfızı.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK الحافظlakabı aktarılır; iki kısa kişi paragrafı bu ayrı lafzı vermez."
+            },
+            "hanek": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK الحافظlakabı aktarılır; iki kısa kişi paragrafı bu ayrı lafzı vermez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK الحافظlakabı aktarılır; iki kısa kişi paragrafı bu ayrı lafzı vermez. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "القرشي،المخزومي،المصري،الشامي",
+          "text": "Kureşî; Mahzûmî; Mısrî; Şâmî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Hanek Mahzûmî biçimini verir; diğer üç nisbe aynı paragrafta verilmez. Mahzûmî’den otomatik soy/şehir zinciri türetilmedi."
+            },
+            "hanek": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Hanek Mahzûmî biçimini verir; diğer üç nisbe aynı paragrafta verilmez. Mahzûmî’den otomatik soy/şehir zinciri türetilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Hanek Mahzûmî biçimini verir; diğer üç nisbe aynı paragrafta verilmez. Mahzûmî’den otomatik soy/şehir zinciri türetilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة",
+          "text": "Sika (güvenilir).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "durmus": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Durmuş İbn Hibbân’ın sika raviler arasında saydığını bildirir; EbûHâtim ve Nesâî’nin farklı tenkitleri de vardır. Bu GK genel alanının dil aktarımıdır; farklı görüşler yanlış ilan edilmedi."
+            },
+            "hanek": {
+              "support_scope": "identity_only",
+              "evidence_note": "Durmuş İbn Hibbân’ın sika raviler arasında saydığını bildirir; EbûHâtim ve Nesâî’nin farklı tenkitleri de vardır. Bu GK genel alanının dil aktarımıdır; farklı görüşler yanlış ilan edilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Durmuş İbn Hibbân’ın sika raviler arasında saydığını bildirir; EbûHâtim ve Nesâî’nin farklı tenkitleri de vardır. Bu GK genel alanının dil aktarımıdır; farklı görüşler yanlış ilan edilmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "مصر ، الشام",
+          "text": "Mısır; Şam.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK ikamet yerleri aktarılır. Leys’e komşuluk, şehir/ülke adı açık olmayan bu paragraftan bağımsız ikamet teyidi üretmez."
+            },
+            "hanek": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK ikamet yerleri aktarılır. Leys’e komşuluk, şehir/ülke adı açık olmayan bu paragraftan bağımsız ikamet teyidi üretmez."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK ikamet yerleri aktarılır. Leys’e komşuluk, şehir/ülke adı açık olmayan bu paragraftan bağımsız ikamet teyidi üretmez. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "mawaaly",
+          "expected_arabic": "مولى بني مخزوم",
+          "text": "Mahzûmoğulları’nın mevlâsı (velâ bağıyla bağlı).",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK özel velâ kaydı aktarılır; Mahzûmî nisbesi bu velâ türünün ayrı bağımsız teyidi sayılmadı. Kölelik eklenmedi."
+            },
+            "hanek": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK özel velâ kaydı aktarılır; Mahzûmî nisbesi bu velâ türünün ayrı bağımsız teyidi sayılmadı. Kölelik eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK özel velâ kaydı aktarılır; Mahzûmî nisbesi bu velâ türünün ayrı bağımsız teyidi sayılmadı. Kölelik eklenmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "karaba",
+          "expected_arabic": "والد عبد الملك",
+          "text": "Abdülmelik’in babası.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK akrabalık kaydı aktarılır; okunan kısa kişi bölümlerinde bulunamadı. Künyeden oğul veya başka akraba eklenmedi."
+            },
+            "hanek": {
+              "support_scope": "identity_only",
+              "evidence_note": "GK akrabalık kaydı aktarılır; okunan kısa kişi bölümlerinde bulunamadı. Künyeden oğul veya başka akraba eklenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "GK akrabalık kaydı aktarılır; okunan kısa kişi bölümlerinde bulunamadı. Künyeden oğul veya başka akraba eklenmedi. Tam Arapça kayıt/alan okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        }
+      ]
+    }
+  ]
+}

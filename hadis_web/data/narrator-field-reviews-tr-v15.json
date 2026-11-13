@@ -1,0 +1,307 @@
+{
+  "reviewed_on": "2026-11-02",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "uluman": {
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/9F/10246213.pdf#page=34",
+      "title": "Gülşah Uluman — Zü’l-yedeyn Hadisi:Tahrîc ve Tahlil, Marmara,YL2019",
+      "locator": "13Abdullah b.Yusuf, basılı23/PDF34; ilgili bölüm ve dipnot100–104webPDFmetninden okundu. Tunusî yazımı diğer kaynakla karşılaştırılır. Yerel indirme WinError10054ile başarısız; dosya/hash/görüntü denetimi iddiası yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "durmus": {
+      "url": "https://dergipark.org.tr/tr/download/article-file/680592#page=27",
+      "title": "Üzeyir Durmuş — İmâm Buhârî’nin Sahîh’ine Kaynaklık Bakımından İmâm Mâlik’in Muvatta’sı, ÇOMÜİFD14(2019),171–212",
+      "locator": "2.2.1bölümü197–198/PDF27–28bütünüyle okundu: Tinnîsî, Zehebî hâfız/mutkin, Yahyâ b.Maîn’in Abdullah ve Ka‘nebî’yi birlikte anması. Yerel42sayfa; SHA256333dbef18d58be399eca42aac2297bde773df7e7560320293d42960384a28fff. Görüntü denetimi yok.",
+      "accessed_on": "2026-11-02"
+    },
+    "tahavi": {
+      "url": "https://islamansiklopedisi.org.tr/tahavi#1",
+      "title": "Davut İltaş — Tahâvî, TDV39(2010),385–388",
+      "locator": "Başlık ve ilk hayat paragrafı; EbûCa‘fer Ahmed b.Muhammed b.Selâme/321. Yalnız kısa ad karşılaştırması, tüm uzun soy veya görüş doğrulaması değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "cuzcani": {
+      "url": "https://islamansiklopedisi.org.tr/cuzcani-ebu-ishak",
+      "title": "İsmail Lütfi Çakan — Cûzcânî Ebûİshak, TDV8(1993),97–98",
+      "locator": "Başlık ve ilgili ilk hayat: İbrâhim b.Ya‘kub b.İshak/259. Kısa ad biçimi; bütün tarihsel hükümler tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    },
+    "ibnyunus": {
+      "url": "https://islamansiklopedisi.org.tr/ibn-yunus-ebu-said",
+      "title": "Ali Akyüz — İbnYûnus EbûSaîd, TDV20(1999),450",
+      "locator": "Başlık ve ilk hayat: Abdurrahman b.Ahmed b.Yunus b.Abdila‘lâ/347. Oğlu astronom Ebü’l-Hasan ile birleştirilmedi.",
+      "accessed_on": "2026-11-02"
+    },
+    "ebumushir": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-mushir",
+      "title": "M.Yaşar Kandemir — EbûMüshir, TDV10(1994),195",
+      "locator": "Başlık ve kısa hayat: Abdüla‘lâ b.Müshir b.Abdila‘lâ/218/Gassânî. Yalnız kısa ad biçimi, bütün uzun soy tasdiki değil.",
+      "accessed_on": "2026-11-02"
+    }
+  },
+  "revision": "assistant-person-field-review-v15",
+  "policy": "9alan7tam2kısmi; dil karşılaştırması tarihsel kişi tasdiki değildir.",
+  "review_artifacts": [
+    {
+      "path": "references/turkish/academic/durmus-2019-muvatta-buhari.pdf",
+      "sha256": "333dbef18d58be399eca42aac2297bde773df7e7560320293d42960384a28fff"
+    },
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v1.json",
+      "sha256": "677f16f2e76a48019a5a53326b50bd055314473e2932eafa84415ceb576c0bf9"
+    }
+  ],
+  "people": [
+    {
+      "id": 5175,
+      "expected_source": {
+        "id": 5175,
+        "new_id": 26307,
+        "name": "عبد الله بن يوسف",
+        "shohra": "عبد الله بن يوسف الكلاعي",
+        "badeel": "عبد الله بن يوسف التنيسي",
+        "konya": "أبو محمد",
+        "lakab": "التنيسي",
+        "san3a": "",
+        "wasf": "",
+        "mazhab": "",
+        "nasab": "الكلاعي،الدمشقي،المصري",
+        "rotba": 2,
+        "wasf_rotba": "ثقة متقن من أثبت الناس في الموطأ",
+        "tabaka": 9,
+        "e5telat": 0,
+        "tadleese": 0,
+        "date_of_birth": "",
+        "death_year": "218",
+        "age": null,
+        "baladekama": "دمشق ، مصر",
+        "baladwafa": "مصر",
+        "mawaaly": "",
+        "karaba": "",
+        "bokhary": 1,
+        "moslem": 0,
+        "marweyaat": 676
+      },
+      "expected_record_sha256": "f1dd480fc61ec196c2deb976271225f018a6849fa76cf1b3ca2ae796bd70359a",
+      "fields": [
+        {
+          "field": "name",
+          "expected_arabic": "عبد الله بن يوسف",
+          "text": "Abdullah b. Yûsuf.",
+          "rendering_kind": "transliteration",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez ve makale kısa adı verir."
+            },
+            "durmus": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez ve makale kısa adı verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez ve makale kısa adı verir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "shohra",
+          "expected_arabic": "عبد الله بن يوسف الكلاعي",
+          "text": "Abdullah b. Yûsuf el-Kelâî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez ilk nisbe olarak Kelâî biçimini açıkça verir."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Tez ilk nisbe olarak Kelâî biçimini açıkça verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez ilk nisbe olarak Kelâî biçimini açıkça verir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "badeel",
+          "expected_arabic": "عبد الله بن يوسف التنيسي",
+          "text": "Abdullah b. Yûsuf et-Tinnîsî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tezde Tunusî yazılır; makalede Tinnîsî biçimi açık, GK التنيسي ile uyumludur. Ham kayıt değiştirilmedi."
+            },
+            "durmus": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezde Tunusî yazılır; makalede Tinnîsî biçimi açık, GK التنيسي ile uyumludur. Ham kayıt değiştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezde Tunusî yazılır; makalede Tinnîsî biçimi açık, GK التنيسي ile uyumludur. Ham kayıt değiştirilmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "konya",
+          "expected_arabic": "أبو محمد",
+          "text": "Ebû Muhammed.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezde açık künye."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Tezde açık künye."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezde açık künye. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "lakab",
+          "expected_arabic": "التنيسي",
+          "text": "et-Tinnîsî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "identity_only",
+              "evidence_note": "Tezdeki Tunusî yazımı yerine GK التنيسي korundu; makale Tinnîsî biçimini destekler. Bu yeni bir kaynak düzeltmesi değil, GK biçiminin aktarımıdır."
+            },
+            "durmus": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tezdeki Tunusî yazımı yerine GK التنيسي korundu; makale Tinnîsî biçimini destekler. Bu yeni bir kaynak düzeltmesi değil, GK biçiminin aktarımıdır."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezdeki Tunusî yazımı yerine GK التنيسي korundu; makale Tinnîsî biçimini destekler. Bu yeni bir kaynak düzeltmesi değil, GK biçiminin aktarımıdır. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "nasab",
+          "expected_arabic": "الكلاعي،الدمشقي،المصري",
+          "text": "Kelâî; Dımaşkī; Mısrî.",
+          "rendering_kind": "name_form",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kelâî ve Dımaşk kökeni desteklenir; Mısır ölümü Mısrî nisbesinin ayrı lafzıyla tam teyidi sayılmadı."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Kelâî ve Dımaşk kökeni desteklenir; Mısır ölümü Mısrî nisbesinin ayrı lafzıyla tam teyidi sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kelâî ve Dımaşk kökeni desteklenir; Mısır ölümü Mısrî nisbesinin ayrı lafzıyla tam teyidi sayılmadı. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "wasf_rotba",
+          "expected_arabic": "ثقة متقن من أثبت الناس في الموطأ",
+          "text": "Sika (güvenilir); mutkin (rivayetinde sağlam); Muvatta rivayetinde insanların en sağlamlarındandır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tezde sika/mutkin, makalede Muvatta sağlamlığı birlikte destek sağlar. Kaynağın ravi değerlendirmesi, yeni hadis hükmü değildir."
+            },
+            "durmus": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Tezde sika/mutkin, makalede Muvatta sağlamlığı birlikte destek sağlar. Kaynağın ravi değerlendirmesi, yeni hadis hükmü değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tezde sika/mutkin, makalede Muvatta sağlamlığı birlikte destek sağlar. Kaynağın ravi değerlendirmesi, yeni hadis hükmü değildir. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "baladekama",
+          "expected_arabic": "دمشق ، مصر",
+          "text": "Dımaşk; Mısır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "not_independently_confirmed",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dımaşk köken bilgisi ve Mısır hayat/ölüm bağlamı, iki şehirdeki bütün ikamet sürelerinin bağımsız teyidi sayılmadı."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Dımaşk köken bilgisi ve Mısır hayat/ölüm bağlamı, iki şehirdeki bütün ikamet sürelerinin bağımsız teyidi sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Dımaşk köken bilgisi ve Mısır hayat/ölüm bağlamı, iki şehirdeki bütün ikamet sürelerinin bağımsız teyidi sayılmadı. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        },
+        {
+          "field": "baladwafa",
+          "expected_arabic": "مصر",
+          "text": "Mısır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "review_scope": "arabic_field_translation",
+          "person_fact_support": "turkish_source_support_found",
+          "source_support": {
+            "uluman": {
+              "support_scope": "supports_full_field",
+              "evidence_note": "Tez ölüm yerini açık verir; ikamet/defin otomatik eşitlenmedi."
+            },
+            "durmus": {
+              "support_scope": "identity_only",
+              "evidence_note": "Tez ölüm yerini açık verir; ikamet/defin otomatik eşitlenmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "source_support_found"
+          },
+          "rationale": "Tez ölüm yerini açık verir; ikamet/defin otomatik eşitlenmedi. Tam Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, tarihsel tasdik veya uzman onayı değildir. Okunan bölümde bulunamayan ayrıntılar bütün Türkçe literatürde yok sayılmaz."
+        }
+      ]
+    }
+  ]
+}

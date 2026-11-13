@@ -1,0 +1,529 @@
+{
+  "reviewed_on": "2026-11-03",
+  "language": "tr",
+  "source_artifact_sha256": "771396f3ef41ca0f35a0e17dceede2e514e013eebe9b6903cce56d44de8a5bae",
+  "sources": {
+    "tdv": {
+      "url": "https://islamansiklopedisi.org.tr/ibnul-mutemir",
+      "title": "Salih Karacabey — İbnü’l-Mu‘temir, TDV 21 (2000), 143",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Kısa ad/künye/Sülemî-Kûfî/Kûfe/death132; güçlü hafıza, sika, karıştırmama, tedlîs yapmama, güvenilir hocalara titizlik ve zühd bağlamı. Uzun on parçalı soy, Attâb’lı tam alternatif ve iki akrabalık aynı dizilerle verilmez. Şiîlik meyli tarihsel ve aşırılık dışı anlatılır. Yaşlılıkta unutma anlatısı,751meşâyih şartının birebir Türkçesi değildir; bütün16özel münekkit atfı nakledilmiş sayılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "mizzi": {
+      "url": "https://www.islamweb.net/ar/library/content/1001/7460/منصور-بن-المعتمر-بن-عبد-الله-بن-ربيعة-السلمي-أبو-عتاب-الكوفي",
+      "title": "Mizzî — Tehzîbü’l-Kemâl, Mansûr b. Mu‘temir, 28/546–555, nr. 6201",
+      "locator": "Tam harekesiz dijital kişi girişi/hoca-talebe listeleri okundu. Üç soy varyantı, Utbe kuzen/Muhammed Ali anne bir kardeş ilişkileri açık. Ahmed’e Zührî’de Mâlik’ten üstünlük iddiası sorulunca meşâyih şartını söyler; yaşlılık cümlesi değildir.1708A‘meş tutumu Süfyân anlatısı;44sözünü Ebû Zür‘a İbrâhim Mûsâ’dan nakleder. Fiziksel baskı/sayfa tasdiki yapılmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "siyar": {
+      "url": "https://www.islamweb.net/ar/library/content/60/890/منصور-بن-المعتمر",
+      "title": "Zehebî — Siyeru a‘lâmi’n-nübelâ, Mansûr b. Mu‘temir, dijital 5/402–409",
+      "locator": "Tam harekesiz dijital kişi girişi okundu. Sayfa etiketleri402–409; TDV kaynakçasındaki402–412ile fiziksel baskı eşitliği tasdik edilmedi. Şiîlik bağlamını sevgi/velâ diye açıklar, aile ve farklı132133ölüm nakilleri ayrıdır. Unutma/pişmanlık anlatısı ile farklı hocalardan rivayet şartı aynı cümle değildir. Bütün şerh/kitaplar veya matbu facsimile okunmuş sayılmaz.",
+      "accessed_on": "2026-11-03"
+    },
+    "ames": {
+      "url": "https://islamansiklopedisi.org.tr/ames",
+      "title": "Mücteba Uğur — A‘meş, TDV 3 (1991), 54",
+      "locator": "Tam kısa madde, kaynakça ve matbu künye okundu. Süleymân b.Mihrân/A‘meş/Kûfî/148kimliği kısa ad yazımı için karşılaştırıldı. Bu madde başka münekkitlerin bütün Mansûr sözlerini veya yeni hadis/mezhep hükümlerini tasdik etmez; Mansûr’un tedlîs yapmama sözü A‘meş’e taşınmadı.",
+      "accessed_on": "2026-11-03"
+    },
+    "ibrahim": {
+      "url": "https://islamansiklopedisi.org.tr/ebu-zura-er-razi",
+      "title": "M. Yaşar Kandemir — Ebû Zür‘a er-Râzî, TDV 10 (1994), 274–275, hayat/seyahat paragrafı",
+      "locator": "Yalnız hayat/seyahat bölümünde Ebû Zür‘a’nın İbrâhim b.Mûsâ el-Ferrâ’dan hadis yazmasını belirten paragraf ve başlık/matbu künye okundu. Kısa Türkçe ad içindir; bütün makale/İbrâhim’in tam uzun soyu veya bütün225kimliği doğrulanmış sayılmadı. Madde sahibi264ölümlü Ebû Zür‘adır; eskiGK466375Ahmed Hüseyin kaydıyla birleştirilmedi.",
+      "accessed_on": "2026-11-03"
+    }
+  },
+  "review_artifacts": [
+    {
+      "path": "research/turkish-sources/high-frequency-inventory-v2.json",
+      "sha256": "77362f49c69672faf0c050ccf577565a360b4fb9417d4896fd4847670fb1aa71"
+    },
+    {
+      "path": "research/arabic-source-checks/mansur-mutemir-critic-records.json",
+      "sha256": "02553105ddfa5ed0c0d4cf087da1ea6c805b369a3d23d16f98d64887e6c3b696"
+    },
+    {
+      "path": "research/arabic-source-checks/mansur-mutemir-related-records.json",
+      "sha256": "19ff1cd7a9629ac312e992554ccd8d3bb332024b8c04a407fb180e9e25f62eee"
+    }
+  ],
+  "revision": "mansur-mutemir-opinions-tr-v1",
+  "policy": "16tamgörüşün dil karşılaştırması/TR0tam15kısmi1okunan bölümde bulunamadı.751şartıyaşlılıkdiyeçevrilmedi.",
+  "narrators": [
+    {
+      "id": 7673,
+      "expected_opinion_count": 16,
+      "opinions": [
+        {
+          "key": "7673:1011:f9142a799ebe1dcb2ec5e3f2356afdc6a331a0e98a3ee8944264c3190e340093",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "1011",
+            "critic": "أحمد بن علي بن محمد بن محمد بن علي بن أحمد بن محمود بن أحمد بن حجر",
+            "opinion": "قال في التقريب : ثقة ثبت ، وكان لا يدلس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "9341b4def71392533fe9e3129d76b13ae8d4d8dd53c452e69442ebfa320c01d1",
+          "text": "Takrîb’de: Sika, sebttir; tedlîs yapmazdı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitap adı/iki terim/olumsuz tedlîs kaydı korunur. TDV sika, hafıza ve tedlîs yapmama bağlamını verir; bu özel İbn Hacer sözünün tam yayımlanmış Türkçesi değildir. Asıl Takrîb girişi ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kitap adı/iki terim/olumsuz tedlîs kaydı korunur. TDV sika, hafıza ve tedlîs yapmama bağlamını verir; bu özel İbn Hacer sözünün tam yayımlanmış Türkçesi değildir. Asıl Takrîb girişi ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:1268:80294ec52f47217349fa1f19ffd27178b60045c86a10fa38798b2140622df7fb",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "1268",
+            "critic": "محمد بن أحمد بن عثمان بن قايماز بن عبد الله",
+            "opinion": "من أئمة الكوفة ، ومناقبه جمة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "d9e40b11e9685966debf512e3186cffc799797ab77a3f50c1dcae06ed97e059a",
+          "text": "Kûfe’nin imamlarındandır; menkıbeleri pek çoktur.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Her iki parça korunur. TDV Kûfe’deki ün/ilim/zühd bağlamını verir; bu Zehebî özel cümlesinin tam Türkçesi sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Her iki parça korunur. TDV Kûfe’deki ün/ilim/zühd bağlamını verir; bu Zehebî özel cümlesinin tam Türkçesi sayılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:1675:d2c54502fdd7bf99cedaebeb49542319f43b01338b672463b8cc194def6ec687",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "1675",
+            "critic": "سفيان بن سعيد بن مسروق بن حمزة بن حبيب بن موهبة بن نصر بن ثعلبة بن ملكان بن ثور",
+            "opinion": "ما خلفت بعدي بالكوفة آمن علي الحديث منه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ed1c7703b9668a70d3c0e3b00baf540505cbdc5c2087f54ad0c43605a5a0d16e",
+          "text": "Kûfe’de ardımda hadis konusunda ondan daha güvenilir birini bırakmadım.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Süfyân’ın karşılaştırması ve Kûfe/hadis sınırı korunur. Arapça علي burada على edatının yazımıdır; Ali adlı kişiye güven veya ondan hadis rivayeti gibi yeni ilişki yapılmadı. TDV genel güvenilirlik bağlamını verir, bu özel Süfyân sözünü Türkçe nakletmez. Mizzî tam anlatı katmanını verir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Süfyân’ın karşılaştırması ve Kûfe/hadis sınırı korunur. Arapça علي burada على edatının yazımıdır; Ali adlı kişiye güven veya ondan hadis rivayeti gibi yeni ilişki yapılmadı. TDV genel güvenilirlik bağlamını verir, bu özel Süfyân sözünü Türkçe nakletmez. Mizzî tam anlatı katmanını verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Süfyân’ın karşılaştırması ve Kûfe/hadis sınırı korunur. Arapça علي burada على edatının yazımıdır; Ali adlı kişiye güven veya ondan hadis rivayeti gibi yeni ilişki yapılmadı. TDV genel güvenilirlik bağlamını verir, bu özel Süfyân sözünü Türkçe nakletmez. Mizzî tam anlatı katmanını verir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:1708:8bfc6e25aa5015445d5f541dbd7bf86a3ecf1d88be2bb162c1622b7f9c8c1f8b",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "1708",
+            "critic": "سليمان بن مهران",
+            "opinion": "كان يرد حديث الكوفيين إلا حديث منصور",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "fcdd2e58d13d5969eaf987649bf286489683d85208f07af7cf18e9ef03a2a2f2",
+          "text": "Anlatılan tutum: Kûfelilerin hadislerini, Mansûr’un hadisi hariç, reddederdi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "identity_only",
+              "evidence_note": "Bu doğrudan A‘meş’in kendi ağzından aktarılmış cümle değildir; kaynakta onun tutumunun anlatısıdır. Mizzî’de Süfyân, A‘meş’e başka Kûfelilerden naklettiklerini geri çevirdiğini, Mansûr deyince sustuğunu anlatır. Kayıtlı A‘meş kimliği değiştirilmedi; bütün Kûfelilere uygulamanın yeni zayıflık hükmü verilmedi. İncelenen Türkçe Mansûr/A‘meş maddelerinde bu özel anlatı bulunmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Bu doğrudan A‘meş’in kendi ağzından aktarılmış cümle değildir; kaynakta onun tutumunun anlatısıdır. Mizzî’de Süfyân, A‘meş’e başka Kûfelilerden naklettiklerini geri çevirdiğini, Mansûr deyince sustuğunu anlatır. Kayıtlı A‘meş kimliği değiştirilmedi; bütün Kûfelilere uygulamanın yeni zayıflık hükmü verilmedi. İncelenen Türkçe Mansûr/A‘meş maddelerinde bu özel anlatı bulunmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Bu doğrudan A‘meş’in kendi ağzından aktarılmış cümle değildir; kaynakta onun tutumunun anlatısıdır. Mizzî’de Süfyân, A‘meş’e başka Kûfelilerden naklettiklerini geri çevirdiğini, Mansûr deyince sustuğunu anlatır. Kayıtlı A‘meş kimliği değiştirilmedi; bütün Kûfelilere uygulamanın yeni zayıflık hükmü verilmedi. İncelenen Türkçe Mansûr/A‘meş maddelerinde bu özel anlatı bulunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "not_found_in_checked_sources"
+          },
+          "rationale": "Bu doğrudan A‘meş’in kendi ağzından aktarılmış cümle değildir; kaynakta onun tutumunun anlatısıdır. Mizzî’de Süfyân, A‘meş’e başka Kûfelilerden naklettiklerini geri çevirdiğini, Mansûr deyince sustuğunu anlatır. Kayıtlı A‘meş kimliği değiştirilmedi; bütün Kûfelilere uygulamanın yeni zayıflık hükmü verilmedi. İncelenen Türkçe Mansûr/A‘meş maddelerinde bu özel anlatı bulunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:1843:1add13ce206dd4deecbb5dcec3da68ee607990af0827587e177582cce3dd92b1",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "1843",
+            "critic": "عبد الرحمن بن مهدي بن حسان بن عبد الرحمن",
+            "opinion": "لا يختلف في حديثه ، ومرة : لم يكن بالكوفة أحفظ منه",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "ce7dedd4ad0b72b128bfaefde820c1f13f815d3c9a8936b252d700966dc5fd27",
+          "text": "Onun hadisinde ihtilâf olmaz. Başka bir değerlendirmesinde: Kûfe’de ondan daha güçlü hadis hafızası olan biri yoktu.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İki ayrı söz korunur. Mizzî ilkini farklılık olduğunda hatanın aktaranlarda olduğu dört kişi bağlamında, ikincisini ayrı nakleder. TDV genel güçlü hafıza/karıştırmama bağlamını verir; iki özel İbn Mehdî sözünün tam Türkçesi değildir. Her hadise yeni sıhhat hükmü yapılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İki ayrı söz korunur. Mizzî ilkini farklılık olduğunda hatanın aktaranlarda olduğu dört kişi bağlamında, ikincisini ayrı nakleder. TDV genel güçlü hafıza/karıştırmama bağlamını verir; iki özel İbn Mehdî sözünün tam Türkçesi değildir. Her hadise yeni sıhhat hükmü yapılmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İki ayrı söz korunur. Mizzî ilkini farklılık olduğunda hatanın aktaranlarda olduğu dört kişi bağlamında, ikincisini ayrı nakleder. TDV genel güçlü hafıza/karıştırmama bağlamını verir; iki özel İbn Mehdî sözünün tam Türkçesi değildir. Her hadise yeni sıhhat hükmü yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İki ayrı söz korunur. Mizzî ilkini farklılık olduğunda hatanın aktaranlarda olduğu dört kişi bağlamında, ikincisini ayrı nakleder. TDV genel güçlü hafıza/karıştırmama bağlamını verir; iki özel İbn Mehdî sözünün tam Türkçesi değildir. Her hadise yeni sıhhat hükmü yapılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:1892:4b80c90cba43a9b0a0164856d9762cb5254fd94683fcf72e025a24af560d77f4",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "1892",
+            "critic": "عبد الغني بن سعيد بن علي بن سعيد بن بشر بن مروان بن عبد العزيز بن مروان",
+            "opinion": "ذكره في مشتبه النسبة ، وقال : نسبه السلمي",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "0ea61fb16ed33c731ee934560ccb40e8c0a509dada0654dbc898aed57830cd53",
+          "text": "Onu Müştebihü’n-nisbe’de zikretti ve nisbesini Sülemî olarak verdi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitap ve nisbe kaydı birlikte korunur. TDV Sülemî nisbesini destekler; bu kitapta yer almasının veya özel Azdî atfının tam Türkçesi değildir. Asıl Müştebih bu kişi için okunmadı; önceki Ukayl yazması görülmesini Mansûr girişi görülmüş gibi sunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kitap ve nisbe kaydı birlikte korunur. TDV Sülemî nisbesini destekler; bu kitapta yer almasının veya özel Azdî atfının tam Türkçesi değildir. Asıl Müştebih bu kişi için okunmadı; önceki Ukayl yazması görülmesini Mansûr girişi görülmüş gibi sunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:2136:e393353f8fbf1fae6dd00c0d5ba56daf554058e863258d61b741d8175f51f561",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "2136",
+            "critic": "علي بن المديني",
+            "opinion": "ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "418572b5e236783b7e6fae8a77aa3264d8f6bacc0e9e3ca9e2a8090f0ce1a18c",
+          "text": "Sikadır.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "TDV genel sika nitelemesini destekler, Ali b.Medînî’ye özel bu kısa sözün Türkçe nakli değildir. Yeni uygulama derecesi yapılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "TDV genel sika nitelemesini destekler, Ali b.Medînî’ye özel bu kısa sözün Türkçe nakli değildir. Yeni uygulama derecesi yapılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "TDV genel sika nitelemesini destekler, Ali b.Medînî’ye özel bu kısa sözün Türkçe nakli değildir. Yeni uygulama derecesi yapılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:2463:54d869dfc39a4d8150cc9c4a11749e0b1a23f19c87e3b57dad63956586a44bc4",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "2463",
+            "critic": "محمد بن سعد بن منيع",
+            "opinion": "ثقة مأمون كثير الحديث رفيع",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "83fb7ad1655aabe2517e050ce856d11f69392914f4467218a6c960c3f8b6ff7d",
+          "text": "Sikadır; me’mûndur (kendisine güvenilendir); çok hadis rivayet etmiştir; itibarı yüksektir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dört parça korunur; رفيع râvinin itibarıdır, merfû hadis sınıfı değildir. TDV güvenilirlik ve rivayet birikimi bağlamını verir; bu tam İbn Sa‘d atfının Türkçesi değildir. Asıl Tabakāt ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Dört parça korunur; رفيع râvinin itibarıdır, merfû hadis sınıfı değildir. TDV güvenilirlik ve rivayet birikimi bağlamını verir; bu tam İbn Sa‘d atfının Türkçesi değildir. Asıl Tabakāt ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:2804:d08f94fddd15c4050e33b9321ef24a6e95422338cfb602b9c617372debab58cb",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "2804",
+            "critic": "يحيى بن سعيد بن فروخ",
+            "opinion": "ما أحدأثبت في مجاهد منه ، ومرة : كان من أثبت الناس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "6835f6513c3586570de18c1e1989052de8e10a788e9daee148356a3e5bdf8e22",
+          "text": "Mücâhid’den rivayette ondan daha sebt kimse yoktur. Başka bir değerlendirmesinde: İnsanların en sebtlerindendir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Mücâhid’e özel karşılaştırma ve ikinci daha genel söz ayrı korunur. Mizzî ilk nakil/Siyer ikinci nakil bağlamını verir. TDV hafıza/güvenilirlik bağlamını destekler, bütün bu özel Yahyâ Kattân atıflarının tam Türkçesi değildir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Mücâhid’e özel karşılaştırma ve ikinci daha genel söz ayrı korunur. Mizzî ilk nakil/Siyer ikinci nakil bağlamını verir. TDV hafıza/güvenilirlik bağlamını destekler, bütün bu özel Yahyâ Kattân atıflarının tam Türkçesi değildir."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Mücâhid’e özel karşılaştırma ve ikinci daha genel söz ayrı korunur. Mizzî ilk nakil/Siyer ikinci nakil bağlamını verir. TDV hafıza/güvenilirlik bağlamını destekler, bütün bu özel Yahyâ Kattân atıflarının tam Türkçesi değildir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Mücâhid’e özel karşılaştırma ve ikinci daha genel söz ayrı korunur. Mizzî ilk nakil/Siyer ikinci nakil bağlamını verir. TDV hafıza/güvenilirlik bağlamını destekler, bütün bu özel Yahyâ Kattân atıflarının tam Türkçesi değildir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:2821:5b377af043231beda66abb81dad67c44b0d8c2bc468958fea1745cc13d4037b2",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "2821",
+            "critic": "يحيى بن معين بن عون بن زياد بن بسطام بن عبد الرحمن",
+            "opinion": "من أثبت الناس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "f0f3ac23c2d963d85fa4d1b7c1542117d02aacba017cc16670e5bc78a008a12d",
+          "text": "İnsanların en sebtlerindendir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üstünlük nitelemesi korunur. TDV genel güçlü hafıza/güvenilirlik bağlamı bu özel Maîn atfının tam Türkçe nakli sayılmadı. Mizzî ayrı sözü açık verir."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üstünlük nitelemesi korunur. TDV genel güçlü hafıza/güvenilirlik bağlamı bu özel Maîn atfının tam Türkçe nakli sayılmadı. Mizzî ayrı sözü açık verir."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üstünlük nitelemesi korunur. TDV genel güçlü hafıza/güvenilirlik bağlamı bu özel Maîn atfının tam Türkçe nakli sayılmadı. Mizzî ayrı sözü açık verir. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:429:329552a1701f04e88a18ae8d244c8f94cbca0faa4346afa4e6b8cbfd3e717d02",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "429",
+            "critic": "محمد بن إدريس بن المنذر بن داود بن مهران",
+            "opinion": "ثقة ، وهو أتقن من الأعمش لا يخلط ولا يدلس",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "b763e7c858b9dd13b21b0fa4f8a828b13412f5d93f46042545a59071b2914bd1",
+          "text": "Sikadır; A‘meş’ten daha mütkındır (rivayetinde daha titizdir); karıştırmaz ve tedlîs yapmaz.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Dört niteleme/karşılaştırma/iki olumsuzluk korunur. TDV sika/karıştırmama/tedlîs yapmama kısmını destekler; A‘meş karşılaştırmalı tam Ebû Hâtim sözü değildir. Mizzî/Siyer karşılaştırmayı açık verir. Mansûr hakkında söylenen olumsuzluklar A‘meş’in kendisine taşınmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Dört niteleme/karşılaştırma/iki olumsuzluk korunur. TDV sika/karıştırmama/tedlîs yapmama kısmını destekler; A‘meş karşılaştırmalı tam Ebû Hâtim sözü değildir. Mizzî/Siyer karşılaştırmayı açık verir. Mansûr hakkında söylenen olumsuzluklar A‘meş’in kendisine taşınmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Dört niteleme/karşılaştırma/iki olumsuzluk korunur. TDV sika/karıştırmama/tedlîs yapmama kısmını destekler; A‘meş karşılaştırmalı tam Ebû Hâtim sözü değildir. Mizzî/Siyer karşılaştırmayı açık verir. Mansûr hakkında söylenen olumsuzluklar A‘meş’in kendisine taşınmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Dört niteleme/karşılaştırma/iki olumsuzluk korunur. TDV sika/karıştırmama/tedlîs yapmama kısmını destekler; A‘meş karşılaştırmalı tam Ebû Hâtim sözü değildir. Mizzî/Siyer karşılaştırmayı açık verir. Mansûr hakkında söylenen olumsuzluklar A‘meş’in kendisine taşınmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:431:73acfb11c417299fcfb0a0590d05ecd345957b9f5e54496b56e0b0b01f335026",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "431",
+            "critic": "محمد بن حبان بن أحمد بن حبان بن معاذ بن معبد بن مرة بن هدبة بن سعد",
+            "opinion": "ذكره في الثقات ، وقال من العباد ، وكان يتشيع",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "a6d47d6efe5977b5958b78dba51805a10b4c38b8df71473d5130fd1cb289458c",
+          "text": "Onu es-Sikât’ta zikretti ve şöyle dedi: Âbidlerdendi (ibadet ehliydi); teşeyyu‘u vardı.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Kitap/ibadet/teşeyyu‘ ayrı korunur. TDV zühd ve tarihsel Şiîlik meyli bağlamını destekler; kaynakça ilişkisi bu tam İbn Hibbân sözünün Türkçe nakli sayılmadı. Asıl es-Sikât kişi girişi ayrıca okunmadı; güncel mezhep veya yeni hüküm çıkarılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Kitap/ibadet/teşeyyu‘ ayrı korunur. TDV zühd ve tarihsel Şiîlik meyli bağlamını destekler; kaynakça ilişkisi bu tam İbn Hibbân sözünün Türkçe nakli sayılmadı. Asıl es-Sikât kişi girişi ayrıca okunmadı; güncel mezhep veya yeni hüküm çıkarılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:44:70e55596eee5a009c13903ae9f5e806a12ce55eb1d2bdc28ad2aa44772ff2ab1",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "44",
+            "critic": "إبراهيم بن موسى بن يزيد بن زاذان",
+            "opinion": "أثبت أهل الكوفة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "353bf6435fbf041070ff2db3b89cef126ace8c63b8c7e06ebc20f466030be738",
+          "text": "Kûfe halkının en sebtidir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "İbrâhim Mûsâ’ya atfedilen üstünlük cümlesi bütünüyle çevrildi. Mizzî/Siyer Ebû Zür‘a’nın İbrâhim’den naklini ayrı gösterir; GK’de olmayan sonraki Mis‘ar kısmı Türkçeye eklenmedi. TDV genel Kûfe/hafıza bağlamı bu özel atfın tam Türkçesi sayılmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İbrâhim Mûsâ’ya atfedilen üstünlük cümlesi bütünüyle çevrildi. Mizzî/Siyer Ebû Zür‘a’nın İbrâhim’den naklini ayrı gösterir; GK’de olmayan sonraki Mis‘ar kısmı Türkçeye eklenmedi. TDV genel Kûfe/hafıza bağlamı bu özel atfın tam Türkçesi sayılmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "İbrâhim Mûsâ’ya atfedilen üstünlük cümlesi bütünüyle çevrildi. Mizzî/Siyer Ebû Zür‘a’nın İbrâhim’den naklini ayrı gösterir; GK’de olmayan sonraki Mis‘ar kısmı Türkçeye eklenmedi. TDV genel Kûfe/hafıza bağlamı bu özel atfın tam Türkçesi sayılmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "İbrâhim Mûsâ’ya atfedilen üstünlük cümlesi bütünüyle çevrildi. Mizzî/Siyer Ebû Zür‘a’nın İbrâhim’den naklini ayrı gösterir; GK’de olmayan sonraki Mis‘ar kısmı Türkçeye eklenmedi. TDV genel Kûfe/hafıza bağlamı bu özel atfın tam Türkçesi sayılmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:459:092b7613d23a5d631afbb0c3e882c6f56bd32c1995b33b2e2bf07569ff495ac3",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "459",
+            "critic": "سليمان بن الأشعث بن إسحاق بن بشير بن شداد بن عمرو بن عمران",
+            "opinion": "لا يروى إلا عن ثقة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "5ec1dff35110245268e99b987d8351f4aab7000ea9954aa94e0145ace0df5944",
+          "text": "Yalnız sika râvilerden rivayet eder.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Yalnız şartı korunur. TDV güvenilir hocalardan hadis almada titizliğini destekler; bu özel Ebû Dâvûd sözünün tam Türkçe nakli değildir. Mizzî’nin Cehm sorusu bağlamı görüldü; bütün senedlere yeni bağlantı/sıhhat hükmü veya yeni hoca kenarı oluşturulmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Yalnız şartı korunur. TDV güvenilir hocalardan hadis almada titizliğini destekler; bu özel Ebû Dâvûd sözünün tam Türkçe nakli değildir. Mizzî’nin Cehm sorusu bağlamı görüldü; bütün senedlere yeni bağlantı/sıhhat hükmü veya yeni hoca kenarı oluşturulmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Yalnız şartı korunur. TDV güvenilir hocalardan hadis almada titizliğini destekler; bu özel Ebû Dâvûd sözünün tam Türkçe nakli değildir. Mizzî’nin Cehm sorusu bağlamı görüldü; bütün senedlere yeni bağlantı/sıhhat hükmü veya yeni hoca kenarı oluşturulmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:751:f036eacdf5e30de96f66a767e633344ff21d8ac94e6f3ecf19b254a8d7fd50ce",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "751",
+            "critic": "أحمد بن محمد بن حنبل بن هلال بن أسد بن إدريس بن عبد الله بن حيان بن عبد الله بن أنس",
+            "opinion": "أثبت من إسماعيل بن أبي خالد ، ومرة : إذا نزل الي المشائخ اضطرب",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "faca93aaf80d151f953199ddc0da8323dfb59eaab7204772688d895a6c1978fb",
+          "text": "İsmâil b. Ebû Hâlid’den daha sebttir. Başka bir değerlendirmesinde: Meşâyihten rivayete indiğinde ıztıraba düşerdi.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Olumlu karşılaştırma ve şartlı olumsuzluk birlikte korunur. Mizzî’de Sâlih’in Ahmed’e Zührî rivayetlerinde Mâlik’ten üstünlük iddiasını sorması bu meşâyih cümlesinin bağlamıdır. TDV’deki ayrı yaşlılık/unutma anlatısı bunun yerine geçirilmedi; yaşlanınca diye çevrilmedi. TDV genel titizlik/hafıza desteği özel iki parçalı Ahmed sözünün tam Türkçesi değildir. Ham kaynak e5telat0bu koşullu sözü silmek için değiştirilmedi."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Olumlu karşılaştırma ve şartlı olumsuzluk birlikte korunur. Mizzî’de Sâlih’in Ahmed’e Zührî rivayetlerinde Mâlik’ten üstünlük iddiasını sorması bu meşâyih cümlesinin bağlamıdır. TDV’deki ayrı yaşlılık/unutma anlatısı bunun yerine geçirilmedi; yaşlanınca diye çevrilmedi. TDV genel titizlik/hafıza desteği özel iki parçalı Ahmed sözünün tam Türkçesi değildir. Ham kaynak e5telat0bu koşullu sözü silmek için değiştirilmedi."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Olumlu karşılaştırma ve şartlı olumsuzluk birlikte korunur. Mizzî’de Sâlih’in Ahmed’e Zührî rivayetlerinde Mâlik’ten üstünlük iddiasını sorması bu meşâyih cümlesinin bağlamıdır. TDV’deki ayrı yaşlılık/unutma anlatısı bunun yerine geçirilmedi; yaşlanınca diye çevrilmedi. TDV genel titizlik/hafıza desteği özel iki parçalı Ahmed sözünün tam Türkçesi değildir. Ham kaynak e5telat0bu koşullu sözü silmek için değiştirilmedi. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        },
+        {
+          "key": "7673:779:6e624eddad9530742ce9ea79cbc2a30421477ead82ee89fc1b8260166a29c89b",
+          "expected_source": {
+            "narrator_id": 7673,
+            "alem_id": "779",
+            "critic": "أحمد بن عبد الله بن صالح بن مسلم",
+            "opinion": "ثقة ، ثبت في الحديث ، كان أثبت أهل الكوفة",
+            "source_occurrences": 2
+          },
+          "expected_record_sha256": "15c07aacbd9853da64d693244316b08ab477382a1cf097d9dff9a15cae063e17",
+          "text": "Sikadır; hadiste sebttir; Kûfe halkının en sebtidir.",
+          "rendering_kind": "translation",
+          "status": "source_compared",
+          "source_support": {
+            "tdv": {
+              "support_scope": "supports_part_of_field",
+              "evidence_note": "Üç parça ve Kûfe karşılaştırması korunur. TDV genel güçlü hafıza/güvenilirlik/Kûfe bağlamını destekler; bu özel İclî üçlü atfının tam Türkçesi değildir. Mizzî/Siyer atfı açık verir; asıl İclî kişi girişi ayrıca okunmadı."
+            },
+            "mizzi": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üç parça ve Kûfe karşılaştırması korunur. TDV genel güçlü hafıza/güvenilirlik/Kûfe bağlamını destekler; bu özel İclî üçlü atfının tam Türkçesi değildir. Mizzî/Siyer atfı açık verir; asıl İclî kişi girişi ayrıca okunmadı."
+            },
+            "siyar": {
+              "support_scope": "arabic_source_comparison",
+              "evidence_note": "Üç parça ve Kûfe karşılaştırması korunur. TDV genel güçlü hafıza/güvenilirlik/Kûfe bağlamını destekler; bu özel İclî üçlü atfının tam Türkçesi değildir. Mizzî/Siyer atfı açık verir; asıl İclî kişi girişi ayrıca okunmadı."
+            }
+          },
+          "translation_provenance": {
+            "translation_origin": "assistant_reviewed_translation",
+            "turkish_availability": "partial_support"
+          },
+          "rationale": "Üç parça ve Kûfe karşılaştırması korunur. TDV genel güçlü hafıza/güvenilirlik/Kûfe bağlamını destekler; bu özel İclî üçlü atfının tam Türkçesi değildir. Mizzî/Siyer atfı açık verir; asıl İclî kişi girişi ayrıca okunmadı. Tam GK Arapça kayıt okundu. Asistan dil aktarımıdır; birebir Türkçe kitap alıntısı, bütün tarihsel atıf/kişi kimliği veya uzman onayı değildir. İncelenen bölümde bulunamadı bütün literatürde yok anlamına gelmez."
+        }
+      ]
+    }
+  ]
+}

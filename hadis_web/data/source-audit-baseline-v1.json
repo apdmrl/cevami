@@ -1,0 +1,56 @@
+{
+  "provenance": {
+    "revision": "source-audit-baseline-v1",
+    "backup_id": "c50b536866434152a2018a69d477252e",
+    "backup_created_utc": "2026-11-12T11:12:27.165909+00:00",
+    "backup_manifest_sha256": "fd2bfe5fe49f81b99ec2d3a41176adbf11b3a25e25dfff85d8ca6f3d81f8ad42",
+    "working_counts_origin": "pre-audit verified backup manifest database.tables",
+    "search_counts_origin": "docs/15-kullanim-ve-kaynak-denetimi.md and pre-existing index inventory",
+    "snapshot_ids_origin": "registered pinned GK/Fawaz/HadeethEnc manifests and both archived controlled-vocabulary revisions"
+  },
+  "working_minimum": {
+    "alignment_cases": 17766,
+    "alignment_members": 53298,
+    "alignment_revisions": 17766,
+    "comparison_evidence": 17766,
+    "hadith_component_sets": 51,
+    "localization_claims": 1980,
+    "narrator_records": 1634,
+    "review_events": 15,
+    "sanad_members": 54456,
+    "sanad_records": 8795,
+    "source_snapshots": 19,
+    "text_segments": 0,
+    "text_units": 105554,
+    "text_versions": 105554
+  },
+  "required_snapshot_ids": [
+    "1926cf4b-34b6-5be4-b254-98ff7f0ec084",
+    "1e92e79a-8dda-5cf7-b5f7-cf6d1800f849",
+    "21a6c76a-338a-5ccf-9d48-3dcd4556ccb5",
+    "3a475521-8494-5c7f-8f89-6b4997c06503",
+    "44d5e772-3b82-585c-a43e-0f0b0aa28a33",
+    "55e84f73-99de-5d33-8012-d2bf175b1c39",
+    "5d02afa0-615a-5cde-b39d-7a9d3eb89c8a",
+    "85a2bb02-ba83-55bd-89a9-a6f2c3296a8d",
+    "9548a824-797e-5460-86c3-eb888af1d284",
+    "a02b2e89-c36e-533b-a706-a50d3dcdb347",
+    "a452c6e7-2982-558d-a6c5-19141530794a",
+    "a874a86e-2fac-591b-af12-68e72fe95ac8",
+    "b7220f72-340b-5ee2-82cd-ec6c82702a8e",
+    "c41a7609-80f5-5b54-a96d-96a31a236c30",
+    "cdd40e97-2c0f-534b-8d09-adcd81a5d190",
+    "d5f58bc2-2ce4-5fa8-8207-d8d030b9eb70",
+    "ebf67bb7-abca-51a6-969c-19dd068148d2",
+    "ef2cc1c7-ec8a-5caf-b9b7-a2364c877faa",
+    "f99323aa-39f0-5ba7-a452-3e224dfd62d5"
+  ],
+  "search_minimum": {
+    "documents": 39420,
+    "targets": 21775,
+    "languages": {
+      "tr": 17424,
+      "en": 21996
+    }
+  }
+}
